@@ -1,0 +1,14 @@
+08/19/2010
+The vahsfbscores repository contains high school football scores from the state of Virginia.  I have partial scores dating back to 1979 and complete scores dating back to 2000.  Almost all the scores involve public high schools while a few seasons, I have scores for private schools as well.  I will add those scores when possible.
+
+The scores will be in pipe-delimited format.  I chose this over comma-delimited format because I list out of state high schools by their school name followed by a comma and their state.
+
+Here is the format of the data:
+
+date of game|team1|team1 score|team2|team2 score|other codes
+
+For example:
+
+09/07/1979|Kempsville|14|Bayside|8|P
+
+I haven't decided on the codes yet, but I'm thinking they will contain codes for whether it is a playoff game, championship game, forfeit, etc.
