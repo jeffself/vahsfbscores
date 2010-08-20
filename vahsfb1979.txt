@@ -55,3 +55,37 @@
 10/05/1979|Maury|24|Norfolk Catholic|21
 10/05/1979|Woodrow Wilson|35|Norcom|0
 10/05/1979|Hampton|20|Norview|6
+10/12/1979|Booker T. Washington|14|Bayside|7
+10/12/1979|Churchland|40|Cradock|8
+10/12/1979|First Colonial|27|Cox|8
+10/12/1979|Great Bridge|17|Deep Creek|0
+10/12/1979|Lake Taylor|9|Granby|7
+10/12/1979|Green Run|14|Kellam|6
+10/12/1979|Woodrow Wilson|17|Indian River|0
+10/12/1979|Maury|14|Kempsville|13
+10/12/1979|Manor|14|Norcom|6
+10/12/1979|Norfolk Academy|22|Norfolk Catholic|12
+10/12/1979|Norview|21|Princess Anne|14
+10/12/1979|Oscar Smith|3|Western Branch|0
+10/19/1979|Maury|38|Bayside|8
+10/19/1979|Booker T. Washington|18|First Colonial|6
+10/19/1979|Norcom|15|Churchland|14
+10/19/1979|Kempsville|28|Cox|6
+10/19/1979|Great Bridge|31|Cradock|7
+10/19/1979|Woodrow Wilson|7|Deep Creek|0
+10/19/1979|Hermitage|19|Granby|6
+10/19/1979|Indian River|20|Western Branch|17
+10/19/1979|Princess Anne|31|Kellam|6
+10/19/1979|Norview|7|Lake Taylor|6
+10/19/1979|Oscar Smith|13|Manor|6
+10/26/1979|Lake Taylor|18|Bayside|8
+10/26/1979|Booker T. Washington|14|Maury|6
+10/26/1979|Indian River|0|Churchland|0
+10/26/1979|Cox|14|Kellam|0
+10/26/1979|Manor|38|Cradock|7
+10/26/1979|Deep Creek|13|Norcom|7
+10/26/1979|First Colonial|14|Green Run|7
+10/26/1979|Norview|24|Granby|7
+10/26/1979|Great Bridge|21|Western Branch|14
+10/26/1979|Princess Anne|20|Kempsville|16
+10/26/1979|Oscar Smith|0|Woodrow Wilson|0
