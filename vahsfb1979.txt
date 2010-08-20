@@ -1,0 +1,57 @@
+09/07/1979|Kempsville|14|Bayside|8
+09/07/1979|Lake Taylor|23|Booker T. Washington|0
+09/07/1979|Churchland|15|Oscar Smith|0
+09/07/1979|Cox|6|Princess Anne|6
+09/07/1979|Deep Creek|31|Cradock|0
+09/07/1979|First Colonial|19|Kellam|12
+09/07/1979|Granby|6|Ferguson|0
+09/07/1979|Great Bridge|34|Manor|0
+09/07/1979|Green Run|7|Norfolk Academy|0
+09/07/1979|Indian River|12|Norcom|0
+09/07/1979|Norview|8|Maury|6
+09/07/1979|Woodrow Wilson|16|Western Branch|0
+09/14/1979|Frank Cox|21|Bayside|0
+09/14/1979|Norview|17|Booker T. Washington|0
+09/14/1979|Woodrow Wilson|27|Churchland|0
+09/14/1979|Indian River|33|Cradock|0
+09/14/1979|Deep Creek|15|Norfolk Catholic|6
+09/14/1979|First Colonial|20|Granby|6
+09/14/1979|Great Bridge|31|Princess Anne|20
+09/14/1979|Maury|42|Kellam|16
+09/14/1979|Lake Taylor|20|Kempsville|6
+09/14/1979|Western Branch|10|Manor|0
+09/14/1979|Norcom|6|Oscar Smith|0
+09/21/1979|Green Run|7|Bayside|6
+09/21/1979|Booker T. Washington|6|Kempsville|3
+09/21/1979|Western Branch|10|Churchland|6
+09/21/1979|Maury|30|Cox|16
+09/21/1979|Lake Taylor|20|Cradock|6
+09/21/1979|Indian River|6|Deep Creek|0
+09/21/1979|Princess Anne|17|First Colonial|16
+09/21/1979|Granby|26|Norfolk Catholic|0
+09/21/1979|Great Bridge|14|Oscar Smith|0
+09/21/1979|Norview|40|Kellam|12
+09/21/1979|Woodrow Wilson|36|Manor|0
+09/28/1979|First Colonial|24|Bayside|0
+09/28/1979|Booker T. Washington|17|Manor|8
+09/28/1979|Churchland|15|Deep Creek|6
+09/28/1979|Cox|6|Green Run|3
+09/28/1979|Western Branch|42|Cradock|6
+09/28/1979|Granby|17|Warwick|0
+09/28/1979|Great Bridge|20|Norcom|14
+09/28/1979|Indian River|19|Princess Anne|10
+09/28/1979|Kempsville|30|Kellam|0
+09/28/1979|Maury|14|Lake Taylor|6
+09/28/1979|Norview|14|Oscar Smith|0
+10/05/1979|Kellam|19|Bayside|0
+10/05/1979|Granby|26|Booker T. Washington|20
+10/05/1979|Manor|13|Churchland|10
+10/05/1979|Cox|14|Lake Taylor|6
+10/05/1979|Oscar Smith|16|Cradock|0
+10/05/1979|Western Branch|24|Deep Creek|6
+10/05/1979|First Colonial|27|Kempsville|20
+10/05/1979|Great Bridge|13|Indian River|13
+10/05/1979|Princess Anne|22|Green Run|6
+10/05/1979|Maury|24|Norfolk Catholic|21
+10/05/1979|Woodrow Wilson|35|Norcom|0
+10/05/1979|Hampton|20|Norview|6
