@@ -89,3 +89,71 @@
 10/26/1979|Great Bridge|21|Western Branch|14
 10/26/1979|Princess Anne|20|Kempsville|16
 10/26/1979|Oscar Smith|0|Woodrow Wilson|0
+11/02/1979|Norview|35|Bayside|20
+11/02/1979|Cox|20|Booker T. Washington|0
+11/02/1979|Great Bridge|23|Churchland|0
+11/02/1979|Woodrow Wilson|38|Cradock|0
+11/02/1979|Deep Creek|13|Oscar Smith|7
+11/02/1979|First Colonial|41|Maury|6
+11/02/1979|Granby|21|Kellam|14
+11/02/1979|Kempsville|15|Green Run|0
+11/02/1979|Indian River|21|Manor|6
+11/02/1979|Princess Anne|10|Lake Taylor|6
+11/02/1979|Western Branch|13|Norcom|6
+11/09/1979|Princess Anne|41|Bayside|29
+11/09/1979|Booker T. Washington|20|Kellam|0
+11/09/1979|Churchland|37|Warwick|6
+11/09/1979|Cox|28|Western Branch|6
+11/09/1979|Norcom|43|Cradock|6
+11/09/1979|Deep Creek|25|Manor|6
+11/09/1979|First Colonial|17|Lake Taylor|14
+11/09/1979|Maury|20|Granby|14
+11/09/1979|Great Bridge|12|Woodrow Wilson|7
+11/09/1979|Green Run|38|Norfolk Catholic|0
+11/09/1979|Indian River|27|Oscar Smith|7
+11/09/1979|Kempsville|9|Norview|6
+11/09/1979|Bethel|19|Hampton|6
+11/16/1979|Princess Anne|21|Great Bridge|7|p1
+11/16/1979|Norview|20|Hampton|19|p1
+11/16/1979|Jefferson/Huguenot/Wythe|3|Marshall/Walker|0|p1
+11/16/1979|Petersburg|14|Highland Springs|7|p1
+11/16/1979|Robinson|17|Oakton|0|p1
+11/16/1979|Mount Vernon|20|Annandale|17|p1
+11/16/1979|Patrick Henry(R)|13|Stonewall Jackson(M)|0|p1
+11/16/1979|Pulaski County|7|George Washington|0|p1
+11/16/1979|Southampton|38|L.C. Bird|6|p1
+11/16/1979|York|14|Matoaca|0|p1
+11/16/1979|Western Albemarle|21|James Monroe|20|p1
+11/16/1979|Handley|35|Orange|11|p1
+11/16/1979|Jefferson Forest|21|Alleghany|0|p1
+11/16/1979|Bassett|21|Amherst County|14|p1
+11/16/1979|Narrows|48|Gate City|0|p1
+11/16/1979|Abingdon|21|Blacksburg|6|p1
+11/16/1979|Washington & Lee|21|King William|17|p1
+11/16/1979|New Kent|13|Onancock|9|p1
+11/16/1979|Powhatan|40|Madison County|22|p1
+11/16/1979|Central|32|Montevideo|13|p1
+11/16/1979|Parry McCluer|55|Stuarts Draft|8|p1
+11/16/1979|Honaker|32|Auburn|0|p1
+11/16/1979|Haysi|7|Rye Cove|6
+11/23/1979|Princess Anne|28|Norview|7|p2
+11/23/1979|Petersburg|14|Jefferson/Huguenot/Wythe|7|p2
+11/23/1979|Mount Vernon|17|Robinson|7|p2
+11/23/1979|Patrick Henry(R)|13|Pulaski County|7|p2
+11/23/1979|Southampton|34|York|0|p2
+11/23/1979|Western Albemarle|40|Handley|6|p2
+11/23/1979|Jefferson Forest|24|Bassett|8|p2
+11/23/1979|Abingdon|21|Narrows|0|p2
+11/23/1979|Washington & Lee|32|New Kent|11|p2
+11/23/1979|Central|24|Powhatan|21|p2
+11/23/1979|Parry McCluer|41|Honaker|0|p2
+11/23/1979|Clintwood|28|Haysi|7|p2
+12/01/1979|Petersburg|18|Princess Anne|14|p3
+12/01/1979|Patrick Henry(R)|13|Mount Vernon|10|p3
+12/01/1979|Southampton|21|Western Albemarle|8|p3
+12/01/1979|Jefferson Forest|10|Abingdon|7|p3
+12/01/1979|Washington & Lee|35|Central|28|p3
+12/01/1979|Parry McCluer|15|Clintwood|8|p3
+12/08/1979|Petersburg|14|Patrick Henry(R)|6|p4
+12/08/1979|Southampton|14|Jefferson Forest|0|p4
+12/08/1979|Parry McCluer|20|Washington & Lee|6|p4
