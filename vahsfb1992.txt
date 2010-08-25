@@ -1,0 +1,160 @@
+09/04/1992|Bayside|14|Menchville|0
+09/04/1992|Churchland|14|Norview|6
+09/04/1992|Cox|35|Gloucester|20
+09/04/1992|Deep Creek|21|Salem(VB)|6
+09/04/1992|Hampton|28|Woodrow Wilson|12
+09/04/1992|Indian River|12|First Colonial|6
+09/04/1992|Lake Taylor|26|Kempsville|9
+09/04/1992|Manor|20|Granby|6
+09/04/1992|Norcom|26|Booker T. Washington|0
+09/04/1992|Phoebus|40|Princess Anne|12
+09/04/1992|Warwick|12|Maury|6
+09/04/1992|Western Branch|42|Tallwood|0
+09/11/1992|Bayside|47|First Colonial|14
+09/11/1992|Booker T. Washington|32|Oscar Smith|0
+09/11/1992|Cox|36|Granby|8
+09/11/1992|Deep Creek|27|Manor|0
+09/11/1992|Great Bridge|32|Kempsville|21
+09/11/1992|Lake Taylor|21|Princess Anne|0
+09/11/1992|Maury|20|Green Run|14
+09/11/1992|Norcom|46|Churchland|0
+09/11/1992|Norview|35|Kellam|0
+09/11/1992|Oscar Smith|34|Woodrow Wilson|27
+09/18/1992|Bayside|26|Green Run|16
+09/18/1992|Churchland|34|Great Bridge|14
+09/18/1992|First Colonial|36|Kempsville|10
+09/18/1992|Granby|34|Lafayette|14
+09/18/1992|Indian River|26|Maury|6
+09/18/1992|Lake Taylor|14|Booker T. Washington|6
+09/18/1992|Norview|46|Ferguson|18
+09/18/1992|Princess Anne|55|Tallwood|7
+09/18/1992|Salem(VB)|31|Kellam|6
+09/18/1992|Norcom|35|Western Branch|7
+09/25/1992|Denbigh|42|Booker T. Washington|0
+09/25/1992|Great Bridge|39|Manor|26
+09/25/1992|Green Run|24|Norview|8
+09/25/1992|Indian River|55|Woodrow Wilson|12
+09/25/1992|Kellam|8|Cox|0
+09/25/1992|Kempsville|21|Princess Anne|8
+09/25/1992|Lake Taylor|13|Deep Creek|7
+09/25/1992|Maury|21|Bayside|18
+09/25/1992|Norcom|42|Oscar Smith|0
+09/25/1992|Salem(VB)|23|Tallwood|7
+09/25/1992|Western Branch|23|Churchland|19
+10/02/1992|Bayside|35|Princess Anne|7
+10/02/1992|Churchland|7|Deep Creek|6
+10/02/1992|Cox|36|Tallwood|7
+10/02/1992|First Colonial|41|Green Run|6
+10/02/1992|Indian River|39|Manor|0
+10/02/1992|Kecoughtan|34|Booker T. Washington|8
+10/02/1992|Kempsville|15|Salem(VB)|14
+10/02/1992|Lake Taylor|33|Norview|0
+10/02/1992|Maury|25|Kellam|6
+10/02/1992|Norcom|29|Great Bridge|0
+10/02/1992|Oscar Smith|12|Granby|0
+10/02/1992|Western Branch|42|Woodrow Wilson|0
+10/09/1992|Bayside|46|Salem(VB)|7
+10/09/1992|Booker T. Washington|6|Granby|0
+10/09/1992|Churchland|7|Oscar Smith|0
+10/09/1992|Deep Creek|24|Woodrow Wilson|14
+10/09/1992|First Colonial|23|Maury|13
+10/09/1992|Great Bridge|19|Norview|12
+10/09/1992|Green Run|10|Princess Anne|7
+10/09/1992|Kellam|40|Tallwood|6
+10/09/1992|Kempsville|13|Cox|6
+10/09/1992|Norcom|20|Indian River|9
+10/09/1992|Western Branch|48|Manor|12
+10/16/1992|Bayside|21|Cox|12
+10/16/1992|Booker T. Washington|28|Woodrow Wilson|6
+10/16/1992|Deep Creek|22|Indian River|21
+10/16/1992|Granby|27|Tallwood|6
+10/16/1992|Kempsville|21|Kellam|14
+10/16/1992|Lake Taylor|13|Churchland|3
+10/16/1992|Manor|22|Oscar Smith|6
+10/16/1992|Norview|15|Maury|14
+10/16/1992|Princess Anne|17|First Colonial|14
+10/16/1992|Salem(VB)|24|Green Run|19
+10/16/1992|Western Branch|36|Great Bridge|29
+10/23/1992|Bayside|63|Kellam|28
+10/23/1992|Booker T. Washington|18|Maury|14
+10/23/1992|Churchland|31|Woodrow Wilson|19
+10/23/1992|Cox|27|Green Run|16
+10/23/1992|Indian River|26|Great Bridge|21
+10/23/1992|Kempsville|46|Tallwood|3
+10/23/1992|Lake Taylor|21|Western Branch|3
+10/23/1992|Norcom|37|Manor|0
+10/23/1992|Norview|28|Granby|6
+10/23/1992|Oscar Smith|7|Deep Creek|0
+10/23/1992|Salem(VB)|17|First Colonial|12
+10/30/1992|Bayside|48|Tallwood|0
+10/30/1992|Bethel|25|Norview|0
+10/30/1992|First Colonial|28|Cox|7
+10/30/1992|Great Bridge|41|Oscar Smith|14
+10/30/1992|Green Run|28|Kellam|7
+10/30/1992|Indian River|35|Western Branch|14
+10/30/1992|Lake Taylor|32|Granby|0
+10/30/1992|Norcom|10|Deep Creek|7
+10/30/1992|Salem(VB)|13|Princess Anne|7
+10/30/1992|Woodrow Wilson|14|Manor|3
+10/31/1992|Denbigh|24|Phoebus|13
+11/06/1992|Bayside|27|Kempsville|3
+11/06/1992|Brunswick|29|Southampton|0
+11/06/1992|Denbigh|34|Warwick|3
+11/06/1992|Essex|62|Lancaster|6
+11/06/1992|First Colonial|32|Kellam|0
+11/06/1992|Franklin|36|Surry|6
+11/06/1992|Great Bridge|15|Deep Creek|7
+11/06/1992|Green Run|44|Tallwood|9
+11/06/1992|Indian River|38|Churchland|14
+11/06/1992|King & Queen|36|Mathews|20
+11/06/1992|King William|29|West Point|6
+11/06/1992|Lake Taylor|41|Salem(VB)|14
+11/06/1992|Lakeland|21|York|0
+11/06/1992|Manor|34|Booker T. Washington|14
+11/06/1992|Maury|20|Granby|14
+11/06/1992|Middlesex|36|Northumberland|6
+11/06/1992|Nansemond River|14|Poquoson|9
+11/06/1992|Norcom|34|Woodrow Wilson|0
+11/06/1992|Nottoway|13|Tabb|7
+11/06/1992|Phoebus|21|Bethel|20
+11/06/1992|Princess Anne|21|Cox|0
+11/06/1992|Smithfield|47|Bruton|0
+11/06/1992|Sussex Central|56|New Kent|15
+11/06/1992|Western Branch|33|Oscar Smith|0
+11/06/1992|Windsor|48|Charles City|0
+11/07/1992|Hampton|55|Ferguson|0
+11/13/1992|Cox|35|Salem(VB)|7
+11/13/1992|First Colonial|41|Tallwood|0
+11/13/1992|Great Bridge|45|Woodrow Wilson|14
+11/13/1992|Indian River|27|Oscar Smith|0
+11/13/1992|Kecoughtan|32|Gloucester|6
+11/13/1992|Kempsville|29|Green Run|27
+11/13/1992|Lake Taylor|16|Maury|6
+11/13/1992|Manor|10|Churchland|7
+11/13/1992|Nansemond River|39|Lakeland|0
+11/13/1992|Norcom|48|Granby|0
+11/13/1992|Norview|21|Booker T. Washington|14
+11/13/1992|Phoebus|42|Lafayette|7
+11/13/1992|Princess Anne|45|Kellam|6
+11/13/1992|Smithfield|33|Southampton|7
+11/13/1992|Western Branch|10|Deep Creek|0
+11/13/1992|York|14|Bruton|6
+11/14/1992|Bethel|30|Hampton|10
+11/14/1992|Denbigh|14|Menchville|3
+11/20/1992|Bayside|36|Great Bridge|10
+11/20/1992|Bethel|25|Lake Taylor|7
+11/20/1992|Indian River|20|Denbigh|16
+11/20/1992|Nansemond River|19|Brunswick|16
+11/20/1992|Norcom|17|Hampton|14
+11/20/1992|Rappahannock|7|Middlesex|0
+11/20/1992|Sussex Central|30|New Kent|0
+11/20/1992|Tabb|38|York|6
+11/21/1992|King & Queen|22|Windsor|12
+11/28/1992|Bayside|21|Indian River|14
+11/28/1992|Bethel|18|Norcom|17
+11/28/1992|Rappahannock|20|King & Queen|16
+11/28/1992|Sussex Central|42|Washington & Lee|0
+11/28/1992|Tabb|3|Nansemond River|0
+12/05/1992|Bethel|22|Huguenot|16
+12/05/1992|Thomas Dale|42|Bayside|20
+12/12/1992|Bethel|27|E.C. Glass|0
