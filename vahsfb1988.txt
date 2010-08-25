@@ -1,0 +1,125 @@
+08/26/1988|Granby|33|Princess Anne|7
+09/02/1988|Deep Creek|41|Cradock|35
+09/02/1988|First Colonial|24|Kellam|7
+09/02/1988|Cox|41|Princess Anne|35
+09/02/1988|Great Bridge|22|Manor|10
+09/02/1988|Indian River|29|Norcom|13
+09/02/1988|Kempsville|2|Bayside|0
+09/02/1988|Maury|7|Green Run|6
+09/02/1988|Norview|34|Bethel|7
+09/02/1988|Oscar Smith|18|Churchland|0
+09/02/1988|Woodrow Wilson|12|Western Branch|9
+09/09/1988|Bayside|34|Cox|7
+09/09/1988|First Colonial|37|Granby|6
+09/09/1988|Green Run|14|Deep Creek|7
+09/09/1988|Indian River|28|Cradock|8
+09/09/1988|Kempsville|14|Great Bridge|0
+09/09/1988|Lake Taylor|9|Kellam|0
+09/09/1988|Maury|26|Warwick|12
+09/09/1988|Norcom|13|Oscar Smith|0
+09/09/1988|Norview|19|Booker T. Washington|0
+09/09/1988|Western Branch|11|Manor|0
+09/09/1988|Woodrow Wilson|42|Churchland|7
+09/16/1988|Bayside|19|Green Run|18
+09/16/1988|First Colonial|54|Princess Anne|7
+09/16/1988|Granby|20|Bruton|0
+09/16/1988|Great Bridge|16|Oscar Smith|12
+09/16/1988|Indian River|15|Deep Creek|10
+09/16/1988|Kempsville|34|Lake Taylor|15
+09/16/1988|Maury|14|Cox|7
+09/16/1988|Nansemond-Suffok|14|Cradock|7
+09/16/1988|Norcom|39|Booker T. Washington|6
+09/16/1988|Norview|14|Kellam|0
+09/16/1988|Western Branch|41|Churchland|0
+09/16/1988|Woodrow Wilson|20|Manor|6
+09/23/1988|Booker T. Washington|7|Manor|6
+09/23/1988|Deep Creek|14|Churchland|8
+09/23/1988|First Colonial|23|Bayside|20
+09/23/1988|Granby|21|Oscar Smith|20
+09/23/1988|Great Bridge|10|Norcom|0
+09/23/1988|Green Run|27|Cox|0
+09/23/1988|Indian River|35|Princess Anne|22
+09/23/1988|Kecoughtan|6|Norview|3
+09/23/1988|Kempsville|10|Kellam|2
+09/23/1988|Western Branch|12|Cradock|7
+09/23/1988|Lake Taylor|13|Maury|7
+09/23/1988|Phoebus|39|Woodrow Wilson|8
+09/30/1988|Bayside|27|Kellam|14
+09/30/1988|Deep Creek|14|Western Branch|12
+09/30/1988|First Colonial|38|Kempsville|13
+09/30/1988|Granby|32|Booker T. Washington|18
+09/30/1988|Great Bridge|6|Indian River|3
+09/30/1988|Green Run|34|Princess Anne|0
+09/30/1988|Lake Taylor|28|Cox|6
+09/30/1988|Manor|17|Churchland|0
+09/30/1988|Norcom|21|Woodrow Wilson|6
+09/30/1988|Norview|13|Maury|0
+09/30/1988|Cradock|7|Oscar Smith|2
+10/07/1988|Booker T. Washington|8|Bayside|6
+10/07/1988|Norview|41|Princess Anne|6
+10/07/1988|Oscar Smith|9|Western Branch|6
+10/07/1988|Deep Creek|18|Great Bridge|8
+10/07/1988|Cradock|16|Churchland|6
+10/07/1988|First Colonial|35|Cox|12
+10/07/1988|Lake Taylor|22|Granby|14
+10/07/1988|Green Run|48|Kellam|0
+10/07/1988|Norcom|13|Manor|0
+10/07/1988|Kecoughtan|31|Maury|6
+10/07/1988|Woodrow Wilson|21|Indian River|14
+10/14/1988|Bayside|34|Maury|33
+10/14/1988|Menchville|7|Booker T. Washington|0
+10/14/1988|Norcom|40|Churchland|0
+10/14/1988|Great Bridge|7|Cradock|6
+10/14/1988|Woodrow Wilson|49|Deep Creek|0
+10/14/1988|Green Run|21|Granby|0
+10/14/1988|Kellam|46|Princess Anne|36
+10/14/1988|Cox|27|Kempsville|8
+10/14/1988|Indian River|22|Western Branch|19
+10/14/1988|Norview|22|Lake Taylor|0
+10/14/1988|Oscar Smith|14|Manor|0
+10/21/1988|Bayside|28|Lake Taylor|13
+10/21/1988|Maury|7|Booker T. Washington|6
+10/21/1988|Indian River|62|Churchland|10
+10/21/1988|Cradock|20|Manor|14
+10/21/1988|Deep Creek|33|Norcom|32
+10/21/1988|First Colonial|35|Green Run|14
+10/21/1988|Kellam|27|Cox|20
+10/21/1988|Norview|32|Granby|2
+10/21/1988|Great Bridge|20|Western Branch|18
+10/21/1988|Kempsville|29|Princess Anne|19
+10/21/1988|Oscar Smith|8|Woodrow Wilson|0
+10/28/1988|Norview|24|Bayside|22
+10/28/1988|Franklin County|12|Booker T. Washington|6
+10/28/1988|Great Bridge|28|Churchland|0
+10/28/1988|Cradock|21|Woodrow Wilson|14
+10/28/1988|Deep Creek|17|Oscar Smith|2
+10/28/1988|First Colonial|24|Maury|15
+10/28/1988|Kempsville|31|Green Run|28
+10/28/1988|Granby|15|Cox|14
+10/28/1988|Manor|20|Indian River|17
+10/28/1988|Menchville|14|Kellam|10
+10/28/1988|Lake Taylor|10|Princess Anne|6
+10/28/1988|Norcom|21|Western Branch|0
+11/04/1988|Bayside|56|Princess Anne|27
+11/04/1988|Kellam|26|Booker T. Washington|14
+11/04/1988|Norcom|28|Cradock|0
+11/04/1988|Deep Creek|20|Manor|15
+11/04/1988|First Colonial|44|Lake Taylor|7
+11/04/1988|Green Run|14|Norview|13
+11/04/1988|Maury|14|Granby|0
+11/04/1988|Phoebus|27|Cox|19
+11/04/1988|Woodrow Wilson|20|Great Bridge|16
+11/04/1988|Oscar Smith|22|Indian River|18
+11/04/1988|Kempsville|42|Western Branch|6
+11/11/1988|Woodrow Wilson|18|Deep Creek|10
+11/11/1988|First Colonial|20|Kempsville|19
+11/11/1988|Norcom|20|Phoebus|14
+11/11/1988|Hampton|20|Norview|7
+11/18/1988|Hampton|37|First Colonial|2
+11/18/1988|Norcom|23|Woodrow Wilson|22
+11/19/1988|Central(L)|40|Sussex Central|34
+11/19/1988|York|32|Tabb|24
+11/26/1988|E.C. Glass|34|Norcom|0
+11/26/1988|Park View(St)|14|York|7
+11/26/1988|Hampton|46|Fauquier|0
+12/03/1988|Hampton|21|Robinson|18
