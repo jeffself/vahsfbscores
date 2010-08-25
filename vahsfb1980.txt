@@ -1,0 +1,118 @@
+09/05/1980|Bayside|20|Kempsville|7
+09/05/1980|Booker T. Washington|14|Lake Taylor|12
+09/05/1980|Oscar Smith|7|Churchland|6
+09/05/1980|Princess Anne|9|Cox|0
+09/05/1980|Deep Creek|28|Cradock|6
+09/05/1980|First Colonial|61|Kellam|6
+09/05/1980|Lafayette|17|Granby|0
+09/05/1980|Great Bridge|33|Manor|6
+09/05/1980|Green Run|24|Marshall-Walker|6
+09/05/1980|Indian River|0|Norcom|0
+09/05/1980|Norview|13|Maury|0
+09/05/1980|Woodrow Wilson|7|Western Branch|0
+09/12/1980|Cox|21|Bayside|15
+09/12/1980|Booker T. Washington|12|Norview|7
+09/12/1980|Woodrow Wilson|31|Churchland|0
+09/12/1980|Indian River|30|Cradock|7
+09/12/1980|Deep Creek|25|Green Run|6
+09/12/1980|First Colonial|41|Granby|14
+09/12/1980|Princess Anne|10|Great Bridge|7
+09/12/1980|Kellam|20|Maury|0
+09/12/1980|Kempsville|28|Lake Taylor|7
+09/12/1980|Western Branch|28|Manor|0
+09/12/1980|Norcom|54|Oscar Smith|18
+09/19/1980|Bayside|14|Green Run|7
+09/19/1980|Norcom|6|Booker T. Washington|0
+09/19/1980|Western Branch|21|Churchland|0
+09/19/1980|Cox|33|Maury|0
+09/19/1980|Cradock|30|Norfolk Catholic|6
+09/19/1980|Deep Creek|7|Indian River|0
+09/19/1980|First Colonial|31|Princess Anne|14
+09/19/1980|Ferguson|32|Granby|8
+09/19/1980|Great Bridge|34|Oscar Smith|0
+09/19/1980|Norview|22|Kellam|12
+09/19/1980|Lake Taylor|22|Kecoughtan|6
+09/19/1980|Woodrow Wilson|40|Manor|9
+09/26/1980|First Colonial|20|Bayside|12
+09/26/1980|Booker T. Washington|40|Manor|14
+09/26/1980|Deep Creek|12|Churchland|0
+09/26/1980|Cox|14|Green Run|10
+09/26/1980|Western Branch|40|Cradock|0
+09/26/1980|Menchville|28|Granby|7
+09/26/1980|Great Bridge|14|Norcom|0
+09/26/1980|Princess Anne|16|Indian River|13
+09/26/1980|Kempsville|28|Kellam|0
+09/26/1980|Lake Taylor|18|Maury|0
+09/26/1980|Norview|32|Oscar Smith|8
+10/03/1980|Bayside|0|Kellam|0
+10/03/1980|Booker T. Washington|15|Granby|0
+10/03/1980|Churchland|28|Manor|6
+10/03/1980|Cox|30|Lake Taylor|13
+10/03/1980|Oscar Smith|13|Cradock|6
+10/03/1980|Deep Creek|22|Western Branch|14
+10/03/1980|Kempsville|10|First Colonial|0
+10/03/1980|Great Bridge|21|Indian River|8
+10/03/1980|Princess Anne|27|Green Run|22
+10/03/1980|Woodrow Wilson|12|Norcom|0
+10/03/1980|Norview|9|Kecoughtan|6
+10/10/1980|Bayside|20|Booker T. Washington|0
+10/10/1980|Churchland|34|Cradock|0
+10/10/1980|First Colonial|24|Cox|22
+10/10/1980|Great Bridge|24|Deep Creek|6
+10/10/1980|Lake Taylor|34|Granby|9
+10/10/1980|Green Run|24|Kellam|18
+10/10/1980|Woodrow Wilson|7|Indian River|0
+10/10/1980|Kempsville|42|Maury|20
+10/10/1980|Norcom|20|Manor|13
+10/10/1980|Norview|7|Princess Anne|7
+10/10/1980|Western Branch|35|Oscar Smith|0
+10/17/1980|Bayside|31|Maury|20
+10/17/1980|First Colonial|35|Booker T. Washington|6
+10/17/1980|Norcom|13|Churchland|0
+10/17/1980|Cox|22|Kempsville|22
+10/17/1980|Great Bridge|54|Cradock|6
+10/17/1980|Woodrow Wilson|20|Deep Creek|6
+10/17/1980|Green Run|6|Granby|0
+10/17/1980|Western Branch|10|Indian River|7
+10/17/1980|Princess Anne|27|Kellam|23
+10/17/1980|Norview|14|Lake Taylor|0
+10/17/1980|Oscar Smith|14|Manor|7
+10/24/1980|Lake Taylor|34|Bayside|0
+10/24/1980|Booker T. Washington|30|Maury|2
+10/24/1980|Churchland|10|Indian River|8
+10/24/1980|Cox|20|Kellam|0
+10/24/1980|Manor|12|Cradock|7
+10/24/1980|Deep Creek|13|Norcom|7
+10/24/1980|Green Run|7|First Colonial|0
+10/24/1980|Norview|9|Granby|3
+10/24/1980|Great Bridge|28|Western Branch|21
+10/24/1980|Kempsville|16|Princess Anne|14
+10/24/1980|Woodrow Wilson|23|Oscar Smith|0
+10/31/1980|Bayside|20|Norview|7
+10/31/1980|Cox|32|Booker T. Washington|16
+10/31/1980|Great Bridge|21|Churchland|0
+10/31/1980|Woodrow Wilson|44|Cradock|0
+10/31/1980|Deep Creek|42|Oscar Smith|6
+10/31/1980|First Colonial|27|Maury|6
+10/31/1980|Kellam|21|Granby|0
+10/31/1980|Indian River|20|Manor|14
+10/31/1980|Kempsville|27|Green Run|16
+10/31/1980|Princess Anne|21|Lake Taylor|0
+10/31/1980|Norcom|14|Western Branch|7
+11/07/1980|Princess Anne|29|Bayside|10
+11/07/1980|Booker T. Washington|14|Kellam|7
+11/07/1980|Churchland|39|Warwick|0
+11/07/1980|Cox|38|Western Branch|26
+11/07/1980|Norcom|46|Cradock|0
+11/07/1980|Deep Creek|30|Manor|0
+11/07/1980|First Colonial|34|Lake Taylor|6
+11/07/1980|Maury|28|Granby|26
+11/07/1980|Great Bridge|21|Woodrow Wilson|13
+11/07/1980|Green Run|21|T.C. Williams|20
+11/07/1980|Indian River|7|Oscar Smith|0
+11/07/1980|Norview|21|Kempsville|15
+11/14/1980|Great Bridge|26|Norview|0
+11/14/1980|Hampton|12|Kempsville|10
+11/21/1980|Hampton|7|Great Bridge|0
+11/29/1980|Hampton|27|Douglas Freeman|7
+12/06/1980|Hampton|17|West Springfield|8
