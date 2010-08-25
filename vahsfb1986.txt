@@ -1,0 +1,121 @@
+08/29/1986|Denbigh|17|Norview|6
+09/05/1986|Bayside|19|Kempsville|14
+09/05/1986|Booker T. Washington|19|Lake Taylor|19
+09/05/1986|Oscar Smith|39|Churchland|10
+09/05/1986|Princess Anne|24|Frank Cox|14
+09/05/1986|Deep Creek|25|Cradock|6
+09/05/1986|First Colonial|22|Kellam|8
+09/05/1986|Norview|40|Granby|7
+09/05/1986|Great Bridge|14|Manor|10
+09/05/1986|Green Run|27|Maury|0
+09/05/1986|Norcom|30|Indian River|7
+09/05/1986|Woodrow Wilson|12|Western Branch|0
+09/12/1986|Bayside|30|Frank Cox|19
+09/12/1986|Norview|13|Booker T. Washington|6
+09/12/1986|Woodrow Wilson|40|Churchland|0
+09/12/1986|Cradock|14|Indian River|13
+09/12/1986|Green Run|30|Deep Creek|14
+09/12/1986|First Colonial|31|Granby|0
+09/12/1986|Great Bridge|21|Princess Anne|7
+09/12/1986|Lake Taylor|22|Kellam|0
+09/12/1986|Kempsville|16|Bethel|14
+09/12/1986|Manor|28|Western Branch|0
+09/12/1986|Menchville|27|Maury|6
+09/12/1986|Oscar Smith|19|Norcom|7
+09/19/1986|Green Run|34|Bayside|19
+09/19/1986|Norcom|7|Booker T. Washington|0
+09/19/1986|Western Branch|42|Churchland|13
+09/19/1986|Frank Cox|6|Maury|0
+09/19/1986|Indian River|6|Deep Creek|0
+09/19/1986|First Colonial|31|Princess Anne|23
+09/19/1986|Lafayette|14|Granby|0
+09/19/1986|Great Bridge|21|Oscar Smith|6
+09/19/1986|Norview|19|Kellam|12
+09/19/1986|Kempsville|10|Lake Taylor|6
+09/19/1986|Manor|17|Woodrow Wilson|15
+09/26/1986|First Colonial|37|Bayside|8
+09/26/1986|Booker T. Washington|19|Manor|14
+09/26/1986|Deep Creek|35|Churchland|7
+09/26/1986|Green Run|21|Frank Cox|6
+09/26/1986|Cradock|42|Western Branch|24
+09/26/1986|Phoebus|35|Granby|0
+09/26/1986|Great Bridge|17|Norcom|14
+09/26/1986|Indian River|14|Princess Anne|7
+09/26/1986|Kellam|21|Kempsville|14
+09/26/1986|Maury|19|Lake Taylor|6
+09/26/1986|Norview|41|Oscar Smith|7
+10/03/1986|Kellam|28|Bayside|12
+10/03/1986|Booker T. Washington|30|Granby|0
+10/03/1986|Manor|40|Churchland|0
+10/03/1986|Lake Taylor|23|Frank Cox|0
+10/03/1986|Oscar Smith|21|Cradock|20
+10/03/1986|Western Branch|14|Deep Creek|9
+10/03/1986|First Colonial|24|Kempsville|7
+10/03/1986|Great Bridge|21|Indian River|7
+10/03/1986|Green Run|14|Princess Anne|14
+10/03/1986|Maury|3|Norview|0
+10/03/1986|Woodrow Wilson|14|Norcom|0
+10/10/1986|Bayside|14|Booker T. Washington|6
+10/10/1986|Cradock|34|Churchland|13
+10/10/1986|First Colonial|28|Frank Cox|0
+10/10/1986|Great Bridge|7|Deep Creek|6
+10/10/1986|Lake Taylor|39|Granby|0
+10/10/1986|Green Run|14|Kellam|14
+10/10/1986|Indian River|40|Woodrow Wilson|14
+10/10/1986|Ferguson|34|Kempsville|28
+10/10/1986|Norcom|19|Manor|17
+10/10/1986|Warwick|52|Maury|9
+10/10/1986|Norview|27|Princess Anne|14
+10/10/1986|Western Branch|51|Oscar Smith|20
+10/17/1986|Bayside|14|Maury|0
+10/17/1986|First Colonial|21|Booker T. Washington|20
+10/17/1986|Norcom|7|Churchland|0
+10/17/1986|Kempsville|45|Frank Cox|13
+10/17/1986|Great Bridge|27|Cradock|18
+10/17/1986|Woodrow Wilson|10|Deep Creek|9
+10/17/1986|Green Run|31|Granby|0
+10/17/1986|Indian River|28|Western Branch|14
+10/17/1986|Princess Anne|19|Kellam|12
+10/17/1986|Norview|7|Lake Taylor|0
+10/17/1986|Manor|28|Oscar Smith|6
+10/24/1986|Lake Taylor|27|Bayside|16
+10/24/1986|Booker T. Washington|14|Maury|7
+10/24/1986|Indian River|52|Churchland|0
+10/24/1986|Kellam|41|Frank Cox|21
+10/24/1986|Cradock|32|Manor|6
+10/24/1986|Deep Creek|8|Norcom|7
+10/24/1986|Green Run|35|First Colonial|12
+10/24/1986|Granby|14|Denbigh|0
+10/24/1986|Great Bridge|30|Western Branch|14
+10/24/1986|Princess Anne|21|Kempsville|14
+10/24/1986|Norview|39|Ferguson|16
+10/24/1986|Oscar Smith|14|Woodrow Wilson|14
+10/31/1986|Norview|12|Bayside|6
+10/31/1986|Booker T. Washington|19|Frank Cox|14
+10/31/1986|Great Bridge|47|Churchland|0
+10/31/1986|Cradock|16|Woodrow Wilson|8
+10/31/1986|Deep Creek|13|Oscar Smith|7
+10/31/1986|First Colonial|44|Maury|22
+10/31/1986|Kecoughtan|14|Granby|0
+10/31/1986|Green Run|22|Kempsville|19
+10/31/1986|Indian River|14|Manor|8
+10/31/1986|Kellam|22|Hopewell|16
+10/31/1986|Lake Taylor|20|Princess Anne|7
+10/31/1986|Western Branch|9|Norcom|7
+11/07/1986|Bayside|35|Princess Anne|20
+11/07/1986|Manor|17|Deep Creek|6
+11/07/1986|Lake Taylor|24|First Colonial|0
+11/07/1986|Maury|17|Granby|9
+11/07/1986|Great Bridge|34|Woodrow Wilson|14
+11/07/1986|Green Run|26|John Marshall|0
+11/07/1986|Indian River|28|Oscar Smith|6
+11/14/1986|Phoebus|20|Cradock|8
+11/14/1986|Warwick|9|Lake Taylor|7
+11/14/1986|Hampton|17|Green Run|8
+11/14/1986|Norview|24|Great Bridge|22
+11/21/1986|Hampton|13|Norview|0
+11/21/1986|Warwick|32|Phoebus|8
+11/29/1986|Hampton|14|John Marshall|0
+11/29/1986|Warwick|20|Patrick Henry(A)|14
+12/06/1986|Hampton|14|Salem|0
+12/06/1986|Thomas Edison|7|Warwick|6
