@@ -1,0 +1,146 @@
+08/31/1990|Bayside|33|Lake Taylor|6
+08/31/1990|Ferguson|34|Cradock|0
+08/31/1990|First Colonial|46|Indian River|20
+08/31/1990|Great Bridge|33|Salem(VB)|0
+08/31/1990|Hampton|23|Green Run|0
+08/31/1990|Kecoughtan|24|Booker T. Washington|7
+08/31/1990|Norview|27|Bethel|26
+08/31/1990|Warwick|24|Maury|13
+08/31/1990|Western Branch|13|Granby|12
+09/07/1990|Booker T. Washington|12|Oscar Smith|0
+09/07/1990|Deep Creek|23|Lake Taylor|0
+09/07/1990|Granby|25|Churchland|3
+09/07/1990|Great Bridge|41|Kellam|21
+09/07/1990|Green Run|33|Norview|18
+09/07/1990|Indian River|20|Kempsville|2
+09/07/1990|Lafayette|10|Cradock|0
+09/07/1990|Maury|24|First Colonial|13
+09/07/1990|Nansemond River|17|Lakeland|14
+09/07/1990|Norcom|20|Princess Anne|16
+09/07/1990|Phoebus|15|Manor|0
+09/07/1990|Western Branch|30|Cox|25
+09/07/1990|Woodrow Wilson|27|Bayside|14
+09/14/1990|Deep Creek|26|Salem(VB)|7
+09/14/1990|Granby|27|Cox|10
+09/14/1990|Indian River|43|Cradock|6
+09/14/1990|Kempsville|7|Lake Taylor|6
+09/14/1990|Lakeland|21|Bruton|14
+09/14/1990|Manor|10|Denbigh|6
+09/14/1990|Maury|7|Bayside|0
+09/14/1990|Menchville|7|Booker T. Washington|6
+09/14/1990|Norcom|19|Kellam|15
+09/14/1990|Norview|27|Oscar Smith|8
+09/14/1990|Poquoson|28|Nansemond River|6
+09/14/1990|Princess Anne|35|Churchland|8
+09/14/1990|Woodrow Wilson|47|Western Branch|7
+09/21/1990|First Colonial|56|Lake Taylor|12
+09/21/1990|Cox|28|Kellam|22
+09/21/1990|Deep Creek|42|Norview|13
+09/21/1990|Great Bridge|27|Manor|13
+09/21/1990|Indian River|9|Woodrow Wilson|7
+09/21/1990|Kempsville|19|Salem(VB)|16
+09/21/1990|Lakeland|19|Franklin|0
+09/21/1990|Maury|23|Green Run|8
+09/21/1990|Nansemond River|13|York|10
+09/21/1990|Norcom|14|Booker T. Washington|0
+09/21/1990|Oscar Smith|24|Cradock|12
+09/21/1990|Princess Anne|19|Granby|7
+09/21/1990|Western Branch|28|Churchland|7
+09/28/1990|Bayside|21|Green Run|6
+09/28/1990|Cox|28|Gloucester|14
+09/28/1990|Cradock|14|Booker T. Washington|7
+09/28/1990|Deep Creek|42|Churchland|7
+09/28/1990|First Colonial|48|Salem(VB)|0
+09/28/1990|Granby|10|Oscar Smith|7
+09/28/1990|Indian River|14|Lake Taylor|0
+09/28/1990|Kellam|41|Norview|35
+09/28/1990|Nansemond River|23|Bruton|22
+09/28/1990|Norcom|31|Great Bridge|3
+09/28/1990|Princess Anne|13|Kempsville|10
+09/28/1990|Tabb|19|Lakeland|6
+09/28/1990|Western Branch|19|Manor|6
+09/28/1990|Woodrow Wilson|32|Maury|7
+10/05/1990|Bayside|34|Kellam|21
+10/05/1990|Churchland|13|Oscar Smith|7
+10/05/1990|Deep Creek|41|Cradock|18
+10/05/1990|First Colonial|22|Princess Anne|17
+10/05/1990|Granby|15|Manor|0
+10/05/1990|Great Bridge|27|Kempsville|13
+10/05/1990|Green Run|14|Cox|0
+10/05/1990|Lakeland|34|Northampton|0
+10/05/1990|Maury|23|Western Branch|6
+10/05/1990|Norcom|17|Indian River|14
+10/05/1990|Salem(VB)|16|Lake Taylor|13
+10/05/1990|Tabb|58|Nansemond River|19
+10/05/1990|Woodrow Wilson|55|Norview|23
+10/12/1990|Bayside|20|Cox|6
+10/12/1990|Deep Creek|20|Indian River|0
+10/12/1990|First Colonial|36|Kempsville|35
+10/12/1990|Granby|7|Booker T. Washington|2
+10/12/1990|Great Bridge|21|Western Branch|14
+10/12/1990|Green Run|13|Kellam|10
+10/12/1990|Maury|13|Norview|12
+10/12/1990|Nansemond River|34|Franklin|13
+10/12/1990|Norcom|42|Churchland|18
+10/12/1990|Oscar Smith|18|Manor|6
+10/12/1990|Princess Anne|41|Salem(VB)|13
+10/12/1990|Southampton|21|Lakeland|0
+10/12/1990|Woodrow Wilson|61|Cradock|0
+10/19/1990|Deep Creek|26|Oscar Smith|0
+10/19/1990|First Colonial|49|Cox|28
+10/19/1990|Granby|42|Norview|8
+10/19/1990|Indian River|27|Great Bridge|20
+10/19/1990|Kellam|22|Princess Anne|19
+10/19/1990|Kempsville|8|Bayside|7
+10/19/1990|Lake Taylor|14|Booker T. Washington|0
+10/19/1990|Lakeland|13|Poquoson|6
+10/19/1990|Manor|12|Norcom|9
+10/19/1990|Salem(VB)|34|Green Run|0
+10/19/1990|Smithfield|42|Nansemond River|6
+10/19/1990|Woodrow Wilson|77|Churchland|0
+10/26/1990|Bayside|10|Princess Anne|7
+10/26/1990|Churchland|21|Cradock|14
+10/26/1990|Cox|19|Salem(VB)|6
+10/26/1990|Deep Creek|18|Norcom|14
+10/26/1990|First Colonial|55|Kellam|20
+10/26/1990|Green Run|25|Kempsville|8
+10/26/1990|Indian River|14|Western Branch|6
+10/26/1990|Lake Taylor|16|Granby|12
+10/26/1990|Lakeland|3|York|0
+10/26/1990|Maury|7|Booker T. Washington|0
+10/26/1990|Oscar Smith|28|Great Bridge|26
+10/26/1990|Woodrow Wilson|27|Manor|7
+11/02/1990|Bayside|33|Salem(VB)|3
+11/02/1990|Booker T. Washington|21|Churchland|19
+11/02/1990|Cox|33|Princess Anne|28
+11/02/1990|Deep Creek|20|Great Bridge|14
+11/02/1990|First Colonial|34|Green Run|7
+11/02/1990|Lakeland|13|Nansemond River|6
+11/02/1990|Kempsville|50|Kellam|18
+11/02/1990|Lake Taylor|26|Norview|16
+11/02/1990|Manor|36|Cradock|22
+11/02/1990|Maury|28|Granby|23
+11/02/1990|Western Branch|34|Oscar Smith|18
+11/02/1990|Woodrow Wilson|38|Norcom|0
+11/09/1990|Churchland|46|Manor|30
+11/09/1990|Cox|28|Kempsville|14
+11/09/1990|Deep Creek|17|Western Branch|6
+11/09/1990|First Colonial|13|Bayside|7
+11/09/1990|Indian River|33|Oscar Smith|0
+11/09/1990|Lakeland|42|Smithfield|6
+11/09/1990|Maury|35|Lake Taylor|12
+11/09/1990|Nansemond River|31|Northampton|14
+11/09/1990|Norcom|40|Cradock|0
+11/09/1990|Norview|20|Booker T. Washington|13
+11/09/1990|Princess Anne|28|Green Run|6
+11/09/1990|Salem(VB)|24|Kellam|21
+11/09/1990|Woodrow Wilson|49|Great Bridge|0
+11/16/1990|Hampton|28|Maury|7
+11/16/1990|Kecoughtan|10|First Colonial|7
+11/16/1990|Lakeland|37|Poquoson|6
+11/16/1990|Tabb|38|Nansemond River|0
+11/16/1990|Warwick|25|Deep Creek|21
+11/16/1990|Woodrow Wilson|32|Phoebus|10
+11/23/1990|Hampton|17|Kecoughtan|10
+11/23/1990|Warwick|22|Woodrow Wilson|21
+12/08/1990|Gar-Field|13|Hampton|12
