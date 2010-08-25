@@ -1,0 +1,130 @@
+08/30/1991|Bayside|31|Lake Taylor|21
+08/30/1991|Bethel|34|Norview|0
+08/30/1991|Cradock|12|Ferguson|7
+08/30/1991|Hampton|40|Green Run|0
+08/30/1991|Indian River|22|First Colonial|19
+08/30/1991|Kecoughtan|28|Booker T. Washington|13
+08/30/1991|Norcom|35|Princess Anne|0
+08/30/1991|Phoebus|28|Manor|19
+08/30/1991|Salem(VB)|26|Great Bridge|7
+08/30/1991|Warwick|26|Maury|14
+08/30/1991|Western Branch|41|Granby|27
+09/06/1991|Churchland|24|Granby|12
+09/06/1991|Cox|30|Western Branch|23
+09/06/1991|Cradock|22|Lafayette|7
+09/06/1991|Deep Creek|20|Lake Taylor|0
+09/06/1991|First Colonial|21|Maury|14
+09/06/1991|Great Bridge|26|Kellam|23
+09/06/1991|Indian River|14|Kempsville|7
+09/06/1991|Manor|13|Denbigh|6
+09/06/1991|Norview|15|Green Run|0
+09/06/1991|Oscar Smith|9|Booker T. Washington|8
+09/06/1991|Woodrow Wilson|40|Bayside|6
+09/13/1991|Bayside|13|Maury|9
+09/13/1991|Cox|16|Granby|15
+09/13/1991|Deep Creek|35|Salem(VB)|10
+09/13/1991|Great Bridge|18|Manor|7
+09/13/1991|Indian River|21|Cradock|19
+09/13/1991|Lake Taylor|21|Kempsville|7
+09/13/1991|Menchville|41|Booker T. Washington|20
+09/13/1991|Norcom|51|Kellam|0
+09/13/1991|Norview|14|Oscar Smith|0
+09/13/1991|Princess Anne|35|Churchland|20
+09/13/1991|Woodrow Wilson|28|Western Branch|14
+09/20/1991|Cox|55|Kellam|34
+09/20/1991|Cradock|43|Oscar Smith|24
+09/20/1991|Deep Creek|34|Norview|6
+09/20/1991|First Colonial|26|Lake Taylor|21
+09/20/1991|Kempsville|23|Salem(VB)|17
+09/20/1991|Maury|26|Green Run|14
+09/20/1991|Norcom|36|Booker T. Washington|6
+09/20/1991|Princess Anne|16|Granby|7
+09/20/1991|Western Branch|19|Churchland|16
+09/20/1991|Woodrow Wilson|20|Indian River|0
+09/27/1991|Bayside|35|Green Run|14
+09/27/1991|Cox|27|Gloucester|0
+09/27/1991|Cradock|22|Booker T. Washington|20
+09/27/1991|Deep Creek|35|Churchland|3
+09/27/1991|First Colonial|45|Salem(VB)|13
+09/27/1991|Granby|14|Oscar Smith|11
+09/27/1991|Indian River|26|Lake Taylor|22
+09/27/1991|Kempsville|34|Princess Anne|31
+09/27/1991|Norcom|20|Great Bridge|7
+09/27/1991|Norview|21|Kellam|7
+09/27/1991|Western Branch|21|Manor|7
+09/27/1991|Woodrow Wilson|36|Maury|7
+10/04/1991|Bayside|61|Kellam|7
+10/04/1991|Churchland|34|Oscar Smith|26
+10/04/1991|Cox|27|Green Run|8
+10/04/1991|Deep Creek|42|Cradock|6
+10/04/1991|First Colonial|34|Princess Anne|0
+10/04/1991|Kempsville|20|Great Bridge|7
+10/04/1991|Lake Taylor|31|Salem(VB)|7
+10/04/1991|Manor|24|Granby|8
+10/04/1991|Norcom|27|Indian River|14
+10/04/1991|Western Branch|45|Maury|38
+10/04/1991|Woodrow Wilson|50|Norview|0
+10/11/1991|Bayside|35|Cox|13
+10/11/1991|Granby|18|Booker T. Washington|6
+10/11/1991|Green Run|20|Kellam|13
+10/11/1991|First Colonial|35|Kempsville|19
+10/11/1991|Indian River|28|Deep Creek|21
+10/11/1991|Maury|32|Norview|3
+10/11/1991|Norcom|27|Churchland|0
+10/11/1991|Oscar Smith|7|Manor|6
+10/11/1991|Salem(VB)|14|Princess Anne|7
+10/11/1991|Western Branch|38|Great Bridge|8
+10/11/1991|Woodrow Wilson|32|Cradock|0
+10/18/1991|Bayside|35|Kempsville|28
+10/18/1991|Booker T. Washington|20|Lake Taylor|12
+10/18/1991|Deep Creek|33|Oscar Smith|6
+10/18/1991|First Colonial|50|Cox|27
+10/18/1991|Granby|14|Norview|8
+10/18/1991|Green Run|31|Salem(VB)|28
+10/18/1991|Indian River|28|Great Bridge|14
+10/18/1991|Norcom|25|Manor|0
+10/18/1991|Princess Anne|23|Kellam|6
+10/18/1991|Woodrow Wilson|50|Churchland|0
+10/25/1991|Bayside|19|Princess Anne|9
+10/25/1991|Cradock|38|Churchland|9
+10/25/1991|First Colonial|49|Kellam|16
+10/25/1991|Granby|22|Lake Taylor|7
+10/25/1991|Green Run|15|Kempsville|12
+10/25/1991|Indian River|21|Western Branch|7
+10/25/1991|Maury|28|Booker T. Washington|27
+10/25/1991|Norcom|12|Deep Creek|7
+10/25/1991|Oscar Smith|28|Great Bridge|25
+10/25/1991|Salem(VB)|17|Cox|14
+10/25/1991|Woodrow Wilson|53|Manor|7
+11/01/1991|Bayside|34|Salem(VB)|0
+11/01/1991|Churchland|7|Booker T. Washington|6
+11/01/1991|Cradock|20|Manor|7
+11/01/1991|Deep Creek|21|Great Bridge|7
+11/01/1991|First Colonial|55|Green Run|15
+11/01/1991|Granby|35|Maury|12
+11/01/1991|Kempsville|40|Kellam|13
+11/01/1991|Lake Taylor|24|Norview|13
+11/01/1991|Princess Anne|28|Cox|6
+11/01/1991|Western Branch|53|Oscar Smith|36
+11/01/1991|Woodrow Wilson|20|Norcom|6
+11/08/1991|Booker T. Washington|24|Norview|8
+11/08/1991|First Colonial|17|Bayside|14
+11/08/1991|Indian River|26|Oscar Smith|13
+11/08/1991|Kellam|21|Salem(VB)|14
+11/08/1991|Kempsville|32|Cox|0
+11/08/1991|Manor|31|Churchland|22
+11/08/1991|Maury|27|Lake Taylor|12
+11/08/1991|Norcom|28|Cradock|3
+11/08/1991|Princess Anne|14|Green Run|2
+11/08/1991|Western Branch|19|Deep Creek|17
+11/08/1991|Woodrow Wilson|33|Great Bridge|13
+11/15/1991|First Colonial|44|Bayside|7
+11/15/1991|Hampton|28|Granby|8
+11/15/1991|Norcom|25|Bethel|8
+11/15/1991|Woodrow Wilson|20|Indian River|14
+11/22/1991|First Colonial|24|Hampton|14
+11/22/1991|Woodrow Wilson|21|Norcom|0
+11/30/1991|Woodrow Wilson|34|John Marshall|0
+11/30/1991|L.C. Bird|31|First Colonial|9
+12/07/1991|Woodrow Wilson|43|E.C. Glass|0
+12/07/1991|Halifax|27|L.C. Bird|6
