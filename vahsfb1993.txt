@@ -1,0 +1,223 @@
+09/03/1993|Bayside|38|Menchville|27
+09/03/1993|Norcom|39|Booker T. Washington|0
+09/03/1993|Churchland|28|Norview|0
+09/03/1993|Deep Creek|42|Cox|0
+09/03/1993|Indian River|41|First Colonial|3
+09/03/1993|Granby|34|Woodrow Wilson|12
+09/03/1993|Hampton|17|Great Bridge|10
+09/03/1993|Lake Taylor|8|Kempsville|7
+09/03/1993|Maury|28|Warwick|18
+09/03/1993|Bethel|21|Oscar Smith|0
+09/03/1993|Phoebus|42|Princess Anne|17
+09/03/1993|Western Branch|44|Tallwood|13
+09/10/1993|Bayside|32|First Colonial|16
+09/10/1993|Booker T. Washington|19|Oscar Smith|14
+09/10/1993|Norcom|42|Churchland|7
+09/10/1993|Granby|20|Cox|14
+09/10/1993|Deep Creek|21|Salem(VB)|2
+09/10/1993|Kempsville|21|Great Bridge|10
+09/10/1993|Maury|35|Green Run|7
+09/10/1993|Indian River|62|Princess Anne|0
+09/10/1993|Norview|21|Kellam|14
+09/10/1993|Lake Taylor|44|Woodrow Wilson|6
+09/10/1993|Hampton|49|Warwick|8
+09/10/1993|Menchville|49|Gloucester|6
+09/17/1993|Green Run|16|Bayside|12
+09/17/1993|Lake Taylor|45|Booker T. Washington|14
+09/17/1993|Churchland|31|Great Bridge|20
+09/17/1993|Deep Creek|28|Woodrow Wilson|0
+09/17/1993|First Colonial|3|Kempsville|0
+09/17/1993|Granby|37|Lafayette|0
+09/17/1993|Indian River|32|Maury|20
+09/17/1993|Salem(VB)|17|Kellam|7
+09/17/1993|Norcom|13|Western Branch|7
+09/17/1993|Norview|14|Ferguson|0
+09/17/1993|Princess Anne|21|Tallwood|20
+09/17/1993|Kecoughtan|31|Hampton|16
+09/17/1993|Menchville|31|Bethel|16
+09/24/1993|Maury|23|Bayside|13
+09/24/1993|Denbigh|28|Booker T. Washington|27
+09/24/1993|Western Branch|33|Churchland|13
+09/24/1993|Cox|17|Kellam|9
+09/24/1993|Deep Creek|28|Lake Taylor|0
+09/24/1993|Woodrow Wilson|33|Great Bridge|28
+09/24/1993|Green Run|23|Norview|8
+09/24/1993|Kempsville|33|Princess Anne|6
+09/24/1993|Norcom|47|Oscar Smith|0
+09/24/1993|Salem(VB)|15|Tallwood|14
+09/24/1993|Hampton|70|Lafayette|0
+09/24/1993|Menchville|56|Ferguson|12
+10/01/1993|Bayside|47|Princess Anne|16
+10/01/1993|Kecoughtan|33|Booker T. Washington|0
+10/01/1993|Churchland|14|Deep Creek|13
+10/01/1993|Cox|17|Tallwood|14
+10/01/1993|First Colonial|54|Green Run|25
+10/01/1993|Granby|28|Oscar Smith|14
+10/01/1993|Norcom|27|Great Bridge|0
+10/01/1993|Indian River|40|Woodrow Wilson|0
+10/01/1993|Maury|42|Kellam|16
+10/01/1993|Kempsville|21|Salem(VB)|10
+10/01/1993|Lake Taylor|32|Norview|7
+10/01/1993|Western Branch|71|Gloucester|14
+10/01/1993|Hampton|33|Phoebus|7
+10/01/1993|Menchville|21|Warwick|20
+10/08/1993|Salem(VB)|7|Bayside|6
+10/08/1993|Booker T. Washington|9|Granby|6
+10/08/1993|Churchland|37|Oscar Smith|21
+10/08/1993|Cox|21|Kempsville|10
+10/08/1993|Maury|34|First Colonial|31
+10/08/1993|Great Bridge|19|Norview|8
+10/08/1993|Green Run|26|Princess Anne|10
+10/08/1993|Norcom|19|Indian River|12
+10/08/1993|Tallwood|20|Kellam|14
+10/08/1993|Western Branch|41|Woodrow Wilson|7
+10/08/1993|Hampton|21|Denbigh|13
+10/08/1993|Menchville|13|Phoebus|10
+10/15/1993|Bayside|15|Cox|13
+10/15/1993|Lake Taylor|22|Churchland|20
+10/15/1993|Indian River|35|Deep Creek|7
+10/15/1993|First Colonial|35|Princess Anne|22
+10/15/1993|Tallwood|6|Granby|0
+10/15/1993|Western Branch|18|Great Bridge|13
+10/15/1993|Salem(VB)|17|Green Run|7
+10/15/1993|Kempsville|16|Kellam|0
+10/15/1993|Maury|37|Norview|6
+10/15/1993|Woodrow Wilson|21|Oscar Smith|20
+10/15/1993|Hampton|61|Gloucester|0
+10/15/1993|Phoebus|7|Kecoughtan|0
+10/22/1993|Bayside|20|Kellam|0
+10/22/1993|Churchland|21|Booker T. Washington|20
+10/22/1993|Green Run|32|Cox|0
+10/22/1993|Deep Creek|38|Oscar Smith|13
+10/22/1993|First Colonial|20|Salem(VB)|0
+10/22/1993|Granby|17|Norview|0
+10/22/1993|Indian River|50|Great Bridge|6
+10/22/1993|Kempsville|35|Tallwood|14
+10/22/1993|Lake Taylor|30|Western Branch|20
+10/22/1993|Norcom|53|Woodrow Wilson|0
+10/22/1993|Menchville|13|Hampton|7
+10/29/1993|Bayside|13|Tallwood|10
+10/29/1993|Maury|26|Booker T. Washington|15
+10/29/1993|Churchland|54|Woodrow Wilson|20
+10/29/1993|First Colonial|34|Cox|6
+10/29/1993|Norcom|22|Deep Creek|0
+10/29/1993|Granby|21|Lake Taylor|14
+10/29/1993|Great Bridge|34|Oscar Smith|13
+10/29/1993|Green Run|28|Kellam|13
+10/29/1993|Indian River|34|Western Branch|6
+10/29/1993|Princess Anne|43|Salem(VB)|6
+10/29/1993|Menchville|62|Lafayette|0
+11/05/1993|Kempsville|16|Bayside|6
+11/05/1993|Booker T. Washington|17|Woodrow Wilson|14
+11/05/1993|Indian River|36|Churchland|14
+11/05/1993|Princess Anne|14|Cox|10
+11/05/1993|Deep Creek|14|Great Bridge|12
+11/05/1993|First Colonial|21|Kellam|7
+11/05/1993|Maury|13|Granby|12
+11/05/1993|Green Run|34|Tallwood|3
+11/05/1993|Salem(VB)|14|Lake Taylor|6
+11/05/1993|Norcom|34|Norview|0
+11/05/1993|Western Branch|43|Oscar Smith|17
+11/05/1993|Hampton|36|Ferguson|6
+11/05/1993|Kecoughtan|21|Menchville|14
+11/12/1993|Booker T. Washington|21|Norview|14
+11/12/1993|Cox|13|Salem(VB)|6
+11/12/1993|Deep Creek|7|Western Branch|3
+11/12/1993|First Colonial|31|Tallwood|0
+11/12/1993|Norcom|42|Granby|0
+11/12/1993|Green Run|36|Kempsville|29
+11/12/1993|Indian River|27|Oscar Smith|0
+11/12/1993|Princess Anne|17|Kellam|14
+11/12/1993|Lake Taylor|36|Maury|3
+11/12/1993|Hampton|22|Bethel|7
+11/12/1993|Denbigh|15|Menchville|14
+11/19/1993|Indian River|26|First Colonial|13
+11/19/1993|Phoebus|3|Kecoughtan|0
+11/19/1993|Norcom|14|Hampton|0
+11/19/1993|Menchville|31|Maury|13
+11/19/1993|Middlesex|28|Rappahannock|6
+11/19/1993|Windsor|20|Surry County|0
+11/19/1993|Strasburg|28|Page|20
+11/19/1993|Luray|27|Goochland|24
+11/19/1993|Rural Retreat|14|Parry McCluer|7
+11/19/1993|Narrows|21|Bath County|13
+11/19/1993|Appalachia|42|Saint Paul|12
+11/19/1993|Pocahontas|7|Ervinton|6
+11/19/1993|Sussex Central|16|King William|8
+11/19/1993|Essex|31|Nandua|30
+11/19/1993|Central(L)|33|Randolph-Henry|0
+11/19/1993|Buffalo Gap|24|Madison County|20
+11/19/1993|Giles|33|Chilhowie|0
+11/19/1993|George Wythe(W)|15|Lebanon|8
+11/19/1993|Haysi|31|Coeburn|0
+11/19/1993|Powell Valley|21|J.J. Kelly|15
+11/19/1993|Matoaca|21|Nottoway|0
+11/19/1993|Smithfield|42|Southampton|36
+11/19/1993|Caroline|21|Fort Defiance|17
+11/19/1993|John Handley|23|Waynesboro|14
+11/19/1993|Laurel Park|15|Magna Vista|14
+11/19/1993|Jefferson Forest|28|Martinsville|13
+11/19/1993|Gate City|14|Tazewell|8
+11/19/1993|Graham|19|Radford|7
+11/19/1993|Tabb|58|Lakeland|0
+11/19/1993|Nansemond River|19|Brunswick|0
+11/19/1993|Chancellor|10|Spotsylvania|0
+11/19/1993|Park View(St)|41|Orange|7
+11/19/1993|Rustburg|27|Salem|6
+11/19/1993|Amherst County|14|Rockbridge County|13
+11/19/1993|Blacksburg|34|Carroll County|12
+11/19/1993|Lee|30|Grundy|8
+11/19/1993|Patrick Henry(A)|25|Atlee|22
+11/19/1993|Henrico|26|Huguenot|12
+11/19/1993|Hayfield|26|Yorktown|0
+11/19/1993|Langley|12|George Marshall|0
+11/19/1993|E.C. Glass|16|Heritage(L)|14
+11/19/1993|Stonewall Jackson(M)|39|Patrick Henry(R)|12
+11/19/1993|Lee-Davis|19|L.C. Bird|10
+11/19/1993|Thomas Dale|28|Highland Springs|21
+11/19/1993|Annandale|14|Herndon|7
+11/19/1993|West Springfield|41|Lake Braddock|14
+11/19/1993|Pulaski County|21|C.D. Hylton|13
+11/19/1993|Gar-Field|34|Woodbridge|21
+11/26/1993|Indian River|28|Menchville|12
+11/26/1993|Norcom|38|Phoebus|13
+11/26/1993|Middlesex|28|Windsor|19
+11/26/1993|Luray|14|Strasburg|12
+11/26/1993|Rural Retreat|21|Narrows|0
+11/26/1993|Appalachia|40|Pocahontas|0
+11/26/1993|Sussex Central|30|Essex|13
+11/26/1993|Central(L)|40|Buffalo Gap|7
+11/26/1993|Giles|21|George Wythe(W)|13
+11/26/1993|Haysi|14|Powell Valley|12
+11/26/1993|Matoaca|16|Smithfield|7
+11/26/1993|John Handley|10|Caroline|7
+11/26/1993|Jefferson Forest|48|Laurel Park|26
+11/26/1993|Graham|14|Gate City|12
+11/26/1993|Nansemond River|28|Tabb|0
+11/26/1993|Park View(St)|10|Chancellor|0
+11/26/1993|Rustburg|33|Amherst County|10
+11/26/1993|Blacksburg|35|Lee|6
+11/26/1993|Patrick Henry(A)|20|Henrico|0
+11/26/1993|Langley|14|Hayfield|0
+11/26/1993|E.C. Glass|52|Stonewall Jackson(M)|49
+11/26/1993|Thomas Dale|21|Lee-Davis|6
+11/26/1993|Annandale|25|West Springfield|7
+11/26/1993|Pulaski County|34|Gar-Field|26
+12/04/1993|Annandale|10|Thomas Dale|7
+12/04/1993|Appalachia|36|Rural Retreat|13
+12/04/1993|Central(L)|13|Sussex Central|12
+12/04/1993|Giles|7|Haysi|0
+12/04/1993|Jefferson Forest|26|Graham|15
+12/04/1993|Langley|13|Patrick Henry(A)|0
+12/04/1993|Matoaca|28|John Handley|10
+12/04/1993|Middlesex|28|Luray|14
+12/04/1993|Nansemond River|14|Park View(St)|10
+12/04/1993|Norcom|38|E.C. Glass|3
+12/04/1993|Pulaski County|24|Indian River|7
+12/04/1993|Rustburg|20|Blacksburg|8
+12/11/1993|Annandale|14|Pulaski County|7
+12/11/1993|Giles|27|Central(L)|18
+12/11/1993|Jefferson Forest|21|Matoaca|14
+12/11/1993|Middlesex|10|Appalachia|6
+12/11/1993|Norcom|19|Langley|0
+12/11/1993|Rustburg|20|Nansemond River|6
