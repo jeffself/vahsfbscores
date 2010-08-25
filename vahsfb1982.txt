@@ -1,0 +1,120 @@
+08/27/1982|Hampton|34|Kempsville|7
+09/03/1982|Kempsville|30|Bayside|0
+09/03/1982|Booker T. Washington|21|Lake Taylor|21
+09/03/1982|Churchland|2|Oscar Smith|0
+09/03/1982|Cox|37|Princess Anne|36
+09/03/1982|Deep Creek|8|Cradock|0
+09/03/1982|First Colonial|27|Kellam|7
+09/03/1982|Granby|20|Lafayette|0
+09/03/1982|Manor|20|Great Bridge|10
+09/03/1982|Bethel|6|Green Run|0
+09/03/1982|Norcom|14|Indian River|0
+09/03/1982|Norview|14|Maury|12
+09/03/1982|Western Branch|2|Woodrow Wilson|0
+09/10/1982|Cox|29|Bayside|8
+09/10/1982|Norview|9|Booker T. Washington|7
+09/10/1982|Woodrow Wilson|14|Churchland|6
+09/10/1982|Indian River|32|Cradock|6
+09/10/1982|Green Run|8|Deep Creek|0
+09/10/1982|First Colonial|30|Granby|0
+09/10/1982|Princess Anne|41|Great Bridge|15
+09/10/1982|Kellam|3|Maury|0
+09/10/1982|Kempsville|30|Lake Taylor|12
+09/10/1982|Western Branch|18|Manor|0
+09/10/1982|Norcom|23|Oscar Smith|0
+09/17/1982|Green Run|32|Bayside|7
+09/17/1982|Norcom|35|Booker T. Washington|12
+09/17/1982|Western Branch|7|Churchland|6
+09/17/1982|Cox|23|Maury|19
+09/17/1982|Norfolk Catholic|6|Cradock|0
+09/17/1982|Deep Creek|7|Indian River|6
+09/17/1982|First Colonial|17|Princess Anne|7
+09/17/1982|Ferguson|15|Granby|0
+09/17/1982|Great Bridge|0|Oscar Smith|0
+09/17/1982|Norview|28|Kellam|5
+09/17/1982|Kecoughtan|7|Lake Taylor|6
+09/17/1982|Woodrow Wilson|22|Manor|6
+09/24/1982|First Colonial|31|Bayside|12
+09/24/1982|Booker T. Washington|15|Manor|0
+09/24/1982|Churchland|15|Deep Creek|13
+09/24/1982|Green Run|21|Cox|7
+09/24/1982|Western Branch|14|Cradock|6
+09/24/1982|Granby|13|Menchville|13
+09/24/1982|Norcom|41|Great Bridge|6
+09/24/1982|Princess Anne|20|Indian River|12
+09/24/1982|Kempsville|27|Kellam|6
+09/24/1982|Lake Taylor|29|Maury|7
+09/24/1982|Oscar Smith|13|Norview|7
+10/01/1982|Kellam|14|Bayside|7
+10/01/1982|Booker T. Washington|19|Granby|6
+10/01/1982|Churchland|12|Manor|6
+10/01/1982|Lake Taylor|14|Cox|0
+10/01/1982|Oscar Smith|24|Cradock|0
+10/01/1982|Deep Creek|7|Western Branch|0
+10/01/1982|First Colonial|41|Kempsville|13
+10/01/1982|Indian River|6|Great Bridge|0
+10/01/1982|Green Run|28|Princess Anne|7
+10/01/1982|Dinwiddie|30|Maury|0
+10/01/1982|Norcom|17|Woodrow Wilson|9
+10/01/1982|Norview|34|Kecoughtan|6
+10/08/1982|Booker T. Washington|35|Bayside|7
+10/08/1982|Churchland|24|Cradock|6
+10/08/1982|First Colonial|41|Cox|14
+10/08/1982|Great Bridge|10|Deep Creek|6
+10/08/1982|Lake Taylor|31|Granby|3
+10/08/1982|Green Run|28|Kellam|0
+10/08/1982|Woodrow Wilson|19|Indian River|6
+10/08/1982|Kempsville|34|Maury|13
+10/08/1982|Norcom|28|Manor|6
+10/08/1982|Princess Anne|21|Norview|17
+10/08/1982|Oscar Smith|3|Western Branch|3
+10/15/1982|Bayside|13|Maury|7
+10/15/1982|First Colonial|24|Booker T. Washington|22
+10/15/1982|Norcom|27|Churchland|18
+10/15/1982|Cox|19|Kempsville|15
+10/15/1982|Great Bridge|9|Cradock|0
+10/15/1982|Woodrow Wilson|22|Deep Creek|0
+10/15/1982|Green Run|28|Granby|14
+10/15/1982|Western Branch|21|Indian River|6
+10/15/1982|Kellam|16|Princess Anne|0
+10/15/1982|Lake Taylor|25|Norview|7
+10/15/1982|Oscar Smith|10|Manor|0
+10/22/1982|Lake Taylor|28|Bayside|0
+10/22/1982|Booker T. Washington|35|Maury|7
+10/22/1982|Indian River|42|Churchland|12
+10/22/1982|Cox|23|Kellam|20
+10/22/1982|Cradock|18|Manor|16
+10/22/1982|Norcom|7|Deep Creek|0
+10/22/1982|First Colonial|21|Green Run|8
+10/22/1982|Norview|14|Granby|10
+10/22/1982|Great Bridge|7|Western Branch|0
+10/22/1982|Kempsville|47|Princess Anne|22
+10/22/1982|Woodrow Wilson|7|Oscar Smith|0
+10/29/1982|Norview|28|Bayside|0
+10/29/1982|Cox|38|Booker T. Washington|21
+10/29/1982|Great Bridge|17|Churchland|6
+10/29/1982|Cradock|6|Woodrow Wilson|6
+10/29/1982|Deep Creek|7|Oscar Smith|3
+10/29/1982|First Colonial|45|Maury|14
+10/29/1982|Granby|3|Kellam|0
+10/29/1982|Kempsville|21|Green Run|9
+10/29/1982|Indian River|41|Manor|14
+10/29/1982|Lake Taylor|42|Princess Anne|0
+10/29/1982|Norcom|27|Western Branch|10
+11/05/1982|Princess Anne|31|Bayside|15
+11/05/1982|Kellam|21|Booker T. Washington|20
+11/05/1982|Warwick|19|Churchland|14
+11/05/1982|Cox|38|Western Branch|20
+11/05/1982|Norcom|20|Cradock|13
+11/05/1982|Deep Creek|14|Manor|13
+11/05/1982|First Colonial|24|Lake Taylor|24
+11/05/1982|Granby|14|Maury|12
+11/05/1982|Great Bridge|21|Woodrow Wilson|14
+11/05/1982|Green Run|16|McLean|0
+11/05/1982|Indian River|34|Oscar Smith|0
+11/05/1982|Kempsville|27|Norview|13
+11/12/1982|First Colonial|16|Norcom|15
+11/12/1982|Lake Taylor|17|Hampton|14
+11/19/1982|Lake Taylor|23|First Colonial|7
+11/27/1982|Lake Taylor|20|Dinwiddie|18
+12/05/1982|George Washington|53|Lake Taylor|15
