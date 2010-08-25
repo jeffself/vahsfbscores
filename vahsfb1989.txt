@@ -1,0 +1,182 @@
+09/01/1989|Bayside|14|Kempsville|13
+09/01/1989|Bethel|35|Norview|13
+09/01/1989|Deep Creek|30|Cradock|14
+09/01/1989|First Colonial|38|Kellam|14
+09/01/1989|Gloucester|28|John Yeates|0
+09/01/1989|Granby|7|Booker T. Washington|0
+09/01/1989|Great Bridge|27|Manor|14
+09/01/1989|Green Run|35|Salem(VB)|6
+09/01/1989|Indian River|10|Norcom|7
+09/01/1989|John F. Kennedy|37|Greensville County|0
+09/01/1989|Oscar Smith|14|Churchland|0
+09/01/1989|Princess Anne|13|Cox|12
+09/01/1989|Warwick|37|Phoebus|7
+09/01/1989|Woodrow Wilson|38|Western Branch|0
+09/08/1989|Bayside|20|Cox|13
+09/08/1989|First Colonial|42|Granby|14
+09/08/1989|Forest Glen|14|Suffolk|8
+09/08/1989|Great Bridge|26|Kempsville|17
+09/08/1989|Green Run|26|Deep Creek|6
+09/08/1989|Indian River|19|Cradock|8
+09/08/1989|John F. Kennedy|21|Smithfield|8
+09/08/1989|John Yeates|14|Bruton|13
+09/08/1989|Lake Taylor|25|Kellam|6
+09/08/1989|Norcom|23|Oscar Smith|17
+09/08/1989|Norview|54|Booker T. Washington|6
+09/08/1989|Princess Anne|17|Salem(VB)|10
+09/08/1989|Warwick|3|Maury|0
+09/08/1989|Western Branch|13|Manor|0
+09/08/1989|Woodrow Wilson|48|Churchland|0
+09/15/1989|Cradock|12|Nansemond-Suffolk|6
+09/15/1989|Deep Creek|18|Indian River|13
+09/15/1989|First Colonial|47|Princess Anne|20
+09/15/1989|Forest Glen|14|Prince Edward|6
+09/15/1989|Granby|35|Bruton|16
+09/15/1989|Great Bridge|21|Oscar Smith|18
+09/15/1989|Green Run|14|Bayside|13
+09/15/1989|John Yeates|14|Suffolk|0
+09/15/1989|Kempsville|28|Lake Taylor|13
+09/15/1989|Maury|53|Cox|0
+09/15/1989|Norcom|41|Booker T. Washington|0
+09/15/1989|Norview|14|Kellam|7
+09/15/1989|Woodrow Wilson|34|Manor|0
+09/15/1989|York|26|John F. Kennedy|14
+09/22/1989|First Colonial|21|Bayside|17
+09/22/1989|Forest Glen|39|Windsor|0
+09/22/1989|Granby|13|Oscar Smith|6
+09/22/1989|Green Run|21|Cox|14
+09/22/1989|John F. Kennedy|49|Franklin|0
+09/22/1989|Kecoughtan|23|Norview|20
+09/22/1989|Kempsville|38|Kellam|30
+09/22/1989|Manor|14|Booker T. Washington|3
+09/22/1989|Maury|24|Lake Taylor|0
+09/22/1989|Princess Anne|21|Indian River|12
+09/22/1989|Salem(VB)|20|Norfolk Catholic|12
+09/22/1989|Southampton|14|John Yeates|13
+09/22/1989|Suffolk|20|Northumberland|0
+09/22/1989|Western Branch|34|Churchland|0
+09/29/1989|Bayside|35|Kellam|14
+09/29/1989|Forest Glen|8|Smithfield|7
+09/29/1989|Cox|22|Salem(VB)|10
+09/29/1989|Deep Creek|21|Churchland|6
+09/29/1989|First Colonial|37|Kempsville|28
+09/29/1989|Granby|21|Booker T. Washington|0
+09/29/1989|Great Bridge|26|Norcom|6
+09/29/1989|Green Run|22|Princess Anne|8
+09/29/1989|John F. Kennedy|41|Bruton|12
+09/29/1989|Maury|34|Norview|33
+09/29/1989|Smithfield|19|John Yeates|15
+09/29/1989|Suffolk|13|Essex|0
+09/29/1989|Western Branch|29|Cradock|6
+09/29/1989|Woodrow Wilson|41|Phoebus|0
+09/29/1989|York|32|Tabb|0
+10/06/1989|Bayside|16|Booker T. Washington|2
+10/06/1989|Deep Creek|14|Western Branch|6
+10/06/1989|First Colonial|33|Cox|6
+10/06/1989|Forest Glen|41|Northampton|0
+10/06/1989|Green Run|29|Kellam|7
+10/06/1989|Indian River|27|Great Bridge|18
+10/06/1989|John F. Kennedy|9|Forest Glen|0
+10/06/1989|Kecoughtan|12|Maury|3
+10/06/1989|Lake Taylor|21|Granby|13
+10/06/1989|Manor|13|Churchland|9
+10/06/1989|Nandua|21|Suffolk|8
+10/06/1989|Norview|40|Princess Anne|0
+10/06/1989|Oscar Smith|17|Cradock|0
+10/06/1989|Salem(VB)|17|Kempsville|6
+10/06/1989|Smithfield|50|Franklin|0
+10/06/1989|Warwick|23|Denbigh|20
+10/06/1989|Woodrow Wilson|34|Norcom|2
+10/07/1989|Hampton|21|Phoebus|3
+10/13/1989|Bayside|21|Maury|13
+10/13/1989|Churchland|21|Cradock|0
+10/13/1989|First Colonial|35|Salem(VB)|6
+10/13/1989|Great Bridge|19|Deep Creek|0
+10/13/1989|Green Run|6|Granby|0
+10/13/1989|John Yeates|16|John F. Kennedy|9
+10/13/1989|Kecoughtan|26|Phoebus|13
+10/13/1989|Kempsville|36|Cox|23
+10/13/1989|Lake Taylor|12|Norview|7
+10/13/1989|Menchville|12|Booker T. Washington|7
+10/13/1989|Norcom|13|Manor|10
+10/13/1989|Northampton|7|John Yeates|6
+10/13/1989|Oscar Smith|28|Western Branch|25
+10/13/1989|Princess Anne|25|Kellam|21
+10/13/1989|Suffolk|20|Chincoteague|0
+10/13/1989|Woodrow Wilson|19|Indian River|17
+10/20/1989|Bethel|20|Phoebus|14
+10/20/1989|Churchland|7|Norcom|0
+10/20/1989|First Colonial|34|Green Run|20
+10/20/1989|Great Bridge|56|Cradock|19
+10/20/1989|King & Queen|7|New Kent|0
+10/20/1989|Lake Taylor|14|Bayside|9
+10/20/1989|Maury|40|Booker T. Washington|19
+10/20/1989|Oscar Smith|28|Manor|0
+10/20/1989|Princess Anne|31|Kempsville|30
+10/20/1989|Smithfield|22|John F. Kennedy|0
+10/20/1989|Southampton|20|Forest Glen|0
+10/20/1989|Suffolk|19|Surry County|8
+10/20/1989|Western Branch|25|Indian River|13
+10/20/1989|Woodrow Wilson|22|Deep Creek|0
+10/23/1989|Chancellor|10|Courtland|7
+10/27/1989|Churchland|20|Indian River|17
+10/27/1989|Deep Creek|12|Norcom|0
+10/27/1989|Great Bridge|35|Western Branch|12
+10/27/1989|Kellam|24|Cox|17
+10/27/1989|John F. Kennedy|17|Northampton|7
+10/27/1989|John Yeates|40|Franklin|12
+10/27/1989|Manor|34|Cradock|26
+10/27/1989|Maury|20|First Colonial|16
+10/27/1989|Norview|28|Granby|0
+10/27/1989|Poquoson|7|Forest Glen|0
+10/27/1989|Princess Anne|40|Lake Taylor|14
+10/27/1989|Salem(VB)|34|Manteo,NC|0
+10/27/1989|Sussex Central|42|Suffolk|8
+10/27/1989|Woodrow Wilson|27|Oscar Smith|16
+10/28/1989|Kecoughtan|17|Warwick|0
+11/03/1989|Bayside|29|Salem(VB)|0
+11/03/1989|Booker T. Washington|19|Franklin County|18
+11/03/1989|Deep Creek|24|Oscar Smith|13
+11/03/1989|First Colonial|32|Lake Taylor|16
+11/03/1989|Forest Glen|27|Franklin|8
+11/03/1989|Granby|25|Cox|21
+11/03/1989|Great Bridge|28|Churchland|0
+11/03/1989|Green Run|25|Kempsville|20
+11/03/1989|Hampton|54|Bethel|6
+11/03/1989|Indian River|28|Manor|20
+11/03/1989|Kellam|42|Menchville|29
+11/03/1989|John Yeates|22|Arcadia|0
+11/03/1989|Norcom|15|Western Branch|10
+11/03/1989|Southampton|27|John F. Kennedy|21
+11/03/1989|Suffolk|24|Windsor|8
+11/03/1989|Woodrow Wilson|41|Cradock|12
+11/10/1989|Forest Glen|14|John Yeates|8
+11/10/1989|Green Run|31|Norview|21
+11/10/1989|Kempsville|21|Western Branch|6
+11/10/1989|Lake Taylor|27|Booker T. Washington|0
+11/10/1989|Manor|10|Deep Creek|5
+11/10/1989|Maury|23|Granby|0
+11/10/1989|Norcom|20|Cradock|0
+11/10/1989|Oscar Smith|20|Indian River|19
+11/10/1989|Phoebus|33|Cox|7
+11/10/1989|Princess Anne|10|Bayside|9
+11/10/1989|Salem(VB)|29|Kellam|28
+11/10/1989|Woodrow Wilson|20|Great Bridge|0
+11/10/1989|York|49|John F. Kennedy|0
+11/17/1989|First Colonial|20|Maury|0
+11/17/1989|Hampton|33|Great Bridge|8
+11/17/1989|Warwick|27|Deep Creek|0
+11/17/1989|Woodrow Wilson|35|Lake Taylor|0
+11/18/1989|Courtland|28|Park View(St)|13
+11/18/1989|King & Queen|21|Mathews|13
+11/18/1989|Tabb|12|York|0
+11/24/1989|First Colonial|9|Hampton|7
+11/24/1989|Woodrow Wilson|21|Warwick|14
+11/25/1989|Central(L)|26|Sussex Central|22
+11/25/1989|Courtland|28|Tabb|7
+11/25/1989|Madison County|10|King & Queen|6
+11/25/1989|Southampton|21|Chancellor|0
+12/02/1989|West Potomac|21|First Colonial|7
+12/02/1989|Woodrow Wilson|35|J.E.B. Stuart|30
+12/16/1989|Woodrow Wilson|20|Potomac|0
+12/16/1989|West Potomac|17|Highland Springs|14
