@@ -1,0 +1,116 @@
+09/02/1983|Bethel|17|Green Run|14
+09/02/1983|Cox|27|Princess Anne|26
+09/02/1983|Cradock|2|Deep Creek|0
+09/02/1983|First Colonial|10|Kellam|7
+09/02/1983|Indian River|24|Norcom|13
+09/02/1983|Kempsville|33|Bayside|13
+09/02/1983|Lafayette|20|Granby|0
+09/02/1983|Lake Taylor|16|Booker T. Washington|0
+09/02/1983|Manor|6|Great Bridge|0
+09/02/1983|Maury|21|Norview|17
+09/02/1983|Oscar Smith|25|Churchland|6
+09/02/1983|Western Branch|6|Woodrow Wilson|0
+09/09/1983|Bayside|8|Cox|7
+09/09/1983|Booker T. Washington|14|Norview|7
+09/09/1983|First Colonial|23|Granby|6
+09/09/1983|Great Bridge|19|Princess Anne|7
+09/09/1983|Green Run|19|Deep Creek|13
+09/09/1983|Indian River|21|Cradock|6
+09/09/1983|Kellam|16|Maury|7
+09/09/1983|Kempsville|7|Lake Taylor|6
+09/09/1983|Manor|10|Western Branch|7
+09/09/1983|Norcom|7|Oscar Smith|7
+09/09/1983|Woodrow Wilson|19|Churchland|7
+09/16/1983|Churchland|6|Western Branch|0
+09/16/1983|Ferguson|16|Granby|14
+09/16/1983|First Colonial|54|Princess Anne|21
+09/16/1983|Great Bridge|17|Oscar Smith|14
+09/16/1983|Green Run|27|Bayside|0
+09/16/1983|Indian River|10|Deep Creek|7
+09/16/1983|Kellam|7|Norview|6
+09/16/1983|Lake Taylor|27|Kecoughtan|13
+09/16/1983|Maury|21|Cox|20
+09/16/1983|Norcom|13|Booker T. Washington|8
+09/16/1983|Woodrow Wilson|6|Manor|0
+09/23/1983|Deep Creek|6|Churchland|2
+09/23/1983|First Colonial|28|Bayside|24
+09/23/1983|Granby|14|Menchville|13
+09/23/1983|Great Bridge|35|Norcom|0
+09/23/1983|Green Run|34|Cox|7
+09/23/1983|Indian River|20|Princess Anne|12
+09/23/1983|Kempsville|24|Kellam|0
+09/23/1983|Lake Taylor|17|Maury|17
+09/23/1983|Manor|12|Booker T. Washington|8
+09/23/1983|Oscar Smith|7|Norview|6
+09/23/1983|Western Branch|14|Cradock|0
+09/30/1983|Bayside|14|Kellam|7
+09/30/1983|Deep Creek|13|Western Branch|0
+09/30/1983|Granby|14|Booker T. Washington|9
+09/30/1983|Great Bridge|33|Indian River|3
+09/30/1983|Green Run|24|Princess Anne|13
+09/30/1983|Kempsville|10|First Colonial|7
+09/30/1983|Lake Taylor|41|Cox|8
+09/30/1983|Manor|21|Churchland|0
+09/30/1983|Oscar Smith|6|Cradock|2
+09/30/1983|Norcom|26|Woodrow Wilson|6
+09/30/1983|Norview|20|Kecoughtan|14
+10/07/1983|Bayside|6|Booker T. Washington|0
+10/07/1983|Cradock|15|Churchland|13
+10/07/1983|First Colonial|28|Cox|21
+10/07/1983|Great Bridge|32|Deep Creek|6
+10/07/1983|Green Run|27|Kellam|9
+10/07/1983|Indian River|12|Woodrow Wilson|8
+10/07/1983|Kempsville|27|Maury|16
+10/07/1983|Lake Taylor|36|Granby|14
+10/07/1983|Manor|14|Norcom|7
+10/07/1983|Norview|20|Princess Anne|0
+10/07/1983|Western Branch|23|Oscar Smith|20
+10/14/1983|Cradock|7|Great Bridge|0
+10/14/1983|Deep Creek|6|Woodrow Wilson|2
+10/14/1983|First Colonial|21|Booker T. Washington|6
+10/14/1983|Green Run|29|Granby|9
+10/14/1983|Indian River|25|Western Branch|0
+10/14/1983|Kellam|14|Princess Anne|6
+10/14/1983|Kempsville|37|Cox|6
+10/14/1983|Maury|23|Bayside|0
+10/14/1983|Norcom|34|Churchland|13
+10/14/1983|Norview|10|Lake Taylor|7
+10/14/1983|Oscar Smith|10|Manor|0
+10/21/1983|Cradock|0|Manor|0
+10/21/1983|Deep Creek|19|Norcom|6
+10/21/1983|Granby|20|Norview|15
+10/21/1983|Great Bridge|26|Western Branch|14
+10/21/1983|Green Run|21|First Colonial|13
+10/21/1983|Indian River|33|Churchland|6
+10/21/1983|Kellam|11|Cox|7
+10/21/1983|Kempsville|49|Princess Anne|14
+10/21/1983|Lake Taylor|40|Bayside|6
+10/21/1983|Maury|12|Booker T. Washington|8
+10/21/1983|Oscar Smith|13|Woodrow Wilson|7
+10/28/1983|Cox|12|Booker T. Washington|7
+10/28/1983|Great Bridge|43|Churchland|0
+10/28/1983|Indian River|6|Manor|6
+10/28/1983|Kellam|14|Granby|13
+10/28/1983|Kempsville|23|Green Run|6
+10/28/1983|Lake Taylor|30|Princess Anne|0
+10/28/1983|Maury|23|First Colonial|17
+10/28/1983|Norcom|14|Western Branch|14
+10/28/1983|Norview|10|Bayside|6
+10/28/1983|Oscar Smith|18|Deep Creek|0
+10/28/1983|Woodrow Wilson|6|Cradock|3
+11/04/1983|Bayside|26|Princess Anne|13
+11/04/1983|Cox|14|Western Branch|0
+11/04/1983|Deep Creek|12|Manor|6
+11/04/1983|Granby|17|Maury|16
+11/04/1983|Great Bridge|32|Woodrow Wilson|20
+11/04/1983|Kellam|20|Booker T. Washington|15
+11/04/1983|Kempsville|34|Norview|7
+11/04/1983|Lake Taylor|14|First Colonial|9
+11/04/1983|Norcom|13|Cradock|8
+11/04/1983|Oscar Smith|3|Indian River|0
+11/04/1983|Warwick|38|Churchland|13
+11/11/1983|Great Bridge|17|Hampton|14
+11/11/1983|Kempsville|24|Lake Taylor|10
+11/18/1983|Kempsville|27|Great Bridge|21
+11/26/1983|Kempsville|13|Hopewell|6
+12/03/1983|Mount Vernon|10|Kempsville|0
