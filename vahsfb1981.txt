@@ -1,0 +1,120 @@
+09/04/1981|Kempsville|39|Bayside|0
+09/04/1981|Booker T. Washington|14|Lake Taylor|12
+09/04/1981|Churchland|15|Oscar Smith|0
+09/04/1981|Princess Anne|20|Cox|8
+09/04/1981|Deep Creek|34|Cradock|0
+09/04/1981|First Colonial|24|Kellam|0
+09/04/1981|Granby|0|Lafayette|0
+09/04/1981|Great Bridge|34|Manor|16
+09/04/1981|Green Run|14|Marshall-Walker|12
+09/04/1981|Indian River|33|Norcom|13
+09/04/1981|Norview|13|Maury|8
+09/04/1981|Woodrow Wilson|32|Western Branch|0
+09/11/1981|Bayside|14|Cox|8
+09/11/1981|Norview|13|Booker T. Washington|2
+09/11/1981|Woodrow Wilson|7|Churchland|0
+09/11/1981|Indian River|40|Cradock|0
+09/11/1981|Green Run|12|Deep Creek|0
+09/11/1981|First Colonial|28|Granby|19
+09/11/1981|Princess Anne|21|Great Bridge|6
+09/11/1981|Kellam|14|Maury|6
+09/11/1981|Kempsville|24|Lake Taylor|2
+09/11/1981|Western Branch|27|Manor|20
+09/11/1981|Norcom|20|Oscar Smith|12
+09/18/1981|Bayside|7|Green Run|0
+09/18/1981|Norcom|12|Booker T. Washington|0
+09/18/1981|Churchland|12|Western Branch|7
+09/18/1981|Cox|28|Maury|0
+09/18/1981|Cradock|28|Norfolk Catholic|8
+09/18/1981|Deep Creek|6|Indian River|6
+09/18/1981|First Colonial|35|Princess Anne|13
+09/18/1981|Granby|20|Ferguson|0
+09/18/1981|Oscar Smith|26|Great Bridge|22
+09/18/1981|Norview|13|Kellam|0
+09/18/1981|Kempsville|42|Douglas Freeman|6
+09/18/1981|Kecoughtan|20|Lake Taylor|7
+09/18/1981|Woodrow Wilson|47|Manor|7
+09/25/1981|First Colonial|35|Bayside|0
+09/25/1981|Booker T. Washington|34|Manor|0
+09/25/1981|Deep Creek|14|Churchland|7
+09/25/1981|Green Run|23|Cox|6
+09/25/1981|Western Branch|20|Cradock|0
+09/25/1981|Menchville|21|Granby|0
+09/25/1981|Great Bridge|11|Norcom|10
+09/25/1981|Princess Anne|9|Indian River|8
+09/25/1981|Kempsville|42|Kellam|6
+09/25/1981|Lake Taylor|14|Maury|7
+09/25/1981|Norview|7|Oscar Smith|0
+10/02/1981|Bayside|10|Kellam|3
+10/02/1981|Granby|3|Booker T. Washington|0
+10/02/1981|Churchland|26|Manor|0
+10/02/1981|Cox|15|Lake Taylor|6
+10/02/1981|Oscar Smith|18|Cradock|0
+10/02/1981|Deep Creek|24|Western Branch|14
+10/02/1981|First Colonial|21|Kempsville|21
+10/02/1981|Indian River|17|Great Bridge|3
+10/02/1981|Highland Springs|33|Maury|8
+10/02/1981|Woodrow Wilson|14|Norcom|0
+10/02/1981|Kecoughtan|18|Norview|16
+10/02/1981|Princess Anne|18|Green Run|7
+10/09/1981|Bayside|29|Booker T. Washington|6
+10/09/1981|Churchland|41|Cradock|7
+10/09/1981|First Colonial|28|Cox|0
+10/09/1981|Great Bridge|26|Deep Creek|23
+10/09/1981|Granby|21|Lake Taylor|0
+10/09/1981|Green Run|22|Kellam|0
+10/09/1981|Woodrow Wilson|14|Indian River|0
+10/09/1981|Kempsville|53|Maury|6
+10/09/1981|Norcom|41|Manor|6
+10/09/1981|Princess Anne|30|Norview|19
+10/09/1981|Western Branch|13|Oscar Smith|0
+10/16/1981|Bayside|27|Maury|0
+10/16/1981|First Colonial|40|Booker T. Washington|0
+10/16/1981|Churchland|34|Norcom|0
+10/16/1981|Great Bridge|30|Cradock|19
+10/16/1981|Woodrow Wilson|21|Deep Creek|17
+10/16/1981|Green Run|15|Granby|6
+10/16/1981|Indian River|22|Western Branch|0
+10/16/1981|Princess Anne|32|Kellam|0
+10/16/1981|Kempsville|55|Cox|8
+10/16/1981|Norview|21|Lake Taylor|6
+10/16/1981|Oscar Smith|19|Manor|0
+10/23/1981|Lake Taylor|7|Bayside|6
+10/23/1981|Booker T. Washington|20|Maury|2
+10/23/1981|Churchland|9|Indian River|0
+10/23/1981|Kellam|23|Cox|21
+10/23/1981|Cradock|13|Manor|6
+10/23/1981|Norcom|20|Deep Creek|7
+10/23/1981|First Colonial|24|Green Run|14
+10/23/1981|Granby|10|Norview|7
+10/23/1981|Great Bridge|16|Western Branch|8
+10/23/1981|Kempsville|58|Princess Anne|20
+10/23/1981|Oscar Smith|18|Woodrow Wilson|13
+10/30/1981|Bayside|8|Norview|7
+10/30/1981|Cox|12|Booker T. Washington|6
+10/30/1981|Churchland|13|Great Bridge|13
+10/30/1981|Woodrow Wilson|46|Cradock|0
+10/30/1981|Deep Creek|7|Oscar Smith|6
+10/30/1981|First Colonial|38|Maury|6
+10/30/1981|Granby|20|Kellam|14
+10/30/1981|Kempsville|17|Green Run|8
+10/30/1981|Indian River|29|Manor|0
+10/30/1981|Princess Anne|28|Lake Taylor|6
+10/30/1981|Norcom|35|Western Branch|0
+11/06/1981|Princess Anne|20|Bayside|19
+11/06/1981|Kellam|20|Booker T. Washington|14
+11/06/1981|Churchland|44|Warwick|0
+11/06/1981|Western Branch|7|Cox|6
+11/06/1981|Norcom|28|Cradock|0
+11/06/1981|Deep Creek|25|Manor|0
+11/06/1981|First Colonial|31|Lake Taylor|0
+11/06/1981|Granby|7|Maury|0
+11/06/1981|Great Bridge|10|Woodrow Wilson|7
+11/06/1981|Green Run|42|T.C. Williams|12
+11/06/1981|Indian River|29|Oscar Smith|15
+11/06/1981|Kempsville|34|Norview|7
+11/13/1981|Hampton|48|Granby|7
+11/13/1981|First Colonial|35|Woodrow Wilson|0
+11/20/1981|Hampton|21|First Colonial|17
+11/28/1981|Hampton|28|Highland Springs|0
+12/05/1981|Hampton|15|George Washington|9
