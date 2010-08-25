@@ -1,0 +1,268 @@
+08/29/1998|Heritage(NN)|14|Hampton|8
+08/29/1998|Phoebus|10|Warwick|0
+08/30/1998|Bethel|35|Gloucester|14
+08/30/1998|Menchville|8|Denbigh|3
+08/31/1998|Deep Creek|34|Booker T. Washington|8
+08/31/1998|First Colonial|14|Maury|0
+08/31/1998|Kellam|7|Great Bridge|6
+08/31/1998|Granby|36|Cox|0
+08/31/1998|Lake Taylor|13|Salem(VB)|0
+09/03/1998|Norview|14|Bethel|7
+09/03/1998|Western Branch|28|Norcom|14
+09/04/1998|Bayside|28|Indian River|6
+09/04/1998|Deep Creek|36|Woodrow Wilson|14
+09/04/1998|Green Run|25|Maury|14
+09/04/1998|Hampton|47|Kecoughtan|0
+09/04/1998|Hickory|28|Ocean Lakes|15
+09/04/1998|Heritage(NN)|24|Warwick|3
+09/04/1998|Kempsville|10|Great Bridge|3
+09/04/1998|Nansemond River|13|Lakeland|0
+09/04/1998|Oscar Smith|9|Churchland|7
+09/04/1998|Princess Anne|15|Granby|14
+09/04/1998|Tallwood|17|Lake Taylor|7
+09/05/1998|Phoebus|21|Denbigh|6
+09/05/1998|Woodside|32|Menchville|0
+09/11/1998|Bethel|24|Woodside|7
+09/11/1998|First Colonial|28|Kempsville|7
+09/11/1998|Green Run|12|Princess Anne|7
+09/11/1998|Heritage(NN)|24|Lakeland|0
+09/11/1998|Hickory|29|Norcom|0
+09/11/1998|Indian River|17|Norview|0
+09/11/1998|Maury|20|Great Bridge|19
+09/11/1998|Menchville|10|Gloucester|6
+09/11/1998|Nansemond River|13|Churchland|12
+09/11/1998|Ocean Lakes|7|Kellam|6
+09/11/1998|Oscar Smith|13|Granby|6
+09/11/1998|Phoebus|10|Kecoughtan|6
+09/11/1998|Salem(VB)|14|Bayside|7
+09/11/1998|Tallwood|56|Cox|20
+09/11/1998|Western Branch|32|Woodrow Wilson|0
+09/12/1998|Denbigh|21|Booker T. Washington|0
+09/12/1998|Hampton|47|Warwick|7
+09/18/1998|Deep Creek|20|Norcom|12
+09/18/1998|First Colonial|9|Princess Anne|6
+09/18/1998|Cox|28|Bayside|20
+09/18/1998|Green Run|13|Kellam|10
+09/18/1998|Hampton|9|Denbigh|3
+09/18/1998|Heritage(NN)|23|Kecoughtan|0
+09/18/1998|Indian River|22|Booker T. Washington|19
+09/18/1998|Kempsville|19|Ocean Lakes|7
+09/18/1998|Lake Taylor|16|Hickory|10
+09/18/1998|Nansemond River|27|Woodrow Wilson|12
+09/18/1998|Norview|33|Oscar Smith|24
+09/18/1998|Tallwood|23|Salem(VB)|3
+09/18/1998|Western Branch|28|Churchland|14
+09/19/1998|Bethel|19|Menchville|0
+09/19/1998|Phoebus|42|Gloucester|0
+09/19/1998|Warwick|14|Lakeland|6
+09/24/1998|Woodrow Wilson|28|Maury|25
+09/25/1998|Bayside|32|Kempsville|27
+09/25/1998|Booker T. Washington|8|Lake Taylor|6
+09/25/1998|Churchland|30|Granby|14
+09/25/1998|Deep Creek|20|Oscar Smith|3
+09/25/1998|Cox|20|Princess Anne|19
+09/25/1998|Great Bridge|33|Lakeland|19
+09/25/1998|Green Run|28|Ocean Lakes|13
+09/25/1998|Nansemond River|31|Indian River|12
+09/25/1998|Norview|33|Norcom|6
+09/25/1998|Phoebus|27|Bethel|12
+09/25/1998|Salem(VB)|21|Kellam|10
+09/25/1998|Tallwood|28|First Colonial|0
+09/25/1998|Warwick|23|Denbigh|6
+09/25/1998|Western Branch|42|Hickory|29
+09/26/1998|Hampton|46|Woodside|0
+09/26/1998|Heritage(NN)|26|Gloucester|0
+10/02/1998|Bayside|42|Green Run|32
+10/02/1998|Churchland|21|Booker T. Washington|14
+10/02/1998|Deep Creek|20|Hickory|10
+10/02/1998|First Colonial|20|Salem(VB)|10
+10/02/1998|Granby|20|Lake Taylor|0
+10/02/1998|Indian River|18|Great Bridge|17
+10/02/1998|Kecoughtan|10|Menchville|7
+10/02/1998|Kempsville|35|Princess Anne|0
+10/02/1998|Maury|10|Norcom|7
+10/02/1998|Nansemond River|17|Oscar Smith|14
+10/02/1998|Ocean Lakes|12|Cox|10
+10/02/1998|Phoebus|26|Heritage(NN)|6
+10/02/1998|Tallwood|31|Kellam|7
+10/02/1998|Western Branch|14|Lakeland|12
+10/02/1998|Woodside|24|Gloucester|0
+10/03/1998|Bethel|20|Denbigh|0
+10/03/1998|Norview|22|Woodrow Wilson|0
+10/09/1998|Churchland|51|Lake Taylor|29
+10/09/1998|Deep Creek|7|Nansemond River|0
+10/09/1998|First Colonial|28|Green Run|6
+10/09/1998|Kellam|20|Cox|7
+10/09/1998|Granby|14|Booker T. Washington|0
+10/09/1998|Hampton|21|Bethel|0
+10/09/1998|Heritage(NN)|32|Woodside|10
+10/09/1998|Hickory|34|Lakeland|28
+10/09/1998|Norcom|21|Woodrow Wilson|6
+10/09/1998|Norview|6|Maury|2
+10/09/1998|Oscar Smith|6|Great Bridge|2
+10/09/1998|Salem(VB)|27|Princess Anne|7
+10/09/1998|Tallwood|14|Kempsville|7
+10/09/1998|Warwick|20|Gloucester|6
+10/09/1998|Western Branch|13|Indian River|10
+10/10/1998|Denbigh|10|Kecoughtan|7
+10/10/1998|Ocean Lakes|21|Bayside|20
+10/10/1998|Phoebus|24|Menchville|6
+10/16/1998|Deep Creek|47|Lakeland|8
+10/16/1998|First Colonial|35|Cox|14
+10/16/1998|Granby|24|Norcom|20
+10/16/1998|Hampton|49|Gloucester|0
+10/16/1998|Heritage(NN)|40|Denbigh|0
+10/16/1998|Hickory|29|Indian River|13
+10/16/1998|Kempsville|20|Kellam|7
+10/16/1998|Lake Taylor|20|Norview|8
+10/16/1998|Maury|18|Churchland|16
+10/16/1998|Nansemond River|20|Great Bridge|19
+10/16/1998|Ocean Lakes|20|Salem(VB)|13
+10/16/1998|Princess Anne|16|Bayside|12
+10/16/1998|Tallwood|23|Green Run|0
+10/16/1998|Western Branch|23|Oscar Smith|3
+10/16/1998|Woodrow Wilson|12|Booker T. Washington|0
+10/17/1998|Phoebus|34|Woodside|0
+10/17/1998|Warwick|23|Kecoughtan|6
+10/23/1998|Deep Creek|36|Great Bridge|0
+10/23/1998|Denbigh|20|Woodside|7
+10/23/1998|First Colonial|21|Bayside|20
+10/23/1998|Granby|26|Norview|6
+10/23/1998|Green Run|20|Salem(VB)|7
+10/23/1998|Hampton|10|Phoebus|7
+10/23/1998|Hickory|9|Oscar Smith|6
+10/23/1998|Indian River|22|Lakeland|6
+10/23/1998|Kempsville|38|Cox|23
+10/23/1998|Lake Taylor|19|Woodrow Wilson|0
+10/23/1998|Norcom|18|Churchland|14
+10/23/1998|Princess Anne|21|Kellam|7
+10/23/1998|Tallwood|29|Ocean Lakes|3
+10/23/1998|Western Branch|7|Nansemond River|6
+10/24/1998|Bethel|21|Kecoughtan|6
+10/24/1998|Maury|6|Booker T. Washington|0
+10/24/1998|Warwick|24|Menchville|21
+10/30/1998|Bayside|19|Kellam|13
+10/30/1998|Bethel|22|Warwick|17
+10/30/1998|Churchland|28|Norview|8
+10/30/1998|Deep Creek|35|Indian River|12
+10/30/1998|Cox|34|Green Run|15
+10/30/1998|Gloucester|3|Denbigh|0
+10/30/1998|Granby|24|Woodrow Wilson|6
+10/30/1998|Heritage(NN)|53|Menchville|0
+10/30/1998|Kecoughtan|17|Woodside|7
+10/30/1998|Maury|6|Lake Taylor|0
+10/30/1998|Nansemond River|25|Hickory|17
+10/30/1998|Norcom|26|Booker T. Washington|6
+10/30/1998|Ocean Lakes|21|First Colonial|19
+10/30/1998|Oscar Smith|19|Lakeland|12
+10/30/1998|Salem(VB)|7|Kempsville|3
+10/30/1998|Tallwood|26|Princess Anne|13
+10/30/1998|Western Branch|27|Great Bridge|10
+11/06/1998|Booker T. Washington|7|Norview|6
+11/06/1998|Churchland|51|Woodrow Wilson|6
+11/06/1998|Deep Creek|7|Western Branch|0
+11/06/1998|First Colonial|20|Kellam|8
+11/06/1998|Granby|32|Maury|21
+11/06/1998|Great Bridge|21|Hickory|7
+11/06/1998|Hampton|62|Menchville|0
+11/06/1998|Indian River|22|Oscar Smith|0
+11/06/1998|Kecoughtan|24|Gloucester|13
+11/06/1998|Kempsville|35|Green Run|27
+11/06/1998|Lake Taylor|26|Norcom|23
+11/06/1998|Nansemond River|28|Lakeland|14
+11/06/1998|Princess Anne|13|Ocean Lakes|12
+11/06/1998|Salem(VB)|26|Cox|21
+11/06/1998|Tallwood|35|Bayside|0
+11/06/1998|Warwick|22|Woodside|0
+11/07/1998|Heritage(NN)|27|Bethel|9
+11/13/1998|Hampton|35|Deep Creek|26
+11/13/1998|Phoebus|17|Granby|6
+11/13/1998|Tallwood|35|Kempsville|15
+11/13/1998|Western Branch|20|First Colonial|7
+11/13/1998|Atlee|23|Petersburg|20
+11/13/1998|Varina|49|Mills Godwin|20
+11/13/1998|Centreville|40|Langley|20
+11/13/1998|Oakton|22|Lake Braddock|0
+11/13/1998|C.D. Hylton|49|Potomac|6
+11/13/1998|Gar-Field|6|North Stafford|3
+11/13/1998|Huguenot|30|Monacan|22
+11/13/1998|Patrick Henry(A)|24|Hopewell|23
+11/13/1998|West Potomac|27|Yorktown|21
+11/13/1998|Park View(S)|47|Mount Vernon|21
+11/13/1998|Amherst County|24|E.C. Glass|21
+11/13/1998|Culpeper County|14|William Fleming|13
+11/13/1998|Lafayette|52|Spotsylvania|18
+11/13/1998|Orange|38|Poquoson|0
+11/13/1998|Sherando|24|Spotswood|14
+11/13/1998|Liberty(Beal)|28|Charlottesville|14
+11/13/1998|Salem|40|Jefferson Forest|0
+11/13/1998|Heritage(L)|34|Christiansburg|0
+11/13/1998|Martinsville|36|Patrick County|8
+11/13/1998|Richlands|24|Lee|12
+11/13/1998|Nottoway|58|James Monroe|7
+11/13/1998|Matoaca|21|Bruton|18
+11/13/1998|Handley|28|Fort Defiance|16
+11/13/1998|Waynesboro|17|Broadway|7
+11/13/1998|Tunstall|21|Gretna|12
+11/13/1998|Rustburg|37|Lord Botetourt|20
+11/13/1998|Lebanon|34|Laurel Park|14
+11/13/1998|Graham|28|Bassett|7
+11/13/1998|New Kent|30|King William|6
+11/13/1998|Essex|48|Arcadia|17
+11/13/1998|Madison County|47|Central(L)|14
+11/13/1998|Powhatan|28|Buffalo Gap|20
+11/13/1998|John Battle|31|Floyd County|12
+11/13/1998|Giles|29|Grayson|21
+11/13/1998|Powell Valley|38|Honaker|19
+11/13/1998|Clintwood|35|Haysi|20
+11/13/1998|Sussex Central|14|West Point|6
+11/13/1998|Surry|32|Charles City|13
+11/13/1998|Strasburg|15|Riverheads|7
+11/13/1998|Luray|51|George Mason|29
+11/13/1998|Covington|31|Pocahontas|6
+11/13/1998|Narrows|8|Galax|0
+11/13/1998|Appalachia|35|Rye Cove|18
+11/13/1998|J.I. Burton|34|Twin Springs|12
+11/20/1998|Hampton|28|Phoebus|6
+11/20/1998|Tallwood|41|Western Branch|0
+11/20/1998|Varina|10|Atlee|0
+11/20/1998|Centreville|21|Oakton|19
+11/20/1998|C.D. Hylton|46|Gar-Field|15
+11/20/1998|Huguenot|33|Patrick Henry(A)|7
+11/20/1998|West Potomac|42|Park View(S)|8
+11/20/1998|Amherst County|20|Culpeper County|10
+11/20/1998|Lafayette|37|Orange|21
+11/20/1998|Liberty(Beal)|24|Sherando|0
+11/20/1998|Salem|26|Heritage(L)|0
+11/20/1998|Martinsville|42|Richlands|13
+11/20/1998|Nottoway|26|Matoaca|20
+11/20/1998|Handley|20|Waynesboro|13
+11/20/1998|Rustburg|14|Tunstall|9
+11/20/1998|Graham|41|Lebanon|20
+11/20/1998|New Kent|22|Essex|0
+11/20/1998|Madison County|21|Powhatan|15
+11/20/1998|Giles|30|John Battle|14
+11/20/1998|Powell Valley|27|Clintwood|14
+11/20/1998|Surry|39|Sussex Central|14
+11/20/1998|Strasburg|28|Luray|21
+11/20/1998|Covington|41|Narrows|8
+11/20/1998|Appalachia|35|Rye Cove|18
+11/20/1998|J.I. Burton|34|Appalachia|13
+11/28/1998|Varina|31|Tallwood|13
+11/28/1998|C.D. Hylton|24|Centreville|7
+11/28/1998|Amherst County|26|West Potomac|13
+11/28/1998|Hampton|38|Huguenot|8
+11/28/1998|Lafayette|21|Liberty(Beal)|7
+11/28/1998|Salem|17|Martinsville|0
+11/28/1998|Rustburg|42|Graham|7
+11/28/1998|Nottoway|18|Handley|13
+11/28/1998|Powell Valley|40|Giles|0
+11/28/1998|Madison County|44|New Kent|22
+11/28/1998|Surry|28|Strasburg|0
+11/28/1998|J.I. Burton|25|Covington|13
+12/05/1998|C.D. Hylton|21|Varina|13
+12/05/1998|Hampton|35|Amherst County|0
+12/05/1998|Salem|28|Lafayette|18
+12/05/1998|Nottoway|44|Rustburg|27
+12/05/1998|Powell Valley|27|Madison County|14
+12/05/1998|Surry|46|J.I. Burton|6
