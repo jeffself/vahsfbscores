@@ -1,0 +1,119 @@
+09/06/1985|Kempsville|34|Bayside|0
+09/06/1985|Lake Taylor|24|Booker T. Washington|8
+09/06/1985|Oscar Smith|14|Churchland|0
+09/06/1985|Princess Anne|12|Cox|7
+09/06/1985|Deep Creek|23|Cradock|22
+09/06/1985|Kellam|23|First Colonial|7
+09/06/1985|Menchville|28|Granby|7
+09/06/1985|Great Bridge|7|Manor|7
+09/06/1985|Hampton|7|Green Run|6
+09/06/1985|Indian River|17|Norcom|3
+09/06/1985|Maury|14|Denbigh|7
+09/06/1985|Norview|12|Ferguson|0
+09/06/1985|Western Branch|13|Woodrow Wilson|13
+09/13/1985|Cox|10|Bayside|6
+09/13/1985|Norview|33|Booker T. Washington|8
+09/13/1985|Woodrow Wilson|14|Churchland|8
+09/13/1985|Indian River|32|Cradock|0
+09/13/1985|Deep Creek|17|Green Run|13
+09/13/1985|First Colonial|35|Granby|6
+09/13/1985|Princess Anne|24|Great Bridge|20
+09/13/1985|Kellam|10|Dinwiddie|6
+09/13/1985|Kempsville|13|Lake Taylor|12
+09/13/1985|Western Branch|19|Manor|0
+09/13/1985|Maury|13|Phoebus|7
+09/13/1985|Oscar Smith|7|Norcom|6
+09/20/1985|Green Run|9|Bayside|6
+09/20/1985|Norcom|15|Booker T. Washington|7
+09/20/1985|Western Branch|28|Churchland|7
+09/20/1985|Cox|0|Maury|0
+09/20/1985|Deep Creek|24|Indian River|14
+09/20/1985|First Colonial|34|Princess Anne|2
+09/20/1985|Lafayette|14|Granby|7
+09/20/1985|Great Bridge|8|Oscar Smith|7
+09/20/1985|Kellam|7|Norview|6
+09/20/1985|Kempsville|21|Bethel|13
+09/20/1985|Lake Taylor|26|Denbigh|8
+09/20/1985|Woodrow Wilson|32|Manor|12
+09/27/1985|First Colonial|27|Bayside|14
+09/27/1985|Manor|22|Booker T. Washington|18
+09/27/1985|Deep Creek|28|Churchland|7
+09/27/1985|Green Run|33|Cox|0
+09/27/1985|Cradock|14|Western Branch|8
+09/27/1985|Granby|13|Ferguson|6
+09/27/1985|Norcom|20|Great Bridge|14
+09/27/1985|Indian River|20|Princess Anne|6
+09/27/1985|Kempsville|17|Kellam|12
+09/27/1985|Lake Taylor|33|Maury|13
+09/27/1985|Norview|14|Oscar Smith|7
+10/04/1985|Kellam|12|Bayside|8
+10/04/1985|Booker T. Washington|25|Granby|0
+10/04/1985|Churchland|20|Manor|20
+10/04/1985|Cox|21|Lake Taylor|20
+10/04/1985|Cradock|14|Oscar Smith|12
+10/04/1985|Deep Creek|9|Western Branch|0
+10/04/1985|First Colonial|28|Kempsville|28
+10/04/1985|Indian River|19|Great Bridge|6
+10/04/1985|Princess Anne|26|Green Run|21
+10/04/1985|Norview|20|Maury|0
+10/04/1985|Woodrow Wilson|28|Norcom|13
+10/11/1985|Booker T. Washington|40|Bayside|14
+10/11/1985|Cradock|24|Churchland|15
+10/11/1985|First Colonial|28|Cox|26
+10/11/1985|Deep Creek|26|Great Bridge|12
+10/11/1985|Lake Taylor|20|Granby|14
+10/11/1985|Green Run|22|Kellam|2
+10/11/1985|Woodrow Wilson|29|Indian River|6
+10/11/1985|Kempsville|35|Maury|20
+10/11/1985|Norcom|13|Manor|6
+10/11/1985|Norview|14|Princess Anne|8
+10/11/1985|Western Branch|9|Oscar Smith|0
+10/18/1985|Maury|22|Bayside|6
+10/18/1985|First Colonial|27|Booker T. Washington|2
+10/18/1985|Norcom|2|Churchland|0
+10/18/1985|Kempsville|27|Cox|7
+10/18/1985|Cradock|20|Great Bridge|19
+10/18/1985|Woodrow Wilson|9|Deep Creek|6
+10/18/1985|Green Run|27|Granby|0
+10/18/1985|Indian River|27|Western Branch|0
+10/18/1985|Kellam|20|Princess Anne|15
+10/18/1985|Lake Taylor|12|Norview|2
+10/18/1985|Manor|30|Oscar Smith|13
+10/25/1985|Lake Taylor|12|Bayside|6
+10/25/1985|Booker T. Washington|27|Maury|7
+10/25/1985|Indian River|28|Churchland|0
+10/25/1985|Cox|13|Kellam|7
+10/25/1985|Cradock|20|Manor|14
+10/25/1985|Deep Creek|20|Norcom|14
+10/25/1985|Green Run|28|First Colonial|24
+10/25/1985|Granby|0|Norview|0
+10/25/1985|Great Bridge|21|Western Branch|21
+10/25/1985|Kempsville|29|Princess Anne|8
+10/25/1985|Woodrow Wilson|7|Oscar Smith|0
+11/01/1985|Bayside|0|Norview|0
+11/01/1985|Booker T. Washington|8|Cox|8
+11/01/1985|Churchland|10|Great Bridge|7
+11/01/1985|Cradock|18|Woodrow Wilson|16
+11/01/1985|Deep Creek|14|Oscar Smith|0
+11/01/1985|First Colonial|34|Maury|0
+11/01/1985|Kellam|49|Granby|12
+11/01/1985|Kempsville|14|Green Run|13
+11/01/1985|Indian River|7|Manor|0
+11/01/1985|Lake Taylor|13|Princess Anne|6
+11/01/1985|Norcom|14|Western Branch|0
+11/08/1985|Bayside|28|Princess Anne|3
+11/08/1985|Kellam|7|Booker T. Washington|6
+11/08/1985|Churchland|14|Western Branch|14
+11/08/1985|Cradock|12|Norcom|6
+11/08/1985|Deep Creek|26|Manor|20
+11/08/1985|Lake Taylor|40|First Colonial|28
+11/08/1985|Maury|12|Granby|7
+11/08/1985|Woodrow Wilson|23|Great Bridge|19
+11/08/1985|Green Run|33|Phoebus|2
+11/08/1985|Indian River|13|Oscar Smith|8
+11/08/1985|Kempsville|49|Norview|20
+11/15/1985|Hampton|34|Deep Creek|14
+11/15/1985|Kempsville|20|Lake Taylor|14
+11/22/1985|Hampton|25|Kempsville|13
+11/30/1985|Hampton|18|Monacan|0
+12/06/1985|Hampton|16|T.C. Williams|0
