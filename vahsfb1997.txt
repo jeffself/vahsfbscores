@@ -1,0 +1,267 @@
+08/28/1997|Cox|6|Granby|2
+08/28/1997|Indian River|33|Bayside|7
+08/28/1997|Lake Taylor|33|Salem(VB)|31
+08/29/1997|Bethel|18|Gloucester|7
+08/29/1997|Booker T. Washington|15|Deep Creek|6
+08/29/1997|Denbigh|30|Menchville|10
+08/29/1997|Great Bridge|21|Kellam|14
+08/29/1997|Hampton|48|Heritage(NN)|6
+08/29/1997|Maury|7|First Colonial|0
+08/29/1997|Woodside|28|Lakeland|13
+08/30/1997|Warwick|21|Phoebus|6
+09/05/1997|Bethel|28|Norview|7
+09/05/1997|Churchland|37|Oscar Smith|20
+09/05/1997|Deep Creek|42|Woodrow Wilson|18
+09/05/1997|Granby|8|Princess Anne|0
+09/05/1997|Green Run|27|Maury|21
+09/05/1997|Hampton|27|Kecoughtan|7
+09/05/1997|Kempsville|26|Great Bridge|19
+09/05/1997|Lakeland|18|Nansemond River|14
+09/05/1997|Menchville|24|Woodside|6
+09/05/1997|Ocean Lakes|33|Hickory|7
+09/05/1997|Tallwood|27|Lake Taylor|12
+09/05/1997|Western Branch|12|Norcom|7
+09/06/1997|Denbigh|32|Phoebus|14
+09/06/1997|Warwick|12|Heritage(NN)|8
+09/12/1997|Booker T. Washington|21|Denbigh|0
+09/12/1997|Churchland|28|Nansemond River|3
+09/12/1997|First Colonial|17|Kempsville|10
+09/12/1997|Kellam|7|Ocean Lakes|6
+09/12/1997|Granby|8|Oscar Smith|6
+09/12/1997|Green Run|33|Princess Anne|32
+09/12/1997|Hampton|34|Warwick|16
+09/12/1997|Indian River|19|Norview|13
+09/12/1997|Kecoughtan|21|Phoebus|7
+09/12/1997|Maury|33|Great Bridge|14
+09/12/1997|Norcom|34|Hickory|6
+09/12/1997|Salem(VB)|41|Bayside|6
+09/12/1997|Tallwood|26|Cox|0
+09/12/1997|Western Branch|39|Woodrow Wilson|6
+09/13/1997|Bethel|38|Woodside|0
+09/13/1997|Gloucester|27|Menchville|7
+09/19/1997|Bethel|13|Menchville|7
+09/19/1997|Booker T. Washington|20|Indian River|6
+09/19/1997|First Colonial|28|Princess Anne|7
+09/19/1997|Kellam|28|Green Run|7
+09/19/1997|Cox|14|Bayside|12
+09/19/1997|Hampton|41|Denbigh|6
+09/19/1997|Lake Taylor|33|Hickory|7
+09/19/1997|Lakeland|32|Warwick|18
+09/19/1997|Norcom|21|Deep Creek|7
+09/19/1997|Ocean Lakes|28|Kempsville|7
+09/19/1997|Oscar Smith|21|Norview|7
+09/19/1997|Phoebus|21|Gloucester|15
+09/19/1997|Tallwood|22|Salem(VB)|21
+09/19/1997|Western Branch|32|Churchland|7
+09/19/1997|Woodrow Wilson|20|Nansemond River|0
+09/20/1997|Kecoughtan|49|Heritage(NN)|6
+09/25/1997|Norview|23|Woodrow Wilson|12
+09/26/1997|Bayside|27|Kempsville|10
+09/26/1997|Churchland|13|Booker T. Washington|6
+09/26/1997|Deep Creek|34|Oscar Smith|8
+09/26/1997|First Colonial|16|Tallwood|6
+09/26/1997|Kellam|15|Salem(VB)|10
+09/26/1997|Gloucester|7|Heritage(NN)|0
+09/26/1997|Lake Taylor|23|Granby|6
+09/26/1997|Lakeland|27|Great Bridge|14
+09/26/1997|Nansemond River|7|Indian River|0
+09/26/1997|Norcom|50|Maury|0
+09/26/1997|Ocean Lakes|7|Green Run|6
+09/26/1997|Phoebus|39|Bethel|6
+09/26/1997|Princess Anne|7|Cox|0
+09/26/1997|Warwick|19|Denbigh|6
+09/26/1997|Western Branch|54|Hickory|10
+09/27/1997|Hampton|50|Woodside|6
+10/02/1997|Norcom|19|Woodrow Wilson|13
+10/03/1997|Booker T. Washington|21|Granby|0
+10/03/1997|Deep Creek|42|Hickory|6
+10/03/1997|First Colonial|20|Salem(VB)|7
+10/03/1997|Green Run|13|Bayside|7
+10/03/1997|Indian River|13|Great Bridge|7
+10/03/1997|Kecoughtan|47|Menchville|6
+10/03/1997|Lake Taylor|9|Churchland|6
+10/03/1997|Maury|14|Norview|10
+10/03/1997|Nansemond River|20|Oscar Smith|14
+10/03/1997|Ocean Lakes|26|Cox|0
+10/03/1997|Phoebus|27|Heritage(NN)|18
+10/03/1997|Princess Anne|24|Kempsville|3
+10/03/1997|Tallwood|20|Kellam|8
+10/03/1997|Western Branch|49|Lakeland|6
+10/04/1997|Denbigh|19|Bethel|0
+10/04/1997|Woodside|28|Gloucester|7
+10/09/1997|Churchland|33|Maury|12
+10/10/1997|Bayside|26|Ocean Lakes|21
+10/10/1997|Booker T. Washington|28|Woodrow Wilson|8
+10/10/1997|Deep Creek|57|Nansemond River|6
+10/10/1997|Kellam|3|Cox|0
+10/10/1997|Great Bridge|32|Oscar Smith|8
+10/10/1997|Green Run|29|First Colonial|14
+10/10/1997|Hampton|53|Bethel|0
+10/10/1997|Heritage(NN)|32|Woodside|13
+10/10/1997|Lakeland|28|Hickory|27
+10/10/1997|Norcom|15|Granby|0
+10/10/1997|Norview|24|Lake Taylor|20
+10/10/1997|Princess Anne|22|Salem(VB)|7
+10/10/1997|Tallwood|42|Kempsville|6
+10/10/1997|Warwick|37|Gloucester|3
+10/10/1997|Western Branch|26|Indian River|6
+10/11/1997|Kecoughtan|20|Denbigh|17
+10/11/1997|Phoebus|47|Menchville|6
+10/17/1997|Booker T. Washington|14|Maury|0
+10/17/1997|Churchland|16|Norcom|8
+10/17/1997|Deep Creek|27|Lakeland|8
+10/17/1997|Denbigh|12|Heritage(NN)|6
+10/17/1997|First Colonial|21|Cox|9
+10/17/1997|Kellam|14|Kempsville|0
+10/17/1997|Green Run|20|Tallwood|7
+10/17/1997|Hampton|39|Gloucester|6
+10/17/1997|Indian River|20|Hickory|14
+10/17/1997|Lake Taylor|38|Woodrow Wilson|0
+10/17/1997|Nansemond River|14|Great Bridge|13
+10/17/1997|Norview|14|Granby|0
+10/17/1997|Ocean Lakes|13|Salem(VB)|0
+10/17/1997|Phoebus|21|Woodside|18
+10/17/1997|Princess Anne|7|Bayside|0
+10/17/1997|Western Branch|20|Oscar Smith|0
+10/18/1997|Kecoughtan|14|Warwick|7
+10/23/1997|Granby|12|Woodrow Wilson|9
+10/24/1997|Booker T. Washington|7|Norcom|0
+10/24/1997|Churchland|19|Norview|7
+10/24/1997|Deep Creek|23|Great Bridge|0
+10/24/1997|First Colonial|14|Bayside|0
+10/24/1997|Kellam|17|Princess Anne|14
+10/24/1997|Cox|29|Kempsville|12
+10/24/1997|Green Run|22|Salem(VB)|10
+10/24/1997|Hickory|22|Oscar Smith|21
+10/24/1997|Indian River|21|Lakeland|18
+10/24/1997|Kecoughtan|28|Bethel|3
+10/24/1997|Lake Taylor|20|Maury|13
+10/24/1997|Tallwood|21|Ocean Lakes|20
+10/24/1997|Warwick|55|Menchville|13
+10/24/1997|Western Branch|32|Nansemond River|6
+10/25/1997|Denbigh|27|Woodside|14
+10/25/1997|Hampton|15|Phoebus|7
+10/31/1997|Booker T. Washington|27|Norview|23
+10/31/1997|Churchland|47|Woodrow Wilson|30
+10/31/1997|Deep Creek|13|Indian River|7
+10/31/1997|Kellam|13|Bayside|6
+10/31/1997|Cox|12|Green Run|0
+10/31/1997|Granby|30|Maury|19
+10/31/1997|Heritage(NN)|18|Menchville|3
+10/31/1997|Hickory|9|Nansemond River|7
+10/31/1997|Lake Taylor|17|Norcom|16
+10/31/1997|Ocean Lakes|36|First Colonial|9
+10/31/1997|Oscar Smith|27|Lakeland|12
+10/31/1997|Salem(VB)|44|Kempsville|6
+10/31/1997|Tallwood|14|Princess Anne|0
+10/31/1997|Western Branch|14|Great Bridge|0
+11/01/1997|Denbigh|48|Gloucester|0
+11/01/1997|Kecoughtan|70|Woodside|7
+11/01/1997|Warwick|17|Bethel|0
+11/07/1997|Booker T. Washington|7|Lake Taylor|0
+11/07/1997|Churchland|21|Granby|9
+11/07/1997|First Colonial|18|Kellam|13
+11/07/1997|Great Bridge|7|Hickory|6
+11/07/1997|Green Run|24|Kempsville|23
+11/07/1997|Hampton|55|Menchville|0
+11/07/1997|Heritage(NN)|24|Bethel|15
+11/07/1997|Lakeland|8|Nansemond River|7
+11/07/1997|Maury|19|Woodrow Wilson|7
+11/07/1997|Norcom|12|Norview|0
+11/07/1997|Oscar Smith|15|Indian River|12
+11/07/1997|Princess Anne|7|Ocean Lakes|6
+11/07/1997|Salem(VB)|6|Cox|0
+11/07/1997|Tallwood|45|Bayside|6
+11/07/1997|Warwick|35|Woodside|13
+11/07/1997|Western Branch|15|Deep Creek|12
+11/08/1997|Kecoughtan|28|Gloucester|0
+11/14/1997|Booker T. Washington|9|Churchland|3
+11/14/1997|Hampton|53|Green Run|6
+11/14/1997|Kecoughtan|34|Tallwood|13
+11/14/1997|Western Branch|33|Kellam|6
+11/14/1997|Thomas Dale|33|Atlee|19
+11/14/1997|Varina|42|L.C. Bird|6
+11/14/1997|James Robinson|24|Herndon|7
+11/14/1997|Centreville|34|Fairfax|20
+11/14/1997|Potomac|33|Woodbridge|12
+11/14/1997|Albemarle|38|Patrick Henry(R)|37
+11/14/1997|Lee-Davis|29|Hopewell|23
+11/14/1997|Patrick Henry(A)|28|Huguenot|14
+11/14/1997|Mount Vernon|34|Yorktown|21
+11/14/1997|West Potomac|23|McLean|7
+11/14/1997|Culpeper County|28|Pulaski County|17
+11/14/1997|William Fleming|27|Brooke Point|7
+11/14/1997|Southampton|14|Smithfield|7
+11/14/1997|Spotsylvania|27|Lafayette|7
+11/14/1997|Sherando|27|Loudoun Valley|6
+11/14/1997|Fauquier|34|Spotswood|14
+11/14/1997|Salem|23|Northside|13
+11/14/1997|Heritage(L)|28|William Byrd|21
+11/14/1997|Martinsville|19|Grundy|14
+11/14/1997|Lee|31|Carroll County|14
+11/14/1997|Matoaca|40|James Monroe|13
+11/14/1997|Greensville|42|Bruton|14
+11/14/1997|Waynesboro|42|Nelson County|14
+11/14/1997|Broadway|27|Fort Defiance|26
+11/14/1997|Jefferson Forest|16|Tunstall|7
+11/14/1997|Brookville|27|William Campbell|10
+11/14/1997|Gate City|35|Virginia|21
+11/14/1997|Graham|21|Magna Vista|0
+11/14/1997|King William|28|Washington & Lee|10
+11/14/1997|New Kent|28|Arcadia|6
+11/14/1997|Powhatan|42|Buffalo Gap|28
+11/14/1997|Madison County|17|Central(L)|14
+11/14/1997|Patrick Henry(GS)|17|Rural Retreat|0
+11/14/1997|Radford|28|Grayson|7
+11/14/1997|Powell Valley|48|Coeburn|14
+11/14/1997|Clintwood|20|Haysi|12
+11/14/1997|Essex|13|Middlesex|6
+11/14/1997|Surry|13|Charles City|12
+11/14/1997|Stonewall Jackson(MJ)|19|Cumberland|13
+11/14/1997|Luray|20|Brentsville District|0
+11/14/1997|Bath County|27|Covington|21
+11/14/1997|Parry McCluer|29|Pocahontas|0
+11/14/1997|Rye Cove|48|Thomas Walker|8
+11/14/1997|Appalachia|34|J.I. Burton|20
+11/21/1997|Hampton|40|Booker T. Washington|0
+11/21/1997|Kecoughtan|14|Western Branch|7
+11/21/1997|Varina|21|Thomas Dale|14
+11/21/1997|James Robinson|21|Centreville|12
+11/21/1997|Potomac|26|Albemarle|24
+11/21/1997|Patrick Henry(A)|28|Lee-Davis|21
+11/21/1997|West Potomac|31|Mount Vernon|7
+11/21/1997|William Fleming|20|Culpeper County|13
+11/21/1997|Spotsylvania|14|Southampton|7
+11/21/1997|Sherando|14|Fauquier|13
+11/21/1997|Heritage(L)|20|Salem|14
+11/21/1997|Lee|28|Martinsville|20
+11/21/1997|Matoaca|22|Greensville|0
+11/21/1997|Broadway|12|Waynesboro|7
+11/21/1997|Jefferson Forest|27|Brookville|0
+11/21/1997|Gate City|23|Graham|6
+11/21/1997|New Kent|13|King William|6
+11/21/1997|Powhatan|14|Madison County|11
+11/21/1997|Radford|20|Patrick Henry(GS)|7
+11/21/1997|Powell Valley|41|Clintwood|21
+11/21/1997|Surry|40|Essex|25
+11/21/1997|Stonewall Jackson(MJ)|39|Luray|6
+11/21/1997|Bath County|16|Parry McCluer|14
+11/21/1997|Appalachia|74|Rye Cove|12
+11/29/1997|James Robinson|35|Potomac|8
+11/29/1997|Kecoughtan|35|Varina|16
+11/29/1997|Hampton|56|Patrick Henry(A)|12
+11/29/1997|William Fleming|48|West Potomac|6
+11/29/1997|Spotsylvania|20|Sherando|14
+11/29/1997|Heritage(L)|17|Lee|14
+11/29/1997|Gate City|17|Jefferson Forest|14
+11/29/1997|Broadway|35|Matoaca|26
+11/29/1997|Powell Valley|28|Radford|10
+11/29/1997|Powhatan|17|New Kent|14
+11/29/1997|Surry|26|Stonewall Jackson(MJ)|14
+11/29/1997|Appalachia|42|Bath County|0
+12/06/1997|James Robinson|14|Kecoughtan|7
+12/06/1997|Hampton|51|William Fleming|8
+12/06/1997|Spotsylvania|16|Heritage(L)|7
+12/06/1997|Gate City|24|Broadway|0
+12/06/1997|Powell Valley|28|Powhatan|7
+12/06/1997|Appalachia|24|Surry|21
