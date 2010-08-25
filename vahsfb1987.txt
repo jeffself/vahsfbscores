@@ -1,0 +1,123 @@
+09/04/1987|Bayside|21|Kempsville|14
+09/04/1987|Booker T. Washington|16|Lake Taylor|14
+09/04/1987|Oscar Smith|13|Churchland|6
+09/04/1987|Cox|45|Princess Anne|22
+09/04/1987|Deep Creek|20|Cradock|6
+09/04/1987|First Colonial|24|Kellam|0
+09/04/1987|Granby|19|Norview|14
+09/04/1987|Manor|7|Great Bridge|0
+09/04/1987|Maury|15|Green Run|6
+09/04/1987|Indian River|35|Norcom|14
+09/04/1987|Norview|26|Denbigh|10
+09/04/1987|Woodrow Wilson|16|Western Branch|14
+09/11/1987|Bayside|48|Cox|27
+09/11/1987|Norview|19|Booker T. Washington|0
+09/11/1987|Woodrow Wilson|21|Churchland|0
+09/11/1987|Indian River|22|Cradock|6
+09/11/1987|First Colonial|17|Granby|10
+09/11/1987|Great Bridge|17|Princess Anne|6
+09/11/1987|Green Run|9|Deep Creek|6
+09/11/1987|Lake Taylor|15|Kellam|3
+09/11/1987|Kempsville|10|Bethel|7
+09/11/1987|Manor|7|Western Branch|0
+09/11/1987|Maury|15|Menchville|14
+09/11/1987|Oscar Smith|13|Norcom|0
+09/18/1987|Green Run|14|Bayside|6
+09/18/1987|Norcom|12|Booker T. Washington|6
+09/18/1987|Western Branch|34|Churchland|6
+09/18/1987|Maury|14|Cox|7
+09/18/1987|First Colonial|42|Princess Anne|6
+09/18/1987|Lafayette|14|Granby|0
+09/18/1987|Great Bridge|13|Oscar Smith|10
+09/18/1987|Indian River|7|Deep Creek|0
+09/18/1987|Norview|14|Kellam|12
+09/18/1987|Lake Taylor|18|Kempsville|15
+09/18/1987|Woodrow Wilson|13|Manor|12
+09/25/1987|First Colonial|33|Bayside|12
+09/25/1987|Manor|6|Booker T. Washington|0
+09/25/1987|Deep Creek|21|Churchland|6
+09/25/1987|Green Run|34|Cox|12
+09/25/1987|Western Branch|14|Cradock|6
+09/25/1987|Phoebus|13|Granby|6
+09/25/1987|Great Bridge|28|Norcom|14
+09/25/1987|Kempsville|18|Kellam|6
+09/25/1987|Lake Taylor|21|Maury|14
+09/25/1987|Indian River|40|Princess Anne|8
+09/25/1987|Norview|31|Oscar Smith|7
+09/25/1987|George Washington|14|Woodrow Wilson|12
+10/02/1987|Bayside|20|Kellam|17
+10/02/1987|Granby|24|Booker T. Washington|7
+10/02/1987|Manor|31|Churchland|0
+10/02/1987|Lake Taylor|53|Cox|0
+10/02/1987|Oscar Smith|21|Cradock|6
+10/02/1987|Kempsville|27|First Colonial|19
+10/02/1987|Great Bridge|7|Indian River|6
+10/02/1987|Western Branch|13|Deep Creek|6
+10/02/1987|Green Run|33|Princess Anne|3
+10/02/1987|Maury|7|Norview|6
+10/02/1987|Woodrow Wilson|25|Norcom|14
+10/09/1987|Bayside|20|Booker T. Washington|14
+10/09/1987|Cradock|36|Churchland|22
+10/09/1987|First Colonial|35|Cox|0
+10/09/1987|Lake Taylor|40|Granby|6
+10/09/1987|Great Bridge|7|Deep Creek|0
+10/09/1987|Kellam|35|Green Run|21
+10/09/1987|Ferguson|13|Kempsville|12
+10/09/1987|Norcom|28|Manor|26
+10/09/1987|Woodrow Wilson|12|Indian River|8
+10/09/1987|Maury|17|Warwick|13
+10/09/1987|Norview|31|Princess Anne|0
+10/09/1987|Western Branch|8|Oscar Smith|0
+10/16/1987|Maury|14|Bayside|0
+10/16/1987|First Colonial|10|Booker T. Washington|8
+10/16/1987|Norcom|20|Churchland|6
+10/16/1987|Kempsville|27|Cox|0
+10/16/1987|Great Bridge|10|Cradock|8
+10/16/1987|Green Run|28|Granby|0
+10/16/1987|Woodrow Wilson|28|Deep Creek|0
+10/16/1987|Kellam|28|Princess Anne|13
+10/16/1987|Lake Taylor|21|Norview|17
+10/16/1987|Manor|19|Oscar Smith|3
+10/16/1987|Indian River|27|Western Branch|12
+10/23/1987|Lake Taylor|21|Bayside|14
+10/23/1987|Maury|40|Booker T. Washington|0
+10/23/1987|Indian River|40|Churchland|14
+10/23/1987|Kellam|35|Cox|21
+10/23/1987|Manor|15|Cradock|12
+10/23/1987|Green Run|14|First Colonial|0
+10/23/1987|Denbigh|55|Granby|12
+10/23/1987|Great Bridge|16|Western Branch|7
+10/23/1987|Norcom|12|Deep Creek|7
+10/23/1987|Kempsville|35|Princess Anne|14
+10/23/1987|Norview|20|Ferguson|6
+10/23/1987|Woodrow Wilson|23|Oscar Smith|18
+10/30/1987|Norview|15|Bayside|0
+10/30/1987|Booker T. Washington|26|Cox|0
+10/30/1987|Great Bridge|44|Churchland|18
+10/30/1987|Woodrow Wilson|6|Cradock|0
+10/30/1987|Maury|34|First Colonial|10
+10/30/1987|Kecoughtan|16|Granby|8
+10/30/1987|Deep Creek|27|Oscar Smith|0
+10/30/1987|Kempsville|31|Green Run|22
+10/30/1987|Hopewell|26|Kellam|6
+10/30/1987|Lake Taylor|36|Princess Anne|6
+10/30/1987|Manor|21|Indian River|11
+10/30/1987|Western Branch|16|Mills Godwin|7
+11/06/1987|Bayside|44|Princess Anne|0
+11/06/1987|Booker T. Washington|16|Kellam|0
+11/06/1987|Western Branch|30|Churchland|8
+11/06/1987|Phoebus|31|Cox|7
+11/06/1987|Norcom|7|Cradock|6
+11/06/1987|Lake Taylor|45|First Colonial|21
+11/06/1987|Maury|27|Granby|6
+11/06/1987|Woodrow Wilson|27|Great Bridge|21
+11/06/1987|Manor|7|Deep Creek|0
+11/06/1987|John Marshall|16|Green Run|6
+11/06/1987|Kempsville|34|Maury|19
+11/06/1987|Indian River|34|Oscar Smith|12
+11/13/1987|Hampton|32|Kempsville|0
+11/13/1987|Woodrow Wilson|13|Lake Taylor|12
+11/13/1987|Phoebus|41|Manor|3
+11/20/1987|Phoebus|18|Woodrow Wilson|0
+11/28/1987|Courtland|22|Phoebus|21
+12/05/1987|T.C. Williams|10|Hampton|6
