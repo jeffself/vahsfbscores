@@ -1,0 +1,270 @@
+08/27/1999|Bayside|22|Kecoughtan|19
+08/27/1999|Granby|22|Great Bridge|15
+08/27/1999|Green Run|12|Maury|9
+08/27/1999|Lake Taylor|26|Tallwood|20
+08/27/1999|Ocean Lakes|10|Hickory|6
+08/27/1999|Woodside|48|Lakeland|20
+09/02/1999|Churchland|27|Menchville|6
+09/02/1999|Deep Creek|24|Woodrow Wilson|0
+09/02/1999|Heritage(NN)|33|Cox|6
+09/02/1999|Phoebus|43|Nansemond River|0
+09/02/1999|Princess Anne|10|Hickory|0
+09/02/1999|Salem(VB)|21|Lake Taylor|0
+09/02/1999|Western Branch|7|Norcom|0
+09/03/1999|Bethel|8|Norview|7
+09/03/1999|Booker T. Washington|21|Denbigh|0
+09/03/1999|Gloucester|19|Lakeland|16
+09/03/1999|Hampton|44|Kempsville|0
+09/03/1999|Kellam|9|Great Bridge|0
+09/03/1999|Maury|20|First Colonial|13
+09/03/1999|Warwick|9|Oscar Smith|0
+09/05/1999|Granby|14|Indian River|0
+09/10/1999|Bayside|28|Green Run|14
+09/10/1999|Bethel|3|Kecoughtan|0
+09/10/1999|Cox|13|Salem(VB)|7
+09/10/1999|Deep Creek|20|Booker T. Washington|0
+09/10/1999|Hampton|31|Denbigh|0
+09/10/1999|Heritage(NN)|53|Menchville|0
+09/10/1999|Indian River|14|Woodrow Wilson|7
+09/10/1999|Kellam|13|Tallwood|2
+09/10/1999|Nansemond River|9|Norview|6
+09/10/1999|Norcom|29|Lakeland|0
+09/10/1999|Oscar Smith|17|Granby|8
+09/10/1999|Phoebus|7|Woodside|0
+09/10/1999|Princess Anne|9|Kempsville|0
+09/10/1999|Warwick|42|Gloucester|20
+09/10/1999|Western Branch|37|Churchland|7
+09/11/1999|First Colonial|28|Ocean Lakes|7
+09/13/1999|Hickory|12|Lake Taylor|0
+09/17/1999|Bayside|29|Ocean Lakes|14
+09/17/1999|Cox|43|Green Run|13
+09/17/1999|First Colonial|21|Tallwood|6
+09/17/1999|Heritage(NN)|40|Denbigh|0
+09/17/1999|Kempsville|25|Salem(VB)|0
+09/18/1999|Gloucester|10|Woodside|6
+09/18/1999|Hampton|52|Bethel|0
+09/18/1999|Kecoughtan|21|Warwick|14
+09/18/1999|Maury|35|Great Bridge|0
+09/18/1999|Nansemond River|21|Churchland|20
+09/18/1999|Norview|20|Indian River|0
+09/18/1999|Phoebus|43|Menchville|0
+09/18/1999|Princess Anne|31|Kellam|7
+09/20/1999|Deep Creek|21|Norcom|0
+09/20/1999|Oscar Smith|21|Booker T. Washington|8
+09/20/1999|Western Branch|50|Woodrow Wilson|0
+09/24/1999|Granby|13|Churchland|7
+09/25/1999|Bayside|36|Princess Anne|0
+09/25/1999|Cox|38|Tallwood|16
+09/25/1999|Deep Creek|37|Oscar Smith|0
+09/25/1999|Denbigh|7|Kecoughtan|0
+09/25/1999|Gloucester|23|Bethel|14
+09/25/1999|Great Bridge|21|Indian River|18
+09/25/1999|Green Run|13|Salem(VB)|3
+09/25/1999|Kempsville|14|First Colonial|13
+09/25/1999|Lake Taylor|27|Booker T. Washington|0
+09/25/1999|Maury|17|Woodrow Wilson|0
+09/25/1999|Nansemond River|14|Lakeland|8
+09/25/1999|Norview|21|Norcom|14
+09/25/1999|Ocean Lakes|28|Kellam|7
+09/25/1999|Warwick|19|Woodside|16
+09/25/1999|Western Branch|29|Hickory|6
+09/26/1999|Hampton|49|Menchville|0
+09/26/1999|Heritage(NN)|53|Phoebus|14
+09/30/1999|Norview|28|Woodrow Wilson|12
+10/01/1999|Bayside|32|First Colonial|9
+10/01/1999|Churchland|34|Booker T. Washington|14
+10/01/1999|Deep Creek|24|Hickory|0
+10/01/1999|Kellam|48|Salem(VB)|7
+10/01/1999|Kempsville|62|Tallwood|7
+10/01/1999|Lake Taylor|27|Granby|26
+10/01/1999|Lakeland|39|Great Bridge|30
+10/01/1999|Maury|35|Norcom|13
+10/01/1999|Nansemond River|21|Oscar Smith|13
+10/01/1999|Ocean Lakes|31|Green Run|8
+10/01/1999|Phoebus|19|Kecoughtan|7
+10/01/1999|Princess Anne|44|Cox|7
+10/01/1999|Warwick|24|Denbigh|21
+10/01/1999|Western Branch|56|Indian River|6
+10/02/1999|Bethel|14|Woodside|2
+10/02/1999|Gloucester|24|Menchville|6
+10/02/1999|Hampton|45|Heritage(NN)|13
+10/08/1999|Bayside|26|Cox|25
+10/08/1999|Booker T. Washington|25|Granby|19
+10/08/1999|Churchland|16|Lake Taylor|2
+10/08/1999|Deep Creek|55|Nansemond River|0
+10/08/1999|First Colonial|35|Green Run|16
+10/08/1999|Heritage(NN)|27|Bethel|0
+10/08/1999|Hickory|19|Indian River|0
+10/08/1999|Kempsville|28|Kellam|18
+10/08/1999|Menchville|14|Woodside|7
+10/08/1999|Norcom|27|Woodrow Wilson|0
+10/08/1999|Norview|20|Maury|17
+10/08/1999|Ocean Lakes|21|Princess Anne|14
+10/08/1999|Oscar Smith|22|Great Bridge|15
+10/08/1999|Tallwood|13|Salem(VB)|12
+10/08/1999|Western Branch|25|Lakeland|18
+10/09/1999|Gloucester|23|Kecoughtan|0
+10/09/1999|Hampton|23|Warwick|0
+10/09/1999|Phoebus|37|Denbigh|0
+10/15/1999|Bayside|35|Salem(VB)|7
+10/15/1999|Booker T. Washington|21|Woodrow Wilson|7
+10/15/1999|Deep Creek|57|Indian River|14
+10/15/1999|First Colonial|24|Kellam|21
+10/15/1999|Great Bridge|23|Nansemond River|6
+10/15/1999|Hampton|44|Gloucester|3
+10/15/1999|Heritage(NN)|33|Warwick|30
+10/15/1999|Hickory|28|Lakeland|8
+10/15/1999|Kempsville|35|Green Run|6
+10/15/1999|Maury|33|Churchland|0
+10/15/1999|Norcom|42|Granby|14
+10/15/1999|Norview|34|Lake Taylor|0
+10/15/1999|Ocean Lakes|35|Cox|28
+10/15/1999|Phoebus|35|Bethel|34
+10/15/1999|Princess Anne|41|Tallwood|0
+10/15/1999|Western Branch|13|Oscar Smith|6
+10/16/1999|Denbigh|27|Menchville|13
+10/16/1999|Kecoughtan|49|Woodside|14
+10/22/1999|Bayside|27|Kempsville|21
+10/22/1999|Cox|31|Kellam|20
+10/22/1999|Deep Creek|39|Great Bridge|0
+10/22/1999|First Colonial|21|Salem(VB)|13
+10/22/1999|Granby|14|Norview|8
+10/22/1999|Hampton|63|Kecoughtan|7
+10/22/1999|Heritage(NN)|54|Gloucester|7
+10/22/1999|Lake Taylor|27|Woodrow Wilson|7
+10/22/1999|Lakeland|34|Indian River|14
+10/22/1999|Norcom|42|Churchland|7
+10/22/1999|Ocean Lakes|35|Tallwood|27
+10/22/1999|Oscar Smith|24|Hickory|17
+10/22/1999|Princess Anne|30|Green Run|14
+10/22/1999|Western Branch|28|Nansemond River|18
+10/22/1999|Woodside|25|Denbigh|21
+10/23/1999|Bethel|14|Menchville|7
+10/23/1999|Maury|21|Booker T. Washington|0
+10/23/1999|Phoebus|16|Warwick|8
+10/28/1999|Granby|14|Woodrow Wilson|0
+10/29/1999|Bayside|49|Kellam|35
+10/29/1999|Cox|36|First Colonial|29
+10/29/1999|Deep Creek|48|Lakeland|16
+10/29/1999|Green Run|26|Tallwood|14
+10/29/1999|Hampton|40|Phoebus|0
+10/29/1999|Heritage(NN)|50|Woodside|0
+10/29/1999|Lake Taylor|21|Maury|14
+10/29/1999|Nansemond River|20|Hickory|7
+10/29/1999|Norcom|28|Booker T. Washington|7
+10/29/1999|Ocean Lakes|15|Kempsville|6
+10/29/1999|Oscar Smith|35|Indian River|6
+10/29/1999|Princess Anne|44|Salem(VB)|0
+10/29/1999|Western Branch|38|Great Bridge|0
+10/30/1999|Denbigh|36|Gloucester|22
+10/30/1999|Kecoughtan|13|Menchville|7
+10/30/1999|Norview|32|Churchland|22
+10/30/1999|Warwick|13|Bethel|7
+11/05/1999|Bayside|44|Tallwood|14
+11/05/1999|Bethel|24|Denbigh|8
+11/05/1999|Churchland|21|Woodrow Wilson|12
+11/05/1999|Cox|44|Kempsville|30
+11/05/1999|Deep Creek|33|Western Branch|0
+11/05/1999|Great Bridge|7|Hickory|6
+11/05/1999|Kellam|40|Green Run|17
+11/05/1999|Nansemond River|27|Indian River|0
+11/05/1999|Maury|25|Granby|0
+11/05/1999|Norcom|44|Lake Taylor|14
+11/05/1999|Norview|24|Booker T. Washington|18
+11/05/1999|Oscar Smith|19|Lakeland|6
+11/05/1999|Phoebus|28|Gloucester|3
+11/05/1999|Princess Anne|26|First Colonial|9
+11/05/1999|Salem(VB)|9|Ocean Lakes|7
+11/06/1999|Hampton|55|Woodside|0
+11/06/1999|Heritage(NN)|60|Kecoughtan|0
+11/06/1999|Warwick|42|Menchville|20
+11/12/1999|Bayside|39|Ocean Lakes|9
+11/12/1999|Hampton|58|Western Branch|3
+11/12/1999|Heritage(NN)|20|Norview|0
+11/12/1999|Princess Anne|23|Deep Creek|7
+11/12/1999|Varina|28|Lee-Davis|0
+11/12/1999|Patrick Henry(A)|44|L.C. Bird|20
+11/12/1999|Lake Braddock|17|James Robinson|0
+11/12/1999|Centreville|28|Fairfax|12
+11/12/1999|C.D. Hylton|20|Gar-Field|0
+11/12/1999|North Stafford|23|George Washington|21
+11/12/1999|Hopewell|17|George Wythe(R)|8
+11/12/1999|Henrico|56|Huguenot|20
+11/12/1999|Yorktown|38|Langley|32
+11/12/1999|South Lakes|25|West Potomac|22
+11/12/1999|Culpeper County|17|E.C. Glass|7
+11/12/1999|William Fleming|28|Cave Spring|6
+11/12/1999|Lafayette|21|Courtland|0
+11/12/1999|Spotsylvania|36|Powhatan|35
+11/12/1999|Park View(S)|37|Loudoun County|21
+11/12/1999|Charlottesville|41|Orange|14
+11/12/1999|Salem|41|Jefferson Forest|16
+11/12/1999|Amherst County|19|William Byrd|7
+11/12/1999|Tunstall|17|Magna Vista|6
+11/12/1999|Martinsville|37|Carroll County|27
+11/12/1999|Southampton|34|Park View(SH)|15
+11/12/1999|Nottoway|22|James Monroe|16
+11/12/1999|Harrisonburg|25|R.E. Lee(St)|7
+11/12/1999|Handley|31|Fluvanna|22
+11/12/1999|Rustburg|14|Appomattox|7
+11/12/1999|Brookville|29|Gretna|12
+11/12/1999|Gate City|30|Lebanon|8
+11/12/1999|Tazewell|21|Graham|14
+11/12/1999|New Kent|7|Essex|6
+11/12/1999|King William|82|Arcadia|0
+11/12/1999|Madison County|48|Buffalo Gap|7
+11/12/1999|Brentsville District|39|Buckingham County|21
+11/12/1999|Floyd County|34|Patrick Henry(GS)|6
+11/12/1999|George Wythe(W)|40|Grayson|14
+11/12/1999|Honaker|59|Haysi|8
+11/12/1999|Clintwood|18|Powell Valley|13
+11/12/1999|Surry|39|Rappahannock|0
+11/12/1999|Sussex Central|42|West Point|8
+11/12/1999|Strasburg|42|Riverheads|35
+11/12/1999|Stonewall Jackson|21|Central(L)|14
+11/12/1999|Narrows|7|Covington|3
+11/12/1999|Rural Retreat|21|Northwood|14
+11/12/1999|Garden|16|Rye Cove|14
+11/12/1999|Pound|46|Saint Paul|6
+11/19/1999|Hampton|44|Heritage(NN)|0
+11/19/1999|Princess Anne|19|Bayside|0
+11/19/1999|Varina|41|Patrick Henry(A)|21
+11/19/1999|Centreville|21|Lake Braddock|17
+11/19/1999|C.D. Hylton|24|North Stafford|6
+11/19/1999|Henrico|22|Hopewell|16
+11/19/1999|Yorktown|40|South Lakes|12
+11/19/1999|Culpeper County|29|William Fleming|8
+11/19/1999|Lafayette|13|Spotsylvania|3
+11/19/1999|Park View(S)|54|Charlottesville|22
+11/19/1999|Salem|58|Amherst County|0
+11/19/1999|Martinsville|21|Tunstall|14
+11/19/1999|Southampton|19|Nottoway|14
+11/19/1999|Handley|31|Harrisonburg|7
+11/19/1999|Brookville|17|Rustburg|0
+11/19/1999|Gate City|37|Tazewell|0
+11/19/1999|New Kent|28|King William|25
+11/19/1999|Madison County|27|Brentsville District|12
+11/19/1999|Floyd County|28|George Wythe(W)|6
+11/19/1999|Honaker|20|Clintwood|19
+11/19/1999|Surry|12|Sussex Central|6
+11/19/1999|Stonewall Jackson|22|Strasburg|21
+11/19/1999|Rural Retreat|49|Narrows|7
+11/19/1999|Pound|48|Garden|6
+11/27/1999|Varina|23|Centreville|17
+11/27/1999|C.D. Hylton|38|Princess Anne|13
+11/27/1999|Culpeper County|20|Hampton|17
+11/27/1999|Henrico|42|Yorktown|0
+11/27/1999|Salem|31|Martinsville|0
+11/27/1999|Park View(S)|48|Lafayette|19
+11/27/1999|Handley|59|Southampton|13
+11/27/1999|Brookville|21|Gate City|14
+11/27/1999|Madison County|34|New Kent|33
+11/27/1999|Floyd County|35|Honaker|32
+11/27/1999|Pound|17|Rural Retreat|14
+11/27/1999|Surry|41|Stonewall Jackson|13
+12/04/1999|C.D. Hylton|28|Varina|27
+12/04/1999|Culpeper County|21|Henrico|12
+12/04/1999|Salem|21|Park View(S)|20
+12/04/1999|Brookville|14|Handley|6
+12/04/1999|Madison County|29|Floyd County|12
+12/04/1999|Surry|21|Pound|0
