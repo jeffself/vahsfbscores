@@ -1,0 +1,76 @@
+08/26/2010|Battlefield|14|Lake Taylor|6
+08/26/2010|Franklin County|28|E.C. Glass|21
+08/27/2010|Alleghany|26|Covington|6
+08/27/2010|Amelia County|26|Mathews|19
+08/27/2010|Appalachia|22|Castlewood|7
+08/27/2010|Bassett|17|Carroll County|14
+08/27/2010|Bayside|21|Green Run|10
+08/27/2010|Benedictine|14|Goochland|6
+08/27/2010|Blacksburg|30|Giles|7
+08/27/2010|Bland County|34|Patrick Henry(GS)|14
+08/27/2010|Bluefield, WV|48|Graham|0
+08/27/2010|Briar Woods|10|Millbrook|8
+08/27/2010|Broad Run|21|Fauquier|0
+08/27/2010|Brookville|55|Martinsville|13
+08/27/2010|Buckingham County|13|Appomattox|6
+08/27/2010|Cave Spring|41|Staunton River|21
+08/27/2010|Chilhowie|14|Marion|0
+08/27/2010|Christiansburg|40|Floyd County|12
+08/27/2010|Clarke County|49|Berkeley Springs, WV|7
+08/27/2010|Clintwood|42|Coeburn|6
+08/27/2010|Cox|30|Kellam|17
+08/27/2010|Craig County|42|Auburn|6
+08/27/2010|Dan River|21|Tunstall|7
+08/27/2010|East Hardy, WV|46|Rappahannock County|6
+08/27/2010|Eastern Montgomery|27|Bath County|20
+08/27/2010|Eastern View|46|Culpeper County|6
+08/27/2010|Fluvanna|36|Prince Edward|14
+08/27/2010|Fort Chiswell|41|Rural Retreat|25
+08/27/2010|Galax|45|Northwood|0
+08/27/2010|Gar-Field|14|Potomac|7
+08/27/2010|George Wythe(W)|28|Tazewell|0
+08/27/2010|Grayson|34|Alleghany, NC|14
+08/27/2010|Grundy|51|Twin Valley|6
+08/27/2010|Hillside, NC|49|George Washington|14
+08/27/2010|Hurley|40|Ervinton|0
+08/27/2010|J.I. Burton|48|Rye Cove|0
+08/27/2010|J.J. Kelly|36|Thomas Walker|19
+08/27/2010|James Monroe, WV|46|Narrows|8
+08/27/2010|James River(B)|15|Lord Botetourt|9
+08/27/2010|John Battle|35|Twin Springs|0
+08/27/2010|Landstown|26|First Colonial|20
+08/27/2010|Lebanon|20|Honaker|7
+08/27/2010|Liberty(Bed)|40|Broadway|21
+08/27/2010|Liberty Christian|31|Gretna|0
+08/27/2010|Loudoun County|14|Musselman, WV|13
+08/27/2010|Loudoun Valley|57|Dominion|7
+08/27/2010|Magna Vista|41|Heritage(Lyn)|7
+08/27/2010|Martinsburg, WV|27|Stonewall Jackson(M)|21
+08/27/2010|Massaponax|49|Spotsylvania|13
+08/27/2010|Mountain View|24|James Monroe|15
+08/27/2010|Nandua|41|Northampton|8
+08/27/2010|Norcom|26|Northeastern, NC|6
+08/27/2010|North Stokes, NC|26|Patrick County|21
+08/27/2010|Northside|34|Jefferson Forest|14
+08/27/2010|Ocean Lakes|51|Princess Anne|0
+08/27/2010|Osbourn|56|Forest Park|32
+08/27/2010|Patrick Henry(R)|35|Hidden Valley|7
+08/27/2010|Petersburg|43|Halifax County|20
+08/27/2010|Potomac Falls|14|Jefferson County, WV|7
+08/27/2010|Powell Valley|28|Lee|8
+08/27/2010|Radford|32|Pulaski County|29
+08/27/2010|Randolph-Henry|41|Parry McCluer|6
+08/27/2010|Richlands|31|Gate City|0
+08/27/2010|Rustburg|35|William Byrd|14
+08/27/2010|Saint Paul|34|Holston|19
+08/27/2010|Salem(VB)|25|Kempsville|7
+08/27/2010|Sherando|35|Park View(St)|32
+08/27/2010|Spotswood|42|East Rockingham|0
+08/27/2010|Tuscarora|33|Woodgrove|21
+08/27/2010|Virginia|43|Sullivan Central, TN|37
+08/27/2010|Warren County|42|Strasburg|20
+08/27/2010|West Point|37|Chincoteague|7
+08/27/2010|Western Albemarle|15|Waynesboro|10
+08/27/2010|William Campbell|42|Cumberland|12
+08/28/2010|Maury|35|Norview|0
+08/28/2010|Morgan County, KY|44|Pound|7
