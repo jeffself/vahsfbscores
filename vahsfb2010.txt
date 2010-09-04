@@ -74,6 +74,7 @@
 08/27/2010|William Campbell|42|Cumberland|12
 08/28/2010|Maury|35|Norview|0
 08/28/2010|Morgan County, KY|44|Pound|7
+09/01/2010|Denbigh|9|Heritage(NN)|0
 09/02/2010|Battlefield|28|Potomac|25
 09/02/2010|Booker T. Washington|30|Western Branch|7
 09/02/2010|C.D. Hylton|34|Matoaca|13
@@ -101,3 +102,96 @@
 09/02/2010|West Springfield|29|Thomas Edison|14
 09/02/2010|Woodrow Wilson|32|Lakeland|16
 09/02/2010|Yorktown|32|Woodrow Wilson, DC|14
+09/03/2010|Abingdon|42|Patrick Henry(GS)|0
+09/03/2010|Alleghany|31|Rockbridge County|7
+09/03/2010|Altavista|62|Parry McCluer|6
+09/03/2010|Amherst County|34|Tabb|0
+09/03/2010|Atlee|42|Benedictine|7
+09/03/2010|Ballou, DC|36|Dominion|7
+09/03/2010|Bath County|34|East Hardy, WV|7
+09/03/2010|Bethel|26|Kecoughtan|25
+09/03/2010|Brentsville District|17|Kettle Run|14
+09/03/2010|Broad Run|41|Heritage(Le)|19
+09/03/2010|Brookville|35|William Campbell|6
+09/03/2010|Bruton|23|Southampton|13
+09/03/2010|Buckingham County|27|Nelson County|13
+09/03/2010|Carroll County|47|Patrick County|19
+09/03/2010|Castlewood|20|Thomas Walker|18
+09/03/2010|Cave Spring|47|Graham|14
+09/03/2010|Centreville|28|Annandale|6
+09/03/2010|Chancellor|20|Orange|3
+09/03/2010|Christiansburg|35|Giles|0
+09/03/2010|Clarke County|29|Hedgesville, WV|21
+09/03/2010|Clintwood|38|Haysi|0
+09/03/2010|Colonial Forge|54|Forest Park|21
+09/03/2010|Colonial Heights|43|Thomas Jefferson(R)|28
+09/03/2010|Craig County|37|Bland County|0
+09/03/2010|Cumberland|28|Prince Edward|3
+09/03/2010|Dan River|21|Amelia County|17
+09/03/2010|Dinwiddie|30|Poquoson|10
+09/03/2010|E.C. Glass|14|William Fleming|6
+09/03/2010|Eastern Montgomery|48|Narrows|6
+09/03/2010|Floyd County|48|Rural Retreat|20
+09/03/2010|Fort Chiswell|41|Auburn|0
+09/03/2010|Fort Defiance|35|Buffalo Gap|19
+09/03/2010|Freedom(L)|14|Woodgrove|7
+09/03/2010|Galax|35|Alleghany, NC|0
+09/03/2010|Gar-Field|26|Stonewall Jackson(M)|20
+09/03/2010|Gate City|41|Tazewell|0
+09/03/2010|George Washington|41|Person, NC|12
+09/03/2010|Glenvar|41|James River(B)|34
+09/03/2010|Grayson|48|Chilhowie|22
+09/03/2010|Great Bridge|32|Granby|8
+09/03/2010|Greensville|20|York|12
+09/03/2010|Grundy|34|East Ridge, KY|7
+09/03/2010|Hampton Roads Academy|29|Chincoteague|10
+09/03/2010|Harlan County, KY|40|Lee|14
+09/03/2010|Heritage(Lyn)|49|Martinsville|12
+09/03/2010|Hickory|56|Norview|21
+09/03/2010|Hurley|52|Saint Paul|26
+09/03/2010|J.I. Burton|42|Appalachia|12
+09/03/2010|J.J. Kelly|35|Pound|7
+09/03/2010|James Wood|13|Washington, WV|7
+09/03/2010|King George|28|Washington & Lee|16
+09/03/2010|Lake Braddock|49|Langley|10
+09/03/2010|Lake Taylor|37|Indian River|0
+09/03/2010|Liberty(Beal)|13|Briar Woods|10
+09/03/2010|Liberty(Bed)|47|Blacksburg|17
+09/03/2010|Loudoun Valley|35|Woodbridge|20
+09/03/2010|Louisa County|21|Eastern View|7
+09/03/2010|Madison County|24|Fluvanna|21
+09/03/2010|Magna Vista|44|Morehead, NC|14
+09/03/2010|Manassas Park|32|Central(W)|14
+09/03/2010|Marion|21|Northwood|0
+09/03/2010|Martinsburg, WV|40|Potomac Falls|7
+09/03/2010|Massaponax|49|Courtland|20
+09/03/2010|Monticello|35|Albemarle|7
+09/03/2010|Mountain View|37|Freedom(PW)|21
+09/03/2010|North Stafford|27|Halifax County|7
+09/03/2010|Northside|27|Pulaski County|7
+09/03/2010|Oakton|49|James Madison|21
+09/03/2010|Osbourn|42|Brooke Point|21
+09/03/2010|Park View(St)|45|Millbrook|28
+09/03/2010|Patrick Henry(R)|26|Bassett|7
+09/03/2010|Powell Valley|42|Lebanon|22
+09/03/2010|R.E. Lee(St)|55|Charlottesville|6
+09/03/2010|Randolph-Henry|27|Chatham|12
+09/03/2010|Richlands|61|Honaker|22
+09/03/2010|Riverbend|41|Spotsylvania|21
+09/03/2010|Rustburg|21|Tunstall|18
+09/03/2010|Salem|18|Lord Botetourt|13
+09/03/2010|Sherando|21|Musselman, WV|7
+09/03/2010|Skyline|28|Strasburg|0
+09/03/2010|Smithfield|45|Surry|6
+09/03/2010|Staunton River|21|Jefferson Forest|7
+09/03/2010|Stone Bridge|7|Westfield|3
+09/03/2010|Stuarts Draft|32|Riverheads|31
+09/03/2010|Turner Ashby|27|Western Albemarle|10
+09/03/2010|Twin Springs|19|Holston|7
+09/03/2010|Warren County|33|Tuscarora|19
+09/03/2010|Warwick|54|Menchville|31
+09/03/2010|West Point|55|King & Queen|12
+09/03/2010|William Byrd|25|Hidden Valley|0
+09/03/2010|William Monroe|49|East Rockingham|12
+09/03/2010|Wilson Memorial|42|Stonewall Jackson(Q)|7
+09/03/2010|Windsor|20|Nansemond Suffolk Academy|15
