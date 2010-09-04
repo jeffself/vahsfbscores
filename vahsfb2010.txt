@@ -74,3 +74,30 @@
 08/27/2010|William Campbell|42|Cumberland|12
 08/28/2010|Maury|35|Norview|0
 08/28/2010|Morgan County, KY|44|Pound|7
+09/02/2010|Battlefield|28|Potomac|25
+09/02/2010|Booker T. Washington|30|Western Branch|7
+09/02/2010|C.D. Hylton|34|Matoaca|13
+09/02/2010|Chantilly|28|South County|13
+09/02/2010|Churchland|49|Kings Fork|14
+09/02/2010|First Colonial|24|Princess Anne|21
+09/02/2010|Grassfield|37|Nansemond River|0
+09/02/2010|Green Run|33|Cox|13
+09/02/2010|Hampton|23|Woodside|14
+09/02/2010|Hayfield|32|George Marshall|14
+09/02/2010|Herndon|41|Thomas Jefferson(A)|0
+09/02/2010|Kempsville|14|Tallwood|9
+09/02/2010|King William|14|Essex|12
+09/02/2010|Landstown|48|Kellam|13
+09/02/2010|Mathews|51|Middlesex|14
+09/02/2010|McLean|14|Washington-Lee|6
+09/02/2010|Norcom|32|Deep Creek|20
+09/02/2010|Ocean Lakes|22|Salem(VB)|0
+09/02/2010|Petersburg|19|Maury|6
+09/02/2010|Phoebus|42|Gloucester|0
+09/02/2010|R.E. Lee(S)|41|Wakefield|13
+09/02/2010|Robinson|35|T.C. Williams|2
+09/02/2010|South Lakes|37|Falls Church|0
+09/02/2010|West Potomac|55|Mount Vernon|20
+09/02/2010|West Springfield|29|Thomas Edison|14
+09/02/2010|Woodrow Wilson|32|Lakeland|16
+09/02/2010|Yorktown|32|Woodrow Wilson, DC|14
