@@ -75,6 +75,7 @@
 08/28/2010|Maury|35|Norview|0
 08/28/2010|Morgan County, KY|44|Pound|7
 09/01/2010|Denbigh|9|Heritage(NN)|0
+09/01/2010|Franklin|53|Northampton|0
 09/02/2010|Battlefield|28|Potomac|25
 09/02/2010|Booker T. Washington|30|Western Branch|7
 09/02/2010|C.D. Hylton|34|Matoaca|13
@@ -118,11 +119,13 @@
 09/03/2010|Carroll County|47|Patrick County|19
 09/03/2010|Castlewood|20|Thomas Walker|18
 09/03/2010|Cave Spring|47|Graham|14
+09/03/2010|Central(L)|25|Park View(SH)|22
 09/03/2010|Centreville|28|Annandale|6
 09/03/2010|Chancellor|20|Orange|3
 09/03/2010|Christiansburg|35|Giles|0
 09/03/2010|Clarke County|29|Hedgesville, WV|21
 09/03/2010|Clintwood|38|Haysi|0
+09/03/2010|Coeburn|38|Ervinton|12
 09/03/2010|Colonial Forge|54|Forest Park|21
 09/03/2010|Colonial Heights|43|Thomas Jefferson(R)|28
 09/03/2010|Craig County|37|Bland County|0
@@ -131,10 +134,11 @@
 09/03/2010|Dinwiddie|30|Poquoson|10
 09/03/2010|E.C. Glass|14|William Fleming|6
 09/03/2010|Eastern Montgomery|48|Narrows|6
+09/03/2010|Fauquier|37|Culpeper County|14
 09/03/2010|Floyd County|48|Rural Retreat|20
 09/03/2010|Fort Chiswell|41|Auburn|0
 09/03/2010|Fort Defiance|35|Buffalo Gap|19
-09/03/2010|Freedom(L)|14|Woodgrove|7
+09/03/2010|Freedom(Lou)|14|Woodgrove|7
 09/03/2010|Galax|35|Alleghany, NC|0
 09/03/2010|Gar-Field|26|Stonewall Jackson(M)|20
 09/03/2010|Gate City|41|Tazewell|0
@@ -144,11 +148,12 @@
 09/03/2010|Great Bridge|32|Granby|8
 09/03/2010|Greensville|20|York|12
 09/03/2010|Grundy|34|East Ridge, KY|7
-09/03/2010|Hampton Roads Academy|29|Chincoteague|10
+09/03/2010|Hampton Roads|29|Chincoteague|10
 09/03/2010|Harlan County, KY|40|Lee|14
 09/03/2010|Heritage(Lyn)|49|Martinsville|12
 09/03/2010|Hickory|56|Norview|21
 09/03/2010|Hurley|52|Saint Paul|26
+09/03/2010|J.E.B. Stuart|48|George Mason|29
 09/03/2010|J.I. Burton|42|Appalachia|12
 09/03/2010|J.J. Kelly|35|Pound|7
 09/03/2010|James Wood|13|Washington, WV|7
@@ -171,6 +176,7 @@
 09/03/2010|Northside|27|Pulaski County|7
 09/03/2010|Oakton|49|James Madison|21
 09/03/2010|Osbourn|42|Brooke Point|21
+09/03/2010|Osbourn Park|27|Stafford|13
 09/03/2010|Park View(St)|45|Millbrook|28
 09/03/2010|Patrick Henry(R)|26|Bassett|7
 09/03/2010|Powell Valley|42|Lebanon|22
@@ -188,10 +194,17 @@
 09/03/2010|Stuarts Draft|32|Riverheads|31
 09/03/2010|Turner Ashby|27|Western Albemarle|10
 09/03/2010|Twin Springs|19|Holston|7
+09/03/2010|Twin Valley|38|Montcalm, WV|0
+09/03/2010|Virginia|42|John Battle|7
+09/03/2010|W.T. Woodson|29|Fairfax|14
 09/03/2010|Warren County|33|Tuscarora|19
 09/03/2010|Warwick|54|Menchville|31
 09/03/2010|West Point|55|King & Queen|12
 09/03/2010|William Byrd|25|Hidden Valley|0
 09/03/2010|William Monroe|49|East Rockingham|12
 09/03/2010|Wilson Memorial|42|Stonewall Jackson(Q)|7
-09/03/2010|Windsor|20|Nansemond Suffolk Academy|15
+09/03/2010|Windsor|20|Nansemond-Suffolk|15
+09/04/2010|Hancock, MD|34|Rappahannock County|0
+09/04/2010|Harrisonburg|14|Handley|7
+09/04/2010|Nandua|42|Arcadia|14
+09/06/2010|Pickerington Central, Oh|36|Oscar Smith|20
