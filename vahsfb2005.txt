@@ -1,0 +1,1758 @@
+08/25/2005|J.I. Burton|57|Castlewood|12
+08/25/2005|Tennessee, TN|29|Virginia|7
+08/26/2005|Abingdon|49|John Battle|0
+08/26/2005|Appalachia|50|Rye Cove|16
+08/26/2005|Bland/Rocky Gap|21|Twin Valley|14
+08/26/2005|Blessed Sacrament-Huguenot|48|Kenston Forest|19
+08/26/2005|Brunswick Academy|31|Fuqua|6
+08/26/2005|Carroll County|31|Floyd County|22
+08/26/2005|Chilhowie|34|Marion|21
+08/26/2005|Christiansburg|28|Radford|0
+08/26/2005|Clairborne, TN|58|Thomas Walker|6
+08/26/2005|Clintwood|44|Grundy|15
+08/26/2005|Coeburn|40|Twin Springs|36
+08/26/2005|Covington|23|Summers County, WV|0
+08/26/2005|Dan River|25|Park View(SH)|0
+08/26/2005|George Wythe(W)|10|Tazewell|0
+08/26/2005|Graham|21|Bluefield, WV|14
+08/26/2005|Gretna|38|Greensville|0
+08/26/2005|Heritage(Lyn)|21|Prince Edward|0
+08/26/2005|Holston|16|Saint Paul|0
+08/26/2005|Honaker|42|Lebanon|25
+08/26/2005|Hurley|32|Unaka, TN|6
+08/26/2005|James Monroe, WV|43|Narrows|7
+08/26/2005|Northwood|33|Galax|14
+08/26/2005|Patrick Henry(GS)|47|J.J. Kelly|16
+08/26/2005|Pound|54|Ervinton|8
+08/26/2005|Powell Valley|48|Lee|6
+08/26/2005|Quantico|41|Mt. Zion Baptist, MD|0
+08/26/2005|Richlands|35|Gate City|0
+08/26/2005|Rural Retreat|41|Fort Chiswell|0
+08/26/2005|Tidewater Academy|33|Norfolk Christian|7
+08/26/2005|West Point|26|Southampton Academy|0
+08/26/2005|William Campbell|35|Keyser, WV|7
+08/26/2005|William Fleming|31|Patrick Henry(R)|14
+08/27/2005|Bishop Ireton|34|Benedictine|13
+08/27/2005|Bishop Sullivan Catholic|26|Isle of Wight Academy|20
+09/01/2005|Atlee|37|Mountain View|0
+09/01/2005|Bethel|29|Granby|21
+09/01/2005|Churchland|19|Denbigh|13
+09/01/2005|Deep Creek|38|Norcom|13
+09/01/2005|Green Run|26|Bayside|16
+09/01/2005|John Marshall|20|Armstrong|6
+09/01/2005|Kellam|27|First Colonial|7
+09/01/2005|Kempsville|23|Ocean Lakes|21
+09/01/2005|Landstown|64|Tallwood|18
+09/01/2005|Maury|40|Menchville|21
+09/01/2005|Northampton County West, NC|46|Greensville|7
+09/01/2005|Salem(VB)|62|Princess Anne|28
+09/01/2005|T.C. Williams|34|Wakefield|13
+09/01/2005|Westfield|43|Hayfield|7
+09/01/2005|Yorktown|28|Woodrow Wilson, DC|20
+09/02/2005|Abingdon|21|Patrick Henry(GS)|6
+09/02/2005|Altavista|32|Parry McCluer|20
+09/02/2005|Ashe County, NC|48|Grayson|32
+09/02/2005|Bassett|36|Carroll County|19
+09/02/2005|Blessed Sacrament-Huguenot|28|North Cross|10
+09/02/2005|Brunswick Academy|48|Tidewater Academy|8
+09/02/2005|Buckingham County|12|Appomattox|0
+09/02/2005|Buffalo Gap|31|Bath County|0
+09/02/2005|Castlewood|21|Thomas Walker|0
+09/02/2005|Cave Spring|14|Staunton River|0
+09/02/2005|Centreville|63|W.T. Woodson|11
+09/02/2005|Chantilly|10|Annandale|0
+09/02/2005|Charles City|26|Chincoteague|0
+09/02/2005|Chatham|55|Randolph-Henry|13
+09/02/2005|Chilhowie|20|Fort Chiswell|13
+09/02/2005|Clarke County|21|James Wood|18
+09/02/2005|Courtland|45|Culpeper County|14
+09/02/2005|Covington|54|Pikeview, WV|26
+09/02/2005|Craig County|62|Pocahontas|6
+09/02/2005|E.C. Glass|35|Franklin County|13
+09/02/2005|Essex|42|Middlesex|0
+09/02/2005|Fluvanna|21|Cumberland|20
+09/02/2005|Forsyth Country Day, NC|31|Roanoke Catholic|10
+09/02/2005|Fuqua|21|Kenston Forest|15
+09/02/2005|Gate City|61|Coeburn|14
+09/02/2005|George Marshall|24|Washington-Lee|0
+09/02/2005|George Mason|31|Dominion|0
+09/02/2005|George Washington|49|Tunstall|14
+09/02/2005|Giles|26|Blacksburg|14
+09/02/2005|Goochland|42|King & Queen|0
+09/02/2005|Graham|18|Martinsville|0
+09/02/2005|Gretna|52|Fort Defiance|12
+09/02/2005|Grundy|35|Shelby Valley, KY|7
+09/02/2005|Halifax County|42|Rustburg|41
+09/02/2005|Harrisonburg|30|Charlottesville|14
+09/02/2005|Haysi|20|Clintwood|0
+09/02/2005|Heritage(Le)|28|Millbrook|6
+09/02/2005|Hidden Valley|30|William Byrd|0
+09/02/2005|Holston|35|Twin Springs|34
+09/02/2005|Hurley|48|Ervinton|20
+09/02/2005|Isle of Wight Academy|42|Broadwater Academy|6
+09/02/2005|J.I. Burton|18|Appalachia|0
+09/02/2005|James Monroe|66|Stafford|29
+09/02/2005|James Robinson|61|Fairfax|0
+09/02/2005|Jamestown|30|Northampton|7
+09/02/2005|Jefferson County, WV|21|Sherando|7
+09/02/2005|Kecoughtan|34|Nansemond River|12
+09/02/2005|King William|28|King George|21
+09/02/2005|King's Fork|24|Norview|21
+09/02/2005|Lake Taylor|44|Lakeland|0
+09/02/2005|Lancaster|43|Northumberland|0
+09/02/2005|Liberty(Beal)|14|Fauquier|6
+09/02/2005|Liberty(Bed)|34|Northside|0
+09/02/2005|Louisa County|42|Nottoway|6
+09/02/2005|Madison County|27|Nelson County|21
+09/02/2005|Magna Vista|16|William Fleming|8
+09/02/2005|Manassas Park|42|Potomac Falls|12
+09/02/2005|Martinsburg, WV|18|Rockbridge County|13
+09/02/2005|Massaponax|42|Riverbend|17
+09/02/2005|Monticello|15|Prince Edward|12
+09/02/2005|Musselman, WV|16|Loudoun County|13
+09/02/2005|Nandua|26|Arcadia|14
+09/02/2005|Narrows|35|Eastern Montgomery|14
+09/02/2005|North Stafford|22|Chancellor|19
+09/02/2005|Northwest Halifax, NC|36|Brunswick|18
+09/02/2005|Northwood|35|Marion|0
+09/02/2005|Oscar Smith|35|Booker T. Washington|33
+09/02/2005|Patrick County|24|James River(B)|7
+09/02/2005|Patrick Henry(R)|33|Pulaski County|27
+09/02/2005|Paul VI|26|Broad Run|20
+09/02/2005|Phoebus|66|Woodrow Wilson|0
+09/02/2005|Pound|40|J.J. Kelly|18
+09/02/2005|R.E. Lee(St)|41|Alleghany|0
+09/02/2005|Radford|33|Galax|10
+09/02/2005|Randolph-Macon Academy|47|Fishburne Military|14
+09/02/2005|Richlands|37|Honaker|0
+09/02/2005|Rural Retreat|40|Floyd County|0
+09/02/2005|Salem|30|Lord Botetourt|0
+09/02/2005|Seymour, TN|17|Powell Valley|15
+09/02/2005|Smithfield|20|Surry|0
+09/02/2005|Spotswood|30|William Monroe|6
+09/02/2005|St. Anne's-Belfield|42|Covenant|7
+09/02/2005|Stonewall Jackson(Q)|20|Central(W)|14
+09/02/2005|Strasburg|28|East Hardy, WV|16
+09/02/2005|Tazewell|29|Lebanon|13
+09/02/2005|Thomas Edison|28|R.E. Lee(S)|7
+09/02/2005|Trinity Episcopal|29|Hampton Roads Academy|7
+09/02/2005|Turner Ashby|21|Brookville|13
+09/02/2005|Twin Valley|47|Saint Paul|20
+09/02/2005|Varina|46|Gar-Field|13
+09/02/2005|Virginia|45|John Battle|9
+09/02/2005|Washington & Lee|33|Central(L)|7
+09/02/2005|Western Albemarle|50|Waynesboro|28
+09/02/2005|Wilson Memorial|34|Stuarts Draft|0
+09/02/2005|Windsor|26|Nansemond-Suffolk|15
+09/03/2005|Luray|34|Rappahannock County|14
+09/03/2005|Benedictine|28|Hargrave Military|13
+09/03/2005|Bishop O'Connell|31|Bishop Ireton|24
+09/03/2005|Bishop Sullivan Catholic|18|Potomac School|7
+09/03/2005|Christchurch|42|Greenbrier Christian|0
+09/03/2005|Georgetown Prep, MD|28|Fork Union Military|20
+09/03/2005|Liberty Christian|49|Virginia Episcopal|0
+09/08/2005|Maury|42|Hickory|7
+09/09/2005|Altavista|44|James River(B)|0
+09/09/2005|Amherst County|58|Western Albemarle|12
+09/09/2005|Appalachia|20|Clintwood|12
+09/09/2005|Appomattox|27|Bluestone|15
+09/09/2005|Armstrong|41|Thomas Jefferson(R)|6
+09/09/2005|Atlantic Shores Christian|32|Northside Christian, NC|20
+09/09/2005|Battlefield|26|Brentsville District|0
+09/09/2005|Benedictine|34|J.R. Tucker|19
+09/09/2005|Big Creek, WV|40|Pocahontas|12
+09/09/2005|Bland/Rocky Gap|28|Auburn|12
+09/09/2005|Blessed Sacrament-Huguenot|35|Tidewater Academy|13
+09/09/2005|Broadway|33|Warren County|12
+09/09/2005|Bruton|25|Woodberry Forest|14
+09/09/2005|Buffalo Gap|14|Fort Defiance|7
+09/09/2005|C.D. Hylton|42|Stonewall Jackson(M)|0
+09/09/2005|Cave Spring|21|Northside|6
+09/09/2005|Central(L)|9|Park View(SH)|6
+09/09/2005|Central(W)|26|Strasburg|21
+09/09/2005|Centreville|56|Hayfield|14
+09/09/2005|Chatham|47|Tunstall|13
+09/09/2005|Chilhowie|52|Twin Springs|18
+09/09/2005|Clover Hill|35|Prince George|0
+09/09/2005|Collegiate|37|St. Anne's-Belfield|23
+09/09/2005|Colonial Beach|34|West Point|13
+09/09/2005|Colonial Forge|13|Culpeper County|6
+09/09/2005|Colonial Heights|40|Brunswick|6
+09/09/2005|Courtland|61|Tabb|7
+09/09/2005|Deep Run|27|Atlee|15
+09/09/2005|E.C. Glass|7|Heritage(Lyn)|0
+09/09/2005|First Colonial|56|Princess Anne|32
+09/09/2005|Fluvanna|33|Buckingham County|0
+09/09/2005|Fort Chiswell|29|Eastern Montgomery|8
+09/09/2005|Franklin|22|Southampton|6
+09/09/2005|Franklin County|35|Magna Vista|17
+09/09/2005|Freedom(PW)|25|Mountain View|3
+09/09/2005|Gate City|26|Pound|6
+09/09/2005|George Marshall|33|Wakefield|26
+09/09/2005|George Mason|35|J.E.B. Stuart|6
+09/09/2005|George Washington|63|Page, NC|36
+09/09/2005|George Wythe(W)|19|Radford|7
+09/09/2005|Giles|30|Christiansburg|13
+09/09/2005|Glenvar|49|Parry McCluer|6
+09/09/2005|Gloucester|14|Norview|6
+09/09/2005|Graham|34|Blacksburg|31
+09/09/2005|Great Bridge|27|Churchland|24
+09/09/2005|Gretna|50|Dan River|6
+09/09/2005|Halifax County|41|Dinwiddie|6
+09/09/2005|Hampshire, WV|14|James Wood|11
+09/09/2005|Hampton|14|Indian River|7
+09/09/2005|Hampton Roads Academy|36|Norfolk Christian|14
+09/09/2005|Harrisonburg|27|Handley|21
+09/09/2005|Hedgesville, WV|34|Potomac Falls|6
+09/09/2005|Henrico|20|Caroline|0
+09/09/2005|Heritage(Le)|61|Hyde, DC|0
+09/09/2005|Hermitage|28|Lee-Davis|7
+09/09/2005|Herndon|42|South Lakes|0
+09/09/2005|Hidden Valley|49|Lord Botetourt|0
+09/09/2005|Highland Springs|12|Woodbridge|10
+09/09/2005|Holston|15|Castlewood|14
+09/09/2005|Honaker|52|John Battle|18
+09/09/2005|Hurley|40|Montcalm, WV|22
+09/09/2005|J.I. Burton|26|J.J. Kelly|0
+09/09/2005|James Monroe|41|Poquoson|40
+09/09/2005|James River(M)|31|Douglas Freeman|13
+09/09/2005|James Robinson|21|Good Counsel, MD|6
+09/09/2005|James Wood|11|Hampshire, WV|14
+09/09/2005|Jefferson County, WV|37|Park View(St)|34
+09/09/2005|Kempsville|27|Salem(VB)|0
+09/09/2005|Kenston Forest|39|Southampton Academy|24
+09/09/2005|King William|20|Essex|13
+09/09/2005|L.C. Bird|35|Matoaca|18
+09/09/2005|Lafayette|30|Greensville|0
+09/09/2005|Lake Braddock|14|Chantilly|6
+09/09/2005|Lake Taylor|50|Heritage(NN)|6
+09/09/2005|Lancaster|35|Charles City|18
+09/09/2005|Landstown|68|Kellam|26
+09/09/2005|Liberty(Beal)|31|Stafford|15
+09/09/2005|Liberty(Bed)|48|Bassett|14
+09/09/2005|Liberty Christian|67|Hargrave Military|7
+09/09/2005|Loudoun Valley|33|Loudoun County|0
+09/09/2005|Louisa County|51|Dominion|0
+09/09/2005|Luray|25|Cumberland|18
+09/09/2005|Manassas Park|20|Broad Run|7
+09/09/2005|Marion|31|Patrick Henry(GS)|7
+09/09/2005|Martinsburg, WV|27|R.E. Lee(St)|20
+09/09/2005|Martinsville|27|Rustburg|7
+09/09/2005|Massaponax|42|Spotsylvania|7
+09/09/2005|McLean|41|South County|6
+09/09/2005|Meadowbrook|41|Midlothian|6
+09/09/2005|Middlesboro, KY|35|Lee|14
+09/09/2005|Middlesex|27|Mathews|8
+09/09/2005|Millbrook|42|Spotswood|0
+09/09/2005|Mills Godwin|21|Monacan|18
+09/09/2005|Monticello|35|Albemarle|7
+09/09/2005|Nandua|35|New Kent|29
+09/09/2005|Nansemond River|21|Woodrow Wilson|0
+09/09/2005|Nansemond-Suffolk|34|Trinity Episcopal|0
+09/09/2005|Narrows|15|Craig County|7
+09/09/2005|Nelson County|45|William Monroe|22
+09/09/2005|Norfolk Academy|44|Greenbrier Christian|18
+09/09/2005|North Cross|47|Covenant|31
+09/09/2005|North Stafford|27|Gar-Field|24
+09/09/2005|Northampton|35|Arcadia|19
+09/09/2005|Nottoway|28|Amelia County|24
+09/09/2005|Oakton|35|James Madison|14
+09/09/2005|Ocean Lakes|14|Cox|7
+09/09/2005|Orange|56|Madison County|6
+09/09/2005|Osbourn|16|Brooke Point|14
+09/09/2005|Osbourn Park|26|Forest Park|7
+09/09/2005|Patrick County|19|Floyd County|7
+09/09/2005|Patrick Henry(A)|41|Hanover|0
+09/09/2005|Patrick Henry(R)|40|Jefferson Forest|35
+09/09/2005|Paul VI|29|Bishop Ireton|14
+09/09/2005|Petersburg|44|George Wythe(R)|0
+09/09/2005|Potomac|29|Fauquier|6
+09/09/2005|Powell Valley|14|Breathitt, KY|13
+09/09/2005|Powhatan|28|Grafton|14
+09/09/2005|Prince Edward|25|Randolph-Henry|14
+09/09/2005|Quantico|40|Fuqua|11
+09/09/2005|R.E. Lee(S)|20|Langley|7
+09/09/2005|Rappahannock|13|King & Queen|2
+09/09/2005|Richlands|48|Grundy|0
+09/09/2005|Riverbend|31|Huguenot|28
+09/09/2005|Riverheads|54|Stuarts Draft|0
+09/09/2005|Roanoke Catholic|28|Brunswick Academy|20
+09/09/2005|Rockbridge County|40|Alleghany|0
+09/09/2005|Rural Retreat|41|Grayson|7
+09/09/2005|Rye Cove|28|Coeburn|6
+09/09/2005|Saint Paul|25|Ervinton|0
+09/09/2005|Salem|42|Brookville|17
+09/09/2005|Sherando|26|Musselman, WV|17
+09/09/2005|Staunton River|35|William Byrd|21
+09/09/2005|Stone Bridge|21|West Springfield|14
+09/09/2005|Stonewall Jackson(Q)|49|Clarke County|14
+09/09/2005|Tallwood|28|Green Run|0
+09/09/2005|Thomas Dale|27|Manchester|14
+09/09/2005|Thomas Edison|40|Washington-Lee|6
+09/09/2005|Thomas Jefferson(A)|36|Falls Church|20
+09/09/2005|Turner Ashby|31|Charlottesville|0
+09/09/2005|Varina|33|Hopewell|0
+09/09/2005|Virginia|29|Abingdon|10
+09/09/2005|W.T. Woodson|20|Fairfax|14
+09/09/2005|Warwick|17|Booker T. Washington|7
+09/09/2005|Washington & Lee|19|King George|16
+09/09/2005|Western Branch|36|Granby|14
+09/09/2005|Westfield|38|Annandale|14
+09/09/2005|William Campbell|60|Sussex Central|6
+09/09/2005|William Fleming|31|Pulaski County|0
+09/09/2005|Wilson Memorial|28|Covington|0
+09/09/2005|Windsor|26|Northumberland|24
+09/09/2005|Woodside|26|Norcom|20
+09/09/2005|Yorktown|39|West Potomac|14
+09/10/2005|Berkley Christian, WV|32|Twin Valley|26
+09/10/2005|Blue Ridge School|41|Flint Hill|6
+09/10/2005|Bowling Brook Prep, MD|37|Potomac School|0
+09/10/2005|Chincoteague|41|Broadwater Academy|20
+09/10/2005|Christchurch|8|Bishop Sullivan Catholic|6
+09/10/2005|Fishburne Military|16|Massanutten Military|7
+09/10/2005|Page|38|Rappahannock County|6
+09/10/2005|St. Albans, DC|23|Bishop O'Connell|10
+09/10/2005|St. Christopher's|35|St. Stephen's-St. Agnes|34
+09/10/2005|T.C. Williams|48|Mount Vernon|20
+09/10/2005|Valley Forge Military, PA|38|Fork Union Military|20
+09/10/2005|Virginia Episcopal|42|Randolph-Macon Academy|21
+09/15/2005|Hampton|26|Gloucester|0
+09/16/2005|Alleghany|21|Covington|14
+09/16/2005|Amelia County|24|Charles City|8
+09/16/2005|Amherst County|28|George Washington|24
+09/16/2005|Annandale|35|Lake Braddock|14
+09/16/2005|Armstrong|27|George Wythe(R)|0
+09/16/2005|Bayside|34|Tallwood|11
+09/16/2005|Blue Ridge School|68|Hampton Roads Academy|0
+09/16/2005|Bluefield, WV|42|Grundy|34
+09/16/2005|Bluestone|24|Randolph-Henry|22
+09/16/2005|Brooke Point|10|North Stafford|2
+09/16/2005|Bruton|30|Jamestown|0
+09/16/2005|Buffalo Gap|30|Parry McCluer|7
+09/16/2005|C.D. Hylton|43|Culpeper County|3
+09/16/2005|Carroll County|21|Tazewell|7
+09/16/2005|Castlewood|50|Twin Valley|15
+09/16/2005|Cave Spring|49|Lord Botetourt|21
+09/16/2005|Centreville|60|South Lakes|0
+09/16/2005|Chantilly|29|Washington-Lee|0
+09/16/2005|Chatham|62|Bartlett-Yancey, NC|13
+09/16/2005|Chilhowie|50|Holston|13
+09/16/2005|Chincoteague|26|Tidewater Academy|7
+09/16/2005|Christiansburg|33|Northside|7
+09/16/2005|Clarke County|10|Luray|7
+09/16/2005|Clintwood|32|Lee|6
+09/16/2005|Clover Hill|27|Dinwiddie|7
+09/16/2005|Collegiate|27|Mills Godwin|6
+09/16/2005|Colonial Forge|16|Prince George|0
+09/16/2005|Colonial Heights|33|Park View(SH)|6
+09/16/2005|Craig County|50|Eastern Montgomery|19
+09/16/2005|Cumberland|27|Altavista|14
+09/16/2005|Dan River|21|Rustburg|15
+09/16/2005|Deep Creek|35|Indian River|6
+09/16/2005|Deep Run|14|Henrico|7
+09/16/2005|Douglas Freeman|11|Highland Springs|9
+09/16/2005|E.C. Glass|33|Jefferson Forest|27
+09/16/2005|Ervinton|52|Thomas Walker|12
+09/16/2005|Essex|56|Sussex Central|8
+09/16/2005|Falls Church|33|Wakefield|0
+09/16/2005|Fauquier|27|Stafford|10
+09/16/2005|Fishburne Military|36|Quantico|21
+09/16/2005|Flint Hill|30|Covenant|23
+09/16/2005|Fork Union Military|41|Hargrave Military|0
+09/16/2005|Franklin|41|West Point|19
+09/16/2005|Galax|13|Auburn|7
+09/16/2005|George Marshall|31|J.E.B. Stuart|0
+09/16/2005|George Wythe(W)|26|Grayson|6
+09/16/2005|Giles|37|Narrows|12
+09/16/2005|Glenvar|41|Bath County|0
+09/16/2005|Goochland|41|Fluvanna|7
+09/16/2005|Grafton|27|Tabb|21
+09/16/2005|Graham|41|Marion|13
+09/16/2005|Greenbrier Christian|53|Norfolk Christian|0
+09/16/2005|Harrisonburg|47|Stuarts Draft|7
+09/16/2005|Haysi|15|Rye Cove|14
+09/16/2005|Heritage(Le)|15|Brentsville District|13
+09/16/2005|Hermitage|54|Hanover|0
+09/16/2005|Herndon|28|R.E. Lee(S)|7
+09/16/2005|Hickory|52|King's Fork|12
+09/16/2005|Honaker|39|Twin Springs|7
+09/16/2005|Hopewell|42|Monacan|0
+09/16/2005|Isle of Wight Academy|51|Kenston Forest|6
+09/16/2005|J.I. Burton|40|Saint Paul|0
+09/16/2005|James Madison|14|Fairfax|6
+09/16/2005|James Monroe|34|Charlottesville|0
+09/16/2005|James River(M)|43|Lee-Davis|15
+09/16/2005|James Robinson|40|Hayfield|0
+09/16/2005|Jefferson County, WV|35|Broad Run|6
+09/16/2005|John Marshall|58|Huguenot|20
+09/16/2005|Kellam|50|Green Run|15
+09/16/2005|Kempsville|32|First Colonial|3
+09/16/2005|King William|42|Northumberland|27
+09/16/2005|Lake Taylor|77|Woodrow Wilson|0
+09/16/2005|Lancaster|40|Middlesex|7
+09/16/2005|Landstown|56|Princess Anne|6
+09/16/2005|Lebanon|21|Patrick Henry(GS)|7
+09/16/2005|Liberty Christian|34|Norfolk Academy|13
+09/16/2005|Loudoun County|62|Rappahannock County|0
+09/16/2005|Loudoun Valley|36|Park View(St)|6
+09/16/2005|Louisa County|35|Spotsylvania|0
+09/16/2005|Magna Vista|21|William Campbell|20
+09/16/2005|Manassas Park|33|Page|3
+09/16/2005|Massaponax|27|Courtland|3
+09/16/2005|Matoaca|22|Manchester|16
+09/16/2005|Maury|42|Norcom|21
+09/16/2005|Meadowbrook|24|L.C. Bird|21
+09/16/2005|Midlothian|21|J.R. Tucker|0
+09/16/2005|Millbrook|33|Dominion|14
+09/16/2005|Musselman, WV|42|James Wood|0
+09/16/2005|Nandua|24|Greensville|15
+09/16/2005|Nansemond River|30|Lakeland|6
+09/16/2005|Nelson County|17|Riverheads|7
+09/16/2005|Northampton County West, NC|63|Brunswick|20
+09/16/2005|Northwood|45|Fort Chiswell|21
+09/16/2005|Nottoway|38|Central(L)|30
+09/16/2005|Oakton|28|Stone Bridge|6
+09/16/2005|Orange|35|Chancellor|7
+09/16/2005|Osbourn|55|Forest Park|14
+09/16/2005|Osbourn Park|41|Freedom(PW)|14
+09/16/2005|Oscar Smith|37|Great Bridge|12
+09/16/2005|Patrick Henry(A)|24|Atlee|7
+09/16/2005|Patrick Henry(R)|35|Heritage(Lyn)|20
+09/16/2005|Person, NC|27|Halifax County|7
+09/16/2005|Petersburg|19|Gar-Field|12
+09/16/2005|Phoebus|59|Kecoughtan|14
+09/16/2005|Potomac|25|Stonewall Jackson(M)|13
+09/16/2005|Powell Valley|42|Pound|27
+09/16/2005|Powhatan|55|Caroline|23
+09/16/2005|Prince Edward|28|Buckingham County|12
+09/16/2005|Pulaski County|44|Franklin County|41
+09/16/2005|Rappahannock|30|Mathews|15
+09/16/2005|Richlands|36|Abingdon|0
+09/16/2005|Riverbend|28|Mountain View|0
+09/16/2005|Roanoke Catholic|49|Pocahontas|14
+09/16/2005|Rockbridge County|40|Fort Defiance|13
+09/16/2005|Salem|49|William Byrd|3
+09/16/2005|Salem(VB)|12|Cox|7
+09/16/2005|Sherando|40|Hedgesville, WV|0
+09/16/2005|Smithfield|42|Lafayette|17
+09/16/2005|Southampton|20|Poquoson|14
+09/16/2005|Southampton Academy|13|Fuqua|12
+09/16/2005|St. Anne's-Belfield|50|North Cross|12
+09/16/2005|Staunton River|41|Patrick County|7
+09/16/2005|Stonewall Jackson(Q)|36|George Mason|22
+09/16/2005|Surry|52|Arcadia|0
+09/16/2005|T.C. Williams|41|South County|14
+09/16/2005|Thomas Edison|33|West Springfield|12
+09/16/2005|Thomas Jefferson(A)|34|Langley|21
+09/16/2005|Tidewater Academy|35|Blessed Sacrament-Huguenot|13
+09/16/2005|Turner Ashby|50|Broadway|6
+09/16/2005|Varina|33|Thomas Dale|30
+09/16/2005|Virginia Episcopal|39|Nansemond-Suffolk|0
+09/16/2005|Warren County|49|Randolph-Macon Academy|26
+09/16/2005|Warwick|45|Menchville|19
+09/16/2005|Waynesboro|28|Spotswood|27
+09/16/2005|West Potomac|32|Mount Vernon|0
+09/16/2005|Western Albemarle|37|Albemarle|7
+09/16/2005|Western Branch|28|Churchland|6
+09/16/2005|Westfield|45|W.T. Woodson|0
+09/16/2005|William Fleming|33|Blacksburg|17
+09/16/2005|William Monroe|35|Madison County|28
+09/16/2005|Wilson Memorial|54|James River(B)|21
+09/16/2005|Windsor|22|Northampton|7
+09/16/2005|Woodbridge|34|Battlefield|0
+09/16/2005|York|56|New Kent|35
+09/16/2005|Yorktown|35|McLean|7
+09/17/2005|Benedictine|21|Thomas Jefferson(R)|6
+09/17/2005|Booker T. Washington|32|Norview|14
+09/17/2005|Bishop McNamara, MD|19|Bishop Ireton|13
+09/17/2005|Bishop O'Connell|38|Episcopal|21
+09/17/2005|Bishop Sullivan Catholic|32|Trinity Episcopal|14
+09/17/2005|Cardinal Gibbons, MD|20|St. Stephen's-St. Agnes|6
+09/17/2005|Christchurch|36|Blessed Sacrament-Huguenot|14
+09/17/2005|Denbigh|41|Woodside|7
+09/17/2005|Handley|48|Strasburg|0
+09/17/2005|Heritage(NN)|39|Bethel|13
+09/17/2005|Hill, PA|47|Woodberry Forest|19
+09/17/2005|Liberty Christian|34|Norfolk Academy|13
+09/17/2005|Massanutten Military|18|Model School, DC|0
+09/17/2005|Potomac School|19|Hyde, DC|12
+09/17/2005|St. Christopher's|49|Atlantic Shores Christian|20
+09/23/2005|Albemarle|27|Charlottesville|21
+09/23/2005|Altavista|28|Randolph-Henry|26
+09/23/2005|Amelia County|30|Park View(SH)|24
+09/23/2005|Amherst County|21|E.C. Glass|7
+09/23/2005|Annandale|40|West Springfield|34
+09/23/2005|Appalachia|20|J.J. Kelly|6
+09/23/2005|Bassett|7|Patrick Henry(R)|0
+09/23/2005|Bath County|27|Alleghany|20
+09/23/2005|Bland/Rocky Gap|20|Eastern Montgomery|7
+09/23/2005|Blessed Sacrament-Huguenot|28|Greenbrier Christian|22
+09/23/2005|Booker T. Washington|40|Woodrow Wilson|0
+09/23/2005|Broadwater Academy|34|Hampton Christian|6
+09/23/2005|Broadway|35|Stuarts Draft|13
+09/23/2005|Brooke Point|37|Forest Park|13
+09/23/2005|Brookville|29|William Byrd|18
+09/23/2005|Buffalo Gap|16|Waynesboro|14
+09/23/2005|C.D. Hylton|55|Osbourn Park|0
+09/23/2005|Caroline|61|Thomas Jefferson(R)|6
+09/23/2005|Carroll County|41|Grayson|13
+09/23/2005|Central(W)|15|Clarke County|13
+09/23/2005|Centreville|54|West Potomac|28
+09/23/2005|Chantilly|20|James Madison|14
+09/23/2005|Charles City|36|Northumberland|7
+09/23/2005|Chatham|20|Dan River|14
+09/23/2005|Chincoteague|28|Southampton Academy|21
+09/23/2005|Christchurch|68|Hampton Roads Academy|0
+09/23/2005|Christiansburg|31|Lord Botetourt|28
+09/23/2005|Clintwood|40|Coeburn|7
+09/23/2005|Clover Hill|28|Hopewell|13
+09/23/2005|Colonial Forge|24|King George|7
+09/23/2005|Colonial Heights|28|Armstrong|0
+09/23/2005|Craig County|41|Auburn|7
+09/23/2005|Cox|13|First Colonial|0
+09/23/2005|Deep Creek|52|Nansemond River|7
+09/23/2005|Deep Run|34|Hanover|0
+09/23/2005|Dinwiddie|14|Nottoway|6
+09/23/2005|Douglas Freeman|38|Atlee|26
+09/23/2005|Ervinton|50|Jenkins, KY|35
+09/23/2005|Essex|48|Northampton|0
+09/23/2005|Fairfax|35|Mount Vernon|21
+09/23/2005|Falls Church|27|South County|3
+09/23/2005|Floyd County|25|Galax|13
+09/23/2005|Fluvanna|28|Nelson County|22
+09/23/2005|Fort Chiswell|19|James River(B)|17
+09/23/2005|Franklin County|26|George Washington|21
+09/23/2005|Gar-Field|10|Battlefield|9
+09/23/2005|Gate City|39|Lee|27
+09/23/2005|Glenvar|44|Covington|8
+09/23/2005|Goochland|28|William Monroe|7
+09/23/2005|Grafton|28|Lafayette|21
+09/23/2005|Granby|20|Churchland|14
+09/23/2005|Gretna|54|Appomattox|6
+09/23/2005|Halifax County|27|Martinsville|7
+09/23/2005|Hampton|66|Warwick|20
+09/23/2005|Harrisonburg|24|Rockbridge County|15
+09/23/2005|Hayfield|28|Lake Braddock|25
+09/23/2005|Henrico|33|J.R. Tucker|0
+09/23/2005|Herndon|49|Park View(St)|7
+09/23/2005|Hickory|60|Norview|6
+09/23/2005|Hidden Valley|48|Patrick County|13
+09/23/2005|Highland Springs|21|Mills Godwin|9
+09/23/2005|Honaker|14|Haysi|9
+09/23/2005|Huguenot|42|Petersburg|0
+09/23/2005|Hurley|52|Thomas Walker|22
+09/23/2005|Indian River|25|Great Bridge|20
+09/23/2005|Isle of Wight Academy|21|Brunswick Academy|6
+09/23/2005|J.I. Burton|14|Powell Valley|8
+09/23/2005|James Robinson|68|McLean|14
+09/23/2005|Jefferson County, WV|31|Potomac Falls|7
+09/23/2005|Kellam|44|Bayside|7
+09/23/2005|Kenston Forest|12|Word of Life Academy|6
+09/23/2005|King William|44|Lancaster|30
+09/23/2005|Lake Taylor|27|Maury|20
+09/23/2005|Landstown|65|Kempsville|21
+09/23/2005|Lebanon|26|George Wythe(W)|21
+09/23/2005|Liberty(Beal)|37|Culpeper County|7
+09/23/2005|Liberty(Bed)|32|Western Albemarle|26
+09/23/2005|Liberty Christian|47|Covenant|0
+09/23/2005|Louisa County|28|Courtland|14
+09/23/2005|Luray|29|Madison County|23
+09/23/2005|Manassas Park|18|Brentsville District|3
+09/23/2005|Martinsburg, WV|55|Broad Run|7
+09/23/2005|Massaponax|19|Chancellor|0
+09/23/2005|Matoaca|45|James River(M)|20
+09/23/2005|Meadowbrook|31|Manchester|21
+09/23/2005|Midlothian|19|Mountain View|0
+09/23/2005|Monacan|21|Prince George|3
+09/23/2005|Nansemond-Suffolk|36|Bishop Sullivan Catholic|8
+09/23/2005|Orange|34|Spotsylvania|0
+09/23/2005|Osbourn|31|Potomac|28
+09/23/2005|Oscar Smith|69|Lakeland|6
+09/23/2005|Page|21|Strasburg|19
+09/23/2005|Patrick Henry(A)|40|Lee-Davis|23
+09/23/2005|Patrick Henry(GS)|32|John Battle|30
+09/23/2005|Phoebus|35|Denbigh|0
+09/23/2005|Poquoson|21|Bruton|14
+09/23/2005|Princess Anne|31|Green Run|26
+09/23/2005|Pulaski County|35|Jefferson Forest|14
+09/23/2005|R.E. Lee(St)|48|Fort Defiance|0
+09/23/2005|Reidsville, NC|43|Magna Vista|6
+09/23/2005|Richlands|30|Graham|0
+09/23/2005|Riverheads|31|Parry McCluer|12
+09/23/2005|Roanoke Catholic|35|Fishburne Military|20
+09/23/2005|Rural Retreat|28|Northwood|6
+09/23/2005|Rye Cove|47|Castlewood|0
+09/23/2005|Salem|28|Northside|7
+09/23/2005|Salem(VB)|32|Ocean Lakes|10
+09/23/2005|Southampton|21|Smithfield|20
+09/23/2005|St. Anne's-Belfield|45|Trinity Episcopal|0
+09/23/2005|Stafford|24|Riverbend|21
+09/23/2005|Stone Bridge|17|Loudoun Valley|14
+09/23/2005|Stonewall Jackson(M)|47|Freedom(PW)|14
+09/23/2005|Surry|14|Brunswick|7
+09/23/2005|Sussex Central|26|King & Queen|13
+09/23/2005|Tabb|27|New Kent|13
+09/23/2005|Tazewell|40|Abingdon|30
+09/23/2005|Thomas Dale|27|L.C. Bird|21
+09/23/2005|Thomas Edison|59|J.E.B. Stuart|8
+09/23/2005|Thomas Jefferson(A)|55|South Lakes|44
+09/23/2005|Tidewater Academy|14|Fuqua|6
+09/23/2005|Tunstall|34|Bluestone|0
+09/23/2005|Turner Ashby|35|Spotswood|3
+09/23/2005|Twin Springs|48|Saint Paul|13
+09/23/2005|Twin Valley|20|Pocahontas|6
+09/23/2005|Varina|45|Hermitage|9
+09/23/2005|Virginia|49|Marion|7
+09/23/2005|W.T. Woodson|22|George Marshall|19
+09/23/2005|Warren County|33|Loudoun County|10
+09/23/2005|Washington & Lee|48|Arcadia|0
+09/23/2005|West Point|27|Rappahannock|19
+09/23/2005|Western Branch|35|King's Fork|16
+09/23/2005|Westfield|41|Langley|7
+09/23/2005|William Campbell|36|Giles|13
+09/23/2005|Woodbridge|37|Fauquier|7
+09/23/2005|Woodside|22|Gloucester|0
+09/24/2005|Atlantic Shores Christian|2|Hargrave Military|0
+09/24/2005|Bethel|29|Menchville|7
+09/24/2005|Bishop Ireton|14|Northampton, NC|0
+09/24/2005|Bishop O'Connell|16|Bishop McNamara, MD|6
+09/24/2005|Collegiate|35|St. Albans, DC|29
+09/24/2005|Colonial Beach|36|Massanutten Military|26
+09/24/2005|Fork Union Military|48|Episcopal|41
+09/24/2005|Franklin|30|Mathews|7
+09/24/2005|Handley|20|Heritage(Le)|14
+09/24/2005|John Marshall|30|George Wythe(R)|0
+09/24/2005|Kecoughtan|20|Heritage(NN)|7
+09/24/2005|Middlesex|28|Windsor|20
+09/24/2005|Oakton|28|T.C. Williams|16
+09/24/2005|Powhatan|10|Monticello|0
+09/24/2005|Randolph-Macon Academy|35|Blue Ridge School|28
+09/24/2005|St. Christopher's|48|Norfolk Academy|20
+09/24/2005|St. Stephen's-St. Agnes|27|Woodberry Forest|21
+09/24/2005|Virginia Episcopal|26|North Cross|15
+09/24/2005|York|49|Jamestown|0
+09/26/2005|Gretna|22|Tunstall|21
+09/29/2005|Blue Ridge School|71|Covenant|20
+09/30/2005|Amherst County|54|Appomattox|0
+09/30/2005|Appalachia|28|Pound|14
+09/30/2005|Armstrong|38|Lee-Davis|13
+09/30/2005|Bassett|14|Dan River|13
+09/30/2005|Blacksburg|34|Lord Botetourt|21
+09/30/2005|Blessed Sacrament-Huguenot|31|Trinity Episcopal|6
+09/30/2005|Bluefield, WV|7|Graham|0
+09/30/2005|Brooke Point|27|Stafford|10
+09/30/2005|Brunswick Academy|46|Southampton Academy|14
+09/30/2005|C.D. Hylton|40|Henrico|6
+09/30/2005|Caroline|27|Riverbend|26
+09/30/2005|Carroll County|23|William Byrd|21
+09/30/2005|Castlewood|42|Saint Paul|6
+09/30/2005|Cave Spring|56|Alleghany|12
+09/30/2005|Central(L)|42|Bluestone|19
+09/30/2005|Charles City|16|Rappahannock|14
+09/30/2005|Chatham|49|Amelia County|7
+09/30/2005|Chilhowie|16|Patrick Henry(GS)|7
+09/30/2005|Christchurch|19|Nansemond-Suffolk|14
+09/30/2005|Christiansburg|34|Floyd County|0
+09/30/2005|Clintwood|15|Powell Valley|6
+09/30/2005|Collegiate|54|Episcopal|33
+09/30/2005|Colonial Beach|30|Chincoteague|12
+09/30/2005|Colonial Forge|36|Mountain View|0
+09/30/2005|Craig County|25|Bland/Rocky Gap|14
+09/30/2005|Cumberland, KY|61|Thomas Walker|32
+09/30/2005|Deep Creek|33|Booker T. Washington|18
+09/30/2005|Deep Run|37|Thomas Jefferson(R)|6
+09/30/2005|Dominion|28|Wakefield|21
+09/30/2005|Douglas Freeman|21|John Marshall|18
+09/30/2005|Forest Park|28|Battlefield|21
+09/30/2005|Franklin|20|Essex|14
+09/30/2005|Franklin County|47|Martinsville|14
+09/30/2005|Gate City|21|Virginia|19
+09/30/2005|George Mason|54|Luray|14
+09/30/2005|George Wythe(W)|22|Rural Retreat|14
+09/30/2005|Glenvar|42|James River(B)|0
+09/30/2005|Goochland|55|Altavista|13
+09/30/2005|Grafton|14|Southampton|9
+09/30/2005|Great Bridge|41|Lakeland|7
+09/30/2005|George Washington|36|Reidsville, NC|35
+09/30/2005|Halifax County|45|Tunstall|7
+09/30/2005|Hampton|14|Bethel|7
+09/30/2005|Harrisonburg|35|Waynesboro|14
+09/30/2005|Haysi|42|Twin Valley|6
+09/30/2005|Heritage(Lyn)|21|Brookville|14
+09/30/2005|Heritage(NN)|8|Denbigh|7
+09/30/2005|Hermitage|49|J.R. Tucker|7
+09/30/2005|Hidden Valley|27|Northside|0
+09/30/2005|Highland Springs|50|Atlee|7
+09/30/2005|Holston|46|John Battle|28
+09/30/2005|Hopewell|32|Dinwiddie|7
+09/30/2005|Honaker|27|Abingdon|20
+09/30/2005|Huguenot|28|Midlothian|3
+09/30/2005|Hurley|30|Big Creek, WV|8
+09/30/2005|Indian River|38|Hickory|12
+09/30/2005|Isle of Wight Academy|41|Fuqua|9
+09/30/2005|J.I. Burton|55|Coeburn|7
+09/30/2005|James Madison|14|McLean|3
+09/30/2005|James Monroe|26|Chancellor|21
+09/30/2005|James Robinson|21|Herndon|14
+09/30/2005|James Wood|18|Millbrook|14
+09/30/2005|Jefferson Forest|27|Rustburg|21
+09/30/2005|Kellam|48|Tallwood|7
+09/30/2005|Kempsville|29|Green Run|0
+09/30/2005|King William|30|Northampton|26
+09/30/2005|L.C. Bird|29|Clover Hill|0
+09/30/2005|Lafayette|35|Tabb|0
+09/30/2005|Lake Taylor|42|Granby|6
+09/30/2005|Landstown|56|Cox|0
+09/30/2005|Langley|31|George Marshall|12
+09/30/2005|Lebanon|41|Northwood|27
+09/30/2005|Liberty(Beal)|28|Central(W)|0
+09/30/2005|Liberty(Bed)|40|Staunton River|7
+09/30/2005|Liberty Christian|54|Forsyth Country Day, NC|7
+09/30/2005|Loudoun County|27|Heritage(Le)|19
+09/30/2005|Loudoun Valley|35|Mount Vernon|0
+09/30/2005|Louisa County|56|Western Albemarle|13
+09/30/2005|Manchester|42|James River(M)|2
+09/30/2005|Marion|26|Lee|14
+09/30/2005|Martinsburg, WV|35|Potomac Falls|9
+09/30/2005|Massaponax|54|Albemarle|18
+09/30/2005|Matoaca|25|Meadowbrook|8
+09/30/2005|Maury|27|Churchland|10
+09/30/2005|Middlesex|31|Arcadia|8
+09/30/2005|Monacan|35|George Wythe(W)|6
+09/30/2005|Monticello|27|Charlottesville|12
+09/30/2005|Nansemond River|41|King's Fork|6
+09/30/2005|Narrows|25|Grayson|7
+09/30/2005|Nelson County|32|Buckingham County|24
+09/30/2005|New Kent|21|Jamestown|13
+09/30/2005|Norcom|27|Norview|6
+09/30/2005|Norfolk Academy|56|Hampton Roads Academy|28
+09/30/2005|North Cross|21|Hargrave Military|6
+09/30/2005|North Stafford|36|Potomac|22
+09/30/2005|Nottoway|35|Brunswick|16
+09/30/2005|Oakton|26|Chantilly|7
+09/30/2005|Ocean Lakes|31|First Colonial|19
+09/30/2005|Orange|28|Fluvanna|16
+09/30/2005|Osbourn|28|Freedom(PW)|6
+09/30/2005|Osbourn Park|21|Gar-Field|7
+09/30/2005|Oscar Smith|40|Western Branch|7
+09/30/2005|Page|32|Madison County|14
+09/30/2005|Park View(SH)|28|Prince Edward|22
+09/30/2005|Park View(St)|46|Broad Run|23
+09/30/2005|Parry McCluer|8|Auburn|7
+09/30/2005|Patrick County|34|Galax|14
+09/30/2005|Patrick Henry(A)|28|Mills Godwin|21
+09/30/2005|Poquoson|26|York|24
+09/30/2005|Powhatan|54|Greensville|14
+09/30/2005|Prince George|21|Petersburg|7
+09/30/2005|Princess Anne|42|Bayside|41
+09/30/2005|Pulaski County|21|E.C. Glass|11
+09/30/2005|Quantico|22|Word of Life Academy|8
+09/30/2005|R.E. Lee(S)|30|South County|0
+09/30/2005|R.E. Lee(St)|21|Stuarts Draft|3
+09/30/2005|Richlands|27|Tazewell|3
+09/30/2005|Riverheads|20|Radford|13
+09/30/2005|Roanoke Catholic|36|Greenbrier Christian|21
+09/30/2005|Rye Cove|12|J.J. Kelly|0
+09/30/2005|Salem|14|William Fleming|6
+09/30/2005|Sherando|21|Warren County|19
+09/30/2005|Smithfield|8|Bruton|7
+09/30/2005|South Lakes|41|W.T. Woodson|14
+09/30/2005|Spotswood|28|Broadway|26
+09/30/2005|Spotsylvania|27|King George|7
+09/30/2005|Stone Bridge|49|Thomas Jefferson(A)|20
+09/30/2005|Strasburg|21|Stonewall Jackson(Q)|12
+09/30/2005|Surry|50|King & Queen|0
+09/30/2005|Sussex Central|36|Mathews|14
+09/30/2005|Thomas Dale|29|Colonial Heights|18
+09/30/2005|Turner Ashby|45|Fort Defiance|10
+09/30/2005|Twin Springs|48|Ervinton|14
+09/30/2005|Varina|42|Hanover|0
+09/30/2005|Virginia Episcopal|14|Fishburne Military|6
+09/30/2005|Washington & Lee|27|Windsor|20
+09/30/2005|West Potomac|20|Hayfield|17
+09/30/2005|West Springfield|41|Fairfax|14
+09/30/2005|Westfield|34|Centreville|31
+09/30/2005|William Campbell|49|Randolph-Henry|0
+09/30/2005|Wilson Memorial|27|Bath County|20
+09/30/2005|Woodbridge|24|Stonewall Jackson(M)|6
+09/30/2005|Yorktown|58|J.E.B. Stuart|14
+10/01/2005|Avalon, MD|29|Flint Hill|24
+10/01/2005|Bishop Ireton|38|Ballou, DC|15
+10/01/2005|Bishop O'Connell|31|Archbishop Carroll, DC|12
+10/01/2005|Cumberland|41|Rappahannock County|6
+10/01/2005|Falls Church|21|Washington-Lee|10
+10/01/2005|Fork Union Military|48|Woodberry Forest|21
+10/01/2005|Gloucester|21|Warwick|20
+10/01/2005|Handley|27|Brentsville District|7
+10/01/2005|Kecoughtan|23|Menchville|0
+10/01/2005|Lake Braddock|7|T.C. Williams|6
+10/01/2005|Montcalm, WV|62|Pocahontas|30
+10/01/2005|Nandua|46|Atlantic Shores Christian|21
+10/01/2005|Phoebus|32|Woodside|0
+10/01/2005|St. Christopher's|48|Benedictine|21
+10/01/2005|St. James, MD|28|Potomac School|21
+10/01/2005|St. Stephen's-St. Agnes|71|Randolph-Macon Academy|34
+10/06/2005|Oscar Smith|24|Granby|6
+10/07/2005|Amherst County|8|Heritage(Lyn)|7
+10/07/2005|Appalachia|28|Saint Paul|7
+10/07/2005|Armstrong|19|Hanover|7
+10/07/2005|Bland/Rocky Gap|55|Pocahontas|0
+10/07/2005|Brookville|20|Rustburg|0
+10/07/2005|Carroll County|33|Abingdon|7
+10/07/2005|Cave Spring|28|William Byrd|0
+10/07/2005|Charles City|28|West Point|16
+10/07/2005|Churchland|3|Norview|0
+10/07/2005|Cox|37|Green Run|6
+10/07/2005|Cumberland Gap, TN|60|Thomas Walker|6
+10/07/2005|Denbigh|13|Menchville|12
+10/07/2005|Salem(VB)|15|First Colonial|14
+10/07/2005|Fork Union Military|22|St. Christopher's|7
+10/07/2005|Franklin County|25|Patrick Henry(R)|10
+10/07/2005|Gate City|43|J.J. Kelly|0
+10/07/2005|George Washington|26|Magna Vista|19
+10/07/2005|Giles|35|Grayson|13
+10/07/2005|Gloucester|7|Bethel|0
+10/07/2005|Graham|47|Grundy|0
+10/07/2005|Great Bridge|35|King's Fork|6
+10/07/2005|Greenbrier Christian|56|Hampton Roads Academy|0
+10/07/2005|Halifax County|28|Bassett|0
+10/07/2005|Hampton|6|Kecoughtan|0
+10/07/2005|Haysi|49|Betsy Layne, KY|0
+10/07/2005|Hidden Valley|25|Alleghany|0
+10/07/2005|Highland Springs|27|Lee-Davis|12
+10/07/2005|Honaker|60|Twin Valley|13
+10/07/2005|Huguenot|41|James River(M)|14
+10/07/2005|Hurley|32|Castlewood|14
+10/07/2005|Indian River|45|Nansemond River|7
+10/07/2005|J.I. Burton|45|Rye Cove|6
+10/07/2005|Kempsville|41|Bayside|0
+10/07/2005|Lafayette|28|Southampton|19
+10/07/2005|Lake Braddock|7|South County|0
+10/07/2005|Lake Taylor|12|Norcom|6
+10/07/2005|Lancaster|21|Northampton|16
+10/07/2005|Landon, MD|16|Episcopal|6
+10/07/2005|Landstown|40|Ocean Lakes|0
+10/07/2005|Lee|51|Cawood, KY|7
+10/07/2005|Liberty(Bed)|20|Jefferson Forest|6
+10/07/2005|Manchester|14|Clover Hill|6
+10/07/2005|Matoaca|34|Prince George|21
+10/07/2005|Meadowbrook|14|Thomas Dale|0
+10/07/2005|Middlesex|20|Northumberland|16
+10/07/2005|Midlothian|10|Monacan|7
+10/07/2005|Mills Godwin|39|John Marshall|0
+10/07/2005|Nandua|8|Essex|0
+10/07/2005|Narrows|27|Auburn|6
+10/07/2005|Norfolk Academy|35|Bishop Sullivan Catholic|7
+10/07/2005|North Cross|37|Fuqua|8
+10/07/2005|Northwood|45|Patrick Henry(GS)|25
+10/07/2005|Poquoson|34|New Kent|6
+10/07/2005|Pound|53|Coeburn|0
+10/07/2005|Quantico|12|Kenston Forest|0
+10/07/2005|R.E. Lee(S)|26|T.C. Williams|6
+10/07/2005|Richlands|46|Marion|3
+10/07/2005|Riverheads|28|Bath County|0
+10/07/2005|Rural Retreat|67|John Battle|29
+10/07/2005|St. Anne's-Belfield|21|Nansemond-Suffolk|8
+10/07/2005|St. Stephen's & St. Agnes|21|Benedictine|7
+10/07/2005|Salem(VB)|15|First Colonial|14
+10/07/2005|Stone Bridge|21|Langley|14
+10/07/2005|Surry|42|Mathews|0
+10/07/2005|Tallwood|42|Princess Anne|14
+10/07/2005|Tazewell|21|Virginia|0
+10/07/2005|Western Branch|62|Lakeland|0
+10/07/2005|William Campbell|50|Amelia County|7
+10/07/2005|Windsor|46|Arcadia|18
+10/07/2005|Woodbridge|31|Osbourne|6
+10/08/2005|Blue Ridge|42|Trinity Episcopal|7
+10/08/2005|Chilhowie|14|Lebanon|13
+10/08/2005|Chincoteague|12|Rappahannock County|6
+10/08/2005|Eastern Montgomery|27|James River(B)|21
+10/08/2005|Fort Defiance|33|Stuarts Draft|14
+10/08/2005|George Wythe(W)|41|Holston|12
+10/08/2005|Glenvar|21|Craig County|0
+10/08/2005|Jamestown|28|Tabb|21
+10/08/2005|Liberty Christian|28|Atlantic Shores Christian|6
+10/08/2005|Northside|8|Blacksburg|6
+10/08/2005|Southampton Academy|35|Tidewater Academy|24
+10/10/2005|Altavista|16|Buckingham County|14
+10/10/2005|Annandale|28|Hayfield|10
+10/10/2005|Blessed Sacrament-Huguenot|41|Brunswick Academy|12
+10/10/2005|Broadway|27|Waynesboro|14
+10/10/2005|Brooke Point|18|North Stafford|6
+10/10/2005|Buffalo Gap|36|Covington|13
+10/10/2005|C.D. Hylton|27|Battlefield|0
+10/10/2005|Chancellor|19|Spotsylvania|7
+10/10/2005|Chatham|42|Central(L)|8
+10/10/2005|Colonial Heights|44|Dinwiddie|14
+10/10/2005|Courtland|31|Riverbend|7
+10/10/2005|Culpeper County|27|Albemarle|0
+10/10/2005|Deep Run|15|Hermitage|14
+10/10/2005|Dematha, MD|38|Bishop O'Connell|22
+10/10/2005|Dominion|24|King George|19
+10/10/2005|Douglas Freeman|28|J.R. Tucker|8
+10/10/2005|Falls Church|36|Mount Vernon|0
+10/10/2005|Fauquier|28|Freedom(PW)|21
+10/10/2005|Fluvanna|28|Charlottesville|22
+10/10/2005|Franklin|35|King & Queen|0
+10/10/2005|Goochland|20|George Mason|14
+10/10/2005|Grafton|12|Bruton|7
+10/10/2005|Greensville|40|Prince Edward|34
+10/10/2005|Gretna|63|Martinsville|27
+10/10/2005|Handley|36|Sherando|33
+10/10/2005|Harrisonburg|21|Turner Ashby|18
+10/10/2005|Hayfield|28|Annandale|10
+10/10/2005|Hickory|21|Deep Creek|16
+10/10/2005|James Madison|33|South Lakes|7
+10/10/2005|James Monroe|29|Caroline|28
+10/10/2005|L.C. Bird|59|George Wythe(R)|12
+10/10/2005|Liberty(Beal)|47|James Wood|6
+10/10/2005|Loudoun Valley|28|Yorktown|14
+10/10/2005|Manassas Park|45|Cumberland|12
+10/10/2005|Martinsburg, WV|55|Park View(St)|35
+10/10/2005|Massaponax|21|Colonial Forge|2
+10/10/2005|Maury|48|Woodrow Wilson|0
+10/10/2005|McLean|28|W.T. Woodson|21
+10/10/2005|Millbrook|26|Central(W)|11
+10/10/2005|Monticello|41|William Monroe|7
+10/10/2005|Norfolk Christian|26|Hampton Christian|25
+10/10/2005|Oakton|34|Centreville|31
+10/10/2005|Orange|49|Western Albemarle|27
+10/10/2005|Osbourn Park|34|Potomac|22
+10/10/2005|Page|34|Clarke County|12
+10/10/2005|Park View(SH)|13|Bluestone|7
+10/10/2005|Patrick Henry(A)|48|Thomas Jefferson(R)|0
+10/10/2005|Petersburg|6|Hopewell|0
+10/10/2005|Phoebus|42|Heritage(NN)|0
+10/10/2005|Potomac Falls|35|Washington-Lee|14
+10/10/2005|Powhatan|17|Nottoway|8
+10/10/2005|R.E. Lee(St)|14|Rockbridge County|6
+10/10/2005|Radford|28|Parry McCluer|7
+10/10/2005|Roanoke Catholic|42|Massanutten Military|12
+10/10/2005|Smithfield|16|York|0
+10/10/2005|Stafford|49|Mountain View|21
+10/10/2005|Staunton River|21|Appomattox|20
+10/10/2005|Stonewall Jackson(M)|28|Forest Park|21
+10/10/2005|Stonewall Jackson(Q)|32|Pendleton County, WV|22
+10/10/2005|Sussex Central|36|Rappahannock|14
+10/10/2005|Thomas Edison|63|Wakefield|0
+10/10/2005|Thomas Jefferson(A)|49|J.E.B. Stuart|7
+10/10/2005|Varina|21|Henrico|0
+10/10/2005|Warren County|40|Brentsville District|21
+10/10/2005|Warwick|35|Woodside|21
+10/10/2005|Washington & Lee|26|Colonial Beach|0
+10/10/2005|West Springfield|46|West Potomac|23
+10/10/2005|Westfield|26|Herndon|7
+10/10/2005|Wilson Memorial|21|Nelson County|7
+10/13/2005|Granby|20|Norcom|7
+10/13/2005|Hampton|37|Denbigh|7
+10/13/2005|Phoebus|74|Menchville|0
+10/14/2005|Amherst County|49|Staunton River|7
+10/14/2005|Annandale|34|West Potomac|20
+10/14/2005|Appalachia|54|Coeburn|13
+10/14/2005|Bassett|21|Tunstall|14
+10/14/2005|Bath County|13|Pendleton County, WV|12
+10/14/2005|Big Creek, WV|14|Bland/Rocky Gap|7
+10/14/2005|Blessed Sacrament-Huguenot|28|Fuqua School|0
+10/14/2005|Booker T. Washington|42|Churchland|7
+10/14/2005|Brentsville District|14|Millbrook|0
+10/14/2005|Brooke Point|34|Lee-Davis|0
+10/14/2005|Brunswick Academy|34|Kenston Forest|0
+10/14/2005|Buckingham County|21|Cumberland|20
+10/14/2005|Buffalo Gap|27|Luray|14
+10/14/2005|Caroline|35|Spotsylvania|14
+10/14/2005|Carroll County|34|Marion|6
+10/14/2005|Cave Spring|27|Blacksburg|16
+10/14/2005|Central(L)|35|Amelia County|14
+10/14/2005|Chancellor|17|Powhatan|14
+10/14/2005|Chantilly|14|Fairfax|7
+10/14/2005|Charles City|42|Windsor|34
+10/14/2005|Chilhowie|56|John Battle|3
+10/14/2005|Chincoteague|26|Red Lion Christian, DE|0
+10/14/2005|Clover Hill|40|Huguenot|22
+10/14/2005|Colonial Beach|28|Model Secondary, DC|0
+10/14/2005|Colonial Forge|23|Albemarle|0
+10/14/2005|Colonial Heights|17|Petersburg|6
+10/14/2005|Courtland|35|King George|0
+10/14/2005|Covington|38|James River(B)|15
+10/14/2005|Cox|34|Bayside|17
+10/14/2005|Craig County|30|Parry McCluer|6
+10/14/2005|Deep Creek|51|King's Fork|8
+10/14/2005|Deep Run|24|Douglas Freeman|14
+10/14/2005|E.C. Glass|7|Patrick Henry(R)|3
+10/14/2005|Ervinton|26|Castlewood|20
+10/14/2005|Essex|42|Northumberland|12
+10/14/2005|Fauquier|33|Culpeper County|29
+10/14/2005|Fluvanna|27|William Monroe|21
+10/14/2005|Fork Union Military|42|Rockville, MD|14
+10/14/2005|Fort Chiswell|60|Pocahontas|0
+10/14/2005|Fort Defiance|20|Spotswood|14
+10/14/2005|Franklin|14|Surry|6
+10/14/2005|Gate City|35|Clintwood|20
+10/14/2005|George Marshall|17|McLean|10
+10/14/2005|George Mason|35|Madison County|13
+10/14/2005|George Wythe(W)|15|Northwood|6
+10/14/2005|Giles|42|Auburn|0
+10/14/2005|Glenvar|56|Eastern Montgomery|0
+10/14/2005|Goochland|35|Randolph-Henry|8
+10/14/2005|Grafton|35|York|6
+10/14/2005|Grayson|13|Galax|0
+10/14/2005|Gretna|47|Altavista|7
+10/14/2005|Grundy|32|Abingdon|7
+10/14/2005|Halifax County|27|George Washington|21
+10/14/2005|Handley|14|Central(W)|0
+10/14/2005|Hargrave Military|25|Trinity Episcopal|17
+10/14/2005|Haysi|28|Lee|7
+10/14/2005|Henrico|14|Atlee|3
+10/14/2005|Heritage(Lyn)|41|Rustburg|6
+10/14/2005|Heritage(NN)|20|Woodside|0
+10/14/2005|Hermitage|31|Mills Godwin|16
+10/14/2005|Herndon|49|Thomas Jefferson(A)|18
+10/14/2005|Hickory|55|Lakeland|14
+10/14/2005|Highland Springs|35|Hanover|10
+10/14/2005|Honaker|27|Virginia|21
+10/14/2005|Hurley|44|Tug Valley, WV|6
+10/14/2005|Indian River|19|Lake Taylor|14
+10/14/2005|Isle of Wight Academy|54|Tidewater Academy|0
+10/14/2005|J.E.B. Stuart|13|Wakefield|0
+10/14/2005|James Monroe|19|Riverbend|7
+10/14/2005|Jefferson Forest|35|Appomattox|21
+10/14/2005|Kecoughtan|15|Gloucester|3
+10/14/2005|Kellam|63|Princess Anne|7
+10/14/2005|Kempsville|29|Tallwood|6
+10/14/2005|King William|42|Rappahannock|14
+10/14/2005|L.C. Bird|41|James River(M)|6
+10/14/2005|Lake Braddock|21|Langley|0
+10/14/2005|Landstown|23|Salem(VB)|6
+10/14/2005|Liberty(Bed)|28|Brookville|14
+10/14/2005|Liberty Christian|38|Kiski Prep, PA|0
+10/14/2005|Louisa County|42|Charlottesville|0
+10/14/2005|Magna Vista|28|Martinsville|14
+10/14/2005|Manassas Park|35|Strasburg|7
+10/14/2005|Manchester|50|Monacan|0
+10/14/2005|Massaponax|35|Stafford|0
+10/14/2005|Mathews|33|King & Queen|0
+10/14/2005|Matoaca|22|Thomas Dale|13
+10/14/2005|Meadowbrook|41|Dinwiddie|3
+10/14/2005|Middlesex|15|West Point|7
+10/14/2005|Midlothian|8|George Wythe(R)|6
+10/14/2005|Monticello|35|Orange|28
+10/14/2005|Norfolk Academy|32|Nansemond-Suffolk|13
+10/14/2005|North Stafford|51|Mountain View|0
+10/14/2005|Northside|24|Lord Botetourt|14
+10/14/2005|Nottoway|42|Prince Edward|14
+10/14/2005|Ocean Lakes|34|Green Run|17
+10/14/2005|Oscar Smith|42|Nansemond River|0
+10/14/2005|Park View(St)|20|Heritage(Le)|12
+10/14/2005|Park View(SH)|20|Greensville|0
+10/14/2005|Patrick County|53|Dan River|42
+10/14/2005|Patrick Henry(A)|54|John Marshall|12
+10/14/2005|Paul VI|33|Carroll, D.C.|6
+10/14/2005|Poquoson|27|Jamestown|12
+10/14/2005|Powell Valley|54|J.J. Kelly|0
+10/14/2005|Pound|39|Twin Springs|16
+10/14/2005|Prince George|21|Hopewell|0
+10/14/2005|Pulaski County|28|Hidden Valley|6
+10/14/2005|R.E. Lee(S)|21|Hayfield|7
+10/14/2005|R.E. Lee(St)|50|Waynesboro|3
+10/14/2005|Radford|23|Floyd County|7
+10/14/2005|Riverheads|35|Page|7
+10/14/2005|Roanoke Catholic|35|Atlantic Shores Christian|31
+10/14/2005|Rural Retreat|18|Lebanon|14
+10/14/2005|Rye Cove|47|Thomas Walker|16
+10/14/2005|Salem|33|Christiansburg|16
+10/14/2005|Sherando|19|Liberty(Beal)|14
+10/14/2005|Smithfield|27|New Kent|0
+10/14/2005|South Lakes|27|Falls Church|19
+10/14/2005|Southampton Academy|34|Norfolk Christian|0
+10/14/2005|St. Anne's-Belfield|75|Hampton Roads Academy|0
+10/14/2005|St. Stephen's-St. Agnes|25|Bullis, MD|6
+10/14/2005|Stone Bridge|15|James Madison|7
+10/14/2005|Stonewall Jackson(M)|20|Battlefield|13
+10/14/2005|Sussex Central|58|Arcadia|28
+10/14/2005|Thomas Edison|35|South County|7
+10/14/2005|Turner Ashby|35|Rockbridge County|28
+10/14/2005|Varina|28|Armstrong|0
+10/14/2005|Virginia Episcopal|48|Covenant School|14
+10/14/2005|Warren County|49|James Wood|0
+10/14/2005|Warwick|35|Bethel|26
+10/14/2005|Washington & Lee|28|Lancaster|22
+10/14/2005|Western Branch|28|Great Bridge|6
+10/14/2005|Westfield|31|Oakton|13
+10/14/2005|William Campbell|36|Nelson County|19
+10/14/2005|William Fleming|56|William Byrd|7
+10/14/2005|Woodbridge|21|Potomac|12
+10/15/2005|Blue Ridge School|19|Christchurch|0
+10/15/2005|Brunswick|29|Bluestone|3
+10/15/2005|Centreville|20|James Robinson|17
+10/15/2005|Clarke County|49|Rappahannock County|0
+10/15/2005|Collegiate-Richmond|43|Richmond Benedictine|22
+10/15/2005|Dominion|13|Loudoun County|9
+10/15/2005|Graham|25|Tazewell|17
+10/15/2005|Good Counsel, MD|47|Bishop O'Connell|13
+10/15/2005|Greenbrier Christian|28|Catholic|6
+10/15/2005|Harrisonburg|35|Broadway|7
+10/15/2005|J.R. Tucker|34|Thomas Jefferson(R)|0
+10/15/2005|Lafayette|21|Bruton|7
+10/15/2005|Landon, MD|35|Woodberry Forest|22
+10/15/2005|Loudoun Valley|48|Washington-Lee|7
+10/15/2005|North Cross|37|Fishburne Military|8
+10/15/2005|Northampton|40|Nandua|34
+10/15/2005|Norview|48|Woodrow Wilson|0
+10/15/2005|Potomac Falls|24|Broad Run|0
+10/15/2005|Quantico|33|Broadwater Academy|12
+10/15/2005|Randolph-Macon|40|Potomac School|37
+10/15/2005|St. Alban's, D.C.|17|Episcopal|14
+10/15/2005|St. Christopher's|39|Bishop Ireton|7
+10/15/2005|Stonewall Jackson(Q)|40|Wilson Memorial|20
+10/15/2005|Tabb|13|Southampton|12
+10/15/2005|Timber Ridge|24|Bishop Walsh, MD|0
+10/15/2005|West Springfield|34|T.C. Williams|33
+10/15/2005|Yorktown|42|Mount Vernon|8
+10/17/2005|C.D. Hylton|42|Gar-Field|7
+10/17/2005|Forest Park|28|Freedom|12
+10/17/2005|Osbourn|23|Osbourn Park|21
+10/21/2005|Amherst County|58|Jefferson Forest|6
+10/21/2005|Annandale|34|South County|18
+10/21/2005|Appalachia|44|Thomas Walker|8
+10/21/2005|Auburn|14|Eastern Montgomery|2
+10/21/2005|Bassett|32|Patrick County|6
+10/21/2005|Bath County|21|Parry McCluer|6
+10/21/2005|Brentsville District|17|James Wood|3
+10/21/2005|Broadway|24|Lord Botetourt|14
+10/21/2005|Brooke Point|29|Mountain View|6
+10/21/2005|Brookville|27|Appomattox|13
+10/21/2005|Bruton|28|Southampton|9
+10/21/2005|Buckingham County|19|Randolph-Henry|14
+10/21/2005|C.D. Hylton|49|Freedom|6
+10/21/2005|Caroline|32|Orange|30
+10/21/2005|Carroll County|45|Grundy|6
+10/21/2005|Cave Spring|31|Christiansburg|17
+10/21/2005|Centreville|62|Fairfax|14
+10/21/2005|Charlottesville|42|William Monroe|0
+10/21/2005|Chatham|36|Nelson County|14
+10/21/2005|Churchland|23|Norcom|6
+10/21/2005|Clintwood|55|J.J. Kelly|16
+10/21/2005|Clover Hill|24|Monacan|6
+10/21/2005|Coeburn|36|Saint Paul|12
+10/21/2005|Colonial Forge|27|Hanover|7
+10/21/2005|Colonial Heights|25|Prince George|8
+10/21/2005|Courtland|14|Chancellor|7
+10/21/2005|Covington|13|Craig County|12
+10/21/2005|Cox|24|Tallwood|7
+10/21/2005|Culpeper County|19|Battlefield|13
+10/21/2005|Cumberland|6|Amelia County|0
+10/21/2005|Fort Defiance|38|Waynesboro|7
+10/21/2005|Franklin|38|Charles City|6
+10/21/2005|Franklin County|17|E.C. Glass|14
+10/21/2005|Galax|22|Fort Chiswell|16
+10/21/2005|George Marshall|13|Thomas Jefferson(A)|7
+10/21/2005|George Mason|61|Rappahannock County|7
+10/21/2005|George Washington|21|Patrick Henry(R)|0
+10/21/2005|George Wythe(W)|27|Chilhowie|0
+10/21/2005|Giles|42|Floyd County|7
+10/21/2005|Glenvar|41|Radford|0
+10/21/2005|Goochland|35|Central(L)|7
+10/21/2005|Grafton|48|New Kent|13
+10/21/2005|Grayson|63|Pocahontas|22
+10/21/2005|Great Bridge|53|Nansemond River|34
+10/21/2005|Greensville|21|Nottoway|14
+10/21/2005|Harrisonburg|38|Spotswood|12
+10/21/2005|Haysi|47|Hurley|6
+10/21/2005|Henrico|59|Lee-Davis|21
+10/21/2005|Heritage(Le)|49|Broad Run|13
+10/21/2005|Heritage(Lyn)|41|Staunton River|6
+10/21/2005|Heritage(NN)|45|Menchville|7
+10/21/2005|Hermitage|66|Thomas Jefferson(R)|6
+10/21/2005|Hickory|27|Western Branch|14
+10/21/2005|Highland Springs|14|Armstrong|12
+10/21/2005|Huguenot|66|George Wythe(R)|12
+10/21/2005|Indian River|43|Lakeland|6
+10/21/2005|J.I. Burton|24|Pound|7
+10/21/2005|James Madison|28|W.T. Woodson|0
+10/21/2005|James Monroe|32|Spotsylvania|10
+10/21/2005|James River(M)|25|Midlothian|13
+10/21/2005|James Robinson|37|Oakton|21
+10/21/2005|John Marshall|27|J.R. Tucker|24
+10/21/2005|Kellam|23|Kempsville|21
+10/21/2005|King William|32|Mathews|0
+10/21/2005|L.C. Bird|6|Manchester|0
+10/21/2005|Lake Braddock|20|West Potomac|6
+10/21/2005|Lancaster|42|Rappahannock|7
+10/21/2005|Landstown|50|First Colonial|18
+10/21/2005|Langley|21|South Lakes|7
+10/21/2005|Lebanon|21|Holston|6
+10/21/2005|Lee|18|Abingdon|15
+10/21/2005|Liberty(Bed)|34|Rustburg|6
+10/21/2005|Louisa County|37|Monticello|7
+10/21/2005|Luray|21|Page|14
+10/21/2005|Magna Vista|34|Tunstall|19
+10/21/2005|Manassas Park|27|Clarke County|26
+10/21/2005|Martinsville|33|Dan River|19
+10/21/2005|Massaponax|14|North Stafford|9
+10/21/2005|Matoaca|41|Hopewell|7
+10/21/2005|Maury|41|Booker T. Washington|25
+10/21/2005|Meadowbrook|29|Petersburg|0
+10/21/2005|Mills Godwin|10|Deep Run|0
+10/21/2005|Narrows|33|Bland/Rocky Gap|7
+10/21/2005|Northwood|66|John Battle|58
+10/21/2005|Ocean Lakes|13|Bayside|10
+10/21/2005|Osbourn Park|14|Fauquier|13
+10/21/2005|Oscar Smith|24|Deep Creek|21
+10/21/2005|Park View(SH)|33|Brunswick|7
+10/21/2005|Park View(St)|41|Dominion|16
+10/21/2005|Patrick Henry(A)|48|Douglas Freeman|14
+10/21/2005|Phoebus|12|Hampton|6
+10/21/2005|Poquoson|30|Tabb|7
+10/21/2005|Potomac Falls|21|Loudoun County|7
+10/21/2005|Powell Valley|17|Gate City|14
+10/21/2005|Powhatan|49|Bluestone|0
+10/21/2005|Pulaski County|34|Blacksburg|0
+10/21/2005|R.E. Lee(S)|34|West Springfield|3
+10/21/2005|R.E. Lee(St)|10|Turner Ashby|7
+10/21/2005|Richlands|44|Virginia|0
+10/21/2005|Riverbend|21|King George|3
+10/21/2005|Rockbridge County|41|Stuarts Draft|3
+10/21/2005|Rural Retreat|41|Patrick Henry(GS)|13
+10/21/2005|Rye Cove|53|Ervinton|12
+10/21/2005|Salem|27|Hidden Valley|14
+10/21/2005|Salem(VB)|42|Green Run|7
+10/21/2005|Sherando|38|Central(W)|16
+10/21/2005|Stafford|21|Albemarle|0
+10/21/2005|Stonewall Jackson(Q)|44|Riverheads|14
+10/21/2005|Strasburg|21|Madison County|12
+10/21/2005|Surry|32|Nandua|22
+10/21/2005|Sussex Central|52|Windsor|12
+10/21/2005|Tazewell|35|Marion|7
+10/21/2005|Thomas Dale|48|Dinwiddie|20
+10/21/2005|Twin Springs|28|Castlewood|20
+10/21/2005|Varina|47|Atlee|13
+10/21/2005|Wakefield|12|Mount Vernon|7
+10/21/2005|Warren County|41|Millbrook|18
+10/21/2005|West Point|47|King & Queen|12
+10/21/2005|Western Albemarle|35|Fluvanna|0
+10/21/2005|William Byrd|21|Alleghany|20
+10/21/2005|William Campbell|70|Altavista|0
+10/21/2005|Wilson Memorial|14|Buffalo Gap|6
+10/21/2005|Woodbridge|38|Forest Park|6
+10/21/2005|York|41|Lafayette|38
+10/22/2005|Bath County|21|Parry McCluer|0
+10/22/2005|Bethel|27|Woodside|10
+10/22/2005|Gloucester|16|Denbigh|0
+10/22/2005|Granby|26|Norview|12
+10/22/2005|Handley|42|Liberty(Beal)|14
+10/22/2005|Herndon|37|Chantilly|7
+10/22/2005|Kecoughtan|14|Warwick|7
+10/22/2005|King's Fork|34|Woodrow Wilson|6
+10/22/2005|Loudoun Valley|27|Falls Church|14
+10/22/2005|Montcalm, WV|37|Twin Valley|15
+10/22/2005|Smithfield|37|Jamestown|6
+10/22/2005|Stone Bridge|27|McLean|0
+10/22/2005|Thomas Edison|38|Yorktown|20
+10/22/2005|Washington & Lee|62|Northumberland|14
+10/22/2005|Washington-Lee|21|J.E.B. Stuart|6
+10/22/2005|William Fleming|26|Northside|6
+10/24/2005|Hayfield|14|T.C. Williams|7
+10/24/2005|Osbourn|16|Stonewall Jackson(M)|10
+10/24/2005|Potomac|13|Gar-Field|7
+10/27/2005|Hampton|28|Heritage(NN)|0
+10/28/2005|Amelia County|36|Buckingham County|29
+10/28/2005|Annandale|14|T.C. Williams|0
+10/28/2005|Atlee|26|Hanover|7
+10/28/2005|Bassett|26|Magna Vista|8
+10/28/2005|Bath County|28|Covington|14
+10/28/2005|Blacksburg|27|Hidden Valley|21
+10/28/2005|Bland/Rocky Gap|44|Galax|30
+10/28/2005|Broadway|14|R.E. Lee(St)|7
+10/28/2005|Brookville|14|Amherst County|7
+10/28/2005|Bruton|34|Tabb|20
+10/28/2005|Buffalo Gap|34|Stonewall Jackson(Q)|6
+10/28/2005|C.D. Hylton|27|Woodbridge|3
+10/28/2005|Central(W)|10|Brentsville District|7
+10/28/2005|Chancellor|35|Caroline|33
+10/28/2005|Christiansburg|49|Pulaski County|6
+10/28/2005|Clover Hill|62|George Wythe(R)|12
+10/28/2005|Colonial Heights|10|Hopewell|6
+10/28/2005|Courtland|28|Spotsylvania|14
+10/28/2005|Craig County|28|James River(B)|21
+10/28/2005|Deep Creek|54|Great Bridge|27
+10/28/2005|Douglas Freeman|49|Thomas Jefferson(R)|6
+10/28/2005|E.C. Glass|23|Highland Springs|21
+10/28/2005|Ervinton|22|Twin Valley|12
+10/28/2005|Falls Church|43|Yorktown|42
+10/28/2005|First Colonial|42|Green Run|19
+10/28/2005|Franklin County|17|George Washington|14
+10/28/2005|Gar-Field|41|Freedom|7
+10/28/2005|Gate City|21|Appalachia|6
+10/28/2005|George Mason|35|Clarke County|12
+10/28/2005|George Wythe(W)|36|Patrick Henry(GS)|13
+10/28/2005|Giles|48|Eastern Montgomery|0
+10/28/2005|Glenvar|41|Floyd County|6
+10/28/2005|Goochland|42|Cumberland|16
+10/28/2005|Grafton|28|Jamestown|0
+10/28/2005|Graham|49|Virginia|23
+10/28/2005|Granby|53|Woodrow Wilson|0
+10/28/2005|Grayson|55|Fort Chiswell|21
+10/28/2005|Greensville|41|Brunswick|6
+10/28/2005|Gretna|35|Chatham|34
+10/28/2005|Halifax County|35|Patrick Henry(R)|17
+10/28/2005|Handley|38|Millbrook|13
+10/28/2005|Harrisonburg|22|Fort Defiance|16
+10/28/2005|Haysi|47|Letcher, KY|7
+10/28/2005|Henrico|26|Armstrong|12
+10/28/2005|Heritage(Le)|42|Dominion|0
+10/28/2005|Hickory|13|Nansemond River|6
+10/28/2005|Honaker|61|Hurley|8
+10/28/2005|J.I. Burton|6|Clintwood|0
+10/28/2005|James Madison|17|Langley|3
+10/28/2005|James Monroe|41|King George|3
+10/28/2005|James River(M)|33|Monacan|14
+10/28/2005|James Robinson|47|Chantilly|7
+10/28/2005|Kecoughtan|3|Bethel|0
+10/28/2005|Kellam|35|Cox|14
+10/28/2005|Kempsville|63|Princess Anne|7
+10/28/2005|King William|18|Middlesex|0
+10/28/2005|L.C. Bird|14|Huguenot|6
+10/28/2005|Lake Braddock|28|West Springfield|23
+10/28/2005|Lake Taylor|48|Booker T. Washington|14
+10/28/2005|Lebanon|46|John Battle|7
+10/28/2005|Liberty(Beal)|47|Warren County|7
+10/28/2005|Liberty(Bed)|13|Heritage(Lyn)|7
+10/28/2005|Loudoun County|35|Broad Run|7
+10/28/2005|Loudoun Valley|21|Thomas Edison|19
+10/28/2005|Lafayette|24|New Kent|0
+10/28/2005|Lancaster|41|Essex|35
+10/28/2005|Lee|21|J.J. Kelly|8
+10/28/2005|Manassas Park|44|Madison County|8
+10/28/2005|Manchester|14|Midlothian|6
+10/28/2005|Martinsville|34|Patrick County|20
+10/28/2005|Massaponax|28|Brooke Point|14
+10/28/2005|Matoaca|55|Dinwiddie|20
+10/28/2005|Maury|40|Norview|6
+10/28/2005|Meadowbrook|27|Prince George|0
+10/28/2005|Mills Godwin|34|J.R. Tucker|14
+10/28/2005|Monticello|27|Fluvanna|7
+10/28/2005|Mount Vernon|13|J.E.B. Stuart|12
+10/28/2005|Nandua|34|Bennett, MD|12
+10/28/2005|Narrows|40|Pocahontas|22
+10/28/2005|Nelson County|46|Altavista|15
+10/28/2005|Norcom|32|Lakeland|0
+10/28/2005|North Stafford|17|Albemarle|7
+10/28/2005|Northside|48|Alleghany|6
+10/28/2005|Northumberland|40|King & Queen|6
+10/28/2005|Northwood|49|Holston|18
+10/28/2005|Nottoway|34|Bluestone|6
+10/28/2005|Oakton|31|Herndon|14
+10/28/2005|Ocean Lakes|21|Tallwood|13
+10/28/2005|Orange|49|Louisa County|40
+10/28/2005|Osbourn|28|Battlefield|7
+10/28/2005|Osbourn Park|23|Culpeper County|0
+10/28/2005|Oscar Smith|42|King's Fork|12
+10/28/2005|Park View(St)|33|Potomac Falls|27
+10/28/2005|Patrick Henry(A)|21|Deep Run|20
+10/28/2005|Phoebus|40|Gloucester|3
+10/28/2005|Potomac|32|Forest Park|0
+10/28/2005|Pound|35|Castlewood|12
+10/28/2005|Powell Valley|41|Coeburn|13
+10/28/2005|Powhatan|49|Prince Edward|12
+10/28/2005|Quantico|25|Chincoteague|20
+10/28/2005|Radford|38|Auburn|0
+10/28/2005|Randolph-Henry|54|Central(L)|6
+10/28/2005|Richlands|7|Carroll County|6
+10/28/2005|Riverheads|21|Luray|0
+10/28/2005|Rockbridge County|30|Spotswood|7
+10/28/2005|Rural Retreat|34|Chilhowie|6
+10/28/2005|Rustburg|34|Appomattox|7
+10/28/2005|Rye Cove|45|Saint Paul|21
+10/28/2005|Salem|7|Cave Spring|6
+10/28/2005|Salem(VB)|28|Bayside|3
+10/28/2005|Sherando|27|James Wood|3
+10/28/2005|Smithfield|40|Poquoson|13
+10/28/2005|South County|33|Hayfield|28
+10/28/2005|South Lakes|13|George Marshall|12
+10/28/2005|Stafford|14|Colonial Forge|7
+10/28/2005|Staunton River|38|Jefferson Forest|30
+10/28/2005|Stone Bridge|48|W.T. Woodson|28
+10/28/2005|Stonewall Jackson(M)|28|Fauquier|13
+10/28/2005|Sussex Central|42|Charles City|6
+10/28/2005|Tazewell|48|Grundy|20
+10/28/2005|Thomas Dale|34|Petersburg|0
+10/28/2005|Thomas Jefferson(A)|33|McLean|25
+10/28/2005|Tunstall|45|Dan River|8
+10/28/2005|Twin Springs|34|Thomas Walker|0
+10/28/2005|Varina|41|Lee-Davis|0
+10/28/2005|Washington & Lee|40|Rappahannock|13
+10/28/2005|Washington-Lee|35|Wakefield|8
+10/28/2005|Waynesboro|30|Stuarts Draft|0
+10/28/2005|West Potomac|25|R.E. Lee(S)|20
+10/28/2005|Western Albemarle|42|William Monroe|25
+10/28/2005|Western Branch|14|Indian River|12
+10/28/2005|West Point|33|Mathews|13
+10/28/2005|Westfield|42|Fairfax|20
+10/28/2005|William Fleming|42|Lord Botetourt|17
+10/28/2005|Wilson Memorial|29|Page|0
+10/28/2005|Woodside|25|Menchville|0
+10/29/2005|Franklin|39|Northampton|20
+10/29/2005|Hermitage|31|John Marshall|0
+10/29/2005|Strasburg|46|Rappahannock County|0
+10/29/2005|Surry|44|Windsor|22
+10/29/2005|Warwick|20|Denbigh|0
+10/29/2005|York|24|Southampton|6
+11/03/2005|Bethel|28|Denbigh|12
+11/03/2005|Middlesex|61|King & Queen|12
+11/04/2005|Abingdon|21|Marion|14
+11/04/2005|Amherst County|49|Rustburg|7
+11/04/2005|Annandale|26|R.E. Lee(S)|19
+11/04/2005|Armstrong|30|Atlee|7
+11/04/2005|Bath County|32|James River(B)|7
+11/04/2005|Bayside|28|First Colonial|21
+11/04/2005|Booker T. Washington|35|Granby|14
+11/04/2005|Broad Run|31|Dominion|8
+11/04/2005|Brooke Point|27|Albemarle|7
+11/04/2005|Brookville|37|Staunton River|3
+11/04/2005|C.D. Hylton|49|Potomac|14
+11/04/2005|Caroline|40|King George|0
+11/04/2005|Cave Spring|20|Pulaski County|10
+11/04/2005|Central(W)|13|James Wood|7
+11/04/2005|Centreville|35|Herndon|21
+11/04/2005|Chatham|51|Altavista|29
+11/04/2005|Chilhowie|48|Northwood|28
+11/04/2005|Chincoteague|42|Broadwater Academy|12
+11/04/2005|Clover Hill|35|Midlothian|3
+11/04/2005|Courtland|22|James Monroe|14
+11/04/2005|Cox|35|Princess Anne|6
+11/04/2005|Cumberland|50|Central(L)|22
+11/04/2005|Deep Creek|70|Lakeland|3
+11/04/2005|E.C. Glass|40|George Washington|15
+11/04/2005|Fauquier|26|Battlefield|0
+11/04/2005|Floyd County|35|Eastern Montgomery|18
+11/04/2005|Forest Park|34|Gar-Field|24
+11/04/2005|Fort Chiswell|22|Bland/Rocky Gap|21
+11/04/2005|Fort Defiance|33|Broadway|14
+11/04/2005|Franklin|20|Sussex Central|16
+11/04/2005|Franklin County|17|Halifax County|14
+11/04/2005|Gate City|28|J.I. Burton|6
+11/04/2005|George Wythe(W)|62|John Battle|12
+11/04/2005|Giles|34|Radford|0
+11/04/2005|Glenvar|42|Auburn|0
+11/04/2005|Goochland|54|Buckingham County|7
+11/04/2005|Grafton|38|Poquoson|0
+11/04/2005|Graham|49|Carroll County|7
+11/04/2005|Greensville|36|Bluestone|22
+11/04/2005|Gretna|22|William Campbell|17
+11/04/2005|Hampton|62|Menchville|7
+11/04/2005|Handley|20|Warren County|14
+11/04/2005|Haysi|37|Ervinton|0
+11/04/2005|Heritage(Le)|23|Potomac Falls|16
+11/04/2005|Heritage(Lyn)|34|Jefferson Forest|3
+11/04/2005|Heritage(NN)|34|Gloucester|6
+11/04/2005|Hermitage|17|Douglas Freeman|13
+11/04/2005|Hidden Valley|34|Christiansburg|7
+11/04/2005|Highland Springs|10|Henrico|0
+11/04/2005|Huguenot|16|Manchester|13
+11/04/2005|Hurley|24|Twin Valley|22
+11/04/2005|Indian River|42|King's Fork|6
+11/04/2005|J.J. Kelly|30|Coeburn|6
+11/04/2005|James Madison|49|Thomas Jefferson(A)|14
+11/04/2005|James River(M)|48|George Wythe(R)|0
+11/04/2005|Kecoughtan|24|Woodside|14
+11/04/2005|Kellam|25|Ocean Lakes|3
+11/04/2005|King William|42|West Point|0
+11/04/2005|L.C. Bird|58|Monacan|6
+11/04/2005|Lafayette|42|Jamestown|21
+11/04/2005|Lake Taylor|34|Churchland|0
+11/04/2005|Landstown|70|Green Run|12
+11/04/2005|Langley|34|W.T. Woodson|16
+11/04/2005|Lee-Davis|14|Hanover|13
+11/04/2005|Liberty(Beal)|62|Millbrook|9
+11/04/2005|Liberty(Bed)|37|Appomattox|0
+11/04/2005|Lord Botetourt|45|Alleghany|6
+11/04/2005|Loudoun County|23|Park View(St)|16
+11/04/2005|Loudoun Valley|69|J.E.B. Stuart|6
+11/04/2005|Louisa County|49|Fluvanna|0
+11/04/2005|Madison County|40|Rappahannock County|12
+11/04/2005|Magna Vista|36|Patrick County|0
+11/04/2005|Manassas Park|21|George Mason|14
+11/04/2005|Martinsville|27|Tunstall|21
+11/04/2005|Massaponax|62|Mountain View|14
+11/04/2005|Matoaca|48|Colonial Heights|28
+11/04/2005|Maury|49|Great Bridge|35
+11/04/2005|McLean|20|South Lakes|14
+11/04/2005|Meadowbrook|21|Hopewell|6
+11/04/2005|Mills Godwin|56|Thomas Jefferson(R)|6
+11/04/2005|Monticello|24|Spotsylvania|7
+11/04/2005|Nandua|34|Northampton|12
+11/04/2005|Narrows|34|Galax|14
+11/04/2005|Norcom|58|Woodrow Wilson|7
+11/04/2005|North Stafford|10|Colonial Forge|3
+11/04/2005|Northside|14|William Byrd|13
+11/04/2005|Oak Hill, WV|29|Grundy|14
+11/04/2005|Oakton|54|Fairfax|7
+11/04/2005|Orange|51|William Monroe|13
+11/04/2005|Osbourn|30|Culpeper County|26
+11/04/2005|Osbourn Park|10|Stonewall Jackson(M)|7
+11/04/2005|Oscar Smith|28|Hickory|5
+11/04/2005|Patrick Henry(A)|44|J.R. Tucker|0
+11/04/2005|Petersburg|35|Dinwiddie|6
+11/04/2005|Pound|14|Clintwood|0
+11/04/2005|Powell Valley|35|Appalachia|28
+11/04/2005|Powhatan|49|Park View(SH)|7
+11/04/2005|Prince Edward|50|Brunswick|15
+11/04/2005|R.E. Lee(St)|27|Spotswood|7
+11/04/2005|Randolph-Henry|27|Amelia County|0
+11/04/2005|Rappahannock|27|Northumberland|26
+11/04/2005|Riverbend|24|Chancellor|16
+11/04/2005|Riverheads|31|Buffalo Gap|0
+11/04/2005|Robinson|48|Lake Braddock|0
+11/04/2005|Rockbridge County|53|Waynesboro|20
+11/04/2005|Rural Retreat|42|Holston|13
+11/04/2005|Rye Cove|26|Twin Springs|19
+11/04/2005|Saint Paul|28|Thomas Walker|22
+11/04/2005|Salem|55|Blacksburg|13
+11/04/2005|Salem(VB)|32|Tallwood|7
+11/04/2005|Sherando|25|Brentsville District|10
+11/04/2005|Smithfield|41|Tabb|12
+11/04/2005|Southampton|12|New Kent|6
+11/04/2005|Stone Bridge|38|George Marshall|0
+11/04/2005|Stonewall Jackson(Q)|32|Page|21
+11/04/2005|Strasburg|28|Clarke County|27
+11/04/2005|Surry|29|Charles City|0
+11/04/2005|Tazewell|21|Honaker|6
+11/04/2005|Thomas Dale|43|Prince George|14
+11/04/2005|Thomas Edison|42|Falls Church|7
+11/04/2005|Turner Ashby|44|Stuarts Draft|0
+11/04/2005|Virginia|45|Lee|0
+11/04/2005|Washington-Lee|14|Mount Vernon|7
+11/04/2005|West Potomac|28|South County|6
+11/04/2005|West Springfield|35|Hayfield|0
+11/04/2005|Western Albemarle|14|Charlottesville|7
+11/04/2005|Western Branch|49|Nansemond River|14
+11/04/2005|Westfield|34|Chantilly|7
+11/04/2005|William Fleming|54|Bassett|0
+11/04/2005|Wilson Memorial|28|Luray|21
+11/04/2005|Woodbridge|27|Freedom(W)|6
+11/04/2005|York|29|Bruton|7
+11/04/2005|Yorktown|34|Wakefield|13
+11/05/2005|Deep Run|21|John Marshall|12
+11/05/2005|Lancaster|35|Mathews|0
+11/05/2005|Phoebus|53|Warwick|7
+11/05/2005|Washington & Lee|34|Essex|0
+11/07/2005|Covington|39|Parry McCluer|0
+11/08/2005|Northampton|33|Arcadia|6
+11/10/2005|Churchland|59|Woodrow Wilson|0
+11/10/2005|First Colonial|22|Tallwood|20
+11/10/2005|Hampton|34|Woodside|14
+11/10/2005|Kempsville|28|Cox|13
+11/10/2005|Landstown|35|Bayside|21
+11/10/2005|Maury|27|Granby|18
+11/10/2005|Norcom|17|Booker T. Washington|13
+11/10/2005|Ocean Lakes|42|Princess Anne|14
+11/10/2005|Osbourn|40|Fauquier|7
+11/10/2005|Potomac|33|Freedom|14
+11/10/2005|Salem(VB)|13|Kellam|7
+11/11/2005|Albemarle|39|Mountain View|29
+11/11/2005|Amherst County|40|Liberty(Bed)|14
+11/11/2005|Atlee|21|Lee-Davis|0
+11/11/2005|Bassett|29|Martinsville|12
+11/11/2005|Bruton|41|New Kent|16
+11/11/2005|Buckingham County|28|Central(L)|17
+11/11/2005|Buffalo Gap|12|Page|7
+11/11/2005|C.D. Hylton|47|Forest Park|7
+11/11/2005|Cave Spring|20|Hidden Valley|14
+11/11/2005|Centreville|35|Chantilly|6
+11/11/2005|Chancellor|36|King George|13
+11/11/2005|Chatham|28|William Campbell|20
+11/11/2005|Christiansburg|49|Blacksburg|21
+11/11/2005|Clarke County|63|Madison County|22
+11/11/2005|Clover Hill|38|James River(M)|20
+11/11/2005|Colonial Forge|14|Brooke Point|7
+11/11/2005|Courtland|40|Caroline|7
+11/11/2005|Craig County|22|Bath County|7
+11/11/2005|Deep Creek|27|Western Branch|10
+11/11/2005|Deep Run|14|J.R. Tucker|7
+11/11/2005|Essex|35|Rappahannock|15
+11/11/2005|Falls Church|41|J.E.B. Stuart|6
+11/11/2005|Floyd County|49|Auburn|12
+11/11/2005|Franklin|41|Windsor|14
+11/11/2005|Franklin County|31|Patrick Henry(R)|7
+11/11/2005|Galax|61|Pocahontas|20
+11/11/2005|George Mason|55|Strasburg|22
+11/11/2005|Giles|21|Glenvar|14
+11/11/2005|Goochland|51|Amelia County|0
+11/11/2005|Grayson|41|Bland/Rocky Gap|6
+11/11/2005|Gretna|34|Nelson County|21
+11/11/2005|Halifax County|42|E.C. Glass|28
+11/11/2005|Harrisonburg|21|R.E. Lee(St)|17
+11/11/2005|Haysi|40|Grundy|0
+11/11/2005|Henrico|20|Hanover|12
+11/11/2005|Heritage(Le)|35|Loudoun County|10
+11/11/2005|Heritage(Lyn)|54|Appomattox|20
+11/11/2005|Herndon|48|Fairfax|12
+11/11/2005|Hickory|29|Great Bridge|28
+11/11/2005|Highland Springs|15|Varina|14
+11/11/2005|Huguenot|34|Monacan|14
+11/11/2005|James Madison|27|George Marshall|18
+11/11/2005|James Monroe|33|Washington & Lee|14
+11/11/2005|James Robinson|14|Westfield|10
+11/11/2005|Jefferson Forest|17|Brookville|13
+11/11/2005|King William|46|King & Queen|0
+11/11/2005|King's Fork|50|Lakeland|42
+11/11/2005|L.C. Bird|42|Midlothian|0
+11/11/2005|Lafayette|37|Poquoson|13
+11/11/2005|Lake Taylor|51|Norview|0
+11/11/2005|Lancaster|49|Northumberland|13
+11/11/2005|Langley|14|McLean|3
+11/11/2005|Liberty(Beal)|35|Brentsville District|7
+11/11/2005|Lord Botetourt|28|William Byrd|26
+11/11/2005|Loudoun Valley|55|Wakefield|0
+11/11/2005|Louisa County|68|William Monroe|40
+11/11/2005|Magna Vista|41|Dan River|6
+11/11/2005|Manassas Park|61|Rappahannock County|0
+11/11/2005|Manchester|52|George Wythe(R)|6
+11/11/2005|Matoaca|14|Petersburg|7
+11/11/2005|Meadowbrook|19|Colonial Heights|6
+11/11/2005|Middlesex|50|Mathews|0
+11/11/2005|Mills Godwin|14|Douglas Freeman|7
+11/11/2005|Monticello|49|Western Albemarle|14
+11/11/2005|Nandua|44|Arcadia|6
+11/11/2005|Narrows|27|Fort Chiswell|6
+11/11/2005|North Stafford|35|Stafford|16
+11/11/2005|Nottoway|34|Park View(SH)|12
+11/11/2005|Oakton|21|Annandale|14
+11/11/2005|Orange|52|Charlottesville|13
+11/11/2005|Osbourn Park|14|Battlefield|13
+11/11/2005|Oscar Smith|41|Indian River|8
+11/11/2005|Park View(St)|33|Broad Run|21
+11/11/2005|Parry McCluer|45|James River(B)|23
+11/11/2005|Patrick Henry(A)|20|Hermitage|7
+11/11/2005|Patrick Henry(GS)|21|Holston|14
+11/11/2005|Phoebus|54|Bethel|6
+11/11/2005|Potomac|33|Freedom(PW)|14
+11/11/2005|Potomac Falls|35|Dominion|0
+11/11/2005|Powhatan|42|Brunswick|7
+11/11/2005|Prince Edward|33|Bluestone|14
+11/11/2005|Prince George|34|Dinwiddie|13
+11/11/2005|R.E. Lee(S)|31|Lake Braddock|17
+11/11/2005|Radford|14|Eastern Montgomery|0
+11/11/2005|Randolph-Henry|27|Cumberland|26
+11/11/2005|Richlands|54|Lebanon|14
+11/11/2005|Riverbend|27|Spotsylvania|20
+11/11/2005|Riverheads|28|Wilson Memorial|14
+11/11/2005|Rockbridge County|28|Broadway|14
+11/11/2005|Rustburg|26|Staunton River|14
+11/11/2005|Salem|21|Pulaski County|17
+11/11/2005|Sherando|30|Millbrook|7
+11/11/2005|Southampton|26|Jamestown|14
+11/11/2005|Spotswood|45|Stuarts Draft|19
+11/11/2005|Stone Bridge|35|South Lakes|14
+11/11/2005|Stonewall Jackson(M)|20|Culpeper County|16
+11/11/2005|Stonewall Jackson(Q)|24|Luray|17
+11/11/2005|Surry|21|Sussex Central|14
+11/11/2005|Thomas Dale|33|Hopewell|14
+11/11/2005|Thomas Edison|45|Mount Vernon|13
+11/11/2005|Tunstall|20|Patrick County|14
+11/11/2005|Turner Ashby|56|Waynesboro|7
+11/11/2005|Warren County|28|Central(W)|14
+11/11/2005|Warwick|28|Heritage(NN)|26
+11/11/2005|West Point|38|Chincoteague|20
+11/11/2005|West Springfield|52|South County|21
+11/11/2005|William Fleming|47|Alleghany|6
+11/11/2005|Woodbridge|22|Gar-Field|20
+11/11/2005|W.T. Woodson|35|Thomas Jefferson(A)|34
+11/11/2005|York|41|Tabb|18
+11/11/2005|Yorktown|40|Washington-Lee|14
+11/12/2005|Denbigh|28|Kecoughtan|14
+11/12/2005|Gloucester|24|Menchville|7
+11/12/2005|Grafton|37|Smithfield|12
+11/12/2005|Handley|41|James Wood|3
+11/12/2005|John Marshall|42|Thomas Jefferson(R)|14
+11/12/2005|T.C. Williams|34|West Potomac|8
+11/18/2005|Meadowbrook|23|Highland Springs|21
+11/18/2005|L.C. Bird|35|Patrick Henry(A)|7
+11/18/2005|Landstown|17|Kellam|7
+11/18/2005|Oscar Smith|28|Salem(VB)|27
+11/18/2005|Oakton|28|Annandale|14
+11/18/2005|Westfield|35|James Robinson|14
+11/18/2005|C.D. Hylton|12|Woodbridge|7
+11/19/2005|Osbourn|58|Franklin County|41
+11/18/2005|Matoaca|41|Colonial Heights|15
+11/18/2005|Huguenot|28|Deep Run|0
+11/18/2005|Phoebus|49|Maury|48
+11/18/2005|Hampton|14|Lake Taylor|7
+11/18/2005|Stone Bridge|21|James Madison|17
+11/18/2005|Thomas Edison|14|Loudoun Valley|12
+11/18/2005|Massaponax|40|Halifax County|13
+11/18/2005|E.C. Glass|17|Brooke Point|14
+11/18/2005|Powhatan|28|Smithfield|6
+11/19/2005|Courtland|35|Grafton|34
+11/18/2005|Harrisonburg|28|Park View(St)|13
+11/18/2005|Sherando|48|Louisa County|35
+11/18/2005|Salem|34|Pulaski County|7
+11/18/2005|Amherst County|13|William Fleming|12
+11/18/2005|Bassett|28|Martinsville|21
+11/18/2005|Magna Vista|34|Carroll County|14
+11/18/2005|James Monroe|56|Nottoway|22
+11/18/2005|York|49|Poquoson|14
+11/18/2005|Turner Ashby|17|R.E. Lee(St)|7
+11/19/2005|Handley|35|Rockbridge County|14
+11/18/2005|Liberty(Bed)|31|Christiansburg|21
+11/18/2005|Cave Spring|26|Brookville|23
+11/18/2005|Richlands|40|Virginia|6
+11/18/2005|Graham|28|Tazewell|7
+11/18/2005|King William|44|Essex|20
+11/19/2005|Washington & Lee|41|Lancaster|22
+11/18/2005|Chatham|34|Gretna|27
+11/18/2005|Manassas Park|22|Goochland|14
+11/18/2005|George Wythe(W)|20|Glenvar|17
+11/18/2005|Giles|42|Chilhowie|12
+11/19/2005|Haysi|33|Honaker|6
+11/19/2005|Powell Valley|47|Gate City|20
+11/18/2005|Sussex Central|28|Franklin|23
+11/19/2005|Surry|19|Middlesex|3
+11/18/2005|Riverheads|31|Stonewall Jackson(Q)|8
+11/18/2005|William Campbell|14|Buffalo Gap|7
+11/18/2005|Rural Retreat|40|Craig County|15
+11/18/2005|Narrows|55|Northwood|13
+11/19/2005|J.I. Burton|31|Rye Cove|0
+11/19/2005|Appalachia|44|Hurley|0
+11/25/2005|Landstown|20|Oscar Smith|13
+11/26/2005|Oakton|42|Westfield|24
+11/25/2005|L.C. Bird|19|Meadowbrook|13
+11/25/2005|C.D. Hylton|35|Osbourn|27
+11/25/2005|Hampton|29|Phoebus|7
+11/25/2005|Stone Bridge|29|Thomas Edison|21
+11/25/2005|Matoaca|55|Huguenot|21
+11/25/2005|Massaponax|28|E.C. Glass|7
+11/25/2005|Bassett|33|Magna Vista|27
+11/26/2005|Sherando|41|Harrisonburg|34
+11/25/2005|Salem|17|Amherst County|14
+11/26/2005|Powhatan|45|Courtland|21
+11/26/2005|James Monroe|54|York|41
+11/26/2005|Turner Ashby|22|Handley|21
+11/25/2005|Liberty(Bed)|28|Cave Spring|7
+11/25/2005|Richlands|19|Graham|13
+11/26/2005|Washington & Lee|36|King William|6
+11/25/2005|Manassas Park|25|Chatham|21
+11/26/2005|Giles|29|George Wythe(W)|7
+11/25/2005|Haysi|17|Powell Valley|14
+11/26/2005|Surry|25|Sussex Central|6
+11/25/2005|William Campbell|33|Riverheads|10
+11/25/2005|Rural Retreat|40|Narrows|21
+11/26/2005|J.I. Burton|42|Appalachia|20
+12/03/2005|Landstown|25|C.D. Hylton|14
+12/03/2005|Oakton|19|L.C. Bird|16
+12/03/2005|Hampton|21|Massaponax|16
+12/03/2005|Stone Bridge|52|Matoaca|12
+12/03/2005|Powhatan|21|Sherando|17
+12/03/2005|Salem|35|Bassett|14
+12/03/2005|Richlands|23|Liberty(Bed)|20
+12/03/2005|Turner Ashby|27|James Monroe|21
+12/03/2005|Manassas Park|27|Washington & Lee|6
+12/03/2005|Giles|39|Haysi|15
+12/03/2005|J.I. Burton|14|Rural Retreat|6
+12/03/2005|William Campbell|28|Surry|7
+12/10/2005|Oakton|28|Landstown|7
+12/10/2005|Hampton|15|Stone Bridge|8
+12/10/2005|Salem|28|Powhatan|10
+12/10/2005|Turner Ashby|27|Richlands|13
+12/10/2005|Giles|35|Manassas Park|34
+12/10/2005|William Campbell|18|J.I. Burton|0
