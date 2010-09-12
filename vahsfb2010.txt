@@ -208,3 +208,154 @@
 09/04/2010|Harrisonburg|14|Handley|7
 09/04/2010|Nandua|42|Arcadia|14
 09/06/2010|Pickerington Central, Oh|36|Oscar Smith|20
+09/09/2010|East Rockingham|14|Petersburg, WV|0
+09/09/2010|Warhill|45|Windsor|20
+09/10/2010|Albemarle|15|Western Albemarle|6
+09/10/2010|Alleghany|31|Rustburg|24
+09/10/2010|Altavista|29|James River(B)|13
+09/10/2010|Amherst County|14|Heritage(Lyn)|6
+09/10/2010|Annandale|35|Falls Church|0
+09/10/2010|Appomattox|46|Cumberland|26
+09/10/2010|Armstrong|39|Thomas Jefferson(R)|12
+09/10/2010|Atlee|14|Deep Run|6
+09/10/2010|Bassett|42|Jefferson Forest|7
+09/10/2010|Battlefield|24|Osbourn Park|12
+09/10/2010|Bayside|21|Cox|9
+09/10/2010|Booker T. Washington|40|Warwick|26
+09/10/2010|Briar Woods|27|Handley|0
+09/10/2010|Broad Run|42|Jefferson County, WV|0
+09/10/2010|Broadway|33|Fort Defiance|0
+09/10/2010|Brooke Point|31|Freedom(PW)|6
+09/10/2010|Brookville|55|William Byrd|0
+09/10/2010|Buckingham County|47|Prince Edward|13
+09/10/2010|Buffalo Gap|19|Bath County|13
+09/10/2010|Castlewood|41|Pound|27
+09/10/2010|Central(W)|28|Strasburg|8
+09/10/2010|Centreville|35|Thomas Edison|0
+09/10/2010|Chantilly|42|Langley|35
+09/10/2010|Charles City|44|Arcadia|0
+09/10/2010|Chilhowie|53|Twin Springs|12
+09/10/2010|Chincoteague|49|Tidewater Academy|30
+09/10/2010|Christiansburg|40|Carroll County|0
+09/10/2010|Clarke County|28|Stonewall Jackson(Q)|13
+09/10/2010|Clintwood|35|Happy Valley, TN|0
+09/10/2010|Clover Hill|48|Prince George|12
+09/10/2010|Colonial Forge|42|Woodbridge|10
+09/10/2010|Cosby|10|Hopewell|6
+09/10/2010|Covington|38|Bland County|0
+09/10/2010|Craig County|34|Narrows|6
+09/10/2010|Dinwiddie|24|Varina|21
+09/10/2010|Dominion|54|Wakefield|20
+09/10/2010|Eastern Montgomery|38|Galax|26
+09/10/2010|Essex|26|Rappahannock|7
+09/10/2010|Fairfax|20|Robinson|12
+09/10/2010|Fauqier|32|Skyline|29
+09/10/2010|Floyd County|48|Patrick County|19
+09/10/2010|Forest Park|28|Loudoun Valley|14
+09/10/2010|Fort Chiswell|42|Northwood|7
+09/10/2010|Franklin|42|Southampton|23
+09/10/2010|Freedom(Lou)|6|Brentsville District|3
+09/10/2010|Gate City|31|Sullivan South, TN|28
+09/10/2010|George Marshall|17|J.E.B. Stuart|8
+09/10/2010|George Washington|49|E.C. Glass|15
+09/10/2010|Giles|45|Haysi|42
+09/10/2010|Glenvar|42|Parry McCluer|0
+09/10/2010|Goochland|34|Amelia County|0
+09/10/2010|Grafton|42|Surry|14
+09/10/2010|Grassfield|31|Western Branch|26
+09/10/2010|Great Bridge|44|Deep Creek|15
+09/10/2010|Gretna|36|Dan River|28
+09/10/2010|Grundy|62|Hurley|14
+09/10/2010|Halifax County|14|Person, NC|9
+09/10/2010|Hampton|49|Gloucester|0
+09/10/2010|Hanover|49|Patrick Henry(A)|21
+09/10/2010|Harrisonburg|34|Rockbridge County|13
+09/10/2010|Hayfield|28|R.E. Lee(Sp)|0
+09/10/2010|Henrico|27|Caroline|0
+09/10/2010|Hermitage|27|Lee-Davis|8
+09/10/2010|Hickory|41|Kings Fork|12
+09/10/2010|Highland Springs|7|Meadowbrook|0
+09/10/2010|Honaker|36|Coeburn|30
+09/10/2010|C.D. Hylton|49|Stonewall Jackson(M)|12
+09/10/2010|J.I. Burton|15|Abingdon|13
+09/10/2010|J.J. Kelly|45|Patrick Henry(GS)|14
+09/10/2010|James Bennett, MD|41|Nandua|21
+09/10/2010|James Monroe|56|Charlottesville|0
+09/10/2010|James River(C)|27|Douglas Freeman|16
+09/10/2010|James Wood|28|Musselman, WV|7
+09/10/2010|John Battle|19|Holston|6
+09/10/2010|Kellam|38|Princess Anne|22
+09/10/2010|Kettle Run|7|Potomac Falls|0
+09/10/2010|King George|27|Colonial Beach|8
+09/10/2010|King William|33|New Kent|13
+09/10/2010|L.C. Bird|36|Matoaca|23
+09/10/2010|Lafayette|28|Brunswick|20
+09/10/2010|Lake Braddock|52|W.T. Woodson|7
+09/10/2010|Lake Taylor|9|Kecoughtan|0
+09/10/2010|Lancaster|44|King & Queen|6
+09/10/2010|Landstown|12|Green Run|9
+09/10/2010|Lebanon|31|Tazewell|24
+09/10/2010|Liberty(Beal)|35|Park View(St)|18
+09/10/2010|Liberty(Bed)|18|Staunton River|7
+09/10/2010|Lord Botetourt|27|Hidden Valley|23
+09/10/2010|Loudoun County|49|Tuscarora|0
+09/10/2010|Louisa County|27|Spotsylvania|0
+09/10/2010|Luray|14|George Mason|7
+09/10/2010|Magna Vista|32|William Fleming|14
+09/10/2010|Manassas Park|24|Washington & Lee|21
+09/10/2010|Martinsville|37|Morehead, NC|7
+09/10/2010|Massaponax|17|Chancellor|3
+09/10/2010|McLean|27|Herndon|14
+09/10/2010|Middlesboro, KY|34|Lee|20
+09/10/2010|Millbrook|35|Spotswood|14
+09/10/2010|Mills Godwin|15|Monacan|14
+09/10/2010|Monticello|45|Huguenot|6
+09/10/2010|Nansemond River|14|Lakeland|6
+09/10/2010|Norcom|52|Heritage(NN)|0
+09/10/2010|North Stafford|12|Gar-Field|6
+09/10/2010|Northside|37|Cave Spring|21
+09/10/2010|Northumberland|43|Middlesex|7
+09/10/2010|Nottoway|38|Central(L)|12
+09/10/2010|Oakton|14|West Springfield|13
+09/10/2010|Ocean Lakes|35|Tallwood|14
+09/10/2010|Orange|42|Culpeper County|20
+09/10/2010|Osbourn|33|Mountain View|20
+09/10/2010|Phoebus|45|Churchland|0
+09/10/2010|Potomac|24|Stafford|23
+09/10/2010|Powhatan|27|Midlothian|0
+09/10/2010|Pulaski County|43|Patrick Henry(R)|42
+09/10/2010|Radford|36|George Wythe(W)|35
+09/10/2010|Randolph-Henry|53|Bluestone|12
+09/10/2010|Richlands|42|Powell Valley|20
+09/10/2010|Riverbend|27|Courtland|10
+09/10/2010|Riverheads|55|Nelson County|35
+09/10/2010|Saint Paul|49|Ervinton|24
+09/10/2010|Salem|34|Franklin County|14
+09/10/2010|Salem(VB)|28|First Colonial|6
+09/10/2010|Sherando|41|Washington, WV|6
+09/10/2010|South County|42|Washington-Lee|7
+09/10/2010|South Lakes|39|Thomas Jefferson(A)|7
+09/10/2010|St. Johns Catholic|40|Rappahannock County|0
+09/10/2010|Stone Bridge|56|Heritage(Le)|7
+09/10/2010|Stuarts Draft|21|R.E. Lee(St)|0
+09/10/2010|Sullivan North, TN|25|Rye Cove|0
+09/10/2010|Sussex Central|12|Greensville|6
+09/10/2010|Tennessee, TN|45|Virginia|14
+09/10/2010|Thomas Dale|20|Manchester|16
+09/10/2010|Tunstall|28|Chatham|18
+09/10/2010|Turner Ashby|45|Wayesboro|8
+09/10/2010|Warren County|28|Woodgrove|7
+09/10/2010|West Point|41|Northampton|8
+09/10/2010|Westfield|28|West Potomac|24
+09/10/2010|William Campbell|27|George Wythe(R)|13
+09/10/2010|William Monroe|36|Madison County|19
+09/10/2010|Woodrow Wilson|21|Menchville|19
+09/10/2010|Wilson Memorial|42|Page|13
+09/10/2010|Woodberry Forest|16|J.R. Tucker|13
+09/10/2010|Woodside|35|Maury|0
+09/10/2010|Yorktown|42|James Madison|0
+09/11/2010|Bethel|44|Norview|12
+09/11/2010|Denbigh|15|Granby|7
+09/11/2010|Jamestown|21|John Marshall|18
+09/11/2010|Oscar Smith|35|Indian River|3
+09/11/2010|T.C. Williams|45|Mount Vernon|14
