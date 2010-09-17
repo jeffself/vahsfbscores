@@ -263,6 +263,7 @@
 09/10/2010|Goochland|34|Amelia County|0
 09/10/2010|Grafton|42|Surry|14
 09/10/2010|Grassfield|31|Western Branch|26
+09/10/2010|Grayson|55|Rural Retreat|20
 09/10/2010|Great Bridge|44|Deep Creek|15
 09/10/2010|Gretna|36|Dan River|28
 09/10/2010|Grundy|62|Hurley|14
@@ -270,7 +271,7 @@
 09/10/2010|Hampton|49|Gloucester|0
 09/10/2010|Hanover|49|Patrick Henry(A)|21
 09/10/2010|Harrisonburg|34|Rockbridge County|13
-09/10/2010|Hayfield|28|R.E. Lee(Sp)|0
+09/10/2010|Hayfield|28|R.E. Lee(S)|0
 09/10/2010|Henrico|27|Caroline|0
 09/10/2010|Hermitage|27|Lee-Davis|8
 09/10/2010|Hickory|41|Kings Fork|12
