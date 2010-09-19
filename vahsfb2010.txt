@@ -395,3 +395,109 @@
 09/16/2010|Stone Bridge|49|West Springfield|6
 09/16/2010|W.T. Woodson|27|R.E. Lee(Sp)|20
 09/16/2010|Washington-Lee|23|Hayfield|7
+09/17/2010|Albemarle|37|Charlottesville|0
+09/17/2010|Alleghany|35|Bath County|13
+09/17/2010|Altavista|61|Cumberland|44
+09/17/2010|Amelia County|34|Nottoway|13
+09/17/2010|Appalachia|44|Rye Cove|14
+09/17/2010|Appomattox|20|Randolph-Henry|14
+09/17/2010|Arcadia|26|Northampton|20
+09/17/2010|Armstrong|24|John Marshall|14
+09/17/2010|Atlee|35|Patrick Henry(A)|10
+09/17/2010|Booker T. Washington|34|Pasquotank, NC|7
+09/17/2010|Broadway|37|Central(W)|10
+09/17/2010|Brookville|49|Hidden Valley|14
+09/17/2010|Brunswick|40|Sussex Central|38
+09/17/2010|Bruton|46|New Kent|7
+09/17/2010|Buckingham County|19|Fluvanna|7
+09/17/2010|Carroll County|50|Tazewell|13
+09/17/2010|Cave Spring|33|Patrick Henry(R)|7
+09/17/2010|Central(L)|45|Bluestone|12
+09/17/2010|Chancellor|34|Riverbend|17
+09/17/2010|Charles City|28|West Point|27
+09/17/2010|Chilhowie|35|Fort Chiswell|7
+09/17/2010|Christiansburg|29|Bassett|0
+09/17/2010|Clarke County|49|East Rockingham|0
+09/17/2010|Clintwood|49|Shelby Valley, KY|21
+09/17/2010|Clover Hill|27|Cosby|0
+09/17/2010|Colonial Heights|20|Park View(SH)|14
+09/17/2010|Covington|26|Page|0
+09/17/2010|Dinwiddie|35|Greensville|6
+09/17/2010|E.C. Glass|20|William Fleming|17
+09/17/2010|East Ridge, KY|49|Hurley|28
+09/17/2010|Eastern Montgomery|38|Craig County|13
+09/17/2010|Eastern View|61|William Monroe|13
+09/17/2010|Floyd County|17|George Wythe(W)|7
+09/17/2010|Franklin|21|Mathews|17
+09/17/2010|Franklin County|34|Magna Vista|26
+09/17/2010|Gate City|44|Lebanon|0
+09/17/2010|George Mason|16|Stonewall Jackson(Q)|12
+09/17/2010|George Washington|34|Amherst County|7
+09/17/2010|Giles|42|Narrows|14
+09/17/2010|Glenvar|27|Grayson|7
+09/17/2010|Gloucester|24|Granby|13
+09/17/2010|Goochland|15|King George|6
+09/17/2010|Great Bridge|24|Western Branch|21
+09/17/2010|Gretna|50|Tunstall|0
+09/17/2010|Grundy|31|Haysi|15
+09/17/2010|Hampton Christian|6|Chincoteague|0
+09/17/2010|Hanover|37|J.R. Tucker|7
+09/17/2010|Harlan County, KY|36|Powell Valley|7
+09/17/2010|Hedgesville, WV|20|James Wood|16
+09/17/2010|Henrico|14|Deep Run|6
+09/17/2010|Heritage(Lyn)|34|Halifax County|7
+09/17/2010|Hermitage|14|Meadowbrook|3
+09/17/2010|Hickory|35|Lakeland|6
+09/17/2010|Highland Springs|27|Douglas Freeman|7
+09/17/2010|Holston|14|Bland County|6
+09/17/2010|Indian River|7|Deep Creek|6
+09/17/2010|J.J. Kelly|30|Coeburn|7
+09/17/2010|James Monroe|50|Orange|3
+09/17/2010|James River(B)|41|Auburn|6
+09/17/2010|James River(C)|21|Midlothian|14
+09/17/2010|John Battle|19|Honaker|14
+09/17/2010|King William|40|Caroline|20
+09/17/2010|L.C. Bird|54|Huguenot|0
+09/17/2010|Lancaster|28|Rappahannock|14
+09/17/2010|Lee-Davis|31|Hopewell|14
+09/17/2010|Liberty(Bed)|27|Martinsville|6
+09/17/2010|Lord Botetourt|19|Rustburg|13
+09/17/2010|Louisa|35|Courtland|21
+09/17/2010|Madison County|56|Nelson County|27
+09/17/2010|Manassas Park|27|Colonial Beach|0
+09/17/2010|Manchester|24|Matoaca|13
+09/17/2010|Marion|27|Rural Retreat|14
+09/17/2010|Monacan|44|George Wythe(R)|0
+09/17/2010|Nandua|33|Surry|24
+09/17/2010|Northside|37|Blacksburg|14
+09/17/2010|Northumberland|48|King & Queen|0
+09/17/2010|Oscar Smith|34|Kings Fork|0
+09/17/2010|Phelps, KY|32|Twin Valley|20
+09/17/2010|Phoebus|49|Warwick|6
+09/17/2010|Poquoson|29|Lafayette|9
+09/17/2010|Potomac|35|North Stafford|29
+09/17/2010|Pound|41|Jenkins, KY|0
+09/17/2010|Powhatan|44|Monticello|20
+09/17/2010|Prince George|35|Thomas Jefferson(R)|15
+09/17/2010|Radford|27|Galax|21
+09/17/2010|Richlands|43|Abingdon|14
+09/17/2010|Riverheads|49|Parry McCluer|0
+09/17/2010|Rockbridge County|26|Fort Defiance|7
+09/17/2010|Salem|35|William Byrd|6
+09/17/2010|Skyline|26|Brentsville District|7
+09/17/2010|Smithfield|28|Warhill|21
+09/17/2010|Southampton|28|Windsor|14
+09/17/2010|Spotswood|41|Waynesboro|24
+09/17/2010|Staunton River|58|Patrick County|12
+09/17/2010|Strasburg|40|Luray|7
+09/17/2010|Thomas Walker|26|Ervinton|6
+09/17/2010|Turner Ashby|28|Stuarts Draft|27
+09/17/2010|Twin Springs|35|Northwood|7
+09/17/2010|Varina|40|Thomas Dale|19
+09/17/2010|Virginia|42|Graham|31
+09/17/2010|Woodrow Wilson|26|Nansemond River|0
+09/17/2010|Wilson Memorial|35|Buffalo|Gap|0
+09/17/2010|Woodside|57|Menchville|9
+09/17/2010|York|27|Tabb|14
+09/18/2010|Fauquier|49|Handley|24
+09/18/2010|Kecoughtan|21|Denbigh|19
