@@ -360,3 +360,38 @@
 09/11/2010|Jamestown|21|John Marshall|18
 09/11/2010|Oscar Smith|35|Indian River|3
 09/11/2010|T.C. Williams|45|Mount Vernon|14
+09/16/2010|Annandale|7|South County|3
+09/16/2010|Battlefield|31|Gar-Field|0
+09/16/2010|Bayside|21|Landstown|0
+09/16/2010|Broad Run|42|Woodrow Wilson, DC|6
+09/16/2010|C.D. Hylton|13|Osbourn Park|0
+09/16/2010|Centreville|27|Yorktown|0
+09/16/2010|Chantilly|35|West Potomac|16
+09/16/2010|Collegiate|28|Mills Godwin|7
+09/16/2010|Colonial Forge|54|Heritage(Le)|13
+09/16/2010|Fairfax|35|J.E.B. Stuart|21
+09/16/2010|Falls Church|24|Thomas Jefferson(A)|7
+09/16/2010|First Colonial|14|Tallwood|0
+09/16/2010|Forest Park|40|Stonewall Jackson(M)|12
+09/16/2010|Grassfield|21|Maury|7
+09/16/2010|Green Run|33|Princess Anne|16
+09/16/2010|Hampton|52|Churchland|0
+09/16/2010|Kettle Run|6|Freedom(Lou)|3
+09/16/2010|Lake Braddock|12|Westfield|7
+09/16/2010|Langley|29|James Madison|28
+09/16/2010|Liberty(Beal)|43|Potomac Falls|8
+09/16/2010|Loudoun Valley|15|Brooke Point|8
+09/16/2010|Martinsburg, WV|8|Briar Woods|7
+09/16/2010|McLean|37|Wakefield|6
+09/16/2010|Mount Vernon|14|Thomas Edison|6
+09/16/2010|Oakton|29|T.C. Williams|14
+09/16/2010|Ocean Lakes|35|Kempsville|26
+09/16/2010|Osbourn|42|Freedom(PW)|7
+09/16/2010|Robinson|47|George Marshall|0
+09/16/2010|Salem(VB)|34|Kellam|0
+09/16/2010|Sherando|21|Loudoun County|14
+09/16/2010|South Lakes|42|Herndon|0
+09/16/2010|Stafford|21|Woodbridge|14
+09/16/2010|Stone Bridge|49|West Springfield|6
+09/16/2010|W.T. Woodson|27|R.E. Lee(Sp)|20
+09/16/2010|Washington-Lee|23|Hayfield|7
