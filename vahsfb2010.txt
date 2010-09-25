@@ -393,7 +393,7 @@
 09/16/2010|South Lakes|42|Herndon|0
 09/16/2010|Stafford|21|Woodbridge|14
 09/16/2010|Stone Bridge|49|West Springfield|6
-09/16/2010|W.T. Woodson|27|R.E. Lee(Sp)|20
+09/16/2010|W.T. Woodson|27|R.E. Lee(S)|20
 09/16/2010|Washington-Lee|23|Hayfield|7
 09/17/2010|Albemarle|37|Charlottesville|0
 09/17/2010|Alleghany|35|Bath County|13
@@ -443,6 +443,7 @@
 09/17/2010|Hampton Christian|6|Chincoteague|0
 09/17/2010|Hanover|37|J.R. Tucker|7
 09/17/2010|Harlan County, KY|36|Powell Valley|7
+09/17/2010|Harrisonburg|35|R.E. Lee(St)|34
 09/17/2010|Hedgesville, WV|20|James Wood|16
 09/17/2010|Henrico|14|Deep Run|6
 09/17/2010|Heritage(Lyn)|34|Halifax County|7
@@ -462,7 +463,7 @@
 09/17/2010|Lee-Davis|31|Hopewell|14
 09/17/2010|Liberty(Bed)|27|Martinsville|6
 09/17/2010|Lord Botetourt|19|Rustburg|13
-09/17/2010|Louisa|35|Courtland|21
+09/17/2010|Louisa County|35|Courtland|21
 09/17/2010|Madison County|56|Nelson County|27
 09/17/2010|Manassas Park|27|Colonial Beach|0
 09/17/2010|Manchester|24|Matoaca|13
@@ -499,5 +500,7 @@
 09/17/2010|Wilson Memorial|35|Buffalo|Gap|0
 09/17/2010|Woodside|57|Menchville|9
 09/17/2010|York|27|Tabb|14
+09/18/2010|Bethel|34|Heritage(NN)|3
 09/18/2010|Fauquier|49|Handley|24
+09/18/2010|Grafton|35|Jamestown|0
 09/18/2010|Kecoughtan|21|Denbigh|19
