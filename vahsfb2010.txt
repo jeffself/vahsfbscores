@@ -738,7 +738,7 @@
 10/01/2010|Oscar Smith|43|Hickory|14
 10/01/2010|Park View(St)|17|Loudoun County|7
 10/01/2010|Parry McCluer|54|Auburn|32
-10/01/2010|Patrick Henry(53)|Thomas Jefferson(R)|7
+10/01/2010|Patrick Henry(A)|53|Thomas Jefferson(R)|7
 10/01/2010|Pocahontas County, WV|7|Bath County|6
 10/01/2010|Poquoson|45|Jamestown|0
 10/01/2010|Powhatan|31|Nottoway|13
@@ -774,3 +774,25 @@
 10/01/2010|Wilson Memorial|28|Luray|7
 10/01/2010|Woodbridge|49|Forest Park|14
 10/01/2010|Yorktown|26|Falls Church|7
+10/02/2010|Bethel|47|Denbigh|7
+10/02/2010|Bruton|43|Lafayette|36
+10/02/2010|C.D. Hylton|19|Potomac|0
+10/02/2010|Great Bridge|35|Kings Fork|7
+10/02/2010|Handley|35|Warren County|7
+10/02/2010|Lancaster|29|Surry|12
+10/02/2010|Mathews|42|Arcadia|6
+10/02/2010|Maury|32|Woodrow Wilson|26
+10/02/2010|Menchville|31|Gloucester|3
+10/02/2010|Mills Godwin|16|John Marshall|12
+10/02/2010|Norcom|45|Norview|0
+10/02/2010|Northumberland|20|Windsor|18
+10/02/2010|Ocean Lakes|20|First Colonial|14
+10/02/2010|Phoebus|50|Woodside|0
+10/02/2010|Rappahannock|20|Middlesex|0
+10/02/2010|Southampton|44|Bluestone|0
+10/02/2010|T.C. Williams|52|West Springfield|27
+10/02/2010|Western Branch|36|Lakeland|19
+10/02/2010|York|35|New Kent|34
+10/04/2010|Deep Creek|37|Nansemond River|7
+10/04/2010|Franklin|48|West Point|30
+10/04/2010|Park View(SH)|21|Prince Edward|6
