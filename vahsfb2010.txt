@@ -796,3 +796,146 @@
 10/04/2010|Deep Creek|37|Nansemond River|7
 10/04/2010|Franklin|48|West Point|30
 10/04/2010|Park View(SH)|21|Prince Edward|6
+10/07/2010|Hampton|77|Heritage(NN)|0
+10/08/2010|Albemarle|23|Riverbend|21
+10/08/2010|Altavista|29|Dan River|22
+10/08/2010|Amelia County|28|Randolph-Henry|16
+10/08/2010|Amherst County|24|Bassett|7
+10/08/2010|Appalachia|42|Saint Paul|26
+10/08/2010|Appomattox|38|William Campbell|22
+10/08/2010|Atlee|29|Henrico|14
+10/08/2010|Bath County|27|Covington|12
+10/08/2010|Bayside|48|Tallwood|14
+10/08/2010|Blacksburg|30|Hidden Valley|14
+10/08/2010|Booker T. Washington|39|Granby|14
+10/08/2010|Briar Woods|30|Loudoun County|28
+10/08/2010|Broad Run|49|Dominion|35
+10/08/2010|Brooke Point|37|Massapanox|24
+10/08/2010|Brookville|31|Heritage(Lyn)|28
+10/08/2010|Brunswick|40|Southampton|10
+10/08/2010|C.D. Hylton|14|Woodbridge|7
+10/08/2010|Carroll County|28|Abingdon|3
+10/08/2010|Cave Spring|34|Salem|6
+10/08/2010|Centreville|49|Herndon|14
+10/08/2010|Chancellor|39|Caroline|22
+10/08/2010|Chantilly|24|Robinson|14
+10/08/2010|Charles City|30|Rappahannock|20
+10/08/2010|Chatham|33|Central(L)|28
+10/08/2010|Christiansburg|27|Pulaski County|17
+10/08/2010|Churchland|44|Lake Taylor|37
+10/08/2010|Clear Spring, MD|50|Rappahannock County|14
+10/08/2010|Clover Hill|34|George Wythe(R)|6
+10/08/2010|Coeburn|28|Rye Cove|16
+10/08/2010|Colonial Beach|28|Surry|12
+10/08/2010|Colonial Forge|42|North Stafford|27
+10/08/2010|Courtland|43|Spotsylvania|7
+10/08/2010|Craig County|41|Parry McCluer|0
+10/08/2010|Deep Run|15|Douglas Freeman|9
+10/08/2010|Denbigh|28|Menchville|17
+10/08/2010|Dinwiddie|26|Meadowbrook|23
+10/08/2010|East Rockingham|41|Page|20
+10/08/2010|Eastern Montgomery|50|Radford|21
+10/08/2010|Eastern View|62|King George|7
+10/08/2010|Ervinton|31|Twin Valley|6
+10/08/2010|Fauquier|49|Brentsville District|6
+10/08/2010|Floyd County|42|Auburn|6
+10/08/2010|Fluvanna|33|William Monroe|28
+10/08/2010|Fort Chiswell|35|Bland County|7
+10/08/2010|Franklin|54|King & Queen|6
+10/08/2010|Franklin County|30|William Fleming|7
+10/08/2010|Freedom(Lou)|22|Tuscarora|21
+10/08/2010|Galax|23|Grayson|14
+10/08/2010|Gar-Field|34|Potomac|14
+10/08/2010|Gate City|48|John Battle|7
+10/08/2010|George Wythe(W)|14|Chilhowie|13
+10/08/2010|Giles|20|Glenvar|17
+10/08/2010|Grafton|14|Bruton|9
+10/08/2010|Grassfield|35|Kings Fork|14
+10/08/2010|Great Bridge|60|Nansemond River|14
+10/08/2010|Green Run|33|Kempsville|13
+10/08/2010|Gretna|57|Nelson County|14
+10/08/2010|Grundy|35|Graham|14
+10/08/2010|Handley|37|Kettle Run|7
+10/08/2010|Hanover|49|Varina|28
+10/08/2010|Harrisonburg|40|Fort Defiance|13
+10/08/2010|Hayfield|14|Mount Vernon|10
+10/08/2010|Haysi|41|Castlewood|7
+10/08/2010|Hermitage|34|Mills Godwin|7
+10/08/2010|Hickory|24|Western Branch|15
+10/08/2010|Highland Springs|17|Huguenot|8
+10/08/2010|Holston|21|Northwood|14
+10/08/2010|Honaker|35|Tazewell|7
+10/08/2010|Hopewell|26|Thomas Dale|19
+10/08/2010|Indian River|25|Lakeland|22
+10/08/2010|J.E.B. Stuart|34|Washington-Lee|7
+10/08/2010|J.I. Burton|46|Pound|0
+10/08/2010|J.J. Kelly|29|Lee|27
+10/08/2010|J.R. Tucker|55|Thomas Jefferson(R)|6
+10/08/2010|James Monroe|43|Culpeper County|6
+10/08/2010|Jefferson Forest|37|Rustburg|14
+10/08/2010|L.C. Bird|48|Cosby|7
+10/08/2010|Lafayette|28|Tabb|14
+10/08/2010|Lake Braddock|48|R.E. Lee(Sp)|7
+10/08/2010|Lancaster|27|Middlesex|3
+10/08/2010|Landstown|42|Princess Anne|26
+10/08/2010|Langley|49|GeorgeMarshall|0
+10/08/2010|Lee-Davis|34|Armstrong|8
+10/08/2010|Liberty(Beal)|49|Warren County|14
+10/08/2010|Liberty(Bed)|34|E.C. Glass|15
+10/08/2010|Louisa County|31|Orange|17
+10/08/2010|Madison County|19|Stonewall Jackson(Q)|8
+10/08/2010|Magna Vista|21|Martinsville|6
+10/08/2010|Manassas Park|21|Luray|7
+10/08|2010|Manchester|41|James River(C)|28
+10/08/2010|McLean|28|Thomas Jefferson(A)|7
+10/08/2010|Millbrook|28|Skyline|7
+10/08/2010|Monacan|46|Midlothian|7
+10/08/2010|Monticello|29|Goochland|28
+10/08/2010|Mountain View|14|Stafford|7
+10/08/2010|Norcom|26|Maury|3
+10/08/2010|Northside|42|Alleghany|7
+10/08/2010|Norhumberland|18|Mathews|7
+10/08/2010|Nottoway|18|Park View(SH)|0
+10/08/2010|Ocean Lakes|41|Kellam|20
+10/08/2010|Osbourn Park|38|Freedom(PW)|6
+10/08/2010|Oscar Smith|28|Deep Creek|0
+10/08/2010|Park View(St)|28|Potomac Falls|13
+10/08/2010|Patrick Henry(A)|16|John Marshall|8
+10/08/2010|Patrick Henry(R)|30|George Washington|7
+10/08/2010|Petersburg|30|Matoaca|18
+10/08/2010|Phoebus|44|Kecoughtan|0
+10/08/2010|Powhatan|41|Greensville|12
+10/08/2010|Prince Edward|29|Bluestone|14
+10/08/2010|Prince George|21|Colonial Heights|8
+10/08/2010|R.E. Lee(St)|48|Spotswood|20
+10/08/2010|Richlands|51|Marion|6
+10/08/2010|Rural Retreat|35|Patrick Henry(GS)|14
+10/08/2010|Salem(VB)|19|Cox|0
+10/08/2010|Sherando|14|James Wood|7
+10/08/2010|Smithfield|38|New Kent|26
+10/08/2010|South Lakes|22|James Madison|16
+10/08/2010|Staunton River|42|Lord Botetourt|6
+10/08/2010|Stone Bridge|56|Fairfax|0
+10/08/2010|Stonewall Jackson(M)|52|Heritage(Le)|35
+10/08/2010|Stuarts Draft|35|Broadway|34
+10/08/2010|Sussex Central|48|Nandua|31
+10/08/2010|Tunstall|14|Patrick County|0
+10/08/2010|Turner Ashby|24|Rockbridge County|14
+10/08/2010|Virginia|14|Lebanon|13
+10/08/2010|Wakefield|20|Falls Church|0
+10/08/2010|Warhill|24|Jamestown|6
+10/08/2010|Warwick|35|Gloucester|21
+10/08/2010|Washington & Lee|32|King William|21
+10/08/2010|West Potomac|50|W.T. Woodson|36
+10/08/2010|West Springfield|7|South County|6
+10/08/2010|Western Albemarle|41|Charlottesville|6
+10/08/2010|Westfield|21|Oakton|14
+10/08/2010|Wilson Memorial|21|Waynesboro|8
+10/08/2010|Windsor|40|Arcadia|12
+10/08/2010|Woodgrove|21|George Mason|20
+10/08/2010|Yorktown|30|Thomas Edison|0
+10/09/2010|Osbourn|53|Loudoun Valley|14
+10/09/2010|Poquoson|28|York|0
+10/09/2010|T.C. Williams|31|Annandale|10
+10/09/2010|Woodrow Wilson|21|Norview|14
+10/09/2010|Woodside|30|Bethel|27
