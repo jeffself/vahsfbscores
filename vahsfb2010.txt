@@ -1079,3 +1079,14 @@
 10/15/2010|Woodside|37|Denbigh|29
 10/15/2010|York|24|Smithfield|18
 10/15/2010|Yorktown|24|J.E.B. Stuart|0
+10/16/2010|Bayside|42|Kempsville|6
+10/16/2010|Booker T. Washington|33|Norview|0
+10/16/2010|Broad Run|44|Freedom(Lou)|13
+10/16/2010|Chincoteague|28|Broadwater Academy|14
+10/16/2010|Deep Run|17|John Marshall|14
+10/16/2010|Handley|24|Sherando|21
+10/16/2010|Lafayette|59|New Kent|33
+10/16/2010|Mathews|51|King & Queen|0
+10/16/2010|Phoebus|44|Menchville|6
+10/16/2010|Salem(VB)|27|Landstown|7
+10/16/2010|Warwick|42|Heritage(NN)|7
