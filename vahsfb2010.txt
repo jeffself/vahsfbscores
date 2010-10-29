@@ -1232,3 +1232,9 @@
 10/22/2010|Woodbridge|25|Potomac|15
 10/22/2010|York|28|Warhill|7
 10/22/2010|Yorktown|39|Wakefield|13
+10/23/2010|Atlantic Shores Christian|36|Arcadia|0
+10/23/2010|Bethel|42|Menchville|10
+10/23/2010|Central(L)|20|Manassas Park|17
+10/23/2010|Gloucester|19|Heritage(NN)|3
+10/23/2010|Grafton|20|New Kent|7
+10/23/2010|Loudoun Valley|35|Herndon|14
