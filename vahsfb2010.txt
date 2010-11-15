@@ -875,7 +875,7 @@
 10/08/2010|Jefferson Forest|37|Rustburg|14
 10/08/2010|L.C. Bird|48|Cosby|7
 10/08/2010|Lafayette|28|Tabb|14
-10/08/2010|Lake Braddock|48|R.E. Lee(Sp)|7
+10/08/2010|Lake Braddock|48|R.E. Lee(S)|7
 10/08/2010|Lancaster|27|Middlesex|3
 10/08/2010|Landstown|42|Princess Anne|26
 10/08/2010|Langley|49|GeorgeMarshall|0
@@ -1102,7 +1102,7 @@
 10/22/2010|Battlefield|54|Heritage(Le)|7
 10/22/2010|Bayside|17|Ocean Lakes|13
 10/22/2010|Booker T. Washington|41|Maury|0
-10/22/2010|Briar Woods|24|Park View(S)|10
+10/22/2010|Briar Woods|24|Park View(St)|10
 10/22/2010|Broad Run|37|Loudoun County|18
 10/22/2010|Broadway|22|Turner Ashby|19
 10/22/2010|Brunswick|45|Prince Edward|12
@@ -1203,7 +1203,7 @@
 10/22/2010|Rye Cove|26|Ervinton|12
 10/22/2010|Salem(VB)|46|Princess Anne|0
 10/22/2010|Sherando|27|Liberty(Beal)|24
-10/22/2010|South County|39|R.E. Lee(Sp)|7
+10/22/2010|South County|39|R.E. Lee(S)|7
 10/22/2010|South Lakes|20|Dominion|14
 10/22/2010|Southampton|30|Park View(SH)|26
 10/22/2010|Stafford|24|Albemarle|14
@@ -1317,7 +1317,7 @@
 10/29/2010|Lee-Davis|22|Henrico|7
 10/29/2010|Liberty(Beal)|35|Brentsville District|0
 10/29/2010|Loudoun County|12|Freedom(L)|0
-10/29/2010|Loudoun Valley|49|Heritage(Lee)|21
+10/29/2010|Loudoun Valley|49|Heritage(Le)|21
 10/29/2010|Louisa County|32|Monticello|15
 10/29/2010|Luray|35|Page|13
 10/29/2010|Madison County|36|Strasburg|14
@@ -1371,7 +1371,7 @@
 10/29/2010|Washington & Lee|34|Rappahannock|9
 10/29/2010|Washington-Lee|41|Wakefield|6
 10/29/2010|West Point|43|Mathews|20
-10/29/2010|West Springfield|20|R.E. Lee(Sp)|13
+10/29/2010|West Springfield|20|R.E. Lee(S)|13
 10/29/2010|Westfield|35|Centreville|14
 10/29/2010|William Fleming|24|Halifax County|14
 10/29/2010|Wilson Memorial|28|Fort Defiance|25
@@ -1485,7 +1485,7 @@
 11/05/2010|Oakton|17|Chantilly|14
 11/05/2010|Ocean Lakes|40|Landstown|13
 11/05/2010|Orange|49|Charlottesville|0
-11/05/2010|Osbourn|72|Heritage(Lee)|19
+11/05/2010|Osbourn|72|Heritage(Le)|19
 11/05/2010|Osbourn Park|32|Franklin County|21
 11/05/2010|Oscar Smith|49|Great Bridge|7
 11/05/2010|Park View(SH)|20|Brunswick|16
@@ -1513,7 +1513,7 @@
 11/05/2010|Stonewall Jackson(Q)|42|Buffalo Gap|28
 11/05/2010|Strasburg|28|George Mason|14
 11/05/2010|Stuarts Draft|33|Rockbridge County|14
-11/05/2010|T.C. Williams|45|R.E. Lee(Sp)|6
+11/05/2010|T.C. Williams|45|R.E. Lee(S)|6
 11/05/2010|Thomas Walker|34|Saint Paul|22
 11/05/2010|Tuscarora|55|Woodgrove|20
 11/05/2010|Twin Springs|27|Rye Cove|20
@@ -1530,3 +1530,91 @@
 11/06/2010|Essex|20|Washington & Lee|14
 11/06/2010|Nandua|43|Northampton|6
 11/06/2010|Warwick|15|Kecoughtan|7
+11/12/2010|Altavista|41|Nelson County|0
+11/12/2010|Amelia County|13|Charles City|0
+11/12/2010|Bruton|37|Tabb|6
+11/12/2010|Buckingham County|24|Central(L)|20
+11/12/2010|Caroline|15|King George|12
+11/12/2010|Central(W)|35|Luray|14
+11/12/2010|Chancellor|27|Culpeper County|14
+11/12/2010|Clarke County|28|Madison County|20
+11/12/2010|Clover Hill|21|Henrico|7
+11/12/2010|Cosby|34|Huguenot|6
+11/12/2010|Courtland|28|James Monroe|19
+11/12/2010|Dan River|21|Chatham|20
+11/12/2010|Deep Run|14|J.R. Tucker|6
+11/12/2010|Dinwiddie|42|Prince George|6
+11/12/2010|Eastern View|54|Spotsylvania|9
+11/12/2010|Essex|40|Rappahannock|22
+11/12/2010|Franklin|44|Windsor|27
+11/12/2010|Grafton|21|York|17
+11/12/2010|Greensville|50|Bluestone|0
+11/12/2010|Gretna|42|William Campbell|8
+11/12/2010|Hanover|49|Armstrong|14
+11/12/2010|Hermitage|41|Patrick Henry(A)|28
+11/12/2010|Hopewell|56|Colonial Heights|28
+11/12/2010|King William|48|King & Queen|0
+11/12/2010|L.C. Bird|41|Midlothian|0
+11/12/2010|Lafayette|48|Jamestown|22
+11/12/2010|Lancaster|64|Northumberland|43
+11/12/2010|Lee|36|Thomas Walker|20
+11/12/2010|Lee-Davis|29|Atlee|27
+11/12/2010|Manassas Park|48|George Mason|8
+11/12/2010|Manchester|56|George Wythe(R)|0
+11/12/2010|Mathews|49|Middlesex|3
+11/12/2010|Mills Godwin|24|Douglas Freeman|12
+11/12/2010|Monacan|49|James River(C)|26
+11/12/2010|Nandua|36|Arcadia|20
+11/12/2010|Nottoway|32|Brunswick|18
+11/12/2010|Petersburg|22|Meadowbrook|21
+11/12/2010|Poquoson|42|Smithfield|13
+11/12/2010|Powhatan|54|Park View(SH)|0
+11/12/2010|Randolph-Henry|13|Cumberland|12
+11/12/2010|Riverheads|28|Buffalo Gap|14
+11/12/2010|Stonewall Jackson(Q)|41|Page|18
+11/12/2010|Sussex Central|48|Surry|0
+11/12/2010|Thomas Dale|29|Matoaca|26
+11/12/2010|Varina|20|Highland Springs|12
+11/12/2010|Warhill|44|New Kent|33
+11/12/2010|Washington & Lee|41|Colonial Beach|28
+
+11/12/2010|Phoebus|49|Warwick|0
+11/12/2010|Hampton|37|Lake Taylor|7
+11/12/2010|Norcom|24|Churchland|18
+11/12/2010|Great Bridge|49|Booker T. Washington|20
+11/12/2010|Lake Braddock|34|Langley|10
+11/12/2010|Centreville|24|Fairfax|6
+11/12/2010|Chantilly|7|Westfield|0
+11/12/2010|Robinson|14|Oakton|7
+11/12/2010|Stone Bridge|55|J.E.B. Stuart|0
+11/12/2010|Washington-Lee|28|Yorktown|7
+11/12/2010|Hayfield|34|McLean|13
+11/12/2010|South Lakes|39|Mount Vernon|0
+11/12/2010|Battlefield|17|Gar-Field|13
+11/12/2010|Franklin County|17|Woodbridge|14
+11/12/2010|Massaponax|52|Brooke Point|45
+11/12/2010|Loudoun Valley|27|Stafford|9
+11/12/2010|Louisa County|34|James Wood|7
+11/12/2010|Briar Woods|53|Orange|7
+11/12/2010|Liberty(Beal)|49|Fauquier|27
+11/12/2010|Broad Run|49|Sherando|26
+11/12/2010|Handley|30|Western Albemarle|7
+11/12/2010|Warren County|29|Dominion|26
+11/12/2010|Park View(St)|33|Millbrook|28
+11/12/2010|Monticello|20|Goochland|17
+11/12/2010|Broadway|28|Heritage(Lyn)|7
+11/12/2010|Staunton River|21|E.C. Glass|10
+11/12/2010|Brookville|42|Stuarts Draft|18
+11/12/2010|Alleghany|35|R.E. Lee(St)|25
+11/12/2010|Magna Vista|42|Abingdon|3
+11/12/2010|Carroll County|39|Bassett|21
+11/12/2010|Grundy|45|Tunstall|14
+11/12/2010|Martinsville|27|Marion|0
+11/12/2010|Fort Chiswell|28|Floy County|13
+11/12/2010|George Wythe(W)|21|Grayson|14
+11/12/2010|Galax|55|Rural Retreat|21
+11/12/2010|Covington|21|Craig County|7
+11/13/2010|Bayside|26|Cox|15
+11/13/2010|Oscar Smith|35|Landstown|0
+11/13/2010|Salem(VB)|27|Ocean Lakes|17
+11/13/2010|Woodside|33|Grassfield|18
