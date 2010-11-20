@@ -1618,3 +1618,42 @@
 11/13/2010|Oscar Smith|35|Landstown|0
 11/13/2010|Salem(VB)|27|Ocean Lakes|17
 11/13/2010|Woodside|33|Grassfield|18
+11/19/2010|Phoebus|35|Great Bridge|6
+11/19/2010|Hampton|24|Norcom|0
+11/19/2010|L.C. Bird|36|Highland Springs|0
+11/19/2010|Hermitage|28|Varina|14
+11/19/2010|Hanover|56|Petersburg|26
+11/19/2010|Dinwiddie|43|Clover Hill|21
+11/19/2010|Lake Braddock|24|Robinson|23
+11/19/2010|Chantilly|30|Centreville|13
+11/19/2010|Stone Bridge|36|South Lakes|15
+11/19/2010|Hayfield|28|Washington-Lee|7
+11/19/2010|Colonial Forge|43|Franklin County|19
+11/19/2010|Battlefield|48|C.D. Hylton|14
+11/19/2010|Osbourn|41|Loudoun Valley|21
+11/19/2010|Eastern View|31|Powhatan|13
+11/19/2010|Poquoson|27|Nottoway|6
+11/19/2010|James Monroe|23|Bruton|9
+11/19/2010|Broad Run|39|Louisa County|21
+11/19/2010|Briar Woods|7|Liberty(Beal)|0
+11/19/2010|Harrisonburg|45|Staunton River|13
+11/19/2010|Amherst County|47|Broadway|14
+11/19/2010|Liberty(Bed)|24|Alleghany|13
+11/19/2010|Brookville|12|Northside|10
+11/19/2010|Christiansburg|56|Carroll County|0
+11/19/2010|Magna Vista|48|Salem|35
+11/19/2010|Richlands|63|Martinsville|19
+11/19/2010|Cave Spring|50|Grundy|14
+11/19/2010|King William|60|Nandua|21
+11/19/2010|Lancaster|35|Essex|6
+11/19/2010|Franklin|45|Colonial Beach|12
+11/19/2010|Sussex Central|52|Charles City|44
+11/19/2010|Gretna|41|Manassas Park|7
+11/19/2010|Buckingham County|7|Clarke County|0
+11/19/2010|Riverheads|47|Amelia County|21
+11/19/2010|Altavista|30|Madison County|22
+11/19/2010|Radford|26|George Wythe(W)|0
+11/19/2010|Chilhowie|28|Fort Chiswell|14
+11/19/2010|Eastern Montgomery|41|Covington|8
+11/19/2010|Galax|21|Bath County|7
+11/19/2010|Gate City|56|Coeburn|0
