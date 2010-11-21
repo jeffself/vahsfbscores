@@ -1657,3 +1657,12 @@
 11/19/2010|Eastern Montgomery|41|Covington|8
 11/19/2010|Galax|21|Bath County|7
 11/19/2010|Gate City|56|Coeburn|0
+11/20/2010|Oscar Smith|48|Salem(VB)|7
+11/20/2010|Bayside|33|Woodside|13
+11/20/2010|Mountain View|18|Massaponax|12
+11/20/2010|Courtland|14|Grafton|13
+11/20/2010|Handley|19|Monticello|0
+11/20/2010|Warren County|14|Park View(St)|0
+11/20/2010|Honaker|19|Powell Valley|13
+11/20/2010|Clintwood|42|Twin Springs|7
+11/20/2010|J.I. Burton|24|Hurley|8
