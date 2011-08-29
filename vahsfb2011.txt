@@ -1,0 +1,33 @@
+08/25/2011|Poquoson|32|Southampton|15
+08/25/2011|Sullivan North(TN)|28|Eastside|7
+08/26/2011|Alleghany|47|Covington|0
+08/26/2011|Altavista|50|Randolph-Henry|20
+08/26/2011|Bassett|14|Carroll County|7
+08/26/2011|Bath County|13|Eastern Montgomery|6
+08/26/2011|Battlefield|24|Gar-Field|6
+08/26/2011|Bluefield(WV)|51|Graham|14
+08/26/2011|Broad Run|51|Park View(St)|7
+08/26/2011|Broadway|21|Central(W)|7
+08/26/2011|Brooke Point|54|Osbourn|21
+08/26/2011|Brookville|35|Martinsville|18
+08/26/2011|Buckingham County|48|Appomattox|31
+08/26/2011|Castlewood|42|Haysi|14
+08/26/2011|Cave Spring|28|William Byrd|14
+08/26/2011|Central(L)|32|Thomas Walker|28
+08/26/2011|Chancellor|15|Riverbend|8
+08/26/2011|Chatham|35|Bluestone|0
+08/26/2011|Chilhowie|35|Marion|21
+08/26/2011|Christiansburg|49|Floyd County|0
+08/26/2011|Clarke County|24|Berkeley Springs(WV)|14
+08/26/2011|Craig County|41|Auburn|6
+08/26/2011|Dan River|35|Tunstall|6
+08/26/2011|E.C. Glass|35|Charlottesville|0
+08/26/2011|East Rockingham|36|Madison County|35
+08/26/2011|Fluvanna|33|Prince Edward|22
+08/26/2011|Fort Defiance|27|Buffalo Gap|21
+08/26/2011|Franklin County|20|William Fleming|3
+08/26/2011|Galax|17|Glenvar|14
+08/26/2011|George Wythe(W)|63|Tazewell|3
+08/26/2011|Giles|10|Blacksburg|0
+08/26/2011|Grayson|55|Alleghany(NC)|12
+08/26/2011|Grundy|28|Twin Valley|15
