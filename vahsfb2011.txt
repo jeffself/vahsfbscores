@@ -79,3 +79,5 @@
 08/29/2011|Hickory|31|Norview|28
 08/29/2011|James Monroe|59|Tabb|20
 08/29/2011|West Point|50|Chincoteague|18
+08/30/2011|Booker T. Washington|27|Kings Fork|12
+08/30/2011|Norcom|20|Woodrow Wilson|13
