@@ -81,3 +81,25 @@
 08/29/2011|West Point|50|Chincoteague|18
 08/30/2011|Booker T. Washington|27|Kings Fork|12
 08/30/2011|Norcom|20|Woodrow Wilson|13
+09/01/2011|Chantilly|W.T. Woodson|0
+09/01/2011|Dinwiddie|34|Monacan|14
+09/01/2011|Grassfield|23|Maury|12
+09/01/2011|Green Run|22|Cox|16
+09/01/2011|Hampton|43|Heritage(NN)|0
+09/01/2011|C.D. Hylton|35|Battlefield|14
+09/01/2011|Kecoughtan|25|Churchland|7
+09/01/2011|Lake Taylor|41|Indian River|10
+09/01/2011|Landstown|27|Kellam|7
+09/01/2011|Langley|14|Herndon|7
+09/01/2011|McLean|7|Washington-Lee|6
+09/01/2011|Meadowbrook|49|Manchester|7
+09/01/2011|Ocean Lakes|40|Princess Anne|7
+09/01/2011|Salem(VB)|31|Bayside|6
+09/01/2011|Stone Bridge|3|Robinson|0
+09/01/2011|J.E.B. Stuart|37|George Mason|7
+09/01/2011|T.C. Williams|51|Wakefield|7
+09/01/2011|Tallwood|35|Kempsville|34
+09/01/2011|Thomas Jefferson(A)|37|Falls Church|0
+09/01/2011|Washington & Lee|41|Spotsylvania|27
+09/01/2011|Woodside|48|Menchville|0
+09/01/2011|York|49|Greensville|6
