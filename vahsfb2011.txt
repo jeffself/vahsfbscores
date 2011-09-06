@@ -213,6 +213,6 @@
 09/03/2011|Lancaster|58|Northampton|0
 09/03/2011|Northside|17|Pulaski County|9
 09/03/2011|Northumberland|46|Nandua|13
-09/04/2011|Central Virginia Home School|36|King & Queen|12
-09/04/2011|Essex|34|Caroline|20
-09/04/2011|Washington & Lee|37|King George|20
+09/05/2011|Central Virginia Home School|36|King & Queen|12
+09/05/2011|Essex|34|Caroline|20
+09/05/2011|Washington & Lee|37|King George|20
