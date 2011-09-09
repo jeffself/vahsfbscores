@@ -216,3 +216,6 @@
 09/05/2011|Central Virginia Home School|36|King & Queen|12
 09/05/2011|Essex|34|Caroline|20
 09/05/2011|Washington & Lee|37|King George|20
+09/06/2011|Colonial Beach|8|Charles City|6
+09/08/2011|R.E. Lee(St)|34|Charlottesville|7
+09/08/2011|Warwick|39|Booker T. Washington|7
