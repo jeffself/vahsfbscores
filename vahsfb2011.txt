@@ -219,3 +219,151 @@
 09/06/2011|Colonial Beach|8|Charles City|6
 09/08/2011|R.E. Lee(St)|34|Charlottesville|7
 09/08/2011|Warwick|39|Booker T. Washington|7
+09/09/2011|Altavista|42|James River(B)|0
+09/09/2011|Appomattox|41|Cumberland|0
+09/09/2011|Armstrong|20|Thomas Jefferson(R)|0
+09/09/2011|Atlee|55|Deep Run|14
+09/09/2011|Bayside|33|Green Run|20
+09/09/2011|Bethel|26|Lake Taylor|18
+09/09/2011|Blacksburg|30|Tazewell|7
+09/09/2011|Broadway|47|William Monroe|21
+09/09/2011|Brooke Point|49|Riverbend|7
+09/09/2011|Brookville|42|William Byrd|6
+09/09/2011|Bruton|14|Smithfield|0
+09/09/2011|Buckingham County|48|Prince Edward|14
+09/09/2011|Buffalo Gap|14|Bath County|11
+09/09/2011|Castlewood|26|Thomas Walker|22
+09/09/2011|Central(L)|23|William Campbell|19
+09/09/2011|Central(W)|26|Sullivan Central, TN|3
+09/09/2011|Chilhowie|7|Abingdon|0
+09/09/2011|Christiansburg|52|Carroll County|13
+09/09/2011|Clarke County|18|Stonewall Jackson(Q)|8
+09/09/2011|Clover Hill|14|Prince George|0
+09/09/2011|Colonial Forge|42|Albemarle|0
+09/09/2011|Cosby|7|Hopewell|6
+09/09/2011|Dan River|34|Bartlett Yancey, NC|12
+09/09/2011|East Hardy, WV|55|Auburn|36
+09/09/2011|Floyd County|62|Patrick County|0
+09/09/2011|Fort Chiswell|29|Marion|7
+09/09/2011|Franklin County|14|Salem|13
+09/09/2011|Galax|56|Eastern Montgomery|12
+09/09/2011|George Mason|24|Lurary|7
+09/09/2011|George Washington|35|Amherst County|14
+09/09/2011|George Wythe(W)|10|Radford|7
+09/09/2011|Giles|42|Covington|12
+09/09/2011|Glenvar|35|James Monroe, WV|13
+09/09/2011|Gloucester|27|Granby|25
+09/09/2011|Goochland|40|Fork Union|14
+09/09/2011|Grassfield|16|Nansemond River|13
+09/09/2011|Grayson|52|Rural Retreat|13
+09/09/2011|Gretna|47|Tunstall|7
+09/09/2011|Grundy|26|Hurley|8
+09/09/2011|Halifax County|26|Person, NC|25
+09/09/2011|Hampton|14|Norcom|13
+09/09/2011|Hanover|42|Patrick Henry(A)|14
+09/09/2011|Haysi|42|Ervinton|16
+09/09/2011|Heritage(Lyn)|21|E.C. Glass|7
+09/09/2011|Hermitage|27|Lee-Davis|0
+09/09/2011|Hidden Valley|31|Lord Botetourt|10
+09/09/2011|Honaker|17|Eastside|14
+09/09/2011|J.I. Burton|35|Lee|34
+09/09/2011|J.R.Tucker|36|Glen Allen|21
+09/09/2011|James River(C)|19|Douglas Freeman|7
+09/09/2011|Jamestown|26|Tabb|14
+09/09/2011|Jefferson Forest|44|Bassett|21
+09/09/2011|John Battle|34|Holston|0
+09/09/2011|Kempsville|21|Princess Anne|14
+09/09/2011|Kettle Run|21|Eastern View|13
+09/09/2011|Kings Fork|19|Indian River|16
+09/09/2011|L.C. Bird|28|Thomas Dale|3
+09/09/2011|Lakeland|41|Hickory|15
+09/09/2011|Lancaster|28|Middlesex|21
+09/09/2011|Landstown|29|Tallwood|6
+09/09/2011|Liberty(Beal)|34|Western Albemarle|3
+09/09/2011|Loudoun County|32|Loudoun Valley|19
+09/09/2011|Louisa County|32|Courtland|13
+09/09/2011|Magna Vista|14|William Fleming|9
+09/09/2011|Mathews|37|Rappahannock|12
+09/09/2011|Matoaca|34|Manchester|31
+09/09/2011|Meadowbrook|21|Highland Springs|14
+09/09/2011|Menchville|17|Woodrow Wilson|13
+09/09/2011|Monacan|27|Mills Godwin|26
+09/09/2011|Monticello|40|George Wythe(R)|32
+09/09/2011|Musselman, WV|23|James Wood|20
+09/09/2011|North Stafford|36|Mountain View|33
+09/09/2011|Northside|45|Cave Spring|21
+09/09/2011|Northwood|26|Twin Valley|14
+09/09/2011|Ocean Lakes|33|Cox|21
+09/09/2011|Orange|34|Culpeper County|31
+09/09/2011|Oscar Smith|48|Great Bridge|20
+09/09/2011|Park View(SH)|50|Bluestone|0
+09/09/2011|Parry McCluer|64|Montcalm, WV|0
+09/09/2011|Patrick Henry(R)|31|Pulaski County|7
+09/09/2011|Petersburg|20|Huguenot|8
+09/09/2011|Phoebus|39|Churchland|13
+09/09/2011|Poquoson|21|Grafton|7
+09/09/2011|Potomac Falls|28|Woodgrove|13
+09/09/2011|Powhatan|30|Midlothian|21
+09/09/2011|Richlands|38|Graham|0
+09/09/2011|Riverheads|56|Nelson County|13
+09/09/2011|Rockbridge County|26|Fort Defiance|22
+09/09/2011|Rustburg|35|Alleghany|13
+09/09/2011|Rye Cove|36|Hancock County, TN|26
+09/09/2011|Salem(VB)|45|First Colonial|20
+09/09/2011|Sherando|55|Washington, WV|33
+09/09/2011|Southampton|34|Franklin|14
+09/09/2011|Spotsylvania|26|Fluvanna|10
+09/09/2011|Staunton River|19|Liberty(Bed)|6
+09/09/2011|Strasburg|28|Madison County|6
+09/09/2011|Stuarts Draft|18|Waynesboro|7
+09/09/2011|Sullivan South, TN|27|Gate City|7
+09/09/2011|Sussex Central|30|Greensville|12
+09/09/2011|Twin Springs|35|Patrick Henry(GS)|14
+09/09/2011|Union|19|Lebanon|0
+09/09/2011|Varina|40|Dinwiddie|14
+09/09/2011|Virginia|14|Tennessee, TN|13
+09/09/2011|West Point|48|Northampton|6
+09/09/2011|Western Branch|38|Deep Creek|0
+09/09/2011|Wilson Memorial|41|Spotswood|13
+09/09/2011|Windsor|31|Nandua|0
+09/09/2011|Woodside|38|Maury|8
+09/09/2011|York|56|Warhill|20
+09/09/2011|Yorktown|68|Wakefield|0
+09/10/2011|Battlefield|40|Osbourn Park|8
+09/10/2011|Briar Woods|53|Park View(St)|3
+09/10/2011|Broad Run|32|Woodbridge|0
+09/10/2011|Centreville|49|West Potomac|10
+09/10/2011|Chantilly|22|Stone Bridge|14
+09/10/2011|Craig County|28|Narrows|19
+09/10/2011|Fairfax|45|Washington-Lee|32
+09/10/2011|Hayfield|16|J.E.B. Stuart|12
+09/10/2011|Heritage(Le)|42|Dominion|14
+09/10/2011|C.D. Hylton|42|Stonewall Jackson(M)|14
+09/10/2011|James Madison|24|W.T. Woodson|0
+09/10/2011|Kecoughtan|40|Denbigh|21
+09/10/2011|King William|33|Essex|14
+09/10/2011|Lafayette|59|New Kent|14
+09/10/2011|Lake Braddock|39|Annandale|0
+09/10/2011|Langley|28|Thomas Jefferson(A)|12
+09/10/2011|Manassas Park|46|Arcadia|0
+09/10/2011|Martinsburg, WV|61|Handley|14
+09/10/2011|Massaponax|14|Stafford|11
+09/10/2011|Millbrook|27|Jefferson County, WV|6
+09/10/2011|Mount Vernon|33|George Marshall|0
+09/10/2011|Northumberland|42|King & Queen|14
+09/10/2011|Norview|30|Heritage(NN)|14
+09/10/2011|Osbourn|54|Forest Park|7
+09/10/2011|R.E. Lee(Sp)|54|Thomas Edison|12
+09/10/2011|Tuscarora|52|Brentsville District|8
+09/10/2011|Westfield|28|T.C. Williams|13
+09/12/2011|Amelia County|41|Charles City|0
+09/12/2011|Fauquier|55|Skyline|0
+09/12/2011|Gar-Field|34|Freedom(Lou)|7
+09/12/2011|Herndon|33|South Lakes|7
+09/12/2011|Henrico|34|Caroline|18
+09/12/2011|James Monroe|62|Freedom(PW)|18
+09/12/2011|King George|28|Colonial Beach|8
+09/12/2011|McLean|24|Falls Church|6
+09/12/2011|Oakton|21|South County|7
+09/12/2011|Warren County|35|Central(W)|6
+09/12/2011|West Springfield|17|Robinson|7
