@@ -367,3 +367,144 @@
 09/12/2011|Oakton|21|South County|7
 09/12/2011|Warren County|35|Central(W)|6
 09/12/2011|West Springfield|17|Robinson|7
+09/16/2011|Alleghany|35|Bath County|20
+09/16/2011|Altavista|44|Cumberland|19
+09/16/2011|Amelia County|13|Gretna|7
+09/16/2011|Annandale|31|J.E.B. Stuart|28
+09/16/2011|Appomattox|36|Randolph-Henry|14
+09/16/2011|Atlee|44|Patrick Henry(A)|6
+09/16/2011|Battlefield|28|Potomac|21
+09/16/2011|Bayside|26|Ocean Lakes|21
+09/16/2011|Bethel|20|Hampton|0
+09/16/2011|Briar Woods|48|Dominion|0
+09/16/2011|Broad Run|29|Forest Park|14
+09/16/2011|Broadway|37|Stuarts Draft|21
+09/16/2011|Brookville|49|William Campbell|19
+09/16/2011|Buckingham County|68|Fluvanna|0
+09/16/2011|Castlewood|32|Central(W)|14
+09/16/2011|Cave Spring|34|Lord Botetourt|18
+09/16/2011|Central(L)|14|Chatham|7
+09/16/2011|Centreville|56|Mount Vernon|13
+09/16/2011|Chantilly|24|Langley|8
+09/16/2011|Charles City|40|West Point|14
+09/16/2011|Charlottesville|41|Culpeper County|13
+09/16/2011|Christiansburg|47|Bassett|0
+09/16/2011|Churchland|31|George Washington|22
+09/16/2011|Clover Hill|28|Matoaca|14
+09/16/2011|Colonial Forge|28|Brooke Point|26
+09/16/2011|Cosby|27|Midlothian|7
+09/16/2011|Covington|34|Eastern Montgomery|22
+09/16/2011|Cox|39|Kempsville|0
+09/16/2011|Dan River|14|Nottoway|12
+09/16/2011|E.C. Glass|21|William Fleming|20
+09/16/2011|Eastern View|52|Brunswick|8
+09/16/2011|Thomas Edison|35|Washington-Lee|16
+09/16/2011|Essex|43|Northampton|8
+09/16/2011|Fairfax|19|McLean|16
+09/16/2011|Fauquier|21|Handley|13
+09/16/2011|First Colonial|27|Green Run|20
+09/16/2011|Fork Union|41|Powhatan|20
+09/16/2011|Fort Chiswell|35|Chilhowie|7
+09/16/2011|Fort Defiance|29|Western Albemarle|23
+09/16/2011|Franklin|37|Lancaster|14
+09/16/2011|Galax|43|Radford|0
+09/16/2011|Gar-Field|41|Petersburg|27
+09/16/2011|Gate City|36|Lebanon|0
+09/16/2011|George Marshall|34|Falls Church|0
+09/16/2011|George Wythe(W)|31|Floyd County|19
+09/16/2011|Giles|49|Narrows|12
+09/16/2011|Goochland|25|Monticello|20
+09/16/2011|Grassfield|15|Great Bridge|12
+09/16/2011|Grayson|61|Clintwood|6
+09/16/2011|Hampton Christian|34|Chincoteague|0
+09/16/2011|Hanover|56|J.R. Tucker|7
+09/16/2011|Harlan County, KY|42|Lee|0
+09/16/2011|Harrisonburg|35|Millbrook|20
+09/16/2011|Hayfield|29|James Madison|27
+09/16/2011|Haysi|29|Eastside|13
+09/16/2011|Hedgesville, WV|17|James Wood|3
+09/16/2011|Henrico|28|Deep Run|21
+09/16/2011|Heritage(Le)|39|Potomac Falls|31
+09/16/2011|Hermitage|37|Glen Allen|7
+09/16/2011|Hickory|35|Western Branch|34
+09/16/2011|Highland Springs|35|Douglas Freeman|0
+09/16/2011|Holston|21|Bland County|20
+09/16/2011|Honaker|42|Patrick Henry(GS)|13
+09/16/2011|Hurley|52|East Ridge, KY|0
+09/16/2011|C.D. Hylton|60|Freedom(Lou)|6
+09/16/2011|J.I. Burton|59|John Battle|36
+09/16/2011|James River(B)|54|Auburn|0
+09/16/2011|James River(C)|42|Huguenot|14
+09/16/2011|Jefferson Forest|28|Turner Ashby|6
+09/16/2011|Kellam|16|Tallwood|3
+09/16/2011|King & Queen|24|Surry|14
+09/16/2011|King William|54|Caroline|15
+09/16/2011|L.C. Bird|42|George Wythe(R)|0
+09/16/2011|Lafayette|20|Bruton|14
+09/16/2011|Lake Taylor|42|Woodrow Wilson|19
+09/16/2011|Lakeland|47|Maury|21
+09/16/2011|Landstown|48|Princess Anne|0
+09/16/2011|Lee-Davis|27|Hopewell|12
+09/16/2011|Liberty(Beal)|27|Chancellor|12
+09/16/2011|Loudoun County|28|Sherando|0
+09/16/2011|Louisa County|37|Spotsylvania|9
+09/16/2011|Madison County|28|Page|14
+09/16/2011|Magna Vista|28|Franklin County|26
+09/16/2011|Manchester|39|Monacan|20
+09/16/2011|Martinsville|44|Liberty(Bed)|34
+09/16/2011|Mathews|49|Northumberland|30
+09/16/2011|Meadowbrook|43|Mills Godwin|7
+09/16/2011|Mountain View|48|Riverbend|7
+09/16/2011|Nansemond River|27|Kings Fork|0
+09/16/2011|Norcom|44|Deep Creek|0
+09/16/2011|North Stafford|34|Massaponax|21
+09/16/2011|Northside|21|Hidden Valley|17
+09/16/2011|Oakton|34|W.T. Woodson|13
+09/16/2011|Osbourn|52|Freedom(PW)|6
+09/16/2011|Park View(SH)|27|Colonial Heights|6
+09/16/2011|Park View(St)|49|Woodgrove|18
+09/16/2011|Patrick Henry(R)|49|Blacksburg|3
+09/16/2011|Prince Edward|13|Rustburg|12
+09/16/2011|Prince George|51|Thomas Jefferson(R)|16
+09/16/2011|R.E. Lee(Sp)|30|West Springfield|9
+09/16/2011|R.E. Lee(St)|14|Rockbridge County|0
+09/16/2011|Rappahannock|54|Middlesex|14
+09/16/2011|Richlands|38|Pulaski County|21
+09/16/2011|Riverheads|55|Parry McCluer|12
+09/16/2011|Roanoke Catholic|19|Craig County|0
+09/16/2011|Rural Retreat|46|Marion|31
+09/16/2011|Salem|27|William Byrd|13
+09/16/2011|Skyline|39|Brentsville District|14
+09/16/2011|Smithfield|34|Jamestown|3
+09/16/2011|Southampton|24|Windsor|6
+09/16/2011|Stafford|46|Orange|7
+09/16/2011|Staunton River|42|Patrick County|7
+09/16/2011|Stone Bridge|50|South Lakes|13
+09/16/2011|Stonewall Jackson(M)|35|Osbourn Park|27
+09/16/2011|Strasburg|34|Luray|14
+09/16/2011|Sussex Central|28|Colonial Beach|21
+09/16/2011|Thomas Jefferson(A)|36|Wakefield|7
+09/16/2011|Thomas Walker|44|Ervinton|8
+09/16/2011|Tug Valley, WV|40|Twin Valley|24
+09/16/2011|Tunstall|49|Bluestone|0
+09/16/2011|Tuscarora|28|Loudoun Valley|14
+09/16/2011|Twin Springs|41|Northwood|0
+09/16/2011|Union|20|Virginia|17
+09/16/2011|Varina|17|Thomas Dale|10
+09/16/2011|Warhill|13|Poquoson|7
+09/16/2011|Warren County|40|George Mason|0
+09/16/2011|Washington & Lee|53|Nandua|0
+09/16/2011|Westfield|45|Lake Braddock|7
+09/16/2011|West Potomac|31|South County|27
+09/16/2011|William Monroe|23|East Rockingham|17
+09/16/2011|Woodbridge|20|Granby|0
+09/16/2011|York|36|Tabb|0
+09/16/2011|Yorktown|41|Herndon
+09/17/2011|Clarke County|21|Central(W)|7
+09/17/2011|Grafton|42|New Kent|21
+09/17/2011|John Marshall|45|Armstrong|0
+09/17/2011|Phoebus|22|Kecoughtan|7
+09/17/2011|Robinson|27|T.C. Williams|13
+09/19/2011|Heritage(NN)|17|Gloucester|7
+09/19/2011|Menchville|16|Denbigh|12
+09/19/2011|Oscar Smith|41|Indian River|14
