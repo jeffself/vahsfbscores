@@ -367,6 +367,7 @@
 09/12/2011|Oakton|21|South County|7
 09/12/2011|Warren County|35|Central(W)|6
 09/12/2011|West Springfield|17|Robinson|7
+09/15/2011|Heritage(Lyn)|24|Halifax County|13
 09/16/2011|Alleghany|35|Bath County|20
 09/16/2011|Altavista|44|Cumberland|19
 09/16/2011|Amelia County|13|Gretna|7
@@ -508,3 +509,9 @@
 09/19/2011|Heritage(NN)|17|Gloucester|7
 09/19/2011|Menchville|16|Denbigh|12
 09/19/2011|Oscar Smith|41|Indian River|14
+09/20/2011|Bayside|34|First Colonial|23
+09/20/2011|Green Run|35|Princess Anne|7
+09/20/2011|Kellam|38|Kempsville|0
+09/20/2011|Ocean Lakes|33|Tallwood|7
+09/20/2011|Salem(VB)|34|Cox|14
+09/20/2011|Sussex Central|44|Arcadia|7
