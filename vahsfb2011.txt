@@ -515,3 +515,102 @@
 09/20/2011|Ocean Lakes|33|Tallwood|7
 09/20/2011|Salem(VB)|34|Cox|14
 09/20/2011|Sussex Central|44|Arcadia|7
+09/22/2011|Churchland|37|Maury|6
+09/22/2011|Warwick|29|Kecoughtan|20
+09/23/2011|Albemarle|55|Orange|6
+09/23/2011|Atlee|21|Douglas Freeman|13
+09/23/2011|Battlefield|19|Patrick Henry(R)|17
+09/23/2011|Benedictine|29|James River(C)|15
+09/23/2011|Briar Woods|51|Potomac Falls|6
+09/23/2011|Broadway|26|Waynesboro|6
+09/23/2011|Buffalo Gap|Luray|9
+09/23/2011|Cave Spring|45|Alleghany|21
+09/23/2011|Central(W)|36|George Mason|7
+09/23/2011|Centreville|41|Herndon|14
+09/23/2011|Chantilly|28|West Springfield|12
+09/23/2011|Charles City|70|Middlesex|7
+09/23/2011|Chilhowie|34|Northwood|6
+09/23/2011|Clintwood|30|Lebanon|8
+09/23/2011|Clover Hill|34|Monacan|20
+09/23/2011|Cosby|42|Huguenot|0
+09/23/2011|Eastern Montgomery|27|Bland County|21
+09/23/2011|Thomas Edison|42|Falls Church|13
+09/23/2011|Ervinton|26|Tri-Cities Christian, TN|6
+09/23/2011|Fairfax|35|South Lakes|7
+09/23/2011|Fort Chiswell|30|Floyd County|12
+09/23/2011|Franklin County|34|Bassett|13
+09/23/2011|Freedom(L)|43|Wakefield|8
+09/23/2011|Galax|49|Craig County|14
+09/23/2011|Gar-Field|14|Woodbridge|10
+09/23/2011|Giles|56|Tazewell|7
+09/23/2011|Glenvar|41|Covington|10
+09/23/2011|Grafton|35|Bruton|7
+09/23/2011|Graham|28|Marion|26
+09/23/2011|Grayson|26|Carroll County|19
+09/23/2011|Halifax County|17|Martinsville|10
+09/23/2011|Happey Valley, TN|13|Abingdon|10
+09/23/2011|Hargrave Military|21|Nelson County|14
+09/23/2011|Harrisonburg|42|Turner Ashby|21
+09/23/2011|Haysi|44|Grundy|14
+09/23/2011|Henrico|42|J.R. Tucker|20
+09/23/2011|Hermitage|14|Varina|2
+09/23/2011|Hickory|41|Deep Creek|0
+09/23/2011|Highland Springs|20|Dinwiddie|16
+09/23/2011|Honaker|62|Twin Valley|20
+09/23/2011|Hurley|64|Montcalm, WV|8
+09/23/2011|C.D. Hylton|44|Forest Park|0
+09/23/2011|J.I. Burton|47|Twin Springs|12
+09/23/2011|James Madison|17|McLean|16
+09/23/2011|John Battle|32|Patrick Henry(GS)|7
+09/23/2011|John Marshall|18|Prince George|14
+09/23/2011|Kettle Run|51|Fluvanna|12
+09/23/2011|King William|38|Washington & Lee|13
+09/23/2011|Lake Braddock|28|West Potomac|21
+09/23/2011|Langley|35|George Marshall|0
+09/23/2011|Liberty(Beal)|42|Charlottesville|12
+09/23/2011|Lord Botetourt|12|Blacksburg|11
+09/23/2011|Magna Vista|35|Pulaski County|28
+09/23/2011|Manassas Park|54|Madison County|14
+09/23/2011|Manchester|21|L.C. Bird|13
+09/23/2011|Midlothian|31|George Wythe(R)|14
+09/23/2011|Millbrook|20|Fauquier|17
+09/23/2011|Mills Godwin|34|Glen Allen|7
+09/23/2011|Monticello|41|Louisa County|37
+09/23/2011|Northside|23|Salem|17
+09/23/2011|Oakton|24|Annandale|0
+09/23/2011|Oscar Smith|21|Nansemond River|0
+09/23/2011|Parry McCluer|20|Roanoke Catholic|6
+09/23/2011|Powhatan|33|Greensville|6
+09/23/2011|R.E. Lee(Sp)|40|W.T. Woodson|33
+09/23/2011|R.E. Lee(St)|27|Fort Defiance|21
+09/23/2011|R.J. Reynolds, NC|27|William Fleming|14
+09/23/2011|Radford|23|Virginia|20
+09/23/2011|Randolph-Henry|26|Cumberland|20
+09/23/2011|Rappahannock|15|Franklin|12
+09/23/2011|Richlands|49|Patrick County|0
+09/23/2011|Riverheads|48|Page|0
+09/23/2011|Rockbridge County|20|Amherst County|0
+09/23/2011|Rural Retreat|47|Narrows|6
+09/23/2011|Rustburg|24|E.C. Glass|0
+09/23/2011|Rye Cove|20|Castlewood|13
+09/23/2011|Sherando|36|Jefferson, WV|9
+09/23/2011|Skyline|24|James Wood|17
+09/23/2011|South County|35|T.C. Williams|13
+09/23/2011|Southampton|41|Park View(SH)|13
+09/23/2011|Staunton River|39|James River(B)|15
+09/23/2011|Stone Bridge|31|Broad Run|30
+09/23/2011|Stonewall Jackson(M)|20|Brentsville District|3
+09/23/2011|Stonewall Jackson(Q)|28|East Rockingham|15
+09/23/2011|Strasburg|50|Clarke County|21
+09/23/2011|Sullivan North, TN|49|Central(W)|22
+09/23/2011|Sussex Central|68|Northumberland|22
+09/23/2011|Thomas Dale|26|Petersburg|0
+09/23/2011|Thomas Walker|30|Eastside|7
+09/23/2011|Tuscarora|16|Loudoun County|9
+09/23/2011|Warren County|55|Moorefield, WV|3
+09/23/2011|Western Albemarle|35|Spotswood|6
+09/23/2011|Westfield|28|Robinson|0
+09/23/2011|Windsor|32|Northampton|0
+09/23/2011|Woodgrove|35|Dominion|19
+09/23/2011|York|36|Jamestown|29
+09/23/2011|Yorktown|21|Hayfield|0
