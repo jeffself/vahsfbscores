@@ -80,14 +80,14 @@
 08/29/2011|James Monroe|59|Tabb|20
 08/29/2011|West Point|50|Chincoteague|18
 08/30/2011|Booker T. Washington|27|Kings Fork|12
-08/30/2011|Norcom|20|Woodrow Wilson|13
+08/30/2011|Norcom|20|Wilson|13
 08/31/2011|Gretna|29|Essex|8
-09/01/2011|Chantilly|W.T. Woodson|0
+09/01/2011|Chantilly|44|W.T. Woodson|0
 09/01/2011|Dinwiddie|34|Monacan|14
 09/01/2011|Grassfield|23|Maury|12
 09/01/2011|Green Run|22|Cox|16
 09/01/2011|Hampton|43|Heritage(NN)|0
-09/01/2011|C.D. Hylton|35|Battlefield|14
+09/01/2011|Hylton|35|Battlefield|14
 09/01/2011|Kecoughtan|25|Churchland|7
 09/01/2011|Lake Taylor|41|Indian River|10
 09/01/2011|Landstown|27|Kellam|7
@@ -95,7 +95,7 @@
 09/01/2011|McLean|7|Washington-Lee|6
 09/01/2011|Meadowbrook|49|Manchester|7
 09/01/2011|Ocean Lakes|40|Princess Anne|7
-09/01/2011|R.E. Lee(Sp)|46|George Marshall|3
+09/01/2011|R.E. Lee(S)|46|George Marshall|3
 09/01/2011|Salem(VB)|31|Bayside|6
 09/01/2011|Stone Bridge|3|Robinson|0
 09/01/2011|J.E.B. Stuart|37|George Mason|7
@@ -104,6 +104,7 @@
 09/01/2011|Thomas Jefferson(A)|37|Falls Church|0
 09/01/2011|Washington & Lee|41|Spotsylvania|27
 09/01/2011|West Potomac|51|Mount Vernon|7
+09/01/2011|West Springfield|42|Edison|34
 09/01/2011|Woodside|48|Menchville|0
 09/01/2011|York|49|Greensville|6
 09/01/2011|Yorktown|48|Woodrow Wilson, DC|13
@@ -177,7 +178,7 @@
 09/02/2011|Monticello|42|Albemarle|14
 09/02/2011|Mount Airy, NC|21|Carroll County|6
 09/02/2011|Mountain View|21|Osbourn|0
-09/02/2011|Nansemond River|22|Woodrow Wilson|3
+09/02/2011|Nansemond River|22|Wilson|3
 09/02/2011|Norcom|21|Western Branch|14
 09/02/2011|North Stafford|55|Potomac|9
 09/02/2011|Oakton|55|James Madison|17
@@ -286,7 +287,7 @@
 09/09/2011|Mathews|37|Rappahannock|12
 09/09/2011|Matoaca|34|Manchester|31
 09/09/2011|Meadowbrook|21|Highland Springs|14
-09/09/2011|Menchville|17|Woodrow Wilson|13
+09/09/2011|Menchville|17|Wilson|13
 09/09/2011|Monacan|27|Mills Godwin|26
 09/09/2011|Monticello|40|George Wythe(R)|32
 09/09/2011|Musselman, WV|23|James Wood|20
@@ -338,7 +339,7 @@
 09/10/2011|Fairfax|45|Washington-Lee|32
 09/10/2011|Hayfield|16|J.E.B. Stuart|12
 09/10/2011|Heritage(Le)|42|Dominion|14
-09/10/2011|C.D. Hylton|42|Stonewall Jackson(M)|14
+09/10/2011|Hylton|42|Stonewall Jackson(M)|14
 09/10/2011|James Madison|24|W.T. Woodson|0
 09/10/2011|Kecoughtan|40|Denbigh|21
 09/10/2011|King William|33|Essex|14
@@ -353,12 +354,12 @@
 09/10/2011|Northumberland|42|King & Queen|14
 09/10/2011|Norview|30|Heritage(NN)|14
 09/10/2011|Osbourn|54|Forest Park|7
-09/10/2011|R.E. Lee(Sp)|54|Thomas Edison|12
+09/10/2011|R.E. Lee(S)|54|Edison|12
 09/10/2011|Tuscarora|52|Brentsville District|8
 09/10/2011|Westfield|28|T.C. Williams|13
 09/12/2011|Amelia County|41|Charles City|0
 09/12/2011|Fauquier|55|Skyline|0
-09/12/2011|Gar-Field|34|Freedom(Lou)|7
+09/12/2011|Gar-Field|34|Freedom(L)|7
 09/12/2011|Herndon|33|South Lakes|7
 09/12/2011|Henrico|34|Caroline|18
 09/12/2011|James Monroe|62|Freedom(PW)|18
@@ -399,7 +400,7 @@
 09/16/2011|Dan River|14|Nottoway|12
 09/16/2011|E.C. Glass|21|William Fleming|20
 09/16/2011|Eastern View|52|Brunswick|8
-09/16/2011|Thomas Edison|35|Washington-Lee|16
+09/16/2011|Edison|35|Washington-Lee|16
 09/16/2011|Essex|43|Northampton|8
 09/16/2011|Fairfax|19|McLean|16
 09/16/2011|Fauquier|21|Handley|13
@@ -432,7 +433,7 @@
 09/16/2011|Holston|21|Bland County|20
 09/16/2011|Honaker|42|Patrick Henry(GS)|13
 09/16/2011|Hurley|52|East Ridge, KY|0
-09/16/2011|C.D. Hylton|60|Freedom(Lou)|6
+09/16/2011|Hylton|60|Freedom(L)|6
 09/16/2011|J.I. Burton|59|John Battle|36
 09/16/2011|James River(B)|54|Auburn|0
 09/16/2011|James River(C)|42|Huguenot|14
@@ -442,7 +443,7 @@
 09/16/2011|King William|54|Caroline|15
 09/16/2011|L.C. Bird|42|George Wythe(R)|0
 09/16/2011|Lafayette|20|Bruton|14
-09/16/2011|Lake Taylor|42|Woodrow Wilson|19
+09/16/2011|Lake Taylor|42|Wilson|19
 09/16/2011|Lakeland|47|Maury|21
 09/16/2011|Landstown|48|Princess Anne|0
 09/16/2011|Lee-Davis|27|Hopewell|12
@@ -467,7 +468,7 @@
 09/16/2011|Patrick Henry(R)|49|Blacksburg|3
 09/16/2011|Prince Edward|13|Rustburg|12
 09/16/2011|Prince George|51|Thomas Jefferson(R)|16
-09/16/2011|R.E. Lee(Sp)|30|West Springfield|9
+09/16/2011|R.E. Lee(S)|30|West Springfield|9
 09/16/2011|R.E. Lee(St)|14|Rockbridge County|0
 09/16/2011|Rappahannock|54|Middlesex|14
 09/16/2011|Richlands|38|Pulaski County|21
@@ -499,8 +500,9 @@
 09/16/2011|West Potomac|31|South County|27
 09/16/2011|William Monroe|23|East Rockingham|17
 09/16/2011|Woodbridge|20|Granby|0
+09/16/2011|Woodside|28|Warwick|21
 09/16/2011|York|36|Tabb|0
-09/16/2011|Yorktown|41|Herndon
+09/16/2011|Yorktown|41|Herndon|7
 09/17/2011|Clarke County|21|Central(W)|7
 09/17/2011|Grafton|42|New Kent|21
 09/17/2011|John Marshall|45|Armstrong|0
@@ -534,7 +536,7 @@
 09/23/2011|Clover Hill|34|Monacan|20
 09/23/2011|Cosby|42|Huguenot|0
 09/23/2011|Eastern Montgomery|27|Bland County|21
-09/23/2011|Thomas Edison|42|Falls Church|13
+09/23/2011|Edison|42|Falls Church|13
 09/23/2011|Ervinton|26|Tri-Cities Christian, TN|6
 09/23/2011|Fairfax|35|South Lakes|7
 09/23/2011|Fort Chiswell|30|Floyd County|12
@@ -558,7 +560,7 @@
 09/23/2011|Highland Springs|20|Dinwiddie|16
 09/23/2011|Honaker|62|Twin Valley|20
 09/23/2011|Hurley|64|Montcalm, WV|8
-09/23/2011|C.D. Hylton|44|Forest Park|0
+09/23/2011|Hylton|44|Forest Park|0
 09/23/2011|J.I. Burton|47|Twin Springs|12
 09/23/2011|James Madison|17|McLean|16
 09/23/2011|John Battle|32|Patrick Henry(GS)|7
@@ -581,7 +583,7 @@
 09/23/2011|Oscar Smith|21|Nansemond River|0
 09/23/2011|Parry McCluer|20|Roanoke Catholic|6
 09/23/2011|Powhatan|33|Greensville|6
-09/23/2011|R.E. Lee(Sp)|40|W.T. Woodson|33
+09/23/2011|R.E. Lee(S)|40|W.T. Woodson|33
 09/23/2011|R.E. Lee(St)|27|Fort Defiance|21
 09/23/2011|R.J. Reynolds, NC|27|William Fleming|14
 09/23/2011|Radford|23|Virginia|20
@@ -614,3 +616,20 @@
 09/23/2011|Woodgrove|35|Dominion|19
 09/23/2011|York|36|Jamestown|29
 09/23/2011|Yorktown|21|Hayfield|0
+09/24/2011|Bayside|50|Kempsville|0
+09/24/2011|Brookville|35|Forest Park|10
+09/24/2011|Cox|17|Landstown|6
+09/24/2011|Gretna|27|Altavista|14
+09/24/2011|Hanover|38|Deep Run|7
+09/24/2011|Heritage(Le)|34|Park View(St)|31
+09/24/2011|Kellam|16|Princess Anne|6
+09/24/2011|Lafayette|30|Smithfield|7
+09/24/2011|Mount Vernon|28|Washington-Lee|6
+09/24/2011|Norcom|41|Booker T. Washington|19
+09/24/2011|North Stafford|42|Riverbend|0
+09/24/2011|Norview|21|Granby|16
+09/24/2011|Ocean Lakes|21|First Colonial|6
+09/24/2011|Salem(VB)|27|Green Run|13
+09/24/2011|Tabb|21|Poquoson|20
+09/24/2011|Warhill|25|New Kent|14
+09/24/2011|Wilson Memorial|15|Stuarts Draft|10
