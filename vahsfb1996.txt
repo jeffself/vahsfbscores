@@ -1,0 +1,164 @@
+Bayside 36	Ocean Lakes 33
+Bayside 17	Princess Anne 14
+Booker T. Washington 9	Norview 8
+Booker T. Washington 14	Churchland 0
+Booker T. Washington 20	Granby 6
+Booker T. Washington 41	Wilson 0
+Booker T. Washington 7	Maury 0
+Booker T. Washington 11	Lake Taylor 6
+Churchland 21	Oscar Smith 13
+Churchland 47	Nansemond River 0
+Churchland 28	Western Branch 21
+Churchland 21	Lake Taylor 8
+Churchland 12	Maury 7
+Churchland 28	Wilson 6
+Cox 21	Granby 7
+Cox 7	Bayside 0
+Cox 40	Princess Anne 21
+Cox 21	Kellam 17
+Cox 13	Green Run 12
+Deep Creek 31	Booker T. Washington 6
+Deep Creek 57	Wilson 0
+Deep Creek 28	Norcom 0
+Deep Creek 35	Oscar Smith 14
+Deep Creek 41	Hickory 0
+Deep Creek 70	Nansemond River 0
+Deep Creek 48	Lakeland 7
+Deep Creek 47	Great Bridge 0
+Deep Creek 27	Western Branch 21
+First Colonial 10	Maury 7
+First Colonial 35	Kempsville 14
+First Colonial 21	Princess Anne 7
+First Colonial 42	Bayside 0
+First Colonial 21	Cox 14
+First Colonial 49	Ocean Lakes 27
+First Colonial 35	Kellam 7
+Granby 18	Princess Anne 2
+Granby 26	Lake Taylor 19
+Granby 18	Wilson 6
+Granby 20	Maury 6
+Granby 28	Churchland 12
+Great Bridge 43	Nansemond River 7
+Green Run 19	Kellam 9
+Green Run 15	Bayside 14
+Green Run 20	First Colonial 14
+Green Run 33	Salem 20
+Green Run 14	Kempsville 7
+Hampton 67	Heritage 0
+Hampton 20	Kecoughtan 17
+Hampton 49	Warwick 0
+Hampton 74	Denbigh 7
+Hampton 83	Woodside 0
+Hampton 41	Bethel 0
+Hampton 62	Gloucester 0
+Hampton 61	Phoebus 12
+Hampton 62	Lafayette 0
+Hampton 71	Menchville 0
+Hickory 29	Nansemond River 6
+Hickory 7	Great Bridge 6
+Indian River 16	Norview 14
+Indian River 41	Booker T. Washington 0
+Indian River 63	Nansemond River 0
+Indian River 34	Great Bridge 0
+Indian River 24	Western Branch 12
+Indian River 34	Deep Creek 7
+Indian River 59	Hickory 0
+Indian River 48	Lakeland 0
+Indian River 22	Oscar Smith 0
+Kellam 20	Great Bridge 13
+Kellam 35	Bayside 6
+Kempsville 31	Great Bridge 0
+Kempsville 20	Bayside 14
+Kempsville 17	Cox 14
+Kempsville 45	Kellam 14
+Kempsville 28	Ocean Lakes 14
+Kempsville 40	Princess Anne 14
+Kempsville 21	Tallwood 20
+Kempsville 40	Salem 6
+Lake Taylor 43	Hickory 13
+Lake Taylor 24	Salem 13
+Lakeland 18	Great Bridge 0
+Lakeland 38	Hickory 7
+Lakeland 28	Nansemond River 6
+Lakeland 20	Tabb 7
+Lakeland 21	Grafton 0
+Lakeland 7	Nansemond River 0
+Maury 7	Green Run 0
+Maury 16	Great Bridge 7
+Maury 7	Lake Taylor 6
+Maury 15	Norview 7
+Maury 35	Wilson 14
+Nansemond River 15	Wilson 12
+Norview 36	Booker T. Washington 6
+Norview 22	Churchland 14
+Norview 20	Granby 14
+Norview 57	Lake Taylor 14
+Norview 24	Oscar Smith 14
+Norview 56	Wilson 0
+Norcom 62	Hickory 0
+Norcom 27	Booker T. Washington 7
+Norcom 18	Churchland 14
+Norcom 14	Granby 0
+Norcom 50	Lake Taylor 14
+Norcom 37	Western Branch 20
+Norcom 32	Maury 0
+Norcom 55	Wilson 6
+Norcom 20	Norview 12
+Ocean Lakes 33	Hickory 14
+Ocean Lakes 26	Kellam 13
+Ocean Lakes 34	Cox 7
+Ocean Lakes 7	Salem 3
+Ocean Lakes 26	Green Run 6
+Oscar Smith 13	Granby 6
+Oscar Smith 31	Great Bridge 7
+Oscar Smith 42	Hickory 7
+Oscar Smith 34	Lakeland 12
+Oscar Smith 27	Nansemond River 7
+Oscar Smith 24	Western Branch 21
+Princess Anne 13	Green Run 12
+Princess Anne 34	Kellam 28
+Princess Anne 28	Ocean Lakes 13
+Princess Anne 23	Salem 0
+Princess Anne 14	Tallwood 7
+Salem 29	Bayside 6
+Salem 24	Cox 21
+Salem 34	First Colonial 24
+Salem 10	Kellam 4
+Tallwood 24	Lake Taylor 16
+Tallwood 29	Bayside 0
+Tallwood 12	Cox 10
+Tallwood 46	First Colonial 14
+Tallwood 16	Salem 13
+Tallwood 33	Green Run 19
+Tallwood 14	Kellam 10
+Tallwood 14	Ocean Lakes 13
+Western Branch 50	Hickory 7
+Western Branch 35	Great Bridge 6
+Western Branch 40	Lakeland 19
+Western Branch 49	Nansemond River 6
+Western Branch 42	Wilson 7
+
+Wilson 34	Lake Taylor 18
+Norcom 32	Indian River 7
+Hampton 58	Deep Creek 27
+Bethel 26	Kempsville 14
+11/30/1996|Kecoughtan|30|Tallwood|0
+11/30/1996|Hampton|44|Norcom|6
+12/07/1996|Chantilly|18|Kecoughtan|8
+12/07/1996|George Washington|7|Thomas Dale|0
+12/07/1996|Hampton|76|James Madison|14
+12/07/1996|Patrick Henry(A)|34|Brooke Point|13
+12/07/1996|Salem|7|Grundy|0
+12/07/1996|Sherando|42|York|12
+12/07/1996|James Monroe|10|Harrisonburg|7
+12/07/1996|Brookville|13|Gate City|12
+12/07/1996|Powhatan|22|Northumberland|14
+12/07/1996|Giles|14|Powell Valley|7
+12/07/1996|Appalachia|46|Rural Retreat|0
+12/07/1996|Surry County|15|Stonewall Jackson(Q)|14
+12/14/1996|Chantilly|14|George Washington|7
+12/14/1996|Hampton|51|Patrick Henry(A)|0
+12/14/1996|Salem|20|Sherando|12
+12/14/1996|James Monroe|7|Brookville|0
+12/14/1996|Powhatan|20|Giles|8
+12/14/1996|Appalachia|40|Surry County|14
