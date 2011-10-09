@@ -38,14 +38,14 @@
 08/26/2011|Hurley|42|Ervinton|6
 08/26/2011|J.I. Burton|42|Holston|7
 08/26/2011|James Monroe, WV|34|Narrows|6
-08/26/2011|James Wood|24|Heritage(Le)|21
+08/26/2011|James Wood|24|Heritage(LC)|21
 08/26/2011|Jefferson Forest|35|Halifax County|12
 08/26/2011|John Battle|36|Twin Springs|7
 08/26/2011|Kettle Run|59|Brentsville District|0
 08/26/2011|King George|7|Manassas Park|0
 08/26/2011|Liberty(Beal)|41|Potomac Falls|0
 08/26/2011|Lord Botetourt|45|James River(B)|7
-08/26/2011|Loudoun County|42|Freedom(L)|0
+08/26/2011|Loudoun County|42|Freedom(LC)|0
 08/26/2011|Loudoun Valley|17|Fauquier|7
 08/26/2011|Magna Vista|34|Heritage(Lyn)|19
 08/26/2011|Martinsburg, WV|7|Sherando|0
@@ -65,7 +65,7 @@
 08/26/2011|Rural Retreat|28|Fort Chiswell|22
 08/26/2011|Rustburg|38|William Campbell|13
 08/26/2011|Rye Cove|14|Northwood|6
-08/26/2011|Spotswood|41|Page|14
+08/26/2011|Spotswood|41|Page County|14
 08/26/2011|Stonewall Jackson(M)|20|Forest Park|14
 08/26/2011|Strasburg|28|Stonewall Jackson(Q)|22
 08/26/2011|Tuscarora|27|Millbrook|10
@@ -153,7 +153,7 @@
 09/02/2011|Harlan County, KY|48|Gate City|7
 09/02/2011|Harrisonburg|36|Handley|25
 09/02/2011|Hayfield|7|South County|0
-09/02/2011|Heritage(Le)|36|Hedgesville, WV|19
+09/02/2011|Heritage(LC)|36|Hedgesville, WV|19
 09/02/2011|Hidden Valley|20|William Byrd|6
 09/02/2011|Honaker|29|Castlewood|8
 09/02/2011|J.I. Burton|53|Rye Cove|14
@@ -182,7 +182,7 @@
 09/02/2011|Norcom|21|Western Branch|14
 09/02/2011|North Stafford|55|Potomac|9
 09/02/2011|Oakton|55|James Madison|17
-09/02/2011|Osbourn Park|41|Freedom(L)|0
+09/02/2011|Osbourn Park|41|Freedom(LC)|0
 09/02/2011|Patrick Henry(R)|44|Bassett|14
 09/02/2011|Phoebus|13|Warwick|7
 09/02/2011|R.E. Lee(St)|35|Wilson Memorial|28
@@ -196,7 +196,7 @@
 09/02/2011|Sherando|49|Musselman, WV|21
 09/02/2011|Southampton|45|Smithfield|27
 09/02/2011|Stonewall Jackson(Q)|Central(W)|7
-09/02/2011|Strasburg|37|Page|0
+09/02/2011|Strasburg|37|Page County|0
 09/02/2011|Stuarts Draft|26|Fort Defiance|21
 09/02/2011|Tunstall|21|Rustburg|20
 09/02/2011|Twin Springs|27|Holston|18
@@ -338,7 +338,7 @@
 09/10/2011|Craig County|28|Narrows|19
 09/10/2011|Fairfax|45|Washington-Lee|32
 09/10/2011|Hayfield|16|J.E.B. Stuart|12
-09/10/2011|Heritage(Le)|42|Dominion|14
+09/10/2011|Heritage(LC)|42|Dominion|14
 09/10/2011|Hylton|42|Stonewall Jackson(M)|14
 09/10/2011|James Madison|24|W.T. Woodson|0
 09/10/2011|Kecoughtan|40|Denbigh|21
@@ -359,7 +359,7 @@
 09/10/2011|Westfield|28|T.C. Williams|13
 09/12/2011|Amelia County|41|Charles City|0
 09/12/2011|Fauquier|55|Skyline|0
-09/12/2011|Gar-Field|34|Freedom(L)|7
+09/12/2011|Gar-Field|34|Freedom(LC)|7
 09/12/2011|Herndon|33|South Lakes|7
 09/12/2011|Henrico|34|Caroline|18
 09/12/2011|James Monroe|62|Freedom(PW)|18
@@ -426,14 +426,14 @@
 09/16/2011|Haysi|29|Eastside|13
 09/16/2011|Hedgesville, WV|17|James Wood|3
 09/16/2011|Henrico|28|Deep Run|21
-09/16/2011|Heritage(Le)|39|Potomac Falls|31
+09/16/2011|Heritage(LC)|39|Potomac Falls|31
 09/16/2011|Hermitage|37|Glen Allen|7
 09/16/2011|Hickory|35|Western Branch|34
 09/16/2011|Highland Springs|35|Douglas Freeman|0
 09/16/2011|Holston|21|Bland County|20
 09/16/2011|Honaker|42|Patrick Henry(GS)|13
 09/16/2011|Hurley|52|East Ridge, KY|0
-09/16/2011|Hylton|60|Freedom(L)|6
+09/16/2011|Hylton|60|Freedom(LC)|6
 09/16/2011|J.I. Burton|59|John Battle|36
 09/16/2011|James River(B)|54|Auburn|0
 09/16/2011|James River(C)|42|Huguenot|14
@@ -450,7 +450,7 @@
 09/16/2011|Liberty(Beal)|27|Chancellor|12
 09/16/2011|Loudoun County|28|Sherando|0
 09/16/2011|Louisa County|37|Spotsylvania|9
-09/16/2011|Madison County|28|Page|14
+09/16/2011|Madison County|28|Page County|14
 09/16/2011|Magna Vista|28|Franklin County|26
 09/16/2011|Manchester|39|Monacan|20
 09/16/2011|Martinsville|44|Liberty(Bed)|34
@@ -541,7 +541,7 @@
 09/23/2011|Fairfax|35|South Lakes|7
 09/23/2011|Fort Chiswell|30|Floyd County|12
 09/23/2011|Franklin County|34|Bassett|13
-09/23/2011|Freedom(L)|43|Wakefield|8
+09/23/2011|Freedom(LC)|43|Wakefield|8
 09/23/2011|Galax|49|Craig County|14
 09/23/2011|Gar-Field|14|Woodbridge|10
 09/23/2011|Giles|56|Tazewell|7
@@ -590,7 +590,7 @@
 09/23/2011|Randolph-Henry|26|Cumberland|20
 09/23/2011|Rappahannock|15|Franklin|12
 09/23/2011|Richlands|49|Patrick County|0
-09/23/2011|Riverheads|48|Page|0
+09/23/2011|Riverheads|48|Page County|0
 09/23/2011|Rockbridge County|20|Amherst County|0
 09/23/2011|Rural Retreat|47|Narrows|6
 09/23/2011|Rustburg|24|E.C. Glass|0
@@ -617,11 +617,11 @@
 09/23/2011|York|36|Jamestown|29
 09/23/2011|Yorktown|21|Hayfield|0
 09/24/2011|Bayside|50|Kempsville|0
-09/24/2011|Brookville|35|Forest Park|10
+09/24/2011|Brookville|35|Jefferson Forest|10
 09/24/2011|Cox|17|Landstown|6
 09/24/2011|Gretna|27|Altavista|14
 09/24/2011|Hanover|38|Deep Run|7
-09/24/2011|Heritage(Le)|34|Park View(St)|31
+09/24/2011|Heritage(LC)|34|Park View(St)|31
 09/24/2011|Kellam|16|Princess Anne|6
 09/24/2011|Lafayette|30|Smithfield|7
 09/24/2011|Mount Vernon|28|Washington-Lee|6
@@ -707,8 +707,8 @@
 09/30/2011|Grundy|21|Castlewood|20
 09/30/2011|Handley|14|Washington, WV|7
 09/30/2011|Hanover|10|Highland Springs|7
-09/30/2011|Harrisonburg|33|R.E. Lee(S)|14
-09/30/2011|Heritage(Le)|44|Loudoun Valley|42
+09/30/2011|Harrisonburg|33|R.E. Lee(St)|14
+09/30/2011|Heritage(LC)|44|Loudoun Valley|42
 09/30/2011|Hermitage|36|Douglas Freeman|0
 09/30/2011|Hidden Valley|28|Bassett|21
 09/30/2011|Hylton|34|Gar-Field|21
@@ -739,11 +739,11 @@
 09/30/2011|North Stafford|34|Colonial Forge|0
 09/30/2011|Northumberland|32|Charles City|20
 09/30/2011|Norview|23|Maury|0
-09/30/2011|Oakton|38|R.E. Lee(Sp)|23
+09/30/2011|Oakton|38|R.E. Lee(S)|23
 09/30/2011|Osbourn|56|Potomac|12
 09/30/2011|Oscar Smith|21|Lakeland|7
 09/30/2011|Park View(SH)|23|Greensville|0
-09/30/2011|Park View(S)|40|Dominion|7
+09/30/2011|Park View(St)|40|Dominion|7
 09/30/2011|Parry McCluer|41|Auburn|18
 09/30/2011|Petersburg|46|Colonial Heights|7
 09/30/2011|Phelps, KY|34|Twin Valley|19
@@ -764,7 +764,7 @@
 09/30/2011|Staunton River|27|Tunstall|17
 09/30/2011|Stone Bridge|43|Thomas Jefferson(A)|21
 09/30/2011|Stonewall Jackson(Q)|14|Buffalo Gap|6
-09/30/2011|Stuarts Draft|37|Page|14
+09/30/2011|Stuarts Draft|37|Page County|14
 09/30/2011|Sussex Central|44|Middlesex|6
 09/30/2011|Tallwood|21|Princess Anne|20
 09/30/2011|Thomas Dale|27|Matoaca|26
@@ -804,3 +804,147 @@
 10/04/2011|Franklin|60|Surry|34
 10/04/2011|Portsmouth Christian|39|Chincoteague|14
 10/04/2011|Windsor|36|Arcadia|0
+10/06/2011|Bayside|42|Kellam|7
+10/06/2011|Briar Woods|50|Woodgrove|0
+10/06/2011|Centreville|41|Robinson|14
+10/06/2011|Cox|31|Tallwood|10
+10/06/2011|Fairfax|28|George Marshall|21
+10/06/2011|Forest Park|29|Osbourn Park|14
+10/06/2011|Hampton|42|Gloucester|3
+10/06/2011|Hayfield|47|Wakefield|23
+10/06/2011|Hylton|43|Freedom(PW)|6
+10/06/2011|James Madison|21|Thomas Jefferson(A)|6
+10/06/2011|Landstown|26|First Colonial|21
+10/06/2011|Loudoun County|37|Park View(St)|20
+10/06/2011|Loudoun Valley|21|Dominion|0
+10/06/2011|McLean|34|South Lakes|14
+10/06/2011|Mount Vernon|35|Stuart|21
+10/06/2011|Oakton|42|Herndon|41
+10/06/2011|Ocean Lakes|23|Green Run|6
+10/06/2011|Osbourn|28|Battlefield|21
+10/06/2011|Salem(VB)|59|Kempsville|7
+10/06/2011|South County|10|Lake Braddock|7
+10/06/2011|Stone Bridge|28|Langley|0
+10/06/2011|Stonewall Jackson(M)|34|Freedom(LC)|3
+10/06/2011|Tuscarora|32|Potomac Falls|19
+10/06/2011|W.T. Woodson|14|T.C. Williams|13
+10/06/2011|Washington-Lee|28|Falls Church|7
+10/06/2011|West Potomac|48|R.E. Lee(S)|13
+10/06/2011|West Springfield|35|Annandale|0
+10/06/2011|Westfield|40|Chantilly|14
+10/06/2011|Woodbridge|21|Potomac|19
+10/06/2011|Woodside|16|Kecoughtan|15
+10/06/2011|Yorktown|42|Edison|20
+10/07/2011|Altavista|24|Chatham|14
+10/07/2011|Amelia County|28|Central(L)|0
+10/07/2011|Amherst County|21|Rustburg|18
+10/07/2011|Atlee|24|Hanover|14
+10/07/2011|Bassett|19|Tunstall|14
+10/07/2011|Bethel|21|Heritage(NN)|6
+10/07/2011|Bland County|16|Narrows|8
+10/07/2011|Broadway|25|Harrisonburg|19
+10/07/2011|Brooke Point|38|North Stafford|3
+10/07/2011|Brookville|47|Liberty(Bed)|0
+10/07/2011|Brunswick|12|Sussex Central|8
+10/07/2011|Buckingham County|54|Randolph-Henry|26
+10/07/2011|Buffalo Gap|28|Page County|0
+10/07/2011|Carroll County|16|Abingdon|3
+10/07/2011|Csatlewood|39|Twin Valley|14
+10/07/2011|Central(Wise)|48|Johnson County, TN|14
+10/07/2011|Central(W)|21|William Monroe|16
+10/07/2011|Chancellor|37|Eastern View|12
+10/07/2011|Christiansburg|28|Pulaski County|7
+10/07/2011|Clarke County|28|Madison County|10
+10/07/2011|Clintwood|43|Lee|18
+10/07/2011|Colonial Forge|14|Mountain View|7
+10/07/2011|Courtland|61|Culpeper County|0
+10/07/2011|Covington|22|Bath County|19
+10/07/2011|Cumberland|55|Bluestone|8
+10/07/2011|Dan River|64|Nelson County|28
+10/07/2011|Deep Run|65|Thomas Jefferson(R)|0
+10/07/2011|Douglas Freeman|21|Patrick Henry(A)|10
+10/07/2011|Eastside|26|Rye Cove|0
+10/07/2011|Franklin|22|Surry|16
+10/07/2011|Franklin County|35|William Fleming|16
+10/07/2011|Galax|52|Fort Chiswell|0
+10/07/2011|Gate City|36|John Battle|6
+10/07/2011|George Wythe(W)|62|Northwood|14
+10/07/2011|Giles|62|Auburn|0
+10/07/2011|Glenvar|35|Floyd County|18
+10/07/2011|Goochland|42|Nottoway|19
+10/07/2011|Grafton|38|Smithfield|0
+10/07/2011|Granby|27|Churchland|0
+10/07/2011|Grassfield|35|Western Branch|21
+10/07/2011|Great Bridge|51|Deep Creek|7
+10/07/2011|Greensville|20|Southampton|19
+10/07/2011|Gretna|36|William Campbell|13
+10/07/2011|Grundy|21|Meadow Bridge, WV|20
+10/07/2011|Heritage(Lyn)|18|Martinsville|10
+10/07/2011|Hermitage|34|J.R. Tucker|9
+10/07/2011|Hidden Valley|41|Blacksburg|7
+10/07/2011|Highland Springs|43|Glen Allen|12
+10/07/2011|Holston|62|Patrick Henry(GS)|21
+10/07/2011|Hurley|40|Tri-Cities Christian, TN|10
+10/07/2011|Indian River|12|Nansemond River|10
+10/07/2011|James Monroe|55|Caroline|0
+10/07/2011|Jamestown|27|New Kent|18
+10/07/2011|Jefferson Forest|45|E.C. Glass|21
+10/07/2011|King George|22|Spotsylvania|9
+10/07/2011|King William|48|Northampton|0
+10/07/2011|L.C. Bird|13|Cosby|6
+10/07/2011|Lafayette|31|Warhill|30
+10/07/2011|Lake Taylor|48|Maury|0
+10/07/2011|Lakeland|53|Kings Fork|3
+10/07/2011|Lee-Davis|30|Henrico|28
+10/07/2011|Liberty(Beal)|24|Warren County|16
+10/07/2011|Louisa County|35|Fluvanna|20
+10/07/2011|Magna Vista|64|Patrick County|13
+10/07/2011|Manchester|53|Clover Hill|44
+10/07/2011|Massaponax|38|Orange|0
+10/07/2011|Mathews|35|King & Queen|20
+10/07/2011|Matoaca|48|Colonial Heights|14
+10/07/2011|Meadowbrook|41|Dinwiddie|6
+10/07/2011|Midlothian|52|James River(C)|33
+10/07/2011|Mills Godwin|32|John Marshall|14
+10/07/2011|Monacan|33|George Wythe(R)|12
+10/07/2011|Monticello|54|Charlottesville|40
+10/07/2011|Nandua|28|Colonel Richardson, MD|6
+10/07/2011|Northeastern, NC|44|Wilson|12
+10/07/2011|Northside|42|Alleghany|21
+10/07/2011|Northumberland|14|Essex|0
+10/07/2011|Norview|55|Booker T. Washington|27
+10/07/2011|Oscar Smith|48|Hickory|7
+10/07/2011|Park View(SH)|40|Prince Edward|26
+10/07/2011|Parry McCluer|30|Craig County|22
+10/07/2011|Patrick Henry(R)|31|George Washington|2
+10/07/2011|Powhatan|42|Western Albemarle|7
+10/07/2011|Prince George|31|Petersburg|24
+10/07/2011|R.E. Lee(St)|28|Waynesboro|6
+10/07/2011|Radford|57|Eastern Montgomery|0
+10/07/2011|Rappahannock|31|Colonial Beach|14
+10/07/2011|Richlands|49|Marion|0
+10/07/2011|Riverheads|38|Stonewall Jackson(Q)|16
+10/07/2011|Rockbridge County|21|Staunton River|14
+10/07/2011|Rural Retreat|28|Chilhowie|22
+10/07/2011|Salem|29|Cave Spring|26
+10/07/2011|Sherando|21|James Wood|14
+10/07/2011|Skyline|26|Millbrook|20
+10/07/2011|Spotswood|28|Turner Ashby|13
+10/07/2011|Stafford|42|Albemarle|27
+10/07/2011|Strasburg|56|George Mason|28
+10/07/2011|Stuarts Draft|48|Lurary|19
+10/07/2011|Sullivan North, TN|36|Union|22
+10/07/2011|Thomas Dale|16|Hopewell|13
+10/07/2011|Thomas Walker|34|Haysi|32
+10/07/2011|Varina|56|Armstrong|16
+10/07/2011|Virginia|35|Tazewell|2
+10/07/2011|Warwick|55|Denbigh|0
+10/07/2011|Washington & Lee|47|Lancaster|8
+10/07/2011|West Point|48|Middlesex|21
+10/07/2011|William Byrd|32|Lord Botetourt|3
+10/07/2011|Wilson Memorial|27|East Rockingham|16
+10/07/2011|Windsor|36|Charles City|20
+10/07/2011|York|42|Poquoson|21
+10/08/2011|Bruton|52|Tabb|27
+10/08/2011|Kettle Run|34|Handley|0
+10/08/2011|Phoebus|72|Menchville|0
