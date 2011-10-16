@@ -1038,3 +1038,63 @@
 10/14/2011|Marion|37|Tazewell|10
 10/14/2011|Martinsburg, WV|14|Patrick Henry(R)|9
 10/14/2011|Martinsville|36|Patrick County|0
+10/14/2011|Massaponax|24|Brooke Point|23
+10/14/2011|Matoaca|20|Petersburg|14
+10/14/2011|Meadowbrook|60|Prince George|7
+10/14/2011|Millbrook|32|Brentsville District|7
+10/14/2011|Mills Godwin|56|Thomas Jefferson(R)|7
+10/14/2011|Monacan|23|Huguenot|18
+10/14/2011|Monticello|49|Turner Ashby|16
+10/14/2011|Mountain View|24|Stafford|7
+10/14/2011|Norcom|28|Granby|22
+10/14/2011|North Stafford|42|Albemarle|13
+10/14/2011|Northside|42|Staunton River|0
+10/14/2011|Oakton|21|Chantilly|14
+10/14/2011|Oscar Smith|42|Western Branch|12
+10/14/2011|Park View(SH)|28|Southampton|27
+10/14/2011|Poquoson|51|Smithfield|19
+10/14/2011|Potomac|27|Osbourn Park|10
+10/14/2011|Powhatan|41|Fluvanna|18
+10/14/2011|Prince Edward|38|Brunswick|14
+10/14/2011|Radford|49|Auburn|0
+10/14/2011|Randolph-Henry|35|Nottoway|34
+10/14/2011|Rappahannock|31|Lancaster|2
+10/14/2011|Richlands|48|Carroll County|23
+10/14/2011|Riverbend|35|Orange|14
+10/14/2011|Riverheads|56|Stuarts Draft|21
+10/14/2011|Robinson|24|Lake Braddock|7
+10/14/2011|Rockbridge County|38|Lord Botetourt|0
+10/14/2011|Rural Retreat|39|Patrick Henry(GS)|8
+10/14/2011|Salem|55|Blacksburg|7
+10/14/2011|Salem(VB)|35|Landstown|0
+10/14/2011|Snow Hill, MD|62|Northampton|6
+10/14/2011|South County|45|R.E. Lee(S)|21
+10/14/2011|Spotswood|28|Waynesboro|21
+10/14/2011|Stone Bridge|49|George Marshall|7
+10/14/2011|Stonewall Jackson(Q)|36|Luray|21
+10/14/2011|Stuart|49|Edison|43
+10/14/2011|Surry|46|Middlesex|14
+10/14/2011|Sussex Central|22|Windsor|14
+10/14/2011|T.C. Williams|24|West Springfield|21
+10/14/2011|Thomas Dale|30|Dinwiddie|18
+10/14/2011|Thomas Walker|46|Rye Cove|12
+10/14/2011|Tuscarora|13|Park View(St)|9
+10/14/2011|Varina|54|Atlee|11
+10/14/2011|W.T. Woodson|14|Annandale|7
+10/14/2011|Wakefield|27|Falls Church|20
+10/14/2011|Washington, WV|35|Skyline|25
+10/14/2011|Washington & Lee|41|Northumberland|24
+10/14/2011|Westfield|31|West Potomac|10
+10/14/2011|William Byrd|41|Alleghany|25
+10/14/2011|William Monroe|67|Madison County|21
+10/14/2011|Wilson Memorial|48|Page County|7
+10/14/2011|Woodbridge|28|Freedom(PW)|10
+10/14/2011|Woodside|49|Gloucester|14
+10/14/2011|York|46|New Kent|0
+10/14/2011|Yorktown|21|Langley|0
+10/15/2011|Buckingham County|49|Central(L)|21
+10/15/2011|Eastern View|26|Spotsylvania|19
+10/15/2011|James Monroe|64|Culpeper County|7
+10/15/2011|Loudoun County|49|Dominion|0
+10/15/2011|Purchase Line, PA|26|George Mason|0
+10/15/2011|West Point|43|King & Queen|42
