@@ -195,7 +195,6 @@
 09/02/2011|Salem|29|Lord Botetourt|13
 09/02/2011|Sherando|49|Musselman, WV|21
 09/02/2011|Southampton|45|Smithfield|27
-09/02/2011|Stonewall Jackson(Q)|Central(W)|7
 09/02/2011|Strasburg|37|Page County|0
 09/02/2011|Stuarts Draft|26|Fort Defiance|21
 09/02/2011|Tunstall|21|Rustburg|20
@@ -235,7 +234,7 @@
 09/09/2011|Buffalo Gap|14|Bath County|11
 09/09/2011|Castlewood|26|Thomas Walker|22
 09/09/2011|Central(L)|23|William Campbell|19
-09/09/2011|Central(W)|26|Sullivan Central, TN|3
+09/09/2011|Central(Wise)|26|Sullivan Central, TN|3
 09/09/2011|Chilhowie|7|Abingdon|0
 09/09/2011|Christiansburg|52|Carroll County|13
 09/09/2011|Clarke County|18|Stonewall Jackson(Q)|8
@@ -248,7 +247,7 @@
 09/09/2011|Fort Chiswell|29|Marion|7
 09/09/2011|Franklin County|14|Salem|13
 09/09/2011|Galax|56|Eastern Montgomery|12
-09/09/2011|George Mason|24|Lurary|7
+09/09/2011|George Mason|24|Luray|7
 09/09/2011|George Washington|35|Amherst County|14
 09/09/2011|George Wythe(W)|10|Radford|7
 09/09/2011|Giles|42|Covington|12
@@ -383,7 +382,7 @@
 09/16/2011|Broadway|37|Stuarts Draft|21
 09/16/2011|Brookville|49|William Campbell|19
 09/16/2011|Buckingham County|68|Fluvanna|0
-09/16/2011|Castlewood|32|Central(W)|14
+09/16/2011|Castlewood|32|Central(Wise)|14
 09/16/2011|Cave Spring|34|Lord Botetourt|18
 09/16/2011|Central(L)|14|Chatham|7
 09/16/2011|Centreville|56|Mount Vernon|13
@@ -525,7 +524,7 @@
 09/23/2011|Benedictine|29|James River(C)|15
 09/23/2011|Briar Woods|51|Potomac Falls|6
 09/23/2011|Broadway|26|Waynesboro|6
-09/23/2011|Buffalo Gap|Luray|9
+09/23/2011|Buffalo Gap|35|Luray|9
 09/23/2011|Cave Spring|45|Alleghany|21
 09/23/2011|Central(W)|36|George Mason|7
 09/23/2011|Centreville|41|Herndon|14
@@ -604,7 +603,7 @@
 09/23/2011|Stonewall Jackson(M)|20|Brentsville District|3
 09/23/2011|Stonewall Jackson(Q)|28|East Rockingham|15
 09/23/2011|Strasburg|50|Clarke County|21
-09/23/2011|Sullivan North, TN|49|Central(W)|22
+09/23/2011|Sullivan North, TN|49|Central(Wise)|22
 09/23/2011|Sussex Central|68|Northumberland|22
 09/23/2011|Thomas Dale|26|Petersburg|0
 09/23/2011|Thomas Walker|30|Eastside|7
@@ -932,7 +931,7 @@
 10/07/2011|Spotswood|28|Turner Ashby|13
 10/07/2011|Stafford|42|Albemarle|27
 10/07/2011|Strasburg|56|George Mason|28
-10/07/2011|Stuarts Draft|48|Lurary|19
+10/07/2011|Stuarts Draft|48|Luray|19
 10/07/2011|Sullivan North, TN|36|Union|22
 10/07/2011|Thomas Dale|16|Hopewell|13
 10/07/2011|Thomas Walker|34|Haysi|32
@@ -956,10 +955,10 @@
 10/14/2011|Amelia County|76|Bluestone|22
 10/14/2011|Appomattox|24|Dan River|7
 10/14/2011|Bath County|20|Parry McCluer|14
-10/14/2011|Battlefield|35|Freedom(L)|0
+10/14/2011|Battlefield|35|Freedom(LC)|0
 10/14/2011|Bayside|45|Tallwood|14
 10/14/2011|Booker T. Washington|40|Maury|6
-10/14/2011|Briar Woods|56|Heritage(Le)|14
+10/14/2011|Briar Woods|56|Heritage(LC)|14
 10/14/2011|Broad Run|27|Osbourn|20
 10/14/2011|Broadwater Academy|28|Chincoteague|7
 10/14/2011|Broadway|42|R.E. Lee(St)|7
@@ -967,7 +966,7 @@
 10/14/2011|Bruton|26|Jamestown|6
 10/14/2011|Castlewood|47|Ervinton|15
 10/14/2011|Cave Spring|22|Pulaski County|20
-10/14/2011|Central(W)|Union|18
+10/14/2011|Central(Wise)|Union|18
 10/14/2011|Centreville|42|McLean|7
 10/14/2011|Christiansburg|31|Hidden Valley|6
 10/14/2011|Churchland|14|Wilson|12
@@ -1098,3 +1097,5 @@
 10/15/2011|Loudoun County|49|Dominion|0
 10/15/2011|Purchase Line, PA|26|George Mason|0
 10/15/2011|West Point|43|King & Queen|42
+10/17/2011|Chancellor|13|King George|12
+10/17/2011|Sherando|20|Handley|17
