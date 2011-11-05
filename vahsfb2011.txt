@@ -1244,3 +1244,155 @@
 10/21/2011|Yorktown|55|Falls Church|6
 10/22/2011|Robinson|56|Herndon|38
 10/22/2011|Handley|24|Skyline|0
+10/26/2011|Arcadia|41|Northampton|0
+10/27/2011|Phoebus|42|Gloucester|7
+10/28/2011|Warwick|43|Heritage(NN)|12
+10/28/2011|Abingdon|29|Tazewell|0
+10/28/2011|Alleghany|36|Lord Botetourt|0
+10/28/2011|Amelia County|35|Cumberland|0
+10/28/2011|Amherst County|14|E.C. Glass|7
+10/28/2011|Appomattox|17|Gretna|10
+10/28/2011|Atlee|51|Armstrong|14
+10/28/2011|Bassett|42|Patrick County|6
+10/28/2011|Battlefield|27|North Stafford|13
+10/28/2011|Briar Woods|37|Loudoun Valley|0
+10/28/2011|Broad Run|34|Stonewall Jackson(M)|20
+10/28/2011|Broadway|33|Turner Ashby|14
+10/28/2011|Brookville|35|Rustburg|3
+10/28/2011|Castlewood|24|Eastside|12
+10/28/2011|Cave Spring|26|Christiansburg|21
+10/28/2011|Central(W)|17|Madison County|14
+10/28/2011|Chancellor|41|Caroline|7
+10/28/2011|Chantilly|28|Herndon|0
+10/28/2011|Chilhowie|55|Patrick Henry(GS)|0
+10/28/2011|Clarke County|41|George Mason|7
+10/28/2011|Clintwood|46|Central(Wise)|8
+10/28/2011|Clover Hill|19|Midlothian|13
+10/28/2011|Courtland|14|Eastern View|0
+10/28/2011|Covington|21|Craig County|7
+10/28/2011|Dan River|36|Altavista|11
+10/28/2011|Deep Run|27|John Marshall|21
+10/28/2011|Dinwiddie|49|Matoaca|14
+10/28/2011|Douglas Freeman|40|Thomas Jefferson(R)|14
+10/28/2011|East Rockingham|42|Page|7
+10/28/2011|Edison|54|Wakefield|19
+10/28/2011|First Colonial|35|Princess Anne|0
+10/28/2011|Fort Defiance|39|Waynesboro|20
+10/28/2011|Franklin County|34|Patrick Henry(R)|0
+10/28/2011|Fuqua|34|Chincoteague|12
+10/28/2011|Galax|49|Bland County|0
+10/28/2011|Gar-Field|28|Osbourn Park|6
+10/28/2011|Gate City|14|Lee|6
+10/28/2011|George Wythe(W)|42|Holston|0
+10/28/2011|Giles|35|Eastern Montgomery|0
+10/28/2011|Glenvar|63|Auburn|0
+10/28/2011|Goochland|26|Buckingham County|24
+10/28/2011|Grafton|20|Jamestown|13
+10/28/2011|Graham|10|Fort Chiswell|7
+10/28/2011|Granby|27|Booker T. Washington|0
+10/28/2011|Grayson|48|Narrows|6
+10/28/2011|Green Run|34|Kellam|8
+10/28/2011|Hampton|14|Kecoughtan|0
+10/28/2011|Handley|26|Millbrook|9
+10/28/2011|Hanover|38|Lee-Davis|20
+10/28/2011|Harrisonburg|41|Liberty(Bed)|20
+10/28/2011|Hayfield|42|Falls Church|7
+10/28/2011|Haysi|39|Phelps, KY|8
+10/28/2011|Hermitage|41|Mills Godwin|7
+10/28/2011|Hickory|34|Nansemond River|25
+10/28/2011|Highland Springs|41|Henrico|7
+10/28/2011|Honaker|42|Grundy|20
+10/28/2011|Hopewell|14|Petersburg|12
+10/28/2011|Hylton|19|Potomac|7
+10/28/2011|James Monroe|41|Spotsylvania|6
+10/28/2011|James River(B)|14|Bath County|6
+10/28/2011|James River(C)|36|George Wythe(R)|6
+10/28/2011|James Wood|38|Fauquier|23
+10/28/2011|Jefferson Forest|34|Heritage(Lyn)|14
+10/28/2011|Kettle Run|28|Warren County|21
+10/28/2011|King & Queen|36|Middlesex|7
+10/28/2011|King George|26|Culpeper County|0
+10/28/2011|King William|59|West Point|0
+10/28/2011|Kings Fork|48|Deep Creek|21
+10/28/2011|L.C. Bird|52|Monacan|13
+10/28/2011|Lake Braddock|37|W.T. Woodson|7
+10/28/2011|Lake Taylor|47|Churchland|0
+10/28/2011|Lakeland|28|Indian River|14
+10/28/2011|Landstown|20|Ocean Lakes|14
+10/28/2011|Langley|14|Fairfax|13
+10/28/2011|Liberty(Beal)|59|Brentsville District|12
+10/28/2011|Liberty Christian Academy|43|Prince Edward|8
+10/28/2011|Loudoun County|43|Heritage(Lee)|21
+10/28/2011|Louisa County|54|Charlottesville|32
+10/28/2011|Magna Vista|34|Martinsville|17
+10/28/2011|Manchester|36|Huguenot|12
+10/28/2011|Marion|30|Carroll County|8
+10/28/2011|Massaponax|30|Colonial Forge|20
+10/28/2011|Mathews|43|Nandua|20
+10/28/2011|McLean|34|Thomas Jefferson(A)|31
+10/28/2011|Mountain View|59|Orange|10
+10/28/2011|Nelson County|32|William Campbell|27
+10/28/2011|New Kent|20|Smithfield|3
+10/28/2011|Norcom|42|Maury|20
+10/28/2011|Northside|19|Rockbridge County|6
+10/28/2011|Northumberland|22|Rappahannock|8
+10/28/2011|Norview|47|Wilson|7
+10/28/2011|Oakton|42|Robinson|8
+10/28/2011|Osbourn|38|Freedom(Lou)|3
+10/28/2011|Oscar Smith|21|Grassfield|14
+10/28/2011|Park View(SH)|42|Greensville|20
+10/28/2011|Park View(St)|24|Potomac Falls|2
+10/28/2011|Patrick Henry(A)|39|J.R. Tucker|13
+10/28/2011|Poquoson|20|Bruton|9
+10/28/2011|Powhatan|40|Monticello|39
+10/28/2011|Prince George|55|Colonial Heights|14
+10/28/2011|Pulaski County|28|Blacksburg|0
+10/28/2011|R.E. Lee(St)|21|Spotswood|0
+10/28/2011|Randolph-Henry|48|Bluestone|8
+10/28/2011|Riverbend|20|Albemarle|19
+10/28/2011|Riverheads|42|Buffalo Gap|7
+10/28/2011|Rural Retreat|27|Northwood|0
+10/28/2011|Rye Cove|8|Hurley|6
+10/28/2011|Saint Albans, DC|27|Dominion|12
+10/28/2011|Salem|10|Hidden Valley|3
+10/28/2011|Salem(VB)|47|Tallwood|0
+10/28/2011|Skyline|15|Sherando|7
+10/28/2011|South County|49|Annandale|0
+10/28/2011|South Lakes|22|George Marshall|16
+10/28/2011|Southampton|35|Brunswick|0
+10/28/2011|Stafford|26|Brooke Point|6
+10/28/2011|Staunton River|24|William Byrd|20
+10/28/2011|Stone Bridge|35|James Madison|20
+10/28/2011|Stuart|40|Washington-Lee|16
+10/28/2011|Stuarts Draft|19|Stonewall Jackson(Q)|8
+10/28/2011|Surry|34|Charles City|18
+10/28/2011|Sussex Central|30|Franklin|6
+10/28/2011|Thomas Dale|21|Meadowbrook|14
+10/28/2011|Thomas Walker|36|Twin Springs|20
+10/28/2011|Tuscarora|43|Woodgrove|28
+10/28/2011|Twin Valley|9|Ervinton|8
+10/28/2011|Union|26|J.I. Burton|20
+10/28/2011|Varina|54|Glen Allen|7
+10/28/2011|Virginia|26|Lebanon|3
+10/28/2011|Warhill|19|Tabb|7
+10/28/2011|West Potomac|48|West Springfield|13
+10/28/2011|Western Albemarle|45|Fluvanna|0
+10/28/2011|Westfield|13|Centreville|10
+10/28/2011|William Fleming|9|Halifax County|7
+10/28/2011|William Monroe|34|Manassas Park|20
+10/28/2011|Wilson Memorial|42|Luray|7
+10/28/2011|Woodbridge|28|Forest Park|7
+10/28/2011|Woodside|39|Denbigh|0
+10/28/2011|York|36|Lafayette|35
+10/28/2011|Yorktown|29|Mount Vernon|6
+10/29/2011|Bayside|31|Cox|8
+10/29/2011|Bethel|31|Menchville|0
+10/29/2011|Radford|13|Floyd County|10
+10/29/2011|R.E. Lee(S)|17|T.C. Williams|10
+10/31/2011|Arcadia|38|Northampton|12
+10/31/2011|Central(L)|26|Nottoway|14
+10/31/2011|Lancaster|41|Colonial Beach|26
+10/31/2011|Tunstall|27|Chatham|6
+10/31/2011|Park View(SH)|27|Warhill|14
+10/31/2011|Washington & Lee|28|Essex|10
+10/31/2011|Western Branch|35|Great Bridge|28
