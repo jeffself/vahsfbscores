@@ -1246,7 +1246,7 @@
 10/22/2011|Handley|24|Skyline|0
 10/26/2011|Arcadia|41|Northampton|0
 10/27/2011|Phoebus|42|Gloucester|7
-10/28/2011|Warwick|43|Heritage(NN)|12
+10/27/2011|Warwick|43|Heritage(NN)|12
 10/28/2011|Abingdon|29|Tazewell|0
 10/28/2011|Alleghany|36|Lord Botetourt|0
 10/28/2011|Amelia County|35|Cumberland|0
@@ -1274,7 +1274,7 @@
 10/28/2011|Deep Run|27|John Marshall|21
 10/28/2011|Dinwiddie|49|Matoaca|14
 10/28/2011|Douglas Freeman|40|Thomas Jefferson(R)|14
-10/28/2011|East Rockingham|42|Page|7
+10/28/2011|East Rockingham|42|Page County|7
 10/28/2011|Edison|54|Wakefield|19
 10/28/2011|First Colonial|35|Princess Anne|0
 10/28/2011|Fort Defiance|39|Waynesboro|20
