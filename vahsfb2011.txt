@@ -1151,7 +1151,7 @@
 10/21/2011|Hanover|44|Armstrong|0
 10/21/2011|Harrisonburg|21|Spotswood|13
 10/21/2011|Hayfield|36|Washington-Lee|0
-10/21/2011|Heritage(Lee)|48|Woodgrove|31
+10/21/2011|Heritage(LC)|48|Woodgrove|31
 10/21/2011|Hermitage|31|Deep Run|7
 10/21/2011|Hickory|55|Indian River|3
 10/21/2011|Hidden Valley|13|Pulaski County|10
@@ -1322,7 +1322,7 @@
 10/28/2011|Langley|14|Fairfax|13
 10/28/2011|Liberty(Beal)|59|Brentsville District|12
 10/28/2011|Liberty Christian Academy|43|Prince Edward|8
-10/28/2011|Loudoun County|43|Heritage(Lee)|21
+10/28/2011|Loudoun County|43|Heritage(LC)|21
 10/28/2011|Louisa County|54|Charlottesville|32
 10/28/2011|Magna Vista|34|Martinsville|17
 10/28/2011|Manchester|36|Huguenot|12
@@ -1434,7 +1434,7 @@
 11/04/2011|Fort Defiance|32|Turner Ashby|14
 11/04/2011|Galax|21|Grayson|6
 11/04/2011|Gar-Field|42|Freedom(PW)|6
-11/04/2011|George Washington|Halifax County|0
+11/04/2011|George Washington|21|Halifax County|0
 11/04/2011|George Wythe(W)|42|Rural Retreat|6
 11/04/2011|Giles|21|Radford|17
 11/04/2011|Glenvar|63|Eastern Montgomery|6
@@ -1452,7 +1452,7 @@
 11/04/2011|Harrisonburg|34|Waynesboro|6
 11/04/2011|Hayfield|35|Edison|21
 11/04/2011|Henrico|27|Glen Allen|3
-11/04/2011|Heritage(Lee)|31|Tuscarora|28
+11/04/2011|Heritage(LC)|31|Tuscarora|28
 11/04/2011|Heritage(Lyn)|7|E.C. Glass|6
 11/04/2011|Heritage(NN)|38|Denbigh|6
 11/04/2011|Hermitage|51|Thomas Jefferson(R)|0
