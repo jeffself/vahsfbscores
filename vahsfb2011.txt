@@ -122,7 +122,7 @@
 09/02/2011|Cave Spring|50|Martinsville|29
 09/02/2011|Central(L)|34|Nelson County|13
 09/02/2011|Centreville|23|Lake Braddock|8
-09/02/2011|Chincoteague|14|Hampton Roads Academy|8
+09/02/2011|Chincoteague|14|Hampton Roads Academy|12
 09/02/2011|Clintwood|35|Haysi|16
 09/02/2011|Colonial Forge|35|Forest Park|21
 09/02/2011|Colonial Heights|26|Thomas Jefferson(R)|7
@@ -1122,6 +1122,7 @@
 10/21/2011|Central(Wise)|27|Eastside|23
 10/21/2011|Centreville|38|Chantilly|13
 10/21/2011|Chancellor|34|Spotsylvania|2
+10/21/2011|Chincoteague|34|Hampton Roads Generals|0
 10/21/2011|Christiansburg|42|Salem|36
 10/21/2011|Clintwood|42|Grundy|17
 10/21/2011|Colonial Forge|48|Orange|0
@@ -1244,6 +1245,7 @@
 10/21/2011|Yorktown|55|Falls Church|6
 10/22/2011|Robinson|56|Herndon|38
 10/22/2011|Handley|24|Skyline|0
+10/25/2011|Lancaster|24|Surry|22
 10/26/2011|Arcadia|41|Northampton|0
 10/27/2011|Phoebus|42|Gloucester|7
 10/27/2011|Warwick|43|Heritage(NN)|12
