@@ -1545,3 +1545,95 @@
 11/05/2011|Kecoughtan|28|Menchville|21
 11/05/2011|Nandua|26|Northampton|0
 11/05/2011|West Potomac|41|T.C. Williams|27
+11/11/2011|Cosby|35|James River(C)|14
+11/11/2011|Deep Run|47|J.R. Tucker|6
+11/11/2011|Dinwiddie|57|Petersburg|27
+11/11/2011|Hanover|42|Glen Allen|8
+11/11/2011|Henrico|41|Armstrong|6
+11/11/2011|Hermitage|38|Patrick Henry(A)|14
+11/11/2011|Highland Springs|12|Varina|7
+11/11/2011|Huguenot|18|George Wythe(R)|6
+11/11/2011|L.C. Bird|56|Clover Hill|7
+11/11/2011|Lee-Davis|30|Atlee|20
+11/11/2011|Manchester|34|Midlothian|7
+11/11/2011|Meadowbrook|42|Matoaca|14
+11/11/2011|Mills Godwin|46|Douglas Freeman|6
+11/11/2011|Prince George|26|Hopewell|7
+11/11/2011|Thomas Dale|48|Colonial Heights|0
+
+11/11/2011|Oscar Smith|50|Bethel|15
+11/11/2011|Bayside|27|Woodside|21
+11/11/2011|Salem(VB)|62|Ocean Lakes|28
+11/11/2011|Grassfield|17|Landstown|6
+
+11/11/2011|Hampton|16|Green Run|12
+
+11/11/2011|Westfield|21|Robinson|3
+11/11/2011|Centreville|42|Fairfax|19
+11/11/2011|Lake Braddock|50|Oakton|21
+11/11/2011|West Potomac|Chantilly|7
+
+11/11/2011|Stone Bridge|35|Langley|0
+11/11/2011|Yorktown|20|McLean|6
+11/11/2011|R.E. Lee(S)|25|Hayfield|20
+11/11/2011|South County|31|James Madison|0
+
+11/11/2011|Franklin County|21|Colonial Forge|14
+
+11/11/2011|George Washington|42|Massaponax|26
+11/11/2011|Brooke Point|42|Mountain View|35
+
+11/11/2011|Warhill|21|Jamestown|15
+11/11/2011|Chancellor|31|King George|0
+
+11/11/2011|Lafayette|57|Park View(SH)|21
+11/11/2011|Poquoson|7|Southampton|0
+
+11/11/2011|Briar Woods|49|Park View(St)|21
+11/11/2011|Powhatan|44|James Wood|6
+11/11/2011|Louisa County|26|Sherando|25
+11/11/2011|Loudoun County|Heritage(LC)|14
+
+11/11/2011|Kettle Run|42|Fauquier|0
+11/11/2011|Liberty(Beal)|28|Handley|7
+11/11/2011|Monticello|42|Western Albemarle|40
+11/11/2011|Tuscarora|28|Warren County|21
+
+11/11/2011|Staunton River|28|Harrisonburg|9
+11/11/2011|Amherst County|19|Heritage(Lyn)|8
+
+11/11/2011|Rockbridge County|33|Rustburg|7
+11/11/2011|R.E. Lee(St)|13|Fort Defiance|11
+
+11/11/2011|Salem|27|Pulaski County|6
+11/11/2011|Hidden Valley|24|Bassett|10
+
+11/11/2011|Martinsville|46|Abingdon|0
+11/11/2011|Tunstall|49|Marion|14
+
+11/11/2011|Goochland|45|Nottoway|7
+11/11/2011|Central(W)|24|Windsor|8
+11/11/2011|Buckingham County|42|Stonewall Jackson(Q)|12
+11/11/2011|King William|48|East Rockingham|12
+11/11/2011|Strasburg|34|Clarke County|27
+11/11/2011|Amelia County|55|Essex|6
+11/11/2011|Manassas Park|64|William Monroe|22
+
+11/11/2011|Riverheads|55|Virginia|0
+11/11/2011|Gretna|55|John Battle|13
+11/11/2011|Giles|44|Glenvar|14
+11/11/2011|Appomattox|40|Grundy|7
+11/11/2011|Grayson|35|Graham|15
+
+11/11/2011|Sussex Central|68|West Point|6
+11/11/2011|Bath County|20|Franklin|12
+11/11/2011|Covington|28|Parry McCluer|12
+11/11/2011|Central(L)|63|Colonial Beach|24
+11/11/2011|Northumberland|24|Charles City|22
+11/11/2011|William Campbell|40|Rappahannock|13
+11/11/2011|Mathews|42|Surry|28
+
+11/11/2011|Galax|64|Holston|7
+11/11/2011|Castlewood|38|Rye Cove|24
+11/11/2011|Chilhowie|39|Rural Retreat|38
+11/11/2011|George Wythe(W)|73|Twin Springs|35
