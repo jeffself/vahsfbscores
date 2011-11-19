@@ -1650,3 +1650,71 @@
 11/12/2011|Clintwood|49|Eastside|21
 11/12/2011|Radford|45|Thomas Walker|6
 11/11/2011|George Wythe(W)|73|Twin Springs|35
+
+11/18/2011|Oscar Smith|34|Grassfield|14
+11/18/2011|Salem|35|Bayside|21
+
+11/19/2011|Hampton|xx|Norcom|xx
+11/19/2011|Phoebus|xx|Lake Taylor|xx
+
+11/18/2011|Hermitage|14|Thomas Dale|0
+11/18/2011|L.C. Bird|21|Varina|16
+
+11/18/2011|Atlee|42|Lee-Davis|35
+11/18/2011|Hanover|41|Dinwiddie|14
+
+11/18/2011|Westfield|42|West Potomac|34
+11/18/2011|Centreville|21|Lake Braddock|18
+
+11/18/2011|South County|25|Stone Bridge|3
+11/18/2011|Yorktown|51|R.E. Lee(S)|15
+
+11/19/2011|Hylton|xx|Osbourn|xx
+11/18/2011|Battlefield|38|Franklin|21
+
+11/18/2011|North Stafford|41|George Washington|7
+11/18/2011|Brooke Point|47|Broad Run|27
+
+11/19/2011|Grafton|xx|Chancellor|xx
+11/18/2011|Courtland|20|Warhill|10
+
+11/18/2011|York|35|Poquoson|22
+11/18/2011|James Monroe|56|Lafayette|21
+
+11/18/2011|Briar Woods|29|Loudoun County|19
+11/18/2011|Powhatan|35|Louisa County|0
+
+11/18/2011|Kettle Run|32|Tuscarora|0
+11/18/2011|Liberty(Beal)|42|Monticello|14
+
+11/18/2011|Broadway|50|Amherst County|23
+11/18/2011|Jefferson Forest|21|Staunton River|7
+
+11/18/2011|Northside|42|R.E. Lee(St)|14
+11/18/2011|Brookville|19|Rockbridge County|14
+
+11/18/2011|Christiansburg|41|Hidden Valley|20
+11/18/2011|Magna Vista|36|Salem|35
+
+11/18/2011|Richlands|58|Tunstall|7
+11/18/2011|Cave Spring|41|Martinsville|9
+
+11/18/2011|Goochland|45|Central(W)|7
+11/18/2011|King William|32|Buckingham County|14
+11/19/2011|Strasburg|xx|Amelia County|xx
+11/18/2011|Manassas Park|35|Washington & Lee|34
+
+11/18/2011|Riverheads|21|Stuarts Draft|14
+11/18/2011|Gretna|27|Giles|7
+11/18/2011|Wilson Memorial|42|Appomattox|35
+11/18/2011|Dan River|31|Grayson|20
+
+11/18/2011|Sussex Central|20|Altavista|12
+11/18/2011|Covington|29|Bath County|12
+11/18/2011|Central(L)|14|Northumberland|12
+11/19/2011|William Campbell|xx|Mathews|xx
+
+11/18/2011|Galax|60|Castlewood|24
+11/19/2011|J.I. Burton|xx|Honaker|xx
+11/19/2011|Chilhowie|xx|Clintwood|xx
+11/18/2011|George Wythe(W)|22|Radford|10
