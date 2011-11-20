@@ -1654,8 +1654,8 @@
 11/18/2011|Oscar Smith|34|Grassfield|14
 11/18/2011|Salem|35|Bayside|21
 
-11/19/2011|Hampton|xx|Norcom|xx
-11/19/2011|Phoebus|xx|Lake Taylor|xx
+11/19/2011|Norcom|20|Hampton|14
+11/19/2011|Phoebus|20|Lake Taylor|17
 
 11/18/2011|Hermitage|14|Thomas Dale|0
 11/18/2011|L.C. Bird|21|Varina|16
@@ -1669,13 +1669,13 @@
 11/18/2011|South County|25|Stone Bridge|3
 11/18/2011|Yorktown|51|R.E. Lee(S)|15
 
-11/19/2011|Hylton|xx|Osbourn|xx
+11/21/2011|Hylton|xx|Osbourn|xx
 11/18/2011|Battlefield|38|Franklin|21
 
 11/18/2011|North Stafford|41|George Washington|7
 11/18/2011|Brooke Point|47|Broad Run|27
 
-11/19/2011|Grafton|xx|Chancellor|xx
+11/19/2011|Grafton|20|Chancellor|16
 11/18/2011|Courtland|20|Warhill|10
 
 11/18/2011|York|35|Poquoson|22
@@ -1701,7 +1701,7 @@
 
 11/18/2011|Goochland|45|Central(W)|7
 11/18/2011|King William|32|Buckingham County|14
-11/19/2011|Strasburg|xx|Amelia County|xx
+11/19/2011|Amelia County|14|Strasburg|6
 11/18/2011|Manassas Park|35|Washington & Lee|34
 
 11/18/2011|Riverheads|21|Stuarts Draft|14
