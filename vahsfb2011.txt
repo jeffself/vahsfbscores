@@ -1754,3 +1754,45 @@
 
 11/25/2011|Galax|48|Honaker|9
 11/26/2011|Clintwood|23|George Wythe(W)|13
+
+Division 6 Semifinals
+12/03/2011|Oscar Smith|42|Battlefield|14
+12/03/2011|Centreville|10|Hermitage|9
+
+Division 5 Semifinals
+12/03/2011|Phoebus|27|North Stafford|26
+12/03/2011|South County|38|Hanover|22
+
+Division 4 Semifinals
+12/03/2011|Briar Woods|31|Grafton|0
+12/03/2011|Christiansburg|35|Broadway|0
+
+Division 3 Semifinals
+12/03/2011|James Monroe|14|Kettle Run|7
+12/03/2011|Brookville|38|Cave Spring|27
+
+Division 2 Semfinals
+12/03/2011|Goochland|47|Wilson Memorial|21
+12/03/2011|Gretna|20|Amelia County|12
+
+Division 1 Semifinals
+12/03/2011|Clintwood|17|Sussex Central|8
+12/03/2011|Galax|50|Central(L)|14
+
+Division 6 Championship
+12/10/2011|Oscar Smith|47|Centreville|21
+
+Division 5 Championship
+12/10/2011|Phoebus|20|South County|10
+
+Division 4 Championship
+12/10/2011|Briar Woods|28|Christiansburg|26
+
+Division 3 Championship
+12/10/2011|Brookville|34|James Monroe|33
+
+Division 2 Championship
+12/10/2011|Gretna|21|Goochland|16
+
+Division 1 Championship
+12/10/2011|Clintwood|33|Galax|28
