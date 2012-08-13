@@ -108,7 +108,7 @@
 09/01/2011|Woodside|48|Menchville|0
 09/01/2011|York|49|Greensville|6
 09/01/2011|Yorktown|48|Woodrow Wilson, DC|13
-09/02/2011|Abingdon|51|Patrick Henry|GS)|13
+09/02/2011|Abingdon|51|Patrick Henry(GS)|13
 09/02/2011|Amelia County|28|Dan River|14
 09/02/2011|Amherst County|9|William Fleming|0
 09/02/2011|Appomattox|36|Nottoway|20
@@ -1574,7 +1574,7 @@
 11/11/2011|Westfield|21|Robinson|3
 11/11/2011|Centreville|42|Fairfax|19
 11/11/2011|Lake Braddock|50|Oakton|21
-11/11/2011|West Potomac|Chantilly|7
+11/11/2011|West Potomac|35|Chantilly|7
 
 11/11/2011|Stone Bridge|35|Langley|0
 11/11/2011|Yorktown|20|McLean|6
@@ -1596,7 +1596,7 @@
 11/11/2011|Briar Woods|49|Park View(St)|21
 11/11/2011|Powhatan|44|James Wood|6
 11/11/2011|Louisa County|26|Sherando|25
-11/11/2011|Loudoun County|Heritage(LC)|14
+11/11/2011|Loudoun County|42|Heritage(LC)|14
 
 11/11/2011|Kettle Run|42|Fauquier|0
 11/11/2011|Liberty(Beal)|28|Handley|7
