@@ -1,0 +1,94 @@
+08/23/2012|Battlefield|42|Gar-Field|0
+08/23/2012|Virginia|16|Abingdon|13
+08/24/2012|Alleghany|42|Covington|13
+08/24/2012|Altavista|51|Randolph-Henry|13
+08/24/2012|Amherst County|32|Northside|6
+08/24/2012|Bassett|40|Carroll County|12
+08/24/2012|Bayside|28|First Colonial|3
+08/24/2012|Briar Woods|42|Patriot|14
+08/24/2012|Broad Run|35|Park View(Sterling)|0
+08/24/2012|Brookville|49|Martinsville|0
+08/24/2012|Brunswick|20|Nottoway|19
+08/24/2012|Bruton|43|Greensville|20
+08/24/2012|Buckingham County|34|Appomattox|7
+08/24/2012|Central(Wise)|37|Thomas Walker|13
+08/24/2012|Central(Woodstock)|20|Broadway|14
+08/24/2012|Chancellor|25|Riverbend|6
+08/24/2012|Chatham|27|Bluestone|16
+08/24/2012|Christiansburg|35|Floyd County|21
+08/24/2012|Clarke County|40|Berkeley Springs, WV|0
+08/24/2012|Craig County|17|Auburn|0
+08/24/2012|E.C. Glass|49|Charlottesville|28
+08/24/2012|East Rockingham|16|Madison County|3
+08/24/2012|Eastern Montgomery|27|Bath County|21
+08/24/2012|Eastern View|23|Louisa County|14
+08/24/2012|Essex|41|Gretna|18
+08/24/2012|Fauquier|16|Loudoun County|14
+08/24/2012|Fluvanna|43|Prince Edward|14
+08/24/2012|Fort Chiswell|34|Rural Retreat|0
+08/24/2012|Fort Defiance|41|Buffalo Gap|14
+08/24/2012|Franklin|42|Surry|14
+08/24/2012|Franklin County|35|William Fleming|0
+08/24/2012|Galax|38|Glenvar|25
+08/24/2012|George Washington|16|Petersburg|0
+08/24/2012|George Wythe(Wytheville)|42|Tazewell|0
+08/24/2012|Giles|31|Blacksburg|16
+08/24/2012|Graham|23|Bluefield, WV|21
+08/24/2012|Grayson|48|Alleghany, NC|9
+08/24/2012|Green Run|28|Princess Anne|21
+08/24/2012|Grundy|36|Twin Valley|6
+08/24/2012|Harrisonburg|13|Turner Ashby|7
+08/24/2012|Haysi|28|Castlewood|14
+08/24/2012|Hazard, KY|23|Clintwood|17
+08/24/2012|Heritage(Lynchburg)|44|Magna Vista|30
+08/24/2012|Hickory|22|Norview|8
+08/24/2012|Honaker|14|Lebanon|13
+08/24/2012|J.I. Burton|26|Holston|7
+08/24/2012|James Monroe|44|Tabb|6
+08/24/2012|James Monroe, WV|33|Narrows|8
+08/24/2012|James Wood|30|Heritage(Leesburg)|27
+08/24/2012|Jefferson Forest|42|Halifax County|19
+08/24/2012|John Battle|42|Twin Springs|0
+08/24/2012|Kellam|34|Kempsville|19
+08/24/2012|Kettle Run|50|Brentsville District|6
+08/24/2012|King George|34|Manassas Park|12
+08/24/2012|Kings Fork|21|Booker T. Washington|14
+08/24/2012|Liberty(Bealeton)|23|Potomac Falls|7
+08/24/2012|Lord Botetourt|26|James River(Buchanan)|6
+08/24/2012|Loudoun County|53|Freedom(Loudoun)|21
+08/24/2012|Marion|38|Chilhowie|15
+08/24/2012|Martinsburg, WV|38|Sherando|0
+08/24/2012|Massaponax|26|Courtland|15
+08/24/2012|Mountain View|52|Freedom(PW)|0
+08/24/2012|Nelson County|64|William Monroe|47
+08/24/2012|Norcom|20|Wilson|0
+08/24/2012|North Stokes, NC|62|Patrick County|27
+08/24/2012|Northwood|34|Rye Cove|0
+08/24/2012|Ocean Lakes|60|Tallwood|0
+08/24/2012|Osbourn|40|Brooke Point|0
+08/24/2012|Osbourn Park|42|John Champe|0
+08/24/2012|Patrick Henry(GS)|41|Bland County|6
+08/24/2012|Patrick Henry(Roanoke)|24|Hidden Valley|21
+08/24/2012|Poquoson|20|Southampton|0
+08/24/2012|Potomac|28|Stafford|10
+08/24/2012|Pulaski County|41|Radford|9
+08/24/2012|Richlands|40|Gate City|6
+08/24/2012|Rockbridge County|42|Parry McCluer|0
+08/24/2012|Rustburg|35|William Campbell|21
+08/24/2012|Salem(VB)|47|Cox|23
+08/24/2012|Skyline|41|Musselman, WV|28
+08/24/2012|Spotswood|26|Page County|7
+08/24/2012|Stonewall Jackson(Manassas)|29|Forest Park|14
+08/24/2012|Strasburg|40|Stonewall Jackson(Quicksburg)|21
+08/24/2012|Sullivan North, TN|32|Eastside|6
+08/24/2012|Tunstall|15|Dan River|6
+08/24/2012|Tuscarora|41|Millbrook|21
+08/24/2012|Union|38|Lee|20
+08/24/2012|Warhill|20|Park View(SH)|17
+08/24/2012|Washington & Lee|21|Spotsylvania|17
+08/24/2012|West Point|48|Chincoteague|0
+08/24/2012|Western Albemarle|21|Albemarle|12
+08/24/2012|William Byrd|27|Cave Spring|24
+08/24/2012|Wilson Memorial|41|Waynesboro|17
+08/24/2012|Windsor|14|Arcadia|8
+08/24/2012|Woodgrove|52|Jefferson County, WV|7
