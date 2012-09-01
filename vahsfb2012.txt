@@ -111,7 +111,7 @@
 08/30/2012|McLean|14|Washington-Lee|12
 08/30/2012|Meadowbrook|47|Manchester|41
 08/30/2012|Ocean Lakes|51|Princess Anne|0
-08/30/2012|R.E. Lee(Sp)|47|George Marshall|7
+08/30/2012|R.E. Lee(S)|47|George Marshall|7
 08/30/2012|Salem(VB)|37|Bayside|7
 08/30/2012|J.E.B. Stuart|35|George Mason|6
 08/30/2012|Sussex Central|42|Arcadia|6
@@ -120,3 +120,109 @@
 08/30/2012|West Potomac|34|Mount Vernon|7
 08/30/2012|West Springfield|49|Thomas Edison|19
 08/30/2012|Westfield|51|South Lakes|13
+08/31/2012|Abingdon|42|Patrick Henry(GS)|7
+08/31/2012|Altavista|37|William Campbell|18
+08/31/2012|Amherst County|39|William Fleming|3
+08/31/2012|Briar Woods|20|Broad Run|15
+08/31/2012|Brookville|60|Turner Ashby|7
+08/31/2012|Buffalo Gap|21|Parry McCluer|0
+08/31/2012|Cave Spring|27|Martinsville|13
+08/31/2012|Central(L)|63|Nelson County|8
+08/31/2012|Central(W)|36|Stonewall Jackson(Q)|24
+08/31/2012|Central Virginia Home School|28|King & Queen|0
+08/31/2012|Centreville|28|Lake Braddock|27
+08/31/2012|Chatham|60|Randolph-Henry|15
+08/31/2012|Christiansburg|35|Giles|14
+08/31/2012|Clintwood|48|Haysi|12
+08/31/2012|Colonial Beach|37|Charles City|12
+08/31/2012|Colonial Forge|19|Forest Park|0
+08/31/2012|Covington|40|Auburn|7
+08/31/2012|Dan River|28|Amelia County|7
+08/31/2012|Dinwiddie|42|Monacan|6
+08/31/2012|E.C. Glass|17|Halifax County|6
+08/31/2012|East Hardy, WV|40|Craig County|14
+08/31/2012|East Rockingham|50|Manassas Park|26
+08/31/2012|Eastern Montgomery|42|Narrows|32
+08/31/2012|Eastern View|24|Charlottesville|20
+08/31/2012|Eastside|48|Hurley|22
+08/31/2012|Essex|41|Caroline|21
+08/31/2012|Fairfax|29|Annandale|19
+08/31/2012|Fauquier|30|Culpeper County|8
+08/31/2012|Floyd County|33|Galax|14
+08/31/2012|Fort Defiance|21|Stuarts Draft|18
+08/31/2012|Freedom(L)|30|John Champe|14
+08/31/2012|George Washington|41|Person, NC|7
+08/31/2012|George Wythe(W)|28|Fort Chiswell|7
+08/31/2012|Goochland|42|Fluvanna|7
+08/31/2012|Graham|34|Tazewell|15
+08/31/2012|Granby|45|Great Bridge|9
+08/31/2012|Grayson|35|Chilhowie|21
+08/31/2012|Hampton Roads Academy|34|Chincoteague|7
+08/31/2012|Harlan County, KY|55|Gates City|0
+08/31/2012|Hayfield|36|South County|35
+08/31/2012|Heritage(Le)|26|Hedgesville, WV|16
+08/31/2012|Hidden Valley|10|William Byrd|0
+08/31/2012|Holston|43|Twin Springs|0
+08/31/2012|Honaker|31|Castlewood|12
+08/31/2012|Hylton|10|Battlefield|0
+08/31/2012|J.I. Burton|48|Rye Cove|14
+08/31/2012|James Monroe|24|Stafford|12
+08/31/2012|James River(B)|48|Glenvar|13
+08/31/2012|Jefferson Forest|38|Staunton River|30
+08/31/2012|John Battle|17|Virginia|13
+08/31/2012|Kettle Run|42|Potomac Falls|13
+08/31/2012|King George|41|Washington & Lee|0
+08/31/2012|King William|49|New Kent|18
+08/31/2012|Lafayette|49|Brunswick|12
+08/31/2012|Lake Taylor|41|Indian River|0
+08/31/2012|Lebanon|28|Grundy|9
+08/31/2012|Lee|34|Thomas Walker|28
+08/31/2012|Liberty(Beal)|28|Park View(St)|0
+08/31/2012|Liberty(Bed)|26|Blacksburg|12
+08/31/2012|Loudoun Valley|52|James Wood|19
+08/31/2012|Louisa County|48|Orange|0
+08/31/2012|Madison County|13|Luray|7
+08/31/2012|Magna Vista|48|Morehead, NC|16
+08/31/2012|Marion|41|Northwood|16
+08/31/2012|Massaponax|21|Chancellor|14
+08/31/2012|Millbrook|27|Broadway|14
+08/31/2012|Montcalm, WV|28|Twin Valley|0
+08/31/2012|Monticello|24|Albemarle|21
+08/31/2012|Mount Airy, NC|28|Carroll County|7
+08/31/2012|Moutain View|39|Osbourn|7
+08/31/2012|Musselman, WV|21|Sherando|19
+08/31/2012|Nandua|34|Northumberland|33
+08/31/2012|Nansemond River|42|Wilson|6
+08/31/2012|North Stafford|13|Potomac|8
+08/31/2012|Nottoway|35|Appomattox|20
+08/31/2012|Oakton|35|James Madison|13
+08/31/2012|Park View(SH)|35|Jamestown|28
+08/31/2012|Patrick Henry(R)|35|Bassett|7
+08/31/2012|Patriot|38|Brooke Point|27
+08/31/2012|Phoebus|59|Warwick|7
+08/31/2012|Powhatan|26|Grafton|21
+08/31/2012|Prince Edward|23|Cumberland|18
+08/31/2012|Pulaski County|21|Northside|20
+08/31/2012|R.E. Lee(St)|14|Wilson Memorial|13
+08/31/2012|Rappahannock|24|Surry|0
+08/31/2012|Richlands|32|Union|30
+08/31/2012|Riverbend|25|Courtland|9
+08/31/2012|Riverheads|42|Bath County|0
+08/31/2012|Rockbridge County|45|Waynesboro|20
+08/31/2012|Rural Retreat|42|Bland County|6
+08/31/2012|Rustburg|42|Tunstall|34
+08/31/2012|Salem|34|Lord Botetourt|0
+08/31/2012|Smithfield|34|Southampton|7
+08/31/2012|Spotswood|62|William Monroe|20
+08/31/2012|Stone Bridge|31|Robinson|14
+08/31/2012|Stonewall Jackson(M)|32|Gar-Field|7
+08/31/2012|Strasburg|29|Washington, WV|14
+08/31/2012|Thomas Jefferson(R)|24|Colonial Heights|6
+08/31/2012|Warren County|27|Clarke County|9
+08/31/2012|West Point|31|Windsor|20
+08/31/2012|Western Branch|27|Norcom|13
+08/31/2012|Woodbridge|27|Franklin County|7
+08/31/2012|Woodgrove|65|Brentsville District|0
+08/31/2012|Woodside|43|Menchville|3
+08/31/2012|York|49|Greensville|17
+08/31/2012|Yorktown|42|Bowie, MD|28
