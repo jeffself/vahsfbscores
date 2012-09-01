@@ -95,3 +95,28 @@
 08/25/2012|Byrnes, SC|42|Oscar Smith|21
 08/25/2012|Handley|17|Dominion|10
 08/25/2012|Hermitage|38|Fork Union|0
+08/30/2012|Bethel|41|Gloucester|0
+08/30/2012|Booker T. Washington|12|Denbigh|6
+08/30/2012|Chantilly|48|W.T. Woodson|7
+08/30/2012|Cosby|19|Matoaca|7
+08/30/2012|Cox|32|Green Run|20
+08/30/2012|Grassfield|51|Maury|21
+08/30/2012|Hampton|16|Heritage(NN)|0
+08/30/2012|Kecoughtan|20|Churchland|14
+08/30/2012|Kellam|14|Landstown|7
+08/30/2012|Kempsville|27|Tallwood|26
+08/30/2012|Lakeland|49|Deep Creek|0
+08/30/2012|Lancaster|46|Northampton|0
+08/30/2012|Langley|42|Herndon|14
+08/30/2012|McLean|14|Washington-Lee|12
+08/30/2012|Meadowbrook|47|Manchester|41
+08/30/2012|Ocean Lakes|51|Princess Anne|0
+08/30/2012|R.E. Lee(Sp)|47|George Marshall|7
+08/30/2012|Salem(VB)|37|Bayside|7
+08/30/2012|J.E.B. Stuart|35|George Mason|6
+08/30/2012|Sussex Central|42|Arcadia|6
+08/30/2012|T.C. Williams|73|Wakefield|0
+08/30/2012|Thomas Jefferson(A)|28|Falls Church|12
+08/30/2012|West Potomac|34|Mount Vernon|7
+08/30/2012|West Springfield|49|Thomas Edison|19
+08/30/2012|Westfield|51|South Lakes|13
