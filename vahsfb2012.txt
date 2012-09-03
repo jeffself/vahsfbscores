@@ -5,6 +5,8 @@
 08/24/2012|Amherst County|32|Northside|6
 08/24/2012|Bassett|40|Carroll County|12
 08/24/2012|Bayside|28|First Colonial|3
+08/24/2012|Bishop Sullivan|39|Isle of Wight|20
+08/24/2012|Blessed Sacrament-Huguenot|31|Kenston Forest|14
 08/24/2012|Briar Woods|42|Patriot|14
 08/24/2012|Broad Run|35|Park View(St)|0
 08/24/2012|Brookville|49|Martinsville|0
@@ -13,7 +15,9 @@
 08/24/2012|Buckingham County|34|Appomattox|7
 08/24/2012|Central(Wise)|37|Thomas Walker|13
 08/24/2012|Central(W)|20|Broadway|14
+08/24/2012|Central Virginia Home School|42|Norfolk Christian|26
 08/24/2012|Chancellor|25|Riverbend|6
+08/24/2012|Charlotte Latin, NC|35|North Cross|13
 08/24/2012|Chatham|27|Bluestone|16
 08/24/2012|Christiansburg|35|Floyd County|21
 08/24/2012|Clarke County|40|Berkeley Springs, WV|0
@@ -24,6 +28,7 @@
 08/24/2012|Eastern View|23|Louisa County|14
 08/24/2012|Essex|41|Gretna|18
 08/24/2012|Fauquier|16|Loudoun County|14
+08/24/2012|First Flight, NC|35|Atlantic Shores|26
 08/24/2012|Fluvanna|43|Prince Edward|14
 08/24/2012|Fort Chiswell|34|Rural Retreat|0
 08/24/2012|Fort Defiance|41|Buffalo Gap|14
