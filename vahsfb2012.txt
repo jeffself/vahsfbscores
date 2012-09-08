@@ -256,3 +256,158 @@
 09/01/2012|John Marshall|28|Huguenot|0
 09/01/2012|Randolph-Macon|54|Rappahannock County|0
 09/01/2012|Virginia Episcopal|24|North Cross|20
+09/06/2012|Lake Taylor|51|Bethel|0
+09/06/2012|Maury|27|Woodside|25
+09/07/2012|Amelia County|34|Charles City|14
+09/07/2012|Amherst County|19|George Washington|6
+09/07/2012|Appomattox|32|Cumberland|8
+09/07/2012|Armstrong|24|Thomas Jefferson(R)|12
+09/07/2012|Atlee|41|Deep Run|37
+09/07/2012|Bath County|24|Buffalo Gap|13
+09/07/2012|Battlefield|34|Osbourn Park|13
+09/07/2012|Bayside|27|Green Run|14
+09/07/2012|Benedictine|28|Woodberry Forest|19
+09/07/2012|Bishop Sullivan|35|Portsmouth Christian|28
+09/07/2012|Blacksburg|27|Tazewell|8
+09/07/2012|Booker T. Washington|24|Warwick|21
+09/07/2012|Briar Woods|43|Park View(St)|0
+09/07/2012|Broadway|54|William Monroe|7
+09/07/2012|Brookville|41|William Byrd|20
+09/07/2012|Brunswick Academy|35|Roanoke Catholic|14
+09/07/2012|Buckingham County|57|Prince Edward|0
+09/07/2012|Caroline|42|Henrico|33
+09/07/2012|Castlewood|13|Thomas Walker|8
+09/07/2012|Central(L)|20|William Campbell|13
+09/07/2012|Chilhowie|27|Abingdon|26
+09/07/2012|Christiansburg|55|Carroll County|28
+09/07/2012|Clarke County|35|Stonewall Jackson(Q)|7
+09/07/2012|Collegiate|28|Trinity Epsicopal|0
+09/07/2012|Colonial Forge|38|Albemarle|0
+09/07/2012|Courtland|35|Louisa County|6
+09/07/2012|Covenant|35|Fishburne Military|6
+09/07/2012|Craig County|55|Narrows|14
+09/07/2012|Dan River|41|Bartlett Yancy, NC|30
+09/07/2012|Dominion|34|Heritage(LC)|28
+09/07/2012|Douglas Freeman|18|James River(C)|6
+09/07/2012|East Hardy, WV|41|Auburn|3
+09/07/2012|Essex|41|King William|26
+09/07/2012|Floyd County|49|Patrick County|6
+09/07/2012|Fork Union|28|Goochland|10
+09/07/2012|Fort Chiswell|24|Marion|21
+09/07/2012|Franklin|48|Southampton|6
+09/07/2012|Fredericksburg Christian|52|Quantico|0
+09/07/2012|Fuqua|44|Alliance Christian|6
+09/07/2012|Galax|42|Eastern Montgomery|22
+09/07/2012|Gar-Field|37|John Champe|6
+09/07/2012|George Wythe(W)|44|Radford|31
+09/07/2012|Giles|41|Covington|29
+09/07/2012|Glen Allen|39|J.R. Tucker|15
+09/07/2012|Glenvar|35|James Monroe, WV|7
+09/07/2012|Granby|27|Gloucester|3
+09/07/2012|Grassfield|22|Nansemond River|21
+09/07/2012|Grayson|48|Rural Retreat|19
+09/07/2012|Gretna|17|Tunstall|14
+09/07/2012|Grundy|10|Hurley|8
+09/07/2012|Halifax County|35|Person, NC|19
+09/07/2012|Hampton Christian|20|Kenston Forest|14
+09/07/2012|Hanover|41|Patrick Henry(A)|0
+09/07/2012|Hayfield|49|J.E.B. Stuart|0
+09/07/2012|Heritage(Lyn)|32|E.C. Glass|7
+09/07/2012|Heritage(NN)|41|Norview|10
+09/07/2012|Hermitage|35|Lee-Davis|0
+09/07/2012|Highland Springs|48|Meadowbrook|28
+09/07/2012|Honaker|28|Eastside|21
+09/07/2012|Hopewell|21|Cosby|19
+09/07/2012|C.D. Hylton|42|Patriot|3
+09/07/2012|J.I. Burton|41|Lee|14
+09/07/2012|James Madison|39|W.T. Woodson|13
+09/07/2012|James Monroe|47|Freedom(PW)|0
+09/07/2012|James River(B)|37|Altavista|30
+09/07/2012|Jamestown|23|Tabb|12
+09/07/2012|Jefferson Forest|19|Bassett|15
+09/07/2012|John Battle|44|Holston|3
+09/07/2012|Kecoughtan|27|Denbigh|3
+09/07/2012|Kettle Run|27|Eastern View|0
+09/07/2012|King & Queen|20|Northumberland|8
+09/07/2012|King George|34|Colonial Beach|0
+09/07/2012|Kings Fork|36|Indian River|14
+09/07/2012|L.C. Bird|14|Thomas Dale|7
+09/07/2012|Lafayette|57|New Kent|21
+09/07/2012|Lake Braddock|29|Annandale|25
+09/07/2012|Lakeland|27|Hickory|0
+09/07/2012|Lancaster|48|Middlesex|14
+09/07/2012|Landstown|16|Tallwood|9
+09/07/2012|Langley|14|Thomas Jefferson(A)|6
+09/07/2012|Liberty(Bed)|24|Staunton River|0
+09/07/2012|Liberty Christian|53|Brunswick|14
+09/07/2012|Lord Botetourt|22|Hidden Valley|14
+09/07/2012|Loudoun County|42|Loudoun Valley|7
+09/07/2012|Luray|27|George Mason|0
+09/07/2012|Magna Vista|14|William Fleming|6
+09/07/2012|Manchester|45|Matoaca|30
+09/07/2012|Martinsburg, WV|63|Handley|7
+09/07/2012|Massaponax|13|Stafford|7
+09/07/2012|McLean|36|Falls Church|12
+09/07/2012|Menchville|19|Woodrow Wilson|14
+09/07/2012|Midlothian|29|Powhatan|7
+09/07/2012|Millbrook|55|Jefferson County, WV|6
+09/07/2012|Mills Godwin|20|Monacan|7
+09/07/2012|Monticello|51|George Wythe(R)|12
+09/07/2012|Mount Vernon|31|George Marshall|7
+09/07/2012|Musselman, WV|41|James Wood|0
+09/07/2012|Nandua|26|Windsor|21
+09/07/2012|Norfolk Academy|20|Greenbrier Christian|18
+09/07/2012|Norfolk Christian|50|Hampton Roads|6
+09/07/2012|North Stafford|35|Mountain View|13
+09/07/2012|Northside|24|Cave Spring|7
+09/07/2012|Northwood|34|Twin Valley|10
+09/07/2012|Oakton|28|South County|21
+09/07/2012|Ocean Lakes|28|Cox|14
+09/07/2012|Orange|29|Culpeper County|22
+09/07/2012|Osbourn|17|Forest Park|13
+09/07/2012|Oscar Smith|56|Great Bridge|0
+09/07/2012|Park View(SH)|66|Bluestone|0
+09/07/2012|Parry McCluer|34|Montcalm, WV|14
+09/07/2012|Patrick Henry(GS)|29|Twin Springs|8
+09/07/2012|Patrick Henry(R)|21|Pulaski County|10
+09/07/2012|Petersburg|29|Huguenot|16
+09/07/2012|Phoebus|42|Churchland|0
+09/07/2012|Prince George|14|Clover Hill|7
+09/07/2012|Princess Anne|21|Kempsville|0
+09/07/2012|R.E. Lee(Sp)|20|Thomas Edison|13
+09/07/2012|R.E. Lee(St)|55|Charlottesville|24
+09/07/2012|Rappahannock|35|Mathews|0
+09/07/2012|Richlands|24|Graham|8
+09/07/2012|Riverbend|22|Brooke Point|19
+09/07/2012|Riverheads|56|Nelson County|14
+09/07/2012|Rockbridge County|40|Fort Defiance|3
+09/07/2012|Rustburg|49|Alleghany|38
+09/07/2012|Rye Cove|26|Hancock County, TN|14
+09/07/2012|Salem|31|Franklin County|24
+09/07/2012|Salem(VB)|45|First Colonial|0
+09/07/2012|Sherando|41|Washington, WV|7
+09/07/2012|Skyline|20|Fauquier|9
+09/07/2012|Smithfield|12|Bruton|0
+09/07/2012|South Lakes|21|Herndon|7
+09/07/2012|Spotsylvania|10|Fluvanna|7
+09/07/2012|Stone Bridge|24|Chantilly|8
+09/07/2012|Strasburg|41|Page County|7
+09/07/2012|Stuarts Draft|33|Waynesboro|7
+09/07/2012|Sullivan Central, TN|34|Central(W)|23
+09/07/2012|Sullivan South, TN|49|Gate City|0
+09/07/2012|Tennessee, TN|35|Virginia|0
+09/07/2012|Tuscarora|35|Brentsville District|0
+09/07/2012|Union|34|Lebanon|14
+09/07/2012|Varina|14|Dinwiddie|7
+09/07/2012|Warren County|28|Central(W)|7
+09/07/2012|Washington-Lee|13|Fairfax|7
+09/07/2012|West Point|49|Northampton|0
+09/07/2012|West Potomac|27|Centreville|20
+09/07/2012|West Springfield|38|Robinson|14
+09/07/2012|Western Albemarle|21|Liberty(Beal)|0
+09/07/2012|Western Branch|60|Deep Creek|12
+09/07/2012|Wilson Memorial|40|Spotswood|13
+09/07/2012|Woodbridge|40|Broad Run|22
+09/07/2012|Woodgrove|60|Potomac Falls|21
+09/07/2012|York|34|Warhill|8
+09/07/2012|Yorktown|59|Wakefield|6
