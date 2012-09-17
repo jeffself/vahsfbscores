@@ -411,3 +411,35 @@
 09/07/2012|Woodgrove|60|Potomac Falls|21
 09/07/2012|York|34|Warhill|8
 09/07/2012|Yorktown|59|Wakefield|6
+09/08/2012|Bishop O'Connell|49|Massanutten Military|6
+09/08/2012|Blue Ridge|53|Hargrave Military|13
+09/08/2012|Bullis, MD|43|Bishop Ireton|15
+09/08/2012|Christchurch|27|Nansemond-Suffolk|26
+09/08/2012|Gates County, NC|33|Atlantic Shores|14
+09/08/2012|Hampton|28|Norcom|13
+09/08/2012|Hampton Roads Generals|48|Broadwater|0
+09/08/2012|North Cross|20|Blessed Sacrament-Huguenot|18
+09/08/2012|Paul VI|36|Flint Hill|35
+09/08/2012|Sidwell Friends, DC|35|Randolph-Macon|34
+09/08/2012|St. Stephen's & St. Agnes|14|St. Christopher's|12
+09/08/2012|Virginia Episcopal|29|St. Anne's-Belfield|0
+09/08/2012|Westfield|55|T.C. Williams|28
+09/08/2012|Manassas Park|63|Arcadia|0
+09/08/2012|Poquoson|21|Grafton|20
+09/13/2012|Phoebus|55|Kecoughtan|7
+09/13/2012|Woodside|27|Warwick|21
+09/14/2012|Alleghany|36|Bath County|7
+09/14/2012|Altavista|47|Cumberland|20
+09/14/2012|Annandale|32|J.E.B. Stuart|27
+09/14/2012|Appomattox|50|Randolph-Henry|6
+09/14/2012|Atlee|56|Patrick Henry(A)|35
+09/14/2012|Battlefield|33|Potomac|14
+09/14/2012|Bethel|17|Hampton|13
+09/14/2012|Bluestone|66|Rappahannock County|0
+09/14/2012|Briar Woods|41|Dominion|7
+09/14/2012|Broadway|28|Stuarts Draft|21
+09/14/2012|Brookville|55|William Campbell|7
+09/14/2012|Buckingham County|56|Fluvanna|26
+09/14/2012|Central(L)|41|Chatham|7
+09/14/2012|Central(Wise)|35|Castlewood|14
+09/14/2012|Central(W)|30|John Champe|9
