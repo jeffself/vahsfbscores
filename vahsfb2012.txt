@@ -680,7 +680,7 @@
 09/21/2012|Langley|58|George Marshall|8
 09/21/2012|Lee-Davis|27|Patrick Henry(A)|20
 09/21/2012|Liberty(Beal)|38|Charlottesville|14
-09/21/2012|Liberty Christian Academy|78|Prince Edward|7
+09/21/2012|Liberty Christian|78|Prince Edward|7
 09/21/2012|Luray|35|Buffalo Gap|21
 09/21/2012|Magna Vista|34|Pulaski County|21
 09/21/2012|Manassas Park|48|Madison County|14
@@ -797,7 +797,7 @@
 09/28/2012|Dan River|27|Chatham|21
 09/28/2012|Deep Run|24|Mills Godwin|21
 09/28/2012|Dinwiddie|48|Prince George|8
-09/28/2012|Dominion|20|Park View(S)|15
+09/28/2012|Dominion|20|Park View(St)|15
 09/28/2012|East Rockingham|28|Luray|7
 09/28/2012|Essex|89|Northampton|0
 09/28/2012|First Colonial|10|Kempsville|6
@@ -843,7 +843,7 @@
 09/28/2012|Liberty(Bed)|50|Rustburg|21
 09/28/2012|Liberty Christian|49|Perry, PA|7
 09/28/2012|Loudoun County|48|Woodgrove|7
-09/28/2012|Loudoun Valley|43|Heritage(Lee)|14
+09/28/2012|Loudoun Valley|43|Heritage(LC)|14
 09/28/2012|Madison County|33|George Mason|7
 09/28/2012|Magna Vista|34|Halifax County|28
 09/28/2012|Manassas Park|21|Central(W)|14
@@ -855,7 +855,7 @@
 09/28/2012|Mountain View|37|Albemarle|13
 09/28/2012|Nansemond River|28|Deep Creek|7
 09/28/2012|Nansemond-Suffolk|57|Virginia Episcopal|21
-09/28/2012|Norfolk Academy|55|Hampton Roads|0
+09/28/2012|Norfolk Academy|55|Hampton Roads Academy|0
 09/28/2012|Northwood|35|Bland County|6
 09/28/2012|Oakton|42|R.E. Lee(S)|0
 09/28/2012|Ocean Lakes|21|Salem(VB)|15
@@ -908,11 +908,11 @@
 09/29/2012|Christchurch|28|Pope John Paul the Great|7
 09/29/2012|Collegiate|35|Episcopal|0
 09/29/2012|DeMatha, MD|41|Bishop O'Connell|10
-09/29/2012|Fork Union|33|Valley Forge Military, PA|0
+09/29/2012|Fork Union Military Academy|33|Valley Forge Military, PA|0
 09/29/2012|Lafayette|15|Grafton|7
 09/29/2012|Norcom|19|Churchland|6
 09/29/2012|Norfolk Christian|17|Bishop Sullivan|8
-09/29/2012|North Cross|50|Hargrave Military|37
+09/29/2012|North Cross|50|Hargrave Military Academy|37
 09/29/2012|Phoebus|19|Bethel|17
 09/29/2012|Potomac School|36|St. James, MD|0
 09/29/2012|Randolph-Macon|41|Quantico|14
