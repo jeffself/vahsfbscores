@@ -905,7 +905,7 @@
 09/28/2012|Yorktown|41|J.E.B. Stuart|3
 09/29/2012|Benedictine|35|St. Christopher's|18
 09/29/2012|Broadwater|48|Kenston Forest|20
-09/29/2012|Christchurch|28|Pope John Paul the Great
+09/29/2012|Christchurch|28|Pope John Paul the Great|7
 09/29/2012|Collegiate|35|Episcopal|0
 09/29/2012|DeMatha, MD|41|Bishop O'Connell|10
 09/29/2012|Fork Union|33|Valley Forge Military, PA|0
