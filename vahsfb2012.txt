@@ -1,5 +1,5 @@
-08/23/2012|Battlefield|42|Gar-Field|0
 08/23/2012|Virginia|16|Abingdon|13
+08/23/2012|Battlefield|42|Gar-Field|0
 08/24/2012|Alleghany|42|Covington|13
 08/24/2012|Altavista|51|Randolph-Henry|13
 08/24/2012|Amherst County|32|Northside|6
@@ -374,8 +374,8 @@
 09/07/2012|Phoebus|42|Churchland|0
 09/07/2012|Prince George|14|Clover Hill|7
 09/07/2012|Princess Anne|21|Kempsville|0
-09/07/2012|R.E. Lee(Sp)|20|Thomas Edison|13
-09/07/2012|R.E. Lee(S)|55|Charlottesville|24
+09/07/2012|R.E. Lee(S)|20|Thomas Edison|13
+09/07/2012|R.E. Lee(St)|55|Charlottesville|24
 09/07/2012|Rappahannock|35|Mathews|0
 09/07/2012|Richlands|24|Graham|8
 09/07/2012|Riverbend|22|Brooke Point|19
@@ -538,7 +538,7 @@
 09/14/2012|Oscar Smith|42|Indian River|6
 09/14/2012|Park View(SH)|14|Colonial Heights|13
 09/14/2012|Patrick Henry(R)|35|Blacksburg|13
-09/14/2012|Paul VI|49|Potomac|13
+09/14/2012|Paul VI|49|Potomac School|13
 09/14/2012|Pendleton County, WV|41|Fishburne Military|0
 09/14/2012|Potomac Falls|23|Heritage(LC)|20
 09/14/2012|Prince George|21|Thomas Jefferson(R)|0
@@ -574,7 +574,7 @@
 09/14/2012|Washington & Lee|23|Nandua|0
 09/14/2012|West Point|35|Charles City|32
 09/14/2012|West Potomac|49|South County|39
-09/14/2012|West Springfield|33|R.E. Lee(Sp)|14
+09/14/2012|West Springfield|33|R.E. Lee(S)|14
 09/14/2012|Western Albemarle|35|Fort Defiance|31
 09/14/2012|Western Branch|28|Hickory|3
 09/14/2012|Westfield|49|Lake Braddock|29
@@ -705,8 +705,8 @@
 09/21/2012|Portsmouth Christian|58|Chincoteague|6
 09/21/2012|Potomac|32|Freedom(PW)|0
 09/21/2012|Powhatan|38|Greensville|6
-09/21/2012|R.E. Lee(Sp)|10|W.T. Woodson|7
-09/21/2012|R.E. Lee(S)|24|Fort Defiance|14
+09/21/2012|R.E. Lee(S)|10|W.T. Woodson|7
+09/21/2012|R.E. Lee(St)|24|Fort Defiance|14
 09/21/2012|R.J. Reynolds, NC|14|William Fleming|13
 09/21/2012|Richlands|62|Patrick County|16
 09/21/2012|Riverheads|56|Page County|6
@@ -752,7 +752,7 @@
 09/22/2012|Fredericksburg Christian|35|Randolph-Macon|14
 09/22/2012|Honaker|43|Twin Valley|0
 09/22/2012|Nansemond-Suffolk|28|Bishop Sullivan|20
-09/22/2012|St. Stephen's & St. Agnes|26|Potomac|7
+09/22/2012|St. Stephen's & St. Agnes|26|Potomac School|7
 09/22/2012|South County|60|T.C. Williams|28
 09/22/2012|Virginia Episcopal|27|Atlantic Shores|26
 09/27/2012|Blue Ridge|20|Covenant|13
@@ -857,7 +857,7 @@
 09/28/2012|Nansemond-Suffolk|57|Virginia Episcopal|21
 09/28/2012|Norfolk Academy|55|Hampton Roads|0
 09/28/2012|Northwood|35|Bland County|6
-09/28/2012|Oakton|42|R.E. Lee(Sp)|0
+09/28/2012|Oakton|42|R.E. Lee(S)|0
 09/28/2012|Ocean Lakes|21|Salem(VB)|15
 09/28/2012|Osbourn|30|Potomac|14
 09/28/2012|Oscar Smith|38|Lakeland|9
@@ -914,7 +914,7 @@
 09/29/2012|Norfolk Christian|17|Bishop Sullivan|8
 09/29/2012|North Cross|50|Hargrave Military|37
 09/29/2012|Phoebus|19|Bethel|17
-09/29/2012|Potomac|36|St. James, MD|0
+09/29/2012|Potomac School|36|St. James, MD|0
 09/29/2012|Randolph-Macon|41|Quantico|14
 09/29/2012|St. Mary's Ryken, MD|38|Bishop Ireton|24
 09/29/2012|St. Stephen's & St. Agnes|28|Paul VI|24
