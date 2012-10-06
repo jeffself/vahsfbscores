@@ -223,7 +223,7 @@
 08/31/2012|Powhatan|26|Grafton|21
 08/31/2012|Prince Edward|23|Cumberland|18
 08/31/2012|Pulaski County|21|Northside|20
-08/31/2012|R.E. Lee(S)|14|Wilson Memorial|13
+08/31/2012|R.E. Lee(St)|14|Wilson Memorial|13
 08/31/2012|Rappahannock|24|Surry|0
 08/31/2012|Richlands|32|Union|30
 08/31/2012|Riverbend|25|Courtland|9
@@ -547,7 +547,7 @@
 09/14/2012|Riverbend|16|Mountain View|14
 09/14/2012|Riverheads|56|Parry McCluer|13
 09/14/2012|Robinson|49|T.C. Williams|21
-09/14/2012|Rockbridge County|24|R.E. Lee(S)|7
+09/14/2012|Rockbridge County|24|R.E. Lee(St)|7
 09/14/2012|Rustburg|56|Prince Edward|21
 09/14/2012|St. Christopher's|35|St. Anne's-Belfield|10
 09/14/2012|St. John's Prep, MD|54|Massanutten Military|6
