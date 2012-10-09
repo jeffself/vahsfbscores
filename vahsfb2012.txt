@@ -921,3 +921,175 @@
 09/29/2012|Spotsylvania|31|Culpeper County|28
 09/29/2012|Western Albemarle|28|Monticello|0
 10/01/2012|Bayside|22|Landstown|6
+10/04/2012|Norfolk Academy|32|Covenant|6
+10/04/2012|Phoebus|44|Menchville|3
+10/05/2012|Abingdon|49|Carroll County|28
+10/05/2012|Altavista|28|Chatham|21
+10/05/2012|Amherst County|44|Rustburg|20
+10/05/2012|Battlefield|21|Osbourn|0
+10/05/2012|Bayside|62|Kellam|42
+10/05/2012|Benedictine|38|Paul VI|9
+10/05/2012|Blessed Sacrament-Huguenot|45|Brunswick Academy|20
+10/05/2012|Bluestone|35|Cumberland|24
+10/05/2012|Briar Woods|49|Woodgrove|17
+10/05/2012|Broad Run|34|Patriot|20
+10/05/2012|Broadway|19|Harrisonburg|14
+10/05/2012|Brookville|55|Liberty(Bed)|14
+10/05/2012|Buckingham County|48|Randolph-Henry|0
+10/05/2012|Buffalo Gap|27|Page County|6
+10/05/2012|Castlewood|42|Twin Springs|20
+10/05/2012|Central(L)|42|Amelia County|13
+10/05/2012|Central(W)|62|William Monroe|21
+10/05/2012|Chancellor|35|Eastern View|2
+10/05/2012|Charles City|38|Windsor|14
+10/05/2012|Charlottesville|28|Monticello|7
+10/05/2012|Chincoteague|40|Rappahannock County|0
+10/05/2012|Clarke County|12|Madison County|7
+10/05/2012|Clintwood|41|Lee|6
+10/05/2012|Colonial Forge|35|Mountain View|21
+10/05/2012|Courtland|43|Culpeper County|0
+10/05/2012|Covington|34|Bath County|7
+10/05/2012|Cox|38|Tallwood|7
+10/05/2012|Dan River|59|Nelson County|20
+10/05/2012|Deep Creek|18|Great Bridge|16
+10/05/2012|Deep Run|28|Thomas Jefferson(R)|14
+10/05/2012|Eastside|55|Rye Cove|8
+10/05/2012|Essex|54|Northumberland|0
+10/05/2012|Fairfax|40|George Marshall|12
+10/05/2012|Fauquier|53|Brentsville District|0
+10/05/2012|First Colonial|26|Landstown|7
+10/05/2012|Floyd County|41|Glenvar|37
+10/05/2012|Fluvanna|34|Louisa County|19
+10/05/2012|Fork Union Military Academy|27|St. Christopher's|14
+10/05/2012|Fort Chiswell|37|Galax|36
+10/05/2012|Franklin|54|Surry|6
+10/05/2012|Franklin County|54|William Fleming|14
+10/05/2012|Fredericksburg Christian|42|Hargrave Military Academy|6
+10/05/2012|Fuqua|41|Victory Christian|9
+10/05/2012|George Washington|29|Patrick Henry(R)|26
+10/05/2012|George Wythe(W)|42|Northwood|12
+10/05/2012|Giles|56|Auburn|14
+10/05/2012|Goochland|35|Nottoway|14
+10/05/2012|Grafton|20|Smithfield|7
+10/05/2012|Grassfield|38|Western Branch|7
+10/05/2012|Greenbrier Christian|21|Hampton Roads Academy|18
+10/05/2012|Greensville|19|Southampton|6
+10/05/2012|Gretna|32|William Campbell|14
+10/05/2012|Hampton|60|Gloucester|0
+10/05/2012|Hanover|35|Atlee|32
+10/05/2012|Hayfield|49|Wakefield|6
+10/05/2012|Haysi|50|Thomas Walker|6
+10/05/2012|Heritage(L)|38|Maadisonartinsville|8
+10/05/2012|Hermitage|48|J.R. Tucker|6
+10/05/2012|Hidden Valley|13|Blacksburg|10
+10/05/2012|Highland Springs|34|Glen Allen|0
+10/05/2012|Holston|49|Patrick Henry(GS)|6
+10/05/2012|Hopewell|14|Thomas Dale|7
+10/05/2012|Hurley|34|Tri-Cities Christian, TN|8
+10/05/2012|C.D. Hylton|60|Freedom(PW)|7
+10/05/2012|Isle of Wight|33|Broadwater|20
+10/05/2012|James Madison|17|Thomas Jefferson(A)|3
+10/05/2012|James Monroe|59|Caroline|14
+10/05/2012|Jamestown|33|New Kent|12
+10/05/2012|John Battle|21|Gate City|14
+10/05/2012|Johnson County, TN|26|Central(Wise)|0
+10/05/2012|Kenston Forest|35|Quantico|0
+10/05/2012|Kettle Run|34|Handley|0
+10/05/2012|King George|59|Spotsylvania|0
+10/05/2012|King William|74|Northampton|0
+10/05/2012|L.C. Bird|16|Cosby|7
+10/05/2012|Lafayette|59|Warhill|12
+10/05/2012|Lake Braddock|36|South County|21
+10/05/2012|Lakeland|35|Kings Fork|7
+10/05/2012|Landon, MD|42|Episcopal|14
+10/05/2012|Lee-Davis|42|Henrico|12
+10/05/2012|Loudoun County|54|Park View(St)|0
+10/05/2012|Loudoun Valley|29|Dominion|0
+10/05/2012|Magna Vista|56|Patrick County|0
+10/05/2012|Manassas Park|39|John Champe|0
+10/05/2012|Manchester|41|Clover Hill|7
+10/05/2012|Massanutten Military Academy|70|Carson Long Military, PA|0
+10/05/2012|Massaponax|72|Orange|6
+10/05/2012|Mathews|12|King & Queen|0
+10/05/2012|Matoaca|26|Colonial Heights|6
+10/05/2012|McLean|5|South Lakes|0
+10/05/2012|Meadow Bridge, WV|42|Grundy|3
+10/05/2012|Meadowbrook|41|Dinwiddie|27
+10/05/2012|Midlothian|20|James River(C)|10
+10/05/2012|Monacan|36|George Wythe(R)|0
+10/05/2012|Mount Vernon|28|J.E.B. Stuart|12
+10/05/2012|Nandua|44|Colonel Richardson, MD|0
+10/05/2012|Nansemond-Suffolk|44|Portsmouth Christian|7
+10/05/2012|Nansemond River|46|Indian River|23
+10/05/2012|Narrows|34|Bland County|9
+10/05/2012|North Cross|27|St. Anne's-Belfield|13
+10/05/2012|North Stafford|30|Brooke Point|7
+10/05/2012|Northeastern, NC|48|Wilson|14
+10/05/2012|Northside|30|Alleghany|18
+10/05/2012|Oakton|55|Herndon|7
+10/05/2012|Ocean Lakes|42|Green Run|0
+10/05/2012|Osbourn Park|19|Forest Park|14
+10/05/2012|Oscar Smith|48|Hickory|10
+10/05/2012|Park View(SH)|53|Prince Edward|15
+10/05/2012|Parry McCluer|34|Craig County|28
+10/05/2012|Patrick Henry(A)|45|Douglas Freeman|28
+10/05/2012|Petersburg|33|Prince George|20
+10/05/2012|Potomac|18|Woodbridge|6
+10/05/2012|Pulaski County|17|Christiansburg|14
+10/05/2012|R.E. Lee(St)|50|Waynesboro|15
+10/05/2012|Radford|42|Eastern Montgomery|21
+10/05/2012|Randolph-Macon|28|Fishburne Military Academy|12
+10/05/2012|Rappahannock|35|Colonial Beach|12
+10/05/2012|Richlands|24|Marion|14
+10/05/2012|Riverheads|49|Stonewall Jackson(Q)|21
+10/05/2012|Robinson|28|Centreville|21
+10/05/2012|Rockbridge County|38|Staunton River|17
+10/05/2012|Rural Retreat|24|Chilhowie|21
+10/05/2012|Salem|28|Cave Spring|21
+10/05/2012|Salem(VB)|44|Kempsville|6
+10/05/2012|Sherando|50|James Wood|14
+10/05/2012|Skyline|43|Millbrook|29
+10/05/2012|Stafford|28|Albemarle|22
+10/05/2012|Stone Bridge|27|Langley|6
+10/05/2012|Stonewall Jackson(M)|35|Freedom(LC)|7
+10/05/2012|Strasburg|38|George Mason|20
+10/05/2012|Stuarts Draft|33|Luray|10
+10/05/2012|Sullivan North, TN|41|Union|17
+10/05/2012|Sussex Central|28|Brunswick|14
+10/05/2012|Tabb|42|Bruton|14
+10/05/2012|Tunstall|44|Bassett|23
+10/05/2012|Turner Ashby|19|Spotswood|14
+10/05/2012|Tuscarora|37|Potomac Falls|7
+10/05/2012|Varina|58|Armstrong|6
+10/05/2012|Virginia|35|Tazewell|0
+10/05/2012|Warren County|41|Liberty(Beal)|7
+10/05/2012|Warwick|21|Denbigh|17
+10/05/2012|Washington & Lee|35|Lancaster|0
+10/05/2012|Washington-Lee|34|Falls Church|8
+10/05/2012|West Point|54|Middlesex|12
+10/05/2012|West Potomac|39|R.E. Lee(S)|8
+10/05/2012|West Springfield|33|Annandale|14
+10/05/2012|Western Albemarle|30|Powhatan|10
+10/05/2012|Westfield|24|Chantilly|21
+10/05/2012|William Byrd|29|Lord Botetourt|22
+10/05/2012|Wilson Memorial|41|East Rockingham|13
+10/05/2012|Woodberry Forest|23|Collegiate|15
+10/05/2012|Woodside|20|Kecoughtan|10
+10/05/2012|York|14|Poquoson|7
+10/05/2012|Yorktown|35|Thomas Edison|15
+10/06/2012|Bethel|41|Heritage(NN)|18
+10/06/2012|Blue Ridge|30|St. Stephen's & St. Agnes|26
+10/06/2012|Flint Hill|41|Bishop Ireton|26
+10/06/2012|Granby|36|Churchland|0
+10/06/2012|Grayson|36|Graham|17
+10/06/2012|Hampton Roads Generals|47|Alliance Christian|12
+10/06/2012|Jefferson Forest|42|E.C. Glass|6
+10/06/2012|Lake Taylor|48|Maury|14
+10/06/2012|Mills Godwin|28|John Marshall|6
+10/06/2012|Norfolk Christian|33|Atlantic Shores|25
+10/06/2012|Norview|32|Booker T. Washington|30
+10/06/2012|Pope John Paul the Great|22|Our Lady of Mt. Carmel, MD|14
+10/06/2012|Potomac School|41|Maret, DC|7
+10/06/2012|St. John's, DC|35|Bishop O'Connell|28
+10/06/2012|Trinity Episcopal|24|Bishop Sullivan|0
+10/06/2012|W.T. Woodson|28|T.C. Williams|21
