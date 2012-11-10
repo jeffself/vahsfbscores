@@ -1610,3 +1610,152 @@
 10/30/2012|Lake Taylor|62|Churchland|40
 10/30/2012|Norcom|24|Maury|13
 10/30/2012|Norview|28|Wilson|20
+11/02/2012|Amherst County|46|Liberty(Bed)|14
+11/02/2012|Annandale|28|R.E. Lee(Sp)|21
+11/02/2012|Bassett|20|Magna Vista|19
+11/02/2012|Bath County|27|Pendleton County, WV|14
+11/02/2012|Battlefield|40|Patriot|20
+11/02/2012|Bishop Sullivan|36|Norfolk Academy|26
+11/02/2012|Blue Ridge|35|St. Anne's-Belfield|12
+11/02/2012|Briar Woods|45|Loudoun County|0
+11/02/2012|Broad Run|40|Freedom(LC)|21
+11/02/2012|Broadwater|42|Brunswick Academy|6
+11/02/2012|Brooke Point|41|Mountain View|32
+11/02/2012|Brunswick|18|Greensville|2
+11/02/2012|Bruton|21|New Kent|6
+11/02/2012|Buckingham County|60|Bluestone|8
+11/02/2012|Bullis, MD|48|Episcopal|0
+11/02/2012|Carroll County|43|Patrick County|6
+11/02/2012|Central(L)|46|Randolph-Henry|7
+11/02/2012|Central(W)|25|Strasburg|20
+11/02/2012|Centreville|49|Oakton|28
+11/02/2012|Chancellor|20|James Monroe|17
+11/02/2012|Chantilly|41|Robinson|21
+11/02/2012|Charles City|50|Arcadia|14
+11/02/2012|Chatham|41|Nelson County|0
+11/02/2012|Chilhowie|31|Holston|30
+11/02/2012|Christiansburg|28|Blacksburg|3
+11/02/2012|Churchland|8|Norview|0
+11/02/2012|Clarke County|61|William Monroe|19
+11/02/2012|Clintwood|56|Gate City|28
+11/02/2012|Clover Hill|20|Huguenot|2
+11/02/2012|Colonial Forge|34|Riverbend|14
+11/02/2012|Cosby|60|George Wythe(R)|0
+11/02/2012|Courtland|21|Spotsylvania|7
+11/02/2012|Cox|22|First Colonial|3
+11/02/2012|Culpeper County|52|Caroline|0
+11/02/2012|Dan River|27|Gretna|22
+11/02/2012|Dinwiddie|28|Hopewell|21
+11/02/2012|Douglas Freeman|14|Deep Run|13
+11/02/2012|Eastside|15|Castlewood|12
+11/02/2012|Falls Church|48|J.E.B. Stuart|20
+11/02/2012|Fishburne Military|55|Alliance Christian|6
+11/02/2012|Floyd County|50|Auburn|10
+11/02/2012|Fork Union Military|42|Woodberry Forest|14
+11/02/2012|Fort Chiswell|49|Bland County|7
+11/02/2012|Fort Defiance|35|Turner Ashby|29
+11/02/2012|Franklin|63|Windsor|0
+11/02/2012|Gar-Field|22|Freedom(PW)|15
+11/02/2012|George Washington|35|Halifax County|3
+11/02/2012|George Wythe(W)|36|Rural Retreat|6
+11/02/2012|Giles|41|Radford|14
+11/02/2012|Glenvar|55|Eastern Montgomery|32
+11/02/2012|Goochland|49|Amelia County|27
+11/02/2012|Graham|46|Narrows|8
+11/02/2012|Grassfield|38|Deep Creek|0
+11/02/2012|Grayson|32|Galax|28
+11/02/2012|Green Run|21|Tallwood|16
+11/02/2012|Greenbrier Christian|35|Chincoteague|0
+11/02/2012|Grundy|34|Mount View, WV|32
+11/02/2012|Hampton Christian|40|Fuqua|28
+11/02/2012|Handley|28|James Wood|7
+11/02/2012|Harrisonburg|42|Waynesboro|14
+11/02/2012|Hayfield|47|Thomas Edison|45
+11/02/2012|Henrico|35|Glen Allen|29
+11/02/2012|Heritage(Lyn)|6|E.C. Glass|0
+11/02/2012|Heritage(NN)|31|Denbigh|20
+11/02/2012|Hermitage|58|Thomas Jefferson(R)|6
+11/02/2012|Hickory|51|Great Bridge|10
+11/02/2012|Hidden Valley|21|Cave Spring|12
+11/02/2012|Highland Springs|35|Atlee|21
+11/02/2012|Hurley|46|Twin Valley|21
+11/02/2012|C.D. Hylton|27|Osbourn Park|14
+11/02/2012|Isle of Wight|48|Atlantic Shores|16
+11/02/2012|James Madison|34|George Marshall|14
+11/02/2012|James River(B)|55|Craig County|21
+11/02/2012|John Battle|29|Lebanon|0
+11/02/2012|John Marshall|30|J.R. Tucker|14
+11/02/2012|Kettle Run|31|Brentsville District|0
+11/02/2012|King George|23|Eastern View|21
+11/02/2012|King William|53|King & Queen|0
+11/02/2012|L.C. Bird|42|Thomas Dale|3
+11/02/2012|Lake Braddock|43|West Springfield|9
+11/02/2012|Lakeland|14|Nansemond River|9
+11/02/2012|Lancaster|84|Northumberland|34
+11/02/2012|Landstown|14|Kempsville|6
+11/02/2012|Lee-Davis|47|Armstrong|24
+11/02/2012|Liberty(Beal)|42|Fauquier|28
+11/02/2012|Liberty Christian|55|Benedictine|12
+11/02/2012|Louisa County|32|Western Albemarle|29
+11/02/2012|Luray|38|Page County|14
+11/02/2012|Madison County|28|John Champe|12
+11/02/2012|Manassas Park|54|George Mason|13
+11/02/2012|Manchester|41|James River(C)|6
+11/02/2012|Marion|23|Abingdon|17
+11/02/2012|Massaponax|35|Albemarle|0
+11/02/2012|Matoaca|7|Prince George|0
+11/02/2012|Meadowbrook|56|Colonial Heights|0
+11/02/2012|Midlothian|14|Monacan|7
+11/02/2012|Mills Godwin|26|Patrick Henry(A)|20
+11/02/2012|Monticello|33|R.E. Lee(St)|14
+11/02/2012|Mount Vernon|56|Wakefield|0
+11/02/2012|Nandua|42|Northampton|0
+11/02/2012|Nansemond-Suffolk|44|Hampton Roads|0
+11/02/2012|North Cross|52|Norfolk Christian|7
+11/02/2012|North Stafford|57|Orange|0
+11/02/2012|Northside|28|Lord Botetourt|6
+11/02/2012|Northwood|30|Patrick Henry(GS)|6
+11/02/2012|Nottoway|54|Cumberland|0
+11/02/2012|Ocean Lakes|60|Kellam|14
+11/02/2012|Oscar Smith|42|Kings Fork|35
+11/02/2012|Parry McCluer|18|Covington|0
+11/02/2012|Patrick Henry(R)|26|William Fleming|8
+11/02/2012|Paul VI|42|Bishop O'Connell|20
+11/02/2012|Perry Stret Prep, DC|38|Massanutten Military|26
+11/02/2012|Portsmouth Christian|68|Quantico|0
+11/02/2012|Potomac|19|Forest Park|0
+11/02/2012|Potomac Falls|28|Dominion|17
+11/02/2012|Powhatan|30|Charlottesville|27
+11/02/2012|Riverheads|30|East Rockingham|6
+11/02/2012|Roanoke Catholic|25|Kenston Forest|21
+11/02/2012|Rockbridge County|21|William Byrd|14
+11/02/2012|Rustburg|60|Jefferson Forest|35
+11/02/2012|Salem|28|Pulaski County|14
+11/02/2012|Salem(VB)|48|Princess Anne|7
+11/02/2012|Sherando|33|Millbrook|14
+11/02/2012|Skyline|14|Warren County|12
+11/02/2012|South County|47|W.T. Woodson|13
+11/02/2012|Southampton|28|Prince Edward|26
+11/02/2012|Spotswood|48|Broadway|17
+11/02/2012|Staunton River|35|Alleghany|28
+11/02/2012|Stone Bridge|47|Fairfax|28
+11/02/2012|Stuarts Draft|47|Buffalo Gap|7
+11/02/2012|Sussex Central|44|Surry|8
+11/02/2012|T.C. Williams|13|West Potomac|10
+11/02/2012|Thomas Jefferson(A)|36|South Lakes|0
+11/02/2012|Trinity Episcopal|62|Covenant|46
+11/02/2012|Tunstall|38|Martinsville|0
+11/02/2012|Tuscarora|32|Heritage(Lee)|6
+11/02/2012|Twin Springs|29|Rye Cove|23
+11/02/2012|Union|59|Thomas Walker|12
+11/02/2012|Varina|21|Hanover|20
+11/02/2012|Virginia|42|Lee|8
+11/02/2012|Warhill|27|Jamestown|0
+11/02/2012|Western Branch|47|Indian River|7
+11/02/2012|Westfield|41|Herndon|27
+11/02/2012|William Campbell|26|Appomattox|21
+11/02/2012|Wilson Memorial|42|Stonewall Jackson(Q)|14
+11/02/2012|Woodbridge|17|Stonewall Jackson(M)|7
+11/02/2012|Woodgrove|21|Loudoun Valley|14
+11/02/2012|York|31|Grafton|24
+11/02/2012|Yorktown|35|Washington-Lee|7
