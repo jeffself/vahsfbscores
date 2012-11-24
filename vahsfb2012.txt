@@ -1931,3 +1931,21 @@
 11/16/2012|Blue Ridge|41|Nansemond-Suffolk|16
 11/16/2012|Virginia Episcopal|48|Fredericksburg Christian|20
 11/16/2012|Blessed Sacrament-Huguenot|17|Broadwater Academy|14
+11/23/2012|Ocean Lakes|14|Oscar Smith|10
+11/23/2012|L.C. Bird|36|Varina|27
+11/23/2012|C.D. Hylton|23|Colonial Forge|13
+11/23/2012|Lake Taylor|54|Phoebus|0
+11/23/2012|Hanover|35|Hopewell|7
+11/23/2012|Stone Bridge|69|Yorktown|50
+11/23/2012|Briar Woods|31|Loudoun County|0
+11/23/2012|Heritage(Lyn)|12|Amherst County|7
+11/23/2012|Kettle Run|24|Monticello|21
+11/23/2012|Brookville|28|Rockbridge County|24
+11/23/2012|Tunstall|19|Cave Spring|15
+11/23/2012|Essex|48|Central(W)|28
+11/23/2012|Goochland|63|King William|36
+11/23/2012|John Battle|15|Fort Chiswell|14
+11/23/2012|Wilson Memorial|27|Stuarts Draft|12
+11/23/2012|Franklin|41|Altavista|11
+11/23/2012|Sussex Central|26|Central(L)|18
+11/23/2012|George Wythe(W)|7|Clintwood|0
