@@ -1949,3 +1949,9 @@
 11/23/2012|Franklin|41|Altavista|11
 11/23/2012|Sussex Central|26|Central(L)|18
 11/23/2012|George Wythe(W)|7|Clintwood|0
+11/24/2012|Oakton|23|Westfield|16
+11/24/2012|North Stafford|49|Mountain View|12
+11/24/2012|Courtland|18|Smithfield|15
+11/24/2012|Salem|21|Christiansburg|7
+11/24/2012|James Monroe|36|Park View(SH)|0
+11/24/2012|Honaker|17|J.I. Burton|0
