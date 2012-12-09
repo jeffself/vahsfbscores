@@ -1955,3 +1955,21 @@
 11/24/2012|Salem|21|Christiansburg|7
 11/24/2012|James Monroe|36|Park View(SH)|0
 11/24/2012|Honaker|17|J.I. Burton|0
+12/01/2012|Ocean Lakes|21|C.D. Hylton|14
+12/01/2012|L.C. Bird|41|Oakton|17
+12/01/2012|Lake Taylor|23|North Stafford|21
+12/01/2012|Stone Bridge|28|Hanover|21
+12/01/2012|Briar Woods|45|Courtland|15
+12/01/2012|Heritage(Lyn)|24|Salem|16
+12/01/2012|James Monroe|37|Kettle Run|30
+12/01/2012|Brookville|31|Tunstall|7
+12/01/2012|Goochland|35|Wilson Memorial|0
+12/01/2012|George Wythe(W)|27|Franklin|21
+12/01/2012|Essex|40|John Battle|9
+12/01/2012|Honaker|48|Sussex Central|40
+12/08/2012|L.C. Bird|14|Ocean Lakes|10
+12/08/2012|Lake Taylor|20|Stone Bridge|14
+12/08/2012|Briar Woods|52|Heritage(Lyn)|0
+12/08/2012|Brookville|24|James Monroe|14
+12/08/2012|Goochland|41|Essex|14
+12/08/2012|George Wythe(W)|17|Honaker|10
