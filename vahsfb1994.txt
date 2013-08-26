@@ -1,158 +1,148 @@
-08/26/1994
-Bayside 20 First Colonial 17
-Deep Creek 13 Booker T. Washington 12
-Norcom 27 Churchland 19
-Granby 22 Wilson 19
-Indian River 22 Norview 8
-Lake Taylor 30 Salem 7
-Maury 25 Oscar Smith 7
-Princess Anne 56 Ocean Lakes 0
-Hampton 34 Kecoughtan 28
+08/26/1994|Bayside|20|First Colonial|17
+08/26/1994|Deep Creek|13|Booker T. Washington|12
+08/26/1994|Granby|22|Wilson|19
+08/26/1994|Tallwood|14|Great Bridge|3
+08/26/1994|Maury|25|Oscar Smith|7
+08/26/1994|Princess Anne|56|Ocean Lakes|0
 
-09/02/1994
-09/02/1994|Tallwood|14|Great Bridge|3
-Booker T. Washington 35 Oscar Smith 6
-Ocean Lakes 13 Cox 12
-Western Branch 55 Granby 21
-Green Run 41 Maury 6
-Norview 63 Kellam 7
-Wilson 19 Lake Taylor 14
-Norcom 15 Western Branch 13
-Tallwood 21 Princess Anne 7
-Hampton 41 Lafayette 0
+09/02/1994|Booker T. Washington|35|Oscar Smith|6
+09/02/1994|Great Bridge|33|Kempsville|18
+09/02/1994|Green Run|41|Maury|6
+09/02/1994|Indian River|22|Norview|8
+09/02/1994|Lake Taylor|30|Salem|7
+09/02/1994|Norcom|27|Churchland|19
+09/02/1994|Ocean Lakes|13|Cox|12
+09/02/1994|Western Branch|55|Granby|21
+09/02/1994|Wilson|19|Lake Taylor|14
 
-09/09/1994
-09/09/1994|Great Bridge|33|Kempsville|18
-Green Run 20 Bayside 13
-Booker T. Washington 8 Lake Taylor 6
-Granby 35 Cox 0
-Deep Creek 34 Wilson 6
-Kempsville 21 First Colonial 14
-Indian River 37 Maury 3
-Salem 39 Kellam 0
-Norcom 26 Oscar Smith 0
-Norview 49 Ocean Lakes 0
-Hampton 26 Menchville 7
+09/09/1994|Booker T. Washington|8|Lake Taylor|6
+09/09/1994|Churchland|20|Great Bridge|0
+09/09/1994|Deep Creek|34|Wilson|6
+09/09/1994|Granby|35|Cox|0
+09/09/1994|Green Run|20|Bayside|13
+09/09/1994|Hampton|34|Kecoughtan|28
+09/09/1994|Kempsville|21|First Colonial|14
+09/09/1994|Norcom|15|Western Branch|13
+09/09/1994|Norview|63|Kellam|7
+09/09/1994|Tallwood|21|Princess Anne|7
 
-09/16/1994
-09/16/1994|Churchland|20|Great Bridge|0
-Booker T. Washington 40 Bayside 0
-Churchland 29 Western Branch 28
-Cox 34 Kellam 13
-Deep Creek 27 Granby 13
-First Colonial 37 Maury 19
-Green Run 63 Ocean Lakes 0
-Lake Taylor 7 Indian River 0
-Kempsville 34 Princess Anne 10
-Tallwood 29 Salem 10
-Hampton 37 Bethel 6
+09/16/1994|Booker T. Washington|40|Bayside|0
+09/16/1994|Cox|34|Kellam|13
+09/16/1994|Great Bridge|17|Wilson|6
+09/16/1994|Green Run|63|Ocean Lakes|0
+09/16/1994|Hampton|41|Lafayette|0
+09/16/1994|Indian River|37|Maury|3
+09/16/1994|Kempsville|34|Princess Anne|10
+09/16/1994|Lake Taylor|7|Indian River|0
+09/16/1994|Norcom|26|Oscar Smith|0
+09/16/1994|Norview|49|Ocean Lakes|0
+09/16/1994|Salem|39|Kellam|0
+09/16/1994|Tallwood|29|Salem|10
 
-09/23/1994
-09/23/1994|Great Bridge|17|Wilson|6
-Bayside 21 Princess Anne 20
-Deep Creek 35 Churchland 0
-Green Run 21 First Colonial 9
-Granby 14 Oscar Smith 2
-Indian River 6 Wilson 0
-Ocean Lakes 14 Kellam 13
-Kempsville 18 Salem 3
-Lake Taylor 10 Norview 7
-Western Branch 50 Maury 7
-Tallwood 21 Cox 0
+09/23/1994|Bayside|21|Princess Anne|20
+09/23/1994|Churchland|29|Western Branch|28
+09/23/1994|Deep Creek|27|Granby|13
+09/23/1994|First Colonial|37|Maury|19
+09/23/1994|Green Run|21|First Colonial|9
+09/23/1994|Hampton|26|Menchville|7
+09/23/1994|Kempsville|18|Salem|3
+09/23/1994|Lake Taylor|10|Norview|7
+09/23/1994|Norcom|23|Great Bridge|7
+09/23/1994|Ocean Lakes|14|Kellam|13
+09/23/1994|Tallwood|21|Cox|0
 
-09/30/1994
-09/30/1994|Norcom|23|Great Bridge|7
-Bayside 7 Salem 0
-Churchland 40 Oscar Smith 14
-Kempsville 35 Cox 0
-Deep Creek 21 Lake Taylor 0
-First Colonial 36 Ocean Lakes 8
-Booker T. Washington 36 Granby 26
-Green Run 35 Princess Anne 11
-Indian River 14 Norcom 13
-Tallwood 35 Kellam 0
-Western Branch 48 Wilson 26
-Hampton 29 Tabb 28
+09/30/1994|Bayside|7|Salem|0
+09/30/1994|Deep Creek|35|Churchland|0
+09/30/1994|First Colonial|36|Ocean Lakes|8
+09/30/1994|Granby|14|Oscar Smith|2
+09/30/1994|Green Run|35|Princess Anne|11
+09/30/1994|Hampton|37|Bethel|6
+09/30/1994|Indian River|6|Wilson|0
+09/30/1994|Kempsville|35|Cox|0
+09/30/1994|Norview|33|Great Bridge|21
+09/30/1994|Tallwood|35|Kellam|0
+09/30/1994|Western Branch|50|Maury|7
 
-10/07/1994
-10/07/1994|Norview|33|Great Bridge|21
-Bayside 36 Cox 12
-Deep Creek 16 Indian River 8
-First Colonial 34 Princess Anne 26
-Green Run 2 Salem 0
-Kempsville 46 Kellam 0
-Norview 20 Maury 6
-Tallwood 47 Ocean Lakes 0
-Oscar Smith 26 Wilson 15
-Hampton 40 Denbigh 29
+10/07/1994|Bayside|36|Cox|12
+10/07/1994|Booker T. Washington|36|Granby|26
+10/07/1994|Churchland|40|Oscar Smith|14
+10/07/1994|Deep Creek|21|Lake Taylor|0
+10/07/1994|First Colonial|34|Princess Anne|26
+10/07/1994|Green Run|2|Salem|0
+10/07/1994|Hampton|29|Tabb|28
+10/07/1994|Indian River|14|Norcom|13
+10/07/1994|Kempsville|46|Kellam|0
+10/07/1994|Norview|20|Maury|6
+10/07/1994|Tallwood|47|Ocean Lakes|0
+10/07/1994|Western Branch|48|Wilson|26
 
-10/14/1994
+10/14/1994|Bayside|36|Kellam|16
+10/14/1994|Deep Creek|16|Indian River|8
+10/14/1994|First Colonial|31|Salem|12
+10/14/1994|Green Run|34|Cox|9
+10/14/1994|Hampton|40|Denbigh|29
+10/14/1994|Kempsville|17|Tallwood|0
+10/14/1994|Lake Taylor|25|Churchland|7
+10/14/1994|Norcom|15|Booker T. Washington|0
+10/14/1994|Oscar Smith|26|Wilson|15
+10/14/1994|Princess Anne|23|Maury|13
 10/14/1994|Western Branch|41|Great Bridge|23
-Bayside 36 Kellam 16
-Norcom 15 Booker T. Washington 0
-Lake Taylor 25 Churchland 7
-Green Run 34 Cox 9
-Deep Creek 26 Oscar Smith 7
-First Colonial 31 Salem 12
-Granby 34 Norview 16
-Kempsville 17 Tallwood 0
-Princess Anne 23 Maury 13
-Hampton 35 Warwick 14
 
-10/21/1994
-Indian River|42|Great Bridge|22
-Tallwood 14 Bayside 7
-Churchland 49 Booker T. Washington 29
-First Colonial 34 Cox 14
-Green Run 49 Kellam 3
-Kempsville 56 Ocean Lakes 0
-Western Branch 36 Lake Taylor 21
-Norcom 60 Wilson 0
-Salem 28 Princess Anne 19
+10/21/1994|Churchland|49|Booker T. Washington|29
+10/21/1994|Deep Creek|26|Oscar Smith|7
+10/21/1994|First Colonial|34|Cox|14
+10/21/1994|Granby|34|Norview|16
+10/21/1994|Green Run|49|Kellam|3
+10/21/1994|Hampton|35|Warwick|14
+10/21/1994|Indian River|42|Great Bridge|22
+10/21/1994|Kempsville|56|Ocean Lakes|0
+10/21/1994|Norcom|60|Wilson|0
+10/21/1994|Salem|28|Princess Anne|19
+10/21/1994|Tallwood|14|Bayside|7
+10/21/1994|Western Branch|36|Lake Taylor|21
 
-10/28/1994
+10/28/1994|Booker T. Washington|46|Maury|7
+10/28/1994|Churchland|41|Norview|10
+10/28/1994|Deep Creek|21|Norcom|3
+10/28/1994|First Colonial|42|Kellam|7
 10/28/1994|Great Bridge|28|Oscar Smith|19
-Kempsville 32 Bayside 27
-Booker T. Washington 46 Maury 7
-Churchland 41 Norview 10
-Princess Anne 47 Cox 13
-Deep Creek 21 Norcom 3
-First Colonial 42 Kellam 7
-Lake Taylor 23 Granby 15
-Green Run 37 Tallwood 19
-Salem 30 Ocean Lakes 0
-Hampton 21 Ferguson 17
-Western Branch 30 Indian River 19
+10/28/1994|Green Run|37|Tallwood|19
+10/28/1994|Hampton|21|Ferguson|17
+10/28/1994|Kempsville|32|Bayside|27
+10/28/1994|Lake Taylor|23|Granby|15
+10/28/1994|Princess Anne|47|Cox|13
+10/28/1994|Salem|30|Ocean Lakes|0
+10/28/1994|Western Branch|30|Indian River|19
 
-11/04/1994
+11/04/1994|Bayside|39|Ocean Lakes|8
 11/04/1994|Deep Creek|13|Great Bridge|0
-Bayside 39 Ocean Lakes 8
-Wilson 23 Booker T. Washington 21
-Indian River 28 Churchland 12
-Salem 21 Cox 6
-Granby 20 Maury 15
-Norcom 29 Norview 6
-Hampton 22 Phoebus 21
-Western Branch 35 Oscar Smith 8
+11/04/1994|Granby|20|Maury|15
+11/04/1994|Hampton|22|Phoebus|21
+11/04/1994|Indian River|28|Churchland|12
+11/04/1994|Norcom|29|Norview|6
+11/04/1994|Salem|21|Cox|6
+11/04/1994|Western Branch|35|Oscar Smith|8
+11/04/1994|Wilson|23|Booker T. Washington|21
 
-11/11/1994
+11/11/1994|Booker T. Washington|60|Norview|20
+11/11/1994|Churchland|41|Wilson|14
 11/11/1994|Deep Creek|28|Western Branch|21
-First Colonial|20|Tallwood|15
-Princess Anne 45 Kellam 25
-Kempsville|21|Green Run|20
-Hampton 58 Gloucester 6
-Booker T. Washington 60 Norview 20
-Churchland 41 Wilson 14
-Norcom 27 Granby 0
-Indian River 21 Oscar Smith 6
-Lake Taylor 25 Maury 0
+11/11/1994|First Colonial|20|Tallwood|15
+11/11/1994|Hampton|58|Gloucester|6
+11/11/1994|Indian River|21|Oscar Smith|6
+11/11/1994|Kempsville|21|Green Run|20
+11/11/1994|Lake Taylor|25|Maury|0
+11/11/1994|Norcom|27|Granby|0
+11/11/1994|Princess Anne|45|Kellam|25
 
 11/18/1994|Hampton|34|Booker T. Washington|26
 11/18/1994|Deep Creek|36|Phoebus|19
 11/18/1994|Indian River|30|Green Run|9
 11/18/1994|Kempsville|6|Tallwood|3
+
 11/26/1994|Deep Creek|48|Hampton|42
 11/26/1994|Indian River|20|Kempsville|17
+
 12/03/1994|Annandale|37|L.C. Bird|0
 12/03/1994|George Washington|13|Indian River|10
 12/03/1994|Patrick Henry(A)|35|Fairfax|14
@@ -165,6 +155,7 @@ Lake Taylor 25 Maury 0
 12/03/1994|Sussex Central|20|Powhatan|6
 12/03/1994|Appalachia|30|Narrows|6
 12/03/1994|Middlesex|33|Buffalo Gap|28
+
 12/10/1994|Annandale|47|George Washington|41
 12/10/1994|Patrick Henry(A)|21|Deep Creek|7
 12/10/1994|Spotsylvania|26|Amherst County|0
