@@ -12,7 +12,7 @@
 09/01/1995|Oscar Smith|14|Maury|0
 09/01/1995|Tallwood|28|Great Bridge|16
 
-09/08/1995|Atlantic Shores Christian|Nansemond-Suffolk|12
+09/08/1995|Atlantic Shores Christian|35|Nansemond-Suffolk|12
 09/08/1995|Booker T. Washington|10|Oscar Smith|8
 09/08/1995|Central(L)|15|Lakeland|14
 09/08/1995|Cox|21|Ocean Lakes|20
@@ -56,7 +56,7 @@
 09/22/1995|Nansemond River|23|Franklin|8
 09/22/1995|Norfolk Academy|28|St. Christopher's|0
 09/22/1995|Oscar Smith|14|Norcom|6
-09/22/1995|Salem|6|Tallwood|3
+09/22/1995|Salem|3|Tallwood|0
 09/22/1995|Southampton|20|Lakeland|14
 09/22/1995|Western Branch|38|Churchland|13
 
@@ -78,7 +78,6 @@
 09/29/1995|Tallwood|38|Cox|8
 09/29/1995|Western Branch|33|Maury|6
 
-6
 10/06/1995|Atlantic Shores Christian|20|Lynchburg Christian|7
 10/06/1995|Booker T. Washington|17|Granby|12
 10/06/1995|Churchland|14|Oscar Smith|8
@@ -87,6 +86,8 @@
 10/06/1995|Greenbrier Christian|26|Hampton Roads Academy|8
 10/06/1995|Indian River|26|Norcom|20
 10/06/1995|Kempsville|31|Cox|20
+10/06/1995|Lakeland|47|Smithfield|6
+10/06/1995|Nansemond River|22|Poquoson|3
 10/06/1995|Nansemond-Suffolk|8|Catholic|0
 10/06/1995|Norview|40|Great Bridge|30
 10/06/1995|Ocean Lakes|22|First Colonial|14
@@ -94,49 +95,77 @@
 10/06/1995|Tallwood|48|Kellam|0
 10/06/1995|Western Branch|34|Wilson|13
 
-7
 10/13/1995|Atlantic Shores Christian|27|Chincoteague|12
 10/13/1995|Booker T. Washington|19|Norcom|6
 10/13/1995|Catholic|20|Hampton Roads Academy|13
 10/13/1995|Churchland|15|Lake Taylor|13
 10/13/1995|Cox|7|Bayside|6
 10/13/1995|Deep Creek|34|Indian River|20
+10/13/1995|Green Run|42|Salem|15
+10/13/1995|Kempsville|28|Kellam|20
+10/13/1995|Lakeland|45|Franklin|8
+10/13/1995|Maury|24|Norview|14
+10/13/1995|Nansemond River|47|Smithfield|6
 10/13/1995|Norfolk Academy|41|Nansemond-Suffolk|0
+10/13/1995|Oscar Smith|22|Wilson|3
+10/13/1995|Princess Anne|18|First Colonial|3
+10/13/1995|Quantico|66|Greenbrier Christian|19
+10/13/1995|Tallwood|43|Ocean Lakes|6
 10/13/1995|Western Branch|43|Great Bridge|14
 
-8
 10/20/1995|Atlantic Shores Christian|29|Colonial Beach|12
 10/20/1995|Bayside|46|Kellam|17
 10/20/1995|Booker T. Washington|21|Churchland|10
 10/20/1995|Deep Creek|28|Oscar Smith|12
 10/20/1995|Fuqua|42|Catholic|18
 10/20/1995|Green Run|35|Cox|3
+10/20/1995|Huguenot Academy|22|Greenbrier Christian|7
+10/20/1995|Indian River|7|Great Bridge|0
 10/20/1995|Lake Taylor|22|Western Branch|14
+10/20/1995|Lakeland|42|Bruton|14
+10/20/1995|Nansemond River|13|York|7
+10/20/1995|Nansemond-Suffolk|15|Hampton Roads Academy|7
+10/20/1995|Norcom|16|Wilson|6
+10/20/1995|Norview|33|Granby|14
+10/20/1995|Ocean Lakes|18|Kempsville|14
+10/20/1995|Princess Anne|31|Maury|24
+10/20/1995|Salem|22|First Colonial|0
+10/20/1995|Tallwood|16|Kempsville|0
 10/20/1995|Woodberry Forest|28|Norfolk Academy|14
 
-9
-10/27/1995|Atlantic Shores Christian|36|Hampton Roads Christian|0
+10/27/1995|Atlantic Shores Christian|36|Hampton Roads Academy|0
 10/27/1995|Booker T. Washington|20|Maury|0
+10/27/1995|Broadwater|8|Greenbrier Christian|6
 10/27/1995|Churchland|14|Norview|6
 10/27/1995|Collegiate|12|Norfolk Academy|9
 10/27/1995|Cox|28|First Colonial|7
 10/27/1995|Deep Creek|38|Norcom|6
+10/27/1995|Granby|14|Lake Taylor|0
+10/27/1995|Green Run|57|Kellam|0
+10/27/1995|Lakeland|48|York|10
+10/27/1995|Nansemond River|20|Bruton|14
+10/27/1995|Northampton|33|Nansemond-Suffolk|0
+10/27/1995|Oscar Smith|25|Great Bridge|6
+10/27/1995|Salem|34|Princess Anne|20
 10/27/1995|Tallwood|20|Bayside|7
 10/27/1995|Western Branch|21|Indian River|0
 
-10
 11/03/1995|Atlantic Shores Christian|21|Blue Ridge Academy|11
 11/03/1995|Booker T. Washington|21|Wilson|6
 11/03/1995|Collegiate|47|Catholic|14
-11/03/1995|Deep Creek|9|Great Bridge|0
+11/03/1995|Deep Creek|34|Great Bridge|0
+11/03/1995|First Colonial|28|Kellam|0
 11/03/1995|Fork Union|32|Norfolk Academy|3
+11/03/1995|Granby|20|Maury|0
+11/03/1995|Green Run|28|Tallwood|7
 11/03/1995|Indian River|21|Churchland|7
 11/03/1995|Kempsville|34|Bayside|21
 11/03/1995|Nansemond-Suffolk|14|Greenbrier Christian|0
+11/03/1995|Norcom|28|Norview|0
 11/03/1995|Princess Anne|34|Cox|14
+11/03/1995|Salem|16|Ocean Lakes|0
 11/03/1995|Western Branch|32|Oscar Smith|8
 
-11
 11/10/1995|Booker T. Washington|28|Norview|26
 11/10/1995|Churchland|40|Wilson|0
 11/10/1995|Cox|22|Salem|15
