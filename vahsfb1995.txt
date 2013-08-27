@@ -1,125 +1,113 @@
-Bayside 17	Princess Anne 15
-Bayside 46	Kellam 17
-Booker T. Washington 10	Oscar Smith 8
-Booker T. Washington 19	Lake Taylor 0
-Booker T. Washington 14	Bayside 6
-Booker T. Washington 17	Granby 12
-Booker T. Washington 19	Norcom 6
-Booker T. Washington 21	Churchland 10
-Booker T. Washington 20	Maury 0
-Booker T. Washington 21	Wilson 6
-Booker T. Washington 28	Norview 26
-Churchland 41	Norcom 6
-Churchland 36	Great Bridge 20
-Churchland 14	Oscar Smith 8
-Churchland 15	Lake Taylor 13
-Churchland 14	Norview 6
-Churchland 40	Wilson 0
-Cox 21	Ocean Lakes 20
-Cox 26	Kellam 17
-Cox 7	Bayside 6
-Cox 28	First Colonial 7
-Cox 22	Salem 15
-Deep Creek 20	Booker T. Washington 7
-Deep Creek 29	Churchland 21
-Deep Creek 42	Wilson 0
-Deep Creek 17	Granby 6
-Deep Creek 29	Lake Taylor 0
-Deep Creek 34	Indian River 20
-Deep Creek 28	Oscar Smith 12
-Deep Creek 38	Norcom 6
-Deep Creek 34	Great Bridge 0
-Deep Creek 38	Western Branch 0
-First Colonial 16	Bayside 10
-First Colonial 28	Kellam 0
-Granby 26	Cox 0
-Granby 6	Wilson 0
-Granby 20	Oscar Smith 6
-Granby 14	Lake Taylor 0
-Granby 20	Maury 0
-Granby 12	Norcom 0
-Great Bridge 25	Wilson 0
-Green Run 37	Bayside 0
-Green Run 35	Cox 3
-Green Run 48	First Colonial 17
-Green Run 39	Maury 6
-Green Run 34	Ocean Lakes 6
-Green Run 51	Princess Anne 13
-Green Run 42	Salem 15
-Green Run 57	Kellam 0
-Green Run 28	Tallwood 7
-Green Run 28	Kempsville 14
-Indian River 21	Churchland 7
-Indian River 7	Great Bridge 0
-Indian River 13	Norview 6
-Indian River 47	Maury 6
-Indian River 20	Lake Taylor 0
-Indian River 46	Wilson 2
-Indian River 26	Norcom 20
-Indian River 43	Oscar Smith 14
-Kellam 9	Norview 8
-Kempsville 34	First Colonial 19
-Kempsville 34	Bayside 21
-Kempsville 31	Cox 20
-Kempsville 26	Great Bridge 6
-Kempsville 28	Kellam 20
-Kempsville 37	Princess Anne 12
-Kempsville 26	Salem 23
-Lake Taylor 21	Salem 7
-Lake Taylor 21	Wilson 20
-Lake Taylor 22	Western Branch 14
-Maury 7	First Colonial 0
-Maury 21	Lake Taylor 18
-Maury 24	Norview 14
-Norcom 13	Great Bridge 12
-Norcom 16	Wilson 6
-Norcom 28	Norview 0
-Norview 40	Great Bridge 30
-Norview 28	Lake Taylor 23
-Norview 33	Granby 14
-Norview 21	Ocean Lakes 20
-Ocean Lakes 34	Bayside 19
-Ocean Lakes 22	First Colonial 14
-Ocean Lakes 41	Kellam 14
-Ocean Lakes 18	Kempsville 14
-Ocean Lakes 30	Princess Anne 27
-Oscar Smith 25	Great Bridge 6
-Oscar Smith 14	Maury 0
-Oscar Smith 14	Norcom 6
-Oscar Smith 22	Wilson 3
-Princess Anne 34	Cox 14
-Princess Anne 18	First Colonial 3
-Princess Anne 51	Kellam 14
-Princess Anne 20	Maury 0
-Salem 35	Bayside 28
-Salem 22	First Colonial 0
-Salem 30	Kellam 14
-Salem 16	Ocean Lakes 0
-Salem 34	Princess Anne 20
-Salem 3	Tallwood 0
-Tallwood 20	Bayside 7
-Tallwood 38	Cox 8
-Tallwood 42	First Colonial 0
-Tallwood 28	Great Bridge 16
-Tallwood 48	Kellam 0
-Tallwood 16	Kempsville 0
-Tallwood 43	Ocean Lakes 6
-Tallwood 40	Princess Anne 0
-Western Branch 38	Churchland 13
-Western Branch 28	Granby 20
-Western Branch 43	Great Bridge 14
-Western Branch 21	Indian River 0
-Western Branch 34	Wilson 13
-Western Branch 33	Maury 6
-Western Branch 20	Norcom 13
-Western Branch 32	Oscar Smith 8
+09/01/1995|Atlantic Shores Christian|21|Isle of Wight|0
+09/01/1995|Catholic|21|Christchurch|0
+09/01/1995|Churchland|41|Norcom|6
+09/01/1995|Deep Creek|20|Booker T. Washington|7
+09/01/1995|First Colonial|16|Bayside|10
+09/01/1995|Granby|6|Wilson|0
+09/01/1995|Green Run|39|Maury|6
+09/01/1995|Greenbrier Christian|38|Isle of Wight|8
+09/01/1995|Indian River|13|Norview|6
+09/01/1995|Lake Taylor|21|Salem|7
+09/01/1995|Lakeland|21|Nansemond River|14
+09/01/1995|Ocean Lakes|30|Princess Anne|27
+09/01/1995|Oscar Smith|14|Maury|0
+09/01/1995|Tallwood|28|Great Bridge|16
 
+09/08/1995|Atlantic Shores Christian|Nansemond-Suffolk|12
+09/08/1995|Booker T. Washington|10|Oscar Smith|8
+09/08/1995|Cox|21|Ocean Lakes|20
+09/08/1995|Green Run|37|Bayside|0
+09/08/1995|Greenbrier Christian|34|Catholic|0
+09/08/1995|Kellam|9|Norview|8
+09/08/1995|Kempsville|26|Great Bridge|6
+09/08/1995|Norfolk Academy|46|Hampton Roads Academy|20
+09/08/1995|Western Branch|28|Granby|20
+
+09/15/1995|Booker T. Washington|19|Lake Taylor|0
+09/15/1995|Churchland|36|Great Bridge|20
+09/15/1995|Deep Creek|42|Wilson|0
+09/15/1995|Granby|26|Cox|0
+09/15/1995|Norfolk Academy|28|Atlantic Shores Christian|15
+09/15/1995|Western Branch|20|Norcom|13
+
+09/22/1995|Atlantic Shores Christian|21|Catholic|13
+09/22/1995|Booker T. Washington|14|Bayside|6
+09/22/1995|Cox|26|Kellam|17
+09/22/1995|Deep Creek|17|Granby|6
+09/22/1995|Western Branch|38|Churchland|13
+
+09/29/1995|Bayside|17|Princess Anne|15
+09/29/1995|Benedictine|40|Catholic|0
+09/29/1995|Deep Creek|29|Churchland|21
+09/29/1995|Riverdale|13|Atlantic Shores Christian|12
+09/29/1995|Tallwood|38|Cox|8
+09/29/1995|Western Branch|33|Maury|6
+
+10/06/1995|Atlantic Shores Christian|20|Lynchburg Christian|7
+10/06/1995|Booker T. Washington|17|Granby|12
+10/06/1995|Churchland|14|Oscar Smith|8
+10/06/1995|Deep Creek|29|Lake Taylor|0
+10/06/1995|Kempsville|31|Cox|20
+10/06/1995|Nansemond-Suffolk|8|Catholic|0
+10/06/1995|Salem|35|Bayside|28
+10/06/1995|Western Branch|34|Wilson|13
+
+10/13/1995|Atlantic Shores Christian|27|Chincoteague|12
+10/13/1995|Booker T. Washington|19|Norcom|6
+10/13/1995|Catholic|20|Hampton Roads Academy|13
+10/13/1995|Churchland|15|Lake Taylor|13
+10/13/1995|Cox|7|Bayside|6
+10/13/1995|Deep Creek|34|Indian River|20
+10/13/1995|Western Branch|43|Great Bridge|14
+
+10/20/1995|Atlantic Shores Christian|29|Colonial Beach|12
+10/20/1995|Bayside|46|Kellam|17
+10/20/1995|Booker T. Washington|21|Churchland|10
+10/20/1995|Deep Creek|28|Oscar Smith|12
+10/20/1995|Fuqua|42|Catholic|18
+10/20/1995|Green Run|35|Cox|3
+10/20/1995|Lake Taylor|22|Western Branch|14
+
+10/27/1995|Atlantic Shores Christian|36|Hampton Roads Christian|0
+10/27/1995|Booker T. Washington|20|Maury|0
+10/27/1995|Churchland|14|Norview|6
+10/27/1995|Collegiate|47|Catholic|14
+10/27/1995|Cox|28|First Colonial|7
+10/27/1995|Deep Creek|38|Norcom|6
+10/27/1995|Tallwood|20|Bayside|7
+10/27/1995|Western Branch|21|Indian River|0
+
+11/03/1995|Atlantic Shores Christian|21|Blue Ridge Academy|11
+11/03/1995|Booker T. Washington|21|Wilson|6
+11/03/1995|Deep Creek|9|Great Bridge|0
+11/03/1995|Indian River|21|Churchland|7
+11/03/1995|Kempsville|34|Bayside|21
+11/03/1995|Nansemond-Suffolk|14|Greenbrier Christian|0
+11/03/1995|Norfolk Academy|48|Catholic|8
+11/03/1995|Princess Anne|34|Cox|14
+11/03/1995|Western Branch|32|Oscar Smith|8
+
+11/10/1995|Booker T. Washington|28|Norview|26
+11/10/1995|Churchland|40|Wilson|0
+11/10/1995|Cox|22|Salem|15
+11/10/1995|Deep Creek|38|Western Branch|0
+11/10/1995|Granby|12|Norcom|0
+11/10/1995|Green Run|28|Kempsville|14
+11/10/1995|Indian River|43|Oscar Smith|14
+11/10/1995|Lakeland|34|Nansemond River|20
+11/10/1995|Maury|21|Lake Taylor|18
+11/10/1995|Ocean Lakes|34|Bayside|19
+11/10/1995|Princess Anne|51|Kellam|14
+11/10/1995|Tallwood|42|First Colonial|0
+
+11/17/1995|Deep Creek|20|Kecoughtan|7
 11/17/1995|Green Run|34|Kempsville|7
 11/17/1995|Hampton|28|Granby|0
 11/17/1995|Indian River|27|Tallwood|0
-11/17/1995|Deep Creek|20|Kecoughtan|7
+
 11/25/1995|Hampton|24|Deep Creek|19
 11/25/1995|Indian River|14|Green Run|7
+
 12/02/1995|Indian River|31|Lake Braddock|10
 12/02/1995|C.D. Hylton|21|Varina|14
 12/02/1995|Hampton|21|McLean|0
@@ -132,6 +120,7 @@ Western Branch 32	Oscar Smith 8
 12/02/1995|Northampton|26|Stuarts Draft|6
 12/02/1995|Bath County|36|Appalachia|14
 12/02/1995|Strasburg|22|Windsor|13
+
 12/09/1995|Indian River|13|C.D. Hylton|12
 12/09/1995|Hampton|35|E.C. Glass|7
 12/09/1995|Amherst County|56|Sherando|12
