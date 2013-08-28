@@ -8,7 +8,10 @@
 09/05/1980|Great Bridge|33|Manor|6
 09/05/1980|Green Run|24|Marshall-Walker|6
 09/05/1980|Indian River|0|Norcom|0
+09/05/1980|Norfolk Academy|38|Frederick Military Academy|14
+09/05/1980|Norfolk Catholic|20|Hampton Roads Academy|0
 09/05/1980|Norview|13|Maury|0
+09/05/1980|Prince Edward|18|Nansemond-Suffolk|14
 09/05/1980|Woodrow Wilson|7|Western Branch|0
 09/12/1980|Cox|21|Bayside|15
 09/12/1980|Booker T. Washington|12|Norview|7
@@ -20,9 +23,15 @@
 09/12/1980|Kellam|20|Maury|0
 09/12/1980|Kempsville|28|Lake Taylor|7
 09/12/1980|Western Branch|28|Manor|0
+09/12/1980|Manteo|45|Frederick Military Academy|7
+09/12/1980|Nansemond-Suffolk|20|Gill School|14
 09/12/1980|Norcom|54|Oscar Smith|18
+09/12/1980|Norfolk Academy|14|Richmond Collegiate|8
 09/19/1980|Bayside|14|Green Run|7
+09/19/1980|Frederick Military Academy|14|Tidewater Academy|6
+09/19/1980|Nansemond-Suffolk|26|Hampton Roads Academy|21
 09/19/1980|Norcom|6|Booker T. Washington|0
+09/19/1980|St. Christopher's|25|Norfolk Academy|21
 09/19/1980|Western Branch|21|Churchland|0
 09/19/1980|Cox|33|Maury|0
 09/19/1980|Cradock|30|Norfolk Catholic|6
@@ -34,16 +43,19 @@
 09/19/1980|Lake Taylor|22|Kecoughtan|6
 09/19/1980|Woodrow Wilson|40|Manor|9
 09/26/1980|First Colonial|20|Bayside|12
+09/26/1980|Benedictine|37|Norfolk Catholic|7
 09/26/1980|Booker T. Washington|40|Manor|14
 09/26/1980|Deep Creek|12|Churchland|0
 09/26/1980|Cox|14|Green Run|10
 09/26/1980|Western Branch|40|Cradock|0
 09/26/1980|Menchville|28|Granby|7
+09/26/1980|Nansemond-Suffolk|48|Frederick Military Academy|0
 09/26/1980|Great Bridge|14|Norcom|0
 09/26/1980|Princess Anne|16|Indian River|13
 09/26/1980|Kempsville|28|Kellam|0
 09/26/1980|Lake Taylor|18|Maury|0
 09/26/1980|Norview|32|Oscar Smith|8
+09/26/1980|Trinity Episcopal|21|Norfolk Academy|12
 10/03/1980|Bayside|0|Kellam|0
 10/03/1980|Booker T. Washington|15|Granby|0
 10/03/1980|Churchland|28|Manor|6
@@ -52,6 +64,9 @@
 10/03/1980|Deep Creek|22|Western Branch|14
 10/03/1980|Kempsville|10|First Colonial|0
 10/03/1980|Great Bridge|21|Indian River|8
+10/03/1980|Nansemond-Suffolk|47|Northeastern|6
+10/03/1980|Norfolk Academy|14|Virginia Episcopal|13
+10/03/1980|Norfolk Catholic|12|Onancock|6
 10/03/1980|Princess Anne|27|Green Run|22
 10/03/1980|Woodrow Wilson|12|Norcom|0
 10/03/1980|Norview|9|Kecoughtan|6
@@ -61,6 +76,8 @@
 10/10/1980|Great Bridge|24|Deep Creek|6
 10/10/1980|Lake Taylor|34|Granby|9
 10/10/1980|Green Run|24|Kellam|18
+10/10/1980|Norfolk Catholic|6|Fork Union Military|0
+10/10/1980|Nansemond-Suffolk|34|Norfolk Academy|19
 10/10/1980|Woodrow Wilson|7|Indian River|0
 10/10/1980|Kempsville|42|Maury|20
 10/10/1980|Norcom|20|Manor|13
@@ -72,6 +89,8 @@
 10/17/1980|Cox|22|Kempsville|22
 10/17/1980|Great Bridge|54|Cradock|6
 10/17/1980|Woodrow Wilson|20|Deep Creek|6
+10/17/1980|Trinity Episcopal|8|Nansemond-Suffolk|7
+10/17/1980|Norfolk Academy|26|Norfolk Catholic|6
 10/17/1980|Green Run|6|Granby|0
 10/17/1980|Western Branch|10|Indian River|7
 10/17/1980|Princess Anne|27|Kellam|23
@@ -84,6 +103,9 @@
 10/24/1980|Manor|12|Cradock|7
 10/24/1980|Deep Creek|13|Norcom|7
 10/24/1980|Green Run|7|First Colonial|0
+10/24/1980|Nansemond-Suffolk|33|Southampton Academy|6
+10/24/1980|Norfolk Academy|37|Blue Ridge Academy|0
+10/24/1980|Norfolk Catholic|8|Frederick Military Academy|0
 10/24/1980|Norview|9|Granby|3
 10/24/1980|Great Bridge|28|Western Branch|21
 10/24/1980|Kempsville|16|Princess Anne|14
@@ -98,6 +120,8 @@
 10/31/1980|Indian River|20|Manor|14
 10/31/1980|Kempsville|27|Green Run|16
 10/31/1980|Princess Anne|21|Lake Taylor|0
+10/31/1980|Nansemond-Suffolk|33|Norfolk Catholic|7
+10/31/1980|Woodberry Forest|28|Norfolk Academy|6
 10/31/1980|Norcom|14|Western Branch|7
 11/07/1980|Princess Anne|29|Bayside|10
 11/07/1980|Booker T. Washington|14|Kellam|7
@@ -110,6 +134,8 @@
 11/07/1980|Great Bridge|21|Woodrow Wilson|13
 11/07/1980|Green Run|21|T.C. Williams|20
 11/07/1980|Indian River|7|Oscar Smith|0
+11/07/1980|Nansemond-Suffolk|32|Isle of Wight|8
+11/07/1980|Norfolk Catholic|13|Suffolk|12
 11/07/1980|Norview|21|Kempsville|15
 11/14/1980|Great Bridge|26|Norview|0
 11/14/1980|Hampton|12|Kempsville|10
