@@ -1,25 +1,36 @@
+08/31/1984|Isle of Wight|46|Frederick Military|6
+08/31/1984|York|14|Norfolk Catholic|0
+09/06/1984|Granby|18|Menchville|6
+09/06/1984|Western Branch|30|Woodrow Wilson|0
 09/07/1984|Cox|20|Princess Anne|6
 09/07/1984|Cradock|22|Deep Creek|22
 09/07/1984|Denbigh|13|Maury|12
 09/07/1984|Ferguson|19|Norview|6
 09/07/1984|First Colonial|25|Kellam|17
-09/06/1984|Granby|18|Menchville|6
 09/07/1984|Great Bridge|6|Manor|6
 09/07/1984|Hampton|17|Green Run|8
 09/07/1984|Indian River|7|Norcom|0
+09/07/1984|Isle of Wight|14|Norfolk Catholic|6
+09/07/1984|John Yeates|28|Suffolk|7
 09/07/1984|Kempsville|24|Bayside|0
 09/07/1984|Lake Taylor|12|Booker T. Washington|0
+09/07/1984|Nansemond-Suffolk|21|Richmond Collegiate|6
+09/07/1984|Norfolk Academy|41|Frederick Military|0
 09/07/1984|Oscar Smith|15|Churchland|9
-09/06/1984|Western Branch|30|Woodrow Wilson|0
 09/14/1984|Cox|9|Bayside|0
 09/14/1984|First Colonial|17|Granby|6
+09/14/1984|Frederick Military|18|Greenbrier Christian|6
 09/14/1984|Indian River|7|Cradock|0
 09/14/1984|Great Bridge|30|Princess Anne|24
 09/14/1984|Green Run|21|Deep Creek|6
+09/14/1984|John Yeates|14|Forest Glen|0
+09/14/1984|Kellam|34|Dinwiddie|15
 09/14/1984|Kempsville|7|Lake Taylor|0
 09/14/1984|Manor|7|Western Branch|7
 09/14/1984|Maury|25|Phoebus|13
+09/14/1984|Nansemond-Suffolk|22|Norfolk Catholic|0
 09/14/1984|Norcom|12|Oscar Smith|6
+09/14/1984|Norfolk Academy|31|Richmond Collegiate|7
 09/14/1984|Norview|15|Booker T. Washington|12
 09/14/1984|Woodrow Wilson|20|Churchland|18
 09/21/1984|Booker T. Washington|25|Norcom|6
@@ -27,44 +38,60 @@
 09/21/1984|Great Bridge|21|Oscar Smith|14
 09/21/1984|Green Run|21|Bayside|0
 09/21/1984|Indian River|25|Deep Creek|0
+09/21/1984|John Yeates|15|Northampton|14
 09/21/1984|Kellam|20|Norview|19
 09/21/1984|Kempsville|18|Bethel|14
 09/21/1984|Lafayette|17|Granby|0
 09/21/1984|Lake Taylor|10|Denbigh|0
 09/21/1984|Maury|10|Cox|7
+09/21/1984|Nansemond-Suffolk|9|Woodberry Forest|0
 09/21/1984|Princess Anne|14|First Colonial|6
+09/21/1984|St. Christopher's|25|Norfolk Academy|24
+09/21/1984|Southampton Academy|22|Frederick Military|0
 09/21/1984|Western Branch|20|Churchland|10
 09/21/1984|Woodrow Wilson|26|Manor|8
 09/28/1984|Booker T. Washington|6|Manor|0
 09/28/1984|Churchland|21|Deep Creek|12
 09/28/1984|First Colonial|42|Bayside|0
+09/28/1984|Franklin|37|John Yeates|14
 09/28/1984|Granby|10|Ferguson|7
 09/28/1984|Great Bridge|21|Norcom|0
 09/28/1984|Green Run|28|Cox|6
 09/28/1984|Indian River|13|Princess Anne|6
 09/28/1984|Kellam|14|Kempsville|7
 09/28/1984|Maury|14|Lake Taylor|7
+09/28/1984|Nansemond-Suffolk|27|Prince Edward|7
+09/28/1984|Norfolk Academy|13|Trinity Episcopal|0
 09/28/1984|Norview|19|Oscar Smith|7
+09/28/1984|Benedictine|28|Norfolk Catholic|0
+09/28/1984|Bethlehem|46|Frederick Military|0
 10/05/1984|Booker T. Washington|6|Granby|6
 10/05/1984|Cradock|34|Oscar Smith|22
 10/05/1984|Deep Creek|20|Western Branch|14
 10/05/1984|Great Bridge|10|Indian River|6
 10/05/1984|Green Run|23|Princess Anne|7
+10/05/1984|Greensville|30|John Yeates|6
 10/05/1984|Kellam|33|Bayside|6
 10/05/1984|Kempsville|10|First Colonial|7
 10/05/1984|Lake Taylor|41|Cox|14
 10/05/1984|Manor|15|Churchland|0
 10/05/1984|Maury|16|Norview|6
 10/05/1984|Norcom|12|Woodrow Wilson|0
+10/05/1984|Norfolk Academy|47|Virginia Episcopal|0
 10/12/1984|Booker T. Washington|14|Bayside|7
 10/12/1984|Churchland|33|Cradock|14
 10/12/1984|First Colonial|7|Cox|0
+10/12/1984|Fork Union|24|Nansemond-Suffolk|22
+10/12/1984|Frederick Military|6|Hampton Roads Academy|6
 10/12/1984|Great Bridge|21|Deep Creek|20
 10/12/1984|Kellam|21|Green Run|7
 10/12/1984|Kempsville|29|Maury|7
 10/12/1984|Lake Taylor|27|Granby|14
 10/12/1984|Norcom|7|Manor|0
+10/12/1984|Norfolk Academy|14|Nansemond-Suffolk|7
+10/12/1984|Norfolk Catholic|7|Trinity Episcopal|6
 10/12/1984|Norview|16|Princess Anne|13
+10/12/1984|Tabb|14|John Yeates|7
 10/12/1984|Western Branch|23|Oscar Smith|15
 10/12/1984|Woodrow Wilson|3|Indian River|2
 10/19/1984|Booker T. Washington|14|First Colonial|7
@@ -74,34 +101,46 @@
 10/19/1984|Green Run|42|Granby|3
 10/19/1984|Indian River|19|Western Branch|14
 10/19/1984|Kellam|28|Princess Anne|16
+10/19/1984|Kennedy|20|John Yeates|12
 10/19/1984|Maury|22|Bayside|8
+10/19/1984|Norfolk Catholic|41|Frederick Military|6
 10/19/1984|Norview|16|Lake Taylor|7
 10/19/1984|Oscar Smith|19|Manor|8
+10/19/1984|Woodberry Forest|14|Norfolk Academy|0
 10/19/1984|Woodrow Wilson|24|Deep Creek|14
 10/26/1984|Booker T. Washington|16|Maury|3
 10/26/1984|Cradock|50|Manor|0
 10/26/1984|Deep Creek|15|Norcom|10
+10/26/1984|Fork Union|38|Norfolk Catholic|6
 10/26/1984|Great Bridge|14|Western Branch|0
 10/26/1984|Green Run|24|First Colonial|3
 10/26/1984|Indian River|20|Churchland|0
 10/26/1984|Kellam|7|Cox|0
 10/26/1984|Kempsville|18|Princess Anne|0
 10/26/1984|Lake Taylor|37|Bayside|7
+10/26/1984|Nansemond-Suffolk|49|Frederick Military|0
+10/26/1984|Norfolk Academy|53|Blue Ridge|6
 10/26/1984|Norview|17|Granby|7
+10/26/1984|Southampton|56|John Yeates|0
 10/26/1984|Woodrow Wilson|21|Oscar Smith|14
 11/02/1984|Booker T. Washington|23|Cox|0
 11/02/1984|Cradock|14|Woodrow Wilson|8
+11/02/1984|Faith Christian|25|Frederick Military|14
 11/02/1984|First Colonial|28|Maury|6
 11/02/1984|Great Bridge|28|Churchland|21
 11/02/1984|Green Run|15|Kempsville|14
 11/02/1984|Indian River|7|Manor|6
 11/02/1984|Kellam|20|Granby|19
 11/02/1984|Lake Taylor|20|Princess Anne|12
+11/02/1984|Nansemond-Suffolk|25|St. Christopher's|7
 11/02/1984|Norcom|16|Western Branch|0
+11/02/1984|Norfolk Academy|11|Norfolk Catholic|0
 11/02/1984|Norview|6|Bayside|0
+11/02/1984|Sussex Central|48|John Yeates|0
 11/02/1984|Oscar Smith|22|Deep Creek|19
 11/09/1984|Booker T. Washington|23|Kellam|6
 11/09/1984|Churchland|28|Western Branch|14
+11/09/1984|Cox|11|Norfolk Catholic|0
 11/09/1984|Cradock|14|Norcom|0
 11/09/1984|Great Bridge|27|Woodrow Wilson|6
 11/09/1984|Green Run|72|Phoebus|0
@@ -110,8 +149,10 @@
 11/09/1984|Lake Taylor|21|First Colonial|14
 11/09/1984|Manor|29|Deep Creek|25
 11/09/1984|Maury|27|Granby|6
+11/09/1984|Nansemond-Suffolk|23|Isle of Wight|14
 11/09/1984|Oscar Smith|13|Indian River|6
 11/09/1984|Princess Anne|21|Bayside|20
+11/09/1984|Smithfield|39|John Yeates|0
 11/16/1984|Great Bridge|24|Booker T. Washington|8
 11/16/1984|Hampton|37|Kellam|0
 11/23/1984|Hampton|24|Great Bridge|8
