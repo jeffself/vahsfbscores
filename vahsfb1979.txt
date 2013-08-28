@@ -3,14 +3,19 @@
 09/07/1979|Churchland|15|Oscar Smith|0
 09/07/1979|Cox|6|Princess Anne|6
 09/07/1979|Deep Creek|31|Cradock|0
+09/07/1979|Dinwiddie|39|Norfolk Catholic|0
 09/07/1979|First Colonial|19|Kellam|12
+09/07/1979|Gill School|28|Frederick Military Academy|0
 09/07/1979|Granby|6|Ferguson|0
 09/07/1979|Great Bridge|34|Manor|0
 09/07/1979|Green Run|7|Norfolk Academy|0
 09/07/1979|Indian River|12|Norcom|0
+09/07/1979|Nansemond-Suffolk|13|Hampton Roads Academy|12
 09/07/1979|Norview|8|Maury|6
 09/07/1979|Woodrow Wilson|16|Western Branch|0
-09/14/1979|Frank Cox|21|Bayside|0
+09/14/1979|Manteo|48|Frederick Military Academy|0
+09/14/1979|Nansemond-Suffolk|7|Gill School|0
+09/14/1979|Cox|21|Bayside|0
 09/14/1979|Norview|17|Booker T. Washington|0
 09/14/1979|Woodrow Wilson|27|Churchland|0
 09/14/1979|Indian River|33|Cradock|0
@@ -21,8 +26,10 @@
 09/14/1979|Lake Taylor|20|Kempsville|6
 09/14/1979|Western Branch|10|Manor|0
 09/14/1979|Norcom|6|Oscar Smith|0
+09/14/1979|Richmond Collegiate|28|Norfolk Academy|2
 09/21/1979|Green Run|7|Bayside|6
 09/21/1979|Booker T. Washington|6|Kempsville|3
+09/21/1979|Nansemond-Suffolk|33|Huguenot|0
 09/21/1979|Western Branch|10|Churchland|6
 09/21/1979|Maury|30|Cox|16
 09/21/1979|Lake Taylor|20|Cradock|6
@@ -30,7 +37,9 @@
 09/21/1979|Princess Anne|17|First Colonial|16
 09/21/1979|Granby|26|Norfolk Catholic|0
 09/21/1979|Great Bridge|14|Oscar Smith|0
+09/21/1979|Norfolk Academy|13|St. Christopher's|7
 09/21/1979|Norview|40|Kellam|12
+09/21/1979|Tidewater Academy|13|Frederick Military Academy|6
 09/21/1979|Woodrow Wilson|36|Manor|0
 09/28/1979|First Colonial|24|Bayside|0
 09/28/1979|Booker T. Washington|17|Manor|8
@@ -42,8 +51,12 @@
 09/28/1979|Indian River|19|Princess Anne|10
 09/28/1979|Kempsville|30|Kellam|0
 09/28/1979|Maury|14|Lake Taylor|6
+09/28/1979|Nansemond-Suffolk|21|Frederick Military Academy|0
+09/28/1979|Norfolk Academy|46|Christchurch|6
+09/28/1979|Norfolk Catholic|15|Benedictine|0
 09/28/1979|Norview|14|Oscar Smith|0
 10/05/1979|Kellam|19|Bayside|0
+10/05/1979|Christchurch|14|Frederick Military Academy|6
 10/05/1979|Granby|26|Booker T. Washington|20
 10/05/1979|Manor|13|Churchland|10
 10/05/1979|Cox|14|Lake Taylor|6
@@ -53,31 +66,38 @@
 10/05/1979|Great Bridge|13|Indian River|13
 10/05/1979|Princess Anne|22|Green Run|6
 10/05/1979|Maury|24|Norfolk Catholic|21
+10/05/1979|Nansemond-Suffolk|26|Tidewater Academy|0
+10/05/1979|Norfolk Academy|31|Virginia Episcopal|8
 10/05/1979|Woodrow Wilson|35|Norcom|0
 10/05/1979|Hampton|20|Norview|6
 10/12/1979|Booker T. Washington|14|Bayside|7
 10/12/1979|Churchland|40|Cradock|8
 10/12/1979|First Colonial|27|Cox|8
+10/12/1979|Frederick Military Academy|26|Cape Charles|8
 10/12/1979|Great Bridge|17|Deep Creek|0
 10/12/1979|Lake Taylor|9|Granby|7
 10/12/1979|Green Run|14|Kellam|6
 10/12/1979|Woodrow Wilson|17|Indian River|0
 10/12/1979|Maury|14|Kempsville|13
 10/12/1979|Manor|14|Norcom|6
-10/12/1979|Norfolk Academy|22|Norfolk Catholic|12
+10/12/1979|Prince Edward|24|Nansemond-Suffolk|0
+10/12/1979|Fork Union Military|7|Norfolk Catholic|0
 10/12/1979|Norview|21|Princess Anne|14
 10/12/1979|Oscar Smith|3|Western Branch|0
 10/19/1979|Maury|38|Bayside|8
+10/19/1979|Norfolk Academy|22|Norfolk Catholic|12
 10/19/1979|Booker T. Washington|18|First Colonial|6
 10/19/1979|Norcom|15|Churchland|14
 10/19/1979|Kempsville|28|Cox|6
 10/19/1979|Great Bridge|31|Cradock|7
 10/19/1979|Woodrow Wilson|7|Deep Creek|0
+10/19/1979|Hampton Roads Academy|31|Frederick Military Academy|16
 10/19/1979|Hermitage|19|Granby|6
 10/19/1979|Indian River|20|Western Branch|17
 10/19/1979|Princess Anne|31|Kellam|6
 10/19/1979|Norview|7|Lake Taylor|6
 10/19/1979|Oscar Smith|13|Manor|6
+10/19/1979|Trinity Episcopal|22|Nansemond-Suffolk|21
 10/26/1979|Lake Taylor|18|Bayside|8
 10/26/1979|Booker T. Washington|14|Maury|6
 10/26/1979|Indian River|0|Churchland|0
@@ -85,19 +105,24 @@
 10/26/1979|Manor|38|Cradock|7
 10/26/1979|Deep Creek|13|Norcom|7
 10/26/1979|First Colonial|14|Green Run|7
+10/26/1979|Nansemond-Suffolk|35|Southampton|6
+10/26/1979|Norfolk Catholic|28|Frederick Military Academy|6
 10/26/1979|Norview|24|Granby|7
 10/26/1979|Great Bridge|21|Western Branch|14
 10/26/1979|Princess Anne|20|Kempsville|16
 10/26/1979|Oscar Smith|0|Woodrow Wilson|0
+10/26/1979|Blue Ridge Academy|14|Norfolk Academy|6
 11/02/1979|Norview|35|Bayside|20
 11/02/1979|Cox|20|Booker T. Washington|0
 11/02/1979|Great Bridge|23|Churchland|0
 11/02/1979|Woodrow Wilson|38|Cradock|0
 11/02/1979|Deep Creek|13|Oscar Smith|7
 11/02/1979|First Colonial|41|Maury|6
+11/02/1979|Fork Union Military|13|Norfolk Academy|7
 11/02/1979|Granby|21|Kellam|14
 11/02/1979|Kempsville|15|Green Run|0
 11/02/1979|Indian River|21|Manor|6
+11/02/1979|Nansemond-Suffolk|28|Christchurch|6
 11/02/1979|Princess Anne|10|Lake Taylor|6
 11/02/1979|Western Branch|13|Norcom|6
 11/09/1979|Princess Anne|41|Bayside|29
@@ -108,11 +133,13 @@
 11/09/1979|Deep Creek|25|Manor|6
 11/09/1979|First Colonial|17|Lake Taylor|14
 11/09/1979|Maury|20|Granby|14
+11/09/1979|Nansemond-Suffolk|20|Isle of Wight|6
 11/09/1979|Great Bridge|12|Woodrow Wilson|7
 11/09/1979|Green Run|38|Norfolk Catholic|0
 11/09/1979|Indian River|27|Oscar Smith|7
 11/09/1979|Kempsville|9|Norview|6
 11/09/1979|Bethel|19|Hampton|6
+11/09/1979|Woodberry Forest|28|Norfolk Academy|12
 11/16/1979|Princess Anne|21|Great Bridge|7
 11/16/1979|Norview|20|Hampton|19
 11/16/1979|Jefferson/Huguenot/Wythe|3|Marshall/Walker|0
