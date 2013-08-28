@@ -105,7 +105,7 @@
 10/26/1979|Manor|38|Cradock|7
 10/26/1979|Deep Creek|13|Norcom|7
 10/26/1979|First Colonial|14|Green Run|7
-10/26/1979|Nansemond-Suffolk|35|Southampton|6
+10/26/1979|Nansemond-Suffolk|35|Southampton Academy|6
 10/26/1979|Norfolk Catholic|28|Frederick Military Academy|6
 10/26/1979|Norview|24|Granby|7
 10/26/1979|Great Bridge|21|Western Branch|14
