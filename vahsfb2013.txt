@@ -8,3 +8,28 @@
 08/24/2013|Broadwater|40|Cape Hatteras SSCS, NC|7
 08/24/2013|DeMatha, MD|24|Phoebus|20
 08/24/2013|McDonough School, MD|28|Bishop O'Connell|14
+08/29/2013|Bayside|29|Landstown|10
+08/29/2013|Centreville|51|West Potomac|7
+08/29/2013|Denbigh|28|Tabb|21
+08/29/2013|Dinwiddie|56|Monacan|13
+08/29/2013|Douglas Freeman|35|Midlothian|0
+08/29/2013|Fairfax|14|W.T. Woodson|7
+08/29/2013|First Colonial|17|Kempsville|14
+08/29/2013|Glen Allen|35|Caroline|13
+08/29/2013|Grassfield|34|Maury|19
+08/29/2013|Green Run|33|Princess Anne|32
+08/29/2013|Harrisonburg|27|E.C. Glass|24
+08/29/2013|Heritage(NN)|48|Wilson|7
+08/29/2013|Hermitage|27|Meadowbrook|12
+08/29/2013|James River(C)|21|Deep Run|10
+08/29/2013|Kecoughtan|13|Warwick|0
+08/29/2013|Kings Fork|50|Deep Creek|6
+08/29/2013|Manchester|34|Matoaca|14
+08/29/2013|Norview|21|Hickory|7
+08/29/2013|Ocean Lakes|63|Tallwood|15
+08/29/2013|Phoebus|41|Gloucester|20
+08/29/2013|R.E. Lee(Sp)|75|Thomas Edison|61
+08/29/2013|Salem(VB)|47|Kellam|23
+08/29/2013|Thomas Dale|21|Cosby|14
+08/29/2013|Varina|42|Mountain View|7
+08/29/2013|Yorktown|49|Coolidge, DC|0
