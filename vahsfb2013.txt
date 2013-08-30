@@ -3,7 +3,7 @@
 08/23/2013|Bishop Sullivan|37|Isle of Wight|0
 08/23/2013|Fuqua|14|Brunswick Academy|13
 08/23/2013|Maury|62|Menchville|0
-08/23/2013|Norfolk Christian 32|Portsmouth Christian|14
+08/23/2013|Norfolk Christian|32|Portsmouth Christian|14
 08/23/2013|Norview|41|Huguenot|0
 08/24/2013|Broadwater|40|Cape Hatteras SSCS, NC|7
 08/24/2013|DeMatha, MD|24|Phoebus|20
