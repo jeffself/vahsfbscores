@@ -23,12 +23,13 @@
 08/29/2013|Hermitage|27|Meadowbrook|12
 08/29/2013|James River(C)|21|Deep Run|10
 08/29/2013|Kecoughtan|13|Warwick|0
-08/29/2013|Kings Fork|50|Deep Creek|6
+08/29/2013|King's Fork|50|Deep Creek|6
 08/29/2013|Manchester|34|Matoaca|14
 08/29/2013|Norview|21|Hickory|7
 08/29/2013|Ocean Lakes|63|Tallwood|15
 08/29/2013|Phoebus|41|Gloucester|20
 08/29/2013|R.E. Lee(Sp)|75|Thomas Edison|61
+08/29/2013|St. Christopher's|35|Trinity Episcopal|0
 08/29/2013|Salem(VB)|47|Kellam|23
 08/29/2013|Thomas Dale|21|Cosby|14
 08/29/2013|Varina|42|Mountain View|7
