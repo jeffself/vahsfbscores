@@ -34,3 +34,115 @@
 08/29/2013|Thomas Dale|21|Cosby|14
 08/29/2013|Varina|42|Mountain View|7
 08/29/2013|Yorktown|49|Coolidge, DC|0
+08/30/2013|Altavista|35|Prince Edward|7
+08/30/2013|Amelia County|64|Charles City|26
+08/30/2013|Appomattox|25|Buckingham County|13
+08/30/2013|Auburn|27|Narrows|0
+08/30/2013|Bassett|46|North Stokes, NC|13
+08/30/2013|Bath County|21|Eastern Montgomery|13
+08/30/2013|Battlefield|31|Woodbridge|6
+08/30/2013|Bethel|65|Menchville|0
+08/30/2013|Bishop Ireton|21|Park View(St)|2
+08/30/2013|Bishop Sullivan|62|First Flight, NC|41
+08/30/2013|Blessed Sacrament-Huguenot|31|Atlantic Shores Christian|19
+08/30/2013|Bluefield, WV|60|Graham|38
+08/30/2013|Briar Woods|63|Brooke Point|13
+08/30/2013|Broad Run|43|Booker T. Washington|22
+08/30/2013|Carroll County|55|Floyd County|14
+08/30/2013|Central(L)|20|Culpeper County|15
+08/30/2013|Central(W)|42|John Champe|0
+08/30/2013|Chatham|56|Hargrave Military|21
+08/30/2013|Chilhowie|13|Marion|7
+08/30/2013|Christiansburg|30|Pulaski County|14
+08/30/2013|Churchland|21|Warhill|13
+08/30/2013|Clarke County|34|Berkeley Springs, WV|0
+08/30/2013|Clintwood|23|Union|21
+08/30/2013|Colonial Beach|44|King & Queen|6
+08/30/2013|Covington|18|Alleghany|14
+08/30/2013|Craig County|20|Bland County|18
+08/30/2013|Dan River|49|Bartlett Yancey, NC|28
+08/30/2013|East Hardy, WV|37|Page County|34
+08/30/2013|Eastern View|24|Charlottesville|6
+08/30/2013|Eastside|18|Central(Wi)|0
+08/30/2013|Essex|42|Goochland|28
+08/30/2013|Forest Park|17|Patriot|14
+08/30/2013|Fort Chiswell|49|Rural Retreat|7
+08/30/2013|Fort Defiance|46|Buffalo Gap|21
+08/30/2013|Freedom(PW)|21|Osbourn Park|14
+08/30/2013|Fuqua|36|Kenston Forest|13
+08/30/2013|George Washington|30|Person County, NC|12
+08/30/2013|George Wythe(W)|21|Radford|14
+08/30/2013|Giles|38|Blacksburg|37
+08/30/2013|Glenvar|42|Galax|41
+08/30/2013|Grayson|41|Alleghany, NC|28
+08/30/2013|Greenbrier Christian|60|Hampton Christian|12
+08/30/2013|Gretna|42|Brookville|20
+08/30/2013|Grundy|42|Twin Valley|21
+08/30/2013|Hampton|38|Indian River|0
+08/30/2013|Hampton Roads Academy|39|Chincoteague|6
+08/30/2013|Haysi|38|Castlewood|0
+08/30/2013|Henrico|34|J.R. Tucker|7
+08/30/2013|Heritage(Le)|43|James Wood|29
+08/30/2013|Heritage(L)|76|Patrick County|13
+08/30/2013|Holston|41|Rye Cove|8
+08/30/2013|Honaker|36|Lebanon|7
+08/30/2013|C.D. Hylton|38|Osbourn|6
+08/30/2013|Isle of Wight|42|Portsmouth Christian|28
+08/30/2013|James Monroe|38|Stafford|9
+08/30/2013|Jefferson Forest|55|Halifax County|14
+08/30/2013|John Battle|36|Abingdon|20
+08/30/2013|King George|28|Washington & Lee|10
+08/30/2013|King William|65|Arcadia|21
+08/30/2013|Lafayette|16|Brunswick|13
+08/30/2013|Lake Braddock|38|Robinson|22
+08/30/2013|Lee|24|J.I. Burton|6
+08/30/2013|Liberty(Bed)|32|Staunton River|13
+08/30/2013|Liberty Christian|38|St. Stephen's & St. Agnes|29
+08/30/2013|Lord Botetourt|43|James River(B)|0
+08/30/2013|Loudoun County|14|Fauquier|6
+08/30/2013|Louisa County|35|Spotsylvania|14
+08/30/2013|Luray|41|Nelson County|22
+08/30/2013|Magna Vista|55|McMichael, NC|0
+08/30/2013|Manassas Park|20|Brentsville District|14
+08/30/2013|Massaponax|42|Courtland|26
+08/30/2013|Millbrook|6|Broadway|0
+08/30/2013|Morehead, NC|32|Martinsville|0
+08/30/2013|Nandua|48|Northampton|0
+08/30/2013|Nansemond-Suffolk|40|Pope John Paul the Great|16
+08/30/2013|Norcom|40|Lakeland|6
+08/30/2013|North Stafford|63|Petersburg|7
+08/30/2013|Northside|33|Amherst County|10
+08/30/2013|Northwood|28|Twin Springs|7
+08/30/2013|Park View(SH)|42|Bluestone|36
+08/30/2013|Parry McCluer|17|Rockbridge County|16
+08/30/2013|Patrick Henry(GS)|42|Thomas Walker|26
+08/30/2013|Patrick Henry(R)|23|Hidden Valley|0
+08/30/2013|Poquoson|50|Southampton|0
+08/30/2013|Potomac|24|Avalon, MD|12
+08/30/2013|Potomac Falls|23|Dominion|19
+08/30/2013|Quantico|23|Massanutten Military|12
+08/30/2013|Randolph-Henry|34|William Campbell|28
+08/30/2013|Richlands|49|Gate City|21
+08/30/2013|Riverbend|14|Chancellor|0
+08/30/2013|Roanoke Catholic|48|Rappahannock County|6
+08/30/2013|Rustburg|28|Tunstall|10
+08/30/2013|Salem|38|Franklin County|0
+08/30/2013|Sherando|40|Musselman, WV|13
+08/30/2013|Skyline|14|Warren County|13
+08/30/2013|South County|56|Mount Vernon|7
+08/30/2013|Stonewall Jackson(M)|39|Potomac|14
+08/30/2013|Strasburg|34|Stonewall Jackson(Q)|8
+08/30/2013|Surry|30|Northumberland|14
+08/30/2013|T.C. Williams|38|Oakton|2
+08/30/2013|Thomas Jefferson(R)|47|Colonial Heights|6
+08/30/2013|Tuscarora|31|Kettle Run|21
+08/30/2013|Virginia|48|Tazewell|7
+08/30/2013|Weldon, NC|30|Greensville|0
+08/30/2013|West Point|55|Windsor|0
+08/30/2013|Western Albemarle|17|Spotswood|14
+08/30/2013|Westfield|35|Hayfield|13
+08/30/2013|William Byrd|28|Cave Spring|21
+08/30/2013|William Fleming|32|Fluvanna|13
+08/30/2013|Wilson Memorial|35|Waynesboro|15
+08/30/2013|Woodgrove|35|Freedom(LC)|0
+08/30/2013|Woodside|38|Granby|0
