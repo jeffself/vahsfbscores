@@ -6,10 +6,15 @@
 09/01/1989|Granby|7|Booker T. Washington|0
 09/01/1989|Great Bridge|27|Manor|14
 09/01/1989|Green Run|35|Salem(VB)|6
+09/01/1989|Greenbrier Christian|14|Prince Edward|8
 09/01/1989|Indian River|10|Norcom|7
 09/01/1989|John F. Kennedy|37|Greensville County|0
+09/01/1989|Nansemond-Suffolk|35|Benedictine|18
+09/01/1989|Norfolk Academy|64|Hampton Roads Academy|28
+09/01/1989|North Cross|21|Norfolk Catholic|13
 09/01/1989|Oscar Smith|14|Churchland|0
 09/01/1989|Princess Anne|13|Cox|12
+09/01/1989|Suffolk|18|Franklin|8
 09/01/1989|Warwick|37|Phoebus|7
 09/01/1989|Woodrow Wilson|38|Western Branch|0
 09/08/1989|Bayside|20|Cox|13
@@ -21,7 +26,10 @@
 09/08/1989|John F. Kennedy|21|Smithfield|8
 09/08/1989|John Yeates|14|Bruton|13
 09/08/1989|Lake Taylor|25|Kellam|6
+09/08/1989|Nansemond-Suffolk|14|West Northampton|6
 09/08/1989|Norcom|23|Oscar Smith|17
+09/08/1989|Norfolk Academy|16|Richmond Collegiate|0
+09/08/1989|Norfolk Catholic|43|Greenbrier Christian|13
 09/08/1989|Norview|54|Booker T. Washington|6
 09/08/1989|Princess Anne|17|Salem(VB)|10
 09/08/1989|Warwick|3|Maury|0
@@ -34,22 +42,28 @@
 09/15/1989|Granby|35|Bruton|16
 09/15/1989|Great Bridge|21|Oscar Smith|18
 09/15/1989|Green Run|14|Bayside|13
+09/15/1989|Greenbrier Christian|20|Quantico|18
 09/15/1989|John Yeates|14|Suffolk|0
 09/15/1989|Kempsville|28|Lake Taylor|13
 09/15/1989|Maury|53|Cox|0
 09/15/1989|Norcom|41|Booker T. Washington|0
+09/15/1989|Norfolk Catholic|20|Benedictine|12
 09/15/1989|Norview|14|Kellam|7
+09/15/1989|St. Christopher's|16|Norfolk Academy|6
 09/15/1989|Woodrow Wilson|34|Manor|0
 09/15/1989|York|26|John F. Kennedy|14
 09/22/1989|First Colonial|21|Bayside|17
 09/22/1989|Forest Glen|39|Windsor|0
 09/22/1989|Granby|13|Oscar Smith|6
 09/22/1989|Green Run|21|Cox|14
+09/22/1989|Greenbrier Christian|20|Broadwater Academy|14
 09/22/1989|John F. Kennedy|49|Franklin|0
 09/22/1989|Kecoughtan|23|Norview|20
 09/22/1989|Kempsville|38|Kellam|30
 09/22/1989|Manor|14|Booker T. Washington|3
 09/22/1989|Maury|24|Lake Taylor|0
+09/22/1989|Nansemond-Suffolk|34|Hampton Roads Academy|0
+09/22/1989|Norfolk Academy|31|Christchurch|0
 09/22/1989|Princess Anne|21|Indian River|12
 09/22/1989|Salem(VB)|20|Norfolk Catholic|12
 09/22/1989|Southampton|14|John Yeates|13
@@ -63,14 +77,19 @@
 09/29/1989|Granby|21|Booker T. Washington|0
 09/29/1989|Great Bridge|26|Norcom|6
 09/29/1989|Green Run|22|Princess Anne|8
+09/29/1989|Greenbrier Christian|47|Trinity Episcopal|0
 09/29/1989|John F. Kennedy|41|Bruton|12
 09/29/1989|Maury|34|Norview|33
+09/29/1989|Norfolk Academy|23|Virginia Episcopal|6
+09/29/1989|Norfolk Catholic|20|Windsor|19
+09/29/1989|Ravencroft, NC|14|Nansemond-Suffolk|13
 09/29/1989|Smithfield|19|John Yeates|15
 09/29/1989|Suffolk|13|Essex|0
 09/29/1989|Western Branch|29|Cradock|6
 09/29/1989|Woodrow Wilson|41|Phoebus|0
 09/29/1989|York|32|Tabb|0
 10/06/1989|Bayside|16|Booker T. Washington|2
+10/06/1989|Chincoteague|22|Greenbrier Christian|19
 10/06/1989|Deep Creek|14|Western Branch|6
 10/06/1989|First Colonial|33|Cox|6
 10/06/1989|Forest Glen|41|Northampton|0
@@ -81,6 +100,7 @@
 10/06/1989|Lake Taylor|21|Granby|13
 10/06/1989|Manor|13|Churchland|9
 10/06/1989|Nandua|21|Suffolk|8
+10/06/1989|Nansemond-Suffolk|12|Norfolk Catholic|6
 10/06/1989|Norview|40|Princess Anne|0
 10/06/1989|Oscar Smith|17|Cradock|0
 10/06/1989|Salem(VB)|17|Kempsville|6
@@ -98,35 +118,46 @@
 10/13/1989|Kempsville|36|Cox|23
 10/13/1989|Lake Taylor|12|Norview|7
 10/13/1989|Menchville|12|Booker T. Washington|7
+10/13/1989|Nansemond-Suffolk|28|Norfolk Academy|15
 10/13/1989|Norcom|13|Manor|10
+10/13/1989|Norfolk Catholic|44|Hampton Roads Academy|0
 10/13/1989|Northampton|7|John Yeates|6
 10/13/1989|Oscar Smith|28|Western Branch|25
 10/13/1989|Princess Anne|25|Kellam|21
+10/13/1989|Southampton Academy|14|Greenbrier Christian|0
 10/13/1989|Suffolk|20|Chincoteague|0
 10/13/1989|Woodrow Wilson|19|Indian River|17
 10/20/1989|Bethel|20|Phoebus|14
+10/20/1989|Christchurch|23|Greenbrier Christian|8
 10/20/1989|Churchland|7|Norcom|0
 10/20/1989|First Colonial|34|Green Run|20
+10/20/1989|Fork Union Military|19|Nansemond-Suffolk|0
 10/20/1989|Great Bridge|56|Cradock|19
 10/20/1989|King & Queen|7|New Kent|0
 10/20/1989|Lake Taylor|14|Bayside|9
 10/20/1989|Maury|40|Booker T. Washington|19
+10/20/1989|Model|36|Norfolk Catholic|26
 10/20/1989|Oscar Smith|28|Manor|0
 10/20/1989|Princess Anne|31|Kempsville|30
 10/20/1989|Smithfield|22|John F. Kennedy|0
 10/20/1989|Southampton|20|Forest Glen|0
 10/20/1989|Suffolk|19|Surry County|8
 10/20/1989|Western Branch|25|Indian River|13
+10/20/1989|Woodberry Forest|36|Norfolk Academy|26
 10/20/1989|Woodrow Wilson|22|Deep Creek|0
 10/23/1989|Chancellor|10|Courtland|7
+10/27/1989|Blue Ridge Academy|26|Norfolk Academy|7
+10/27/1989|Christchurch|29|Norfolk Catholic|19
 10/27/1989|Churchland|20|Indian River|17
 10/27/1989|Deep Creek|12|Norcom|0
 10/27/1989|Great Bridge|35|Western Branch|12
+10/27/1989|Huguenot Academy|21|Greenbrier Christian|0
 10/27/1989|Kellam|24|Cox|17
 10/27/1989|John F. Kennedy|17|Northampton|7
 10/27/1989|John Yeates|40|Franklin|12
 10/27/1989|Manor|34|Cradock|26
 10/27/1989|Maury|20|First Colonial|16
+10/27/1989|Nansemond-Suffolk|26|Richmond Collegiate|14
 10/27/1989|Norview|28|Granby|0
 10/27/1989|Poquoson|7|Forest Glen|0
 10/27/1989|Princess Anne|40|Lake Taylor|14
@@ -139,13 +170,16 @@
 11/03/1989|Deep Creek|24|Oscar Smith|13
 11/03/1989|First Colonial|32|Lake Taylor|16
 11/03/1989|Forest Glen|27|Franklin|8
+11/03/1989|Fork Union Military|55|Norfolk Academy|18
 11/03/1989|Granby|25|Cox|21
 11/03/1989|Great Bridge|28|Churchland|0
 11/03/1989|Green Run|25|Kempsville|20
+11/03/1989|Greenbrier Christian|22|Hampton Roads Academy|21
 11/03/1989|Hampton|54|Bethel|6
 11/03/1989|Indian River|28|Manor|20
 11/03/1989|Kellam|42|Menchville|29
 11/03/1989|John Yeates|22|Arcadia|0
+11/03/1989|Nansemond-Suffolk|0|St. Christopher's|0
 11/03/1989|Norcom|15|Western Branch|10
 11/03/1989|Southampton|27|John F. Kennedy|21
 11/03/1989|Suffolk|24|Windsor|8
@@ -157,6 +191,7 @@
 11/10/1989|Manor|10|Deep Creek|5
 11/10/1989|Maury|23|Granby|0
 11/10/1989|Norcom|20|Cradock|0
+11/10/1989|Norfolk Academy|33|Norfolk Catholic|18
 11/10/1989|Oscar Smith|20|Indian River|19
 11/10/1989|Phoebus|33|Cox|7
 11/10/1989|Princess Anne|10|Bayside|9
