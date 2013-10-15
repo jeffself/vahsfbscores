@@ -1037,6 +1037,7 @@
 10/11/2013|James River(B)|36|Parry McCluer|35
 10/11/2013|John Battle|30|Central(Wise)|20
 10/11/2013|Kellam|21|Kempsville|0
+10/11/2013|Kenston Forest|14|Brunswick Academy|7
 10/11/2013|Kettle Run|18|Fauquier|15
 10/11/2013|King William|82|Charles City|6
 10/11/2013|L.C. Bird|54|Midlothian|0
@@ -1106,7 +1107,7 @@
 10/12/2013|Herndon|38|Edison|19
 10/12/2013|Kecoughtan|29|Woodside|15
 10/12/2013|Menchville|17|Warwick|13
-10/12/2013|North Cross|47|Atlantic Shores|44
+10/12/2013|North Cross|47|Atlantic Shores Christian|44
 10/12/2013|St. Christopher's|34|Paul VI|18
 10/12/2013|Salem(VB)|28|Landstown|6
 10/12/2013|South County|44|T.C. Williams|37
@@ -1114,3 +1115,23 @@
 10/12/2013|Thomas Jefferson(R)|32|John Marshall|20
 10/12/2013|Washington, WV|63|Skyline|0
 10/12/2013|Woodgrove|34|Park View(St)|0
+10/14/2013|Battlefield|41|Stonewall Jackson(M)|38
+10/14/2013|Broad Run|21|Tuscarora|17
+10/14/2013|Caroline|26|Chancellor|20
+10/14/2013|Essex|54|Northumberland|0
+10/14/2013|Grassfield|45|Deep Creek|13
+10/14/2013|Hampton Roads Academy|75|Hampton Christian|24
+10/14/2013|Hylton|51|Gar-Field|0
+10/14/2013|Jefferson County, WV|27|Millbrook|17
+10/14/2013|King George|21|James Monroe|16
+10/14/2013|King's Fork|13|Lakeland|8
+10/14/2013|Liberty(Beal)|35|Culpeper County|6
+10/14/2013|Mathews|28|King & Queen|14
+10/14/2013|Oscar Smith|48|Nansemond River|7
+10/14/2013|Sherando|41|James Wood|6
+10/14/2013|Smithfield|31|New Kent|20
+10/14/2013|Spotswood|38|R.E. Lee(St)|3
+10/14/2013|Warren County|21|Manassas Park|7
+10/14/2013|Washington & Lee|36|Lancaster|0
+10/14/2013|Washington-Lee|23|Mount Vernon|21
+10/14/2013|West Potomac|47|West Springfield|29
