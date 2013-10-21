@@ -153,6 +153,7 @@
 08/31/2013|Handley|45|Liberty(Beal)|42
 08/31/2013|Hurley|36|East Ridge, KY|14
 08/31/2013|McDonough School, MD|42|Benedictine|14
+08/31/2013|Norfolk Academy|35|Norfolk Christian|7
 09/02/2013|Virginia Episcopal|43|North Cross|21
 09/05/2013|Fredericksburg Christian|41|Quantico|0
 09/05/2013|Maury|28|Warwick|16
@@ -1119,6 +1120,7 @@
 10/14/2013|Broad Run|21|Tuscarora|17
 10/14/2013|Caroline|26|Chancellor|20
 10/14/2013|Essex|54|Northumberland|0
+10/14/2013|Fredericksburg Christian|40|Norfolk Christian|14
 10/14/2013|Grassfield|45|Deep Creek|13
 10/14/2013|Hampton Roads Academy|75|Hampton Christian|24
 10/14/2013|Hylton|51|Gar-Field|0
@@ -1135,3 +1137,168 @@
 10/14/2013|Washington & Lee|36|Lancaster|0
 10/14/2013|Washington-Lee|23|Mount Vernon|21
 10/14/2013|West Potomac|47|West Springfield|29
+10/17/2013|Hampton|35|Gloucester|27
+10/17/2013|Nandua|34|Colonel Richardson, MD|15
+10/17/2013|Poquoson|42|New Kent|13
+10/18/2013|Albemarle|21|Charlottesville|13
+10/18/2013|Alleghany|23|William Fleming|19
+10/18/2013|Altavista|67|Nelson County|13
+10/18/2013|Amelia County|30|Prince Edward|22
+10/18/2013|Arcadia|35|Washington, MD|14
+10/18/2013|Atlee|70|Glen Allen|0
+10/18/2013|Battlefield|24|Osbourn|6
+10/18/2013|Blessed Sacrament-Huguenot|28|Isle of Wight|19
+10/18/2013|Bluestone|20|Cumberland|16
+10/18/2013|Briar Woods|34|Broad Run|0
+10/18/2013|Brunswick|41|Park View(SH)|6
+10/18/2013|Brunswick Academy|41|Victory Christian|6
+10/18/2013|Buffalo Gap|28|Stonewall Jackson(Q)|20
+10/18/2013|Cave Spring|17|Pulaski County|10
+10/18/2013|Central(L)|54|Randolph-Henry|8
+10/18/2013|Central Virginia Homeschool|26|Fredericksburg Christian|18
+10/18/2013|Centreville|42|Oakton|21
+10/18/2013|Chantilly|56|Herndon|40
+10/18/2013|Chilhowie|41|George Wythe(W)|14
+10/18/2013|Chincoteague|48|Hampton Generals|8
+10/18/2013|Christiansburg|64|Carroll County|22
+10/18/2013|Clarke County|33|Central(W)|32
+10/18/2013|Clintwood|34|J.I. Burton|13
+10/18/2013|Collegiate|47|Fork Union|7
+10/18/2013|Courtland|55|Caroline|20
+10/18/2013|Covington|31|Pendleton County, WV|12
+10/18/2013|Dan River|48|William Campbell|6
+10/18/2013|Denbigh|56|Menchville|0
+10/18/2013|Dinwiddie|45|Matoaca|21
+10/18/2013|East Rockingham|24|Luray|21
+10/18/2013|Eastern View|24|Fauquier|17
+10/18/2013|Essex|41|Colonial Beach|0
+10/18/2013|Fairfax|45|McLean|20
+10/18/2013|Falls Church|42|Mount Vernon|17
+10/18/2013|Fluvanna|23|Louisa County|6
+10/18/2013|Forest Park|31|Freedom(PW)|7
+10/18/2013|Fort Chiswell|47|Narrows|0
+10/18/2013|Fort Defiance|27|Broadway|14
+10/18/2013|Franklin|26|Sussex Central|8
+10/18/2013|Franklin County|14|Brookville|6
+10/18/2013|Fuqua|7|Kenston Forest|0
+10/18/2013|Gate City|40|Lee|20
+10/18/2013|Giles|56|Eastern Montgomery|12
+10/18/2013|Glenvar|26|Floyd County|25
+10/18/2013|Goochland|35|Nottoway|14
+10/18/2013|Grafton|20|Warhill|7
+10/18/2013|Grayson|51|Bland County|12
+10/18/2013|Great Bridge|35|Deep Creek|0
+10/18/2013|Green Run|43|Kempsville|21
+10/18/2013|Greensville|32|Windsor|28
+10/18/2013|Gretna|35|Appomattox|28
+10/18/2013|Grundy|32|East Ridge, KY|22
+10/18/2013|Halifax County|45|Patrick County|6
+10/18/2013|Hanover|47|Armstrong|30
+10/18/2013|Hayfield|47|Stuart|0
+10/18/2013|Haysi|49|Twin Valley|13
+10/18/2013|Heritage(Lyn)|42|E.C. Glass|28
+10/18/2013|Hermitage|26|Douglas Freeman|10
+10/18/2013|Highland Springs|41|Lee-Davis|14
+10/18/2013|Holston|32|Northwood|29
+10/18/2013|Honaker|52|Hurley|6
+10/18/2013|Hopewell|41|Petersburg|34
+10/18/2013|J.R. Tucker|64|Deep Run|58
+10/18/2013|James Monroe|42|Chancellor|12
+10/18/2013|James River(B)|41|Bath County|24
+10/18/2013|James River(C)|19|Clover Hill|14
+10/18/2013|Jefferson Forest|42|Turner Ashby|34
+10/18/2013|John Champe|19|Freedom(LC)|17
+10/18/2013|Kellam|24|Cox|18
+10/18/2013|Kettle Run|39|Culpeper County|6
+10/18/2013|King George|37|Spotsylvania|6
+10/18/2013|King William|49|Mathews|14
+10/18/2013|King's Fork|35|Nansemond River|20
+10/18/2013|L.C. Bird|60|Huguenot|0
+10/18/2013|Lafayette|62|Smithfield|0
+10/18/2013|Lake Braddock|51|West Springfield|0
+10/18/2013|Lake Taylor|55|Booker T. Washington|8
+10/18/2013|Lakeland|17|Hickory|0
+10/18/2013|Langley|56|South Lakes|33
+10/18/2013|Lebanon|35|Castlewood|13
+10/18/2013|Liberty(Beal)|55|Brentsville District|0
+10/18/2013|Liberty(Bed)|48|Buckingham County|7
+10/18/2013|Liberty Christian|44|Hargrave Military|14
+10/18/2013|Lord Botetourt|21|Northside|14
+10/18/2013|Loudoun County|31|Woodgrove|28
+10/18/2013|Loudoun Valley|24|Dominion|7
+10/18/2013|Magna Vista|29|George Washington|28
+10/18/2013|Manchester|20|Cosby|19
+10/18/2013|Marion|61|Patrick Henry(GS)|6
+10/18/2013|Massaponax|41|Stafford|10
+10/18/2013|Maury|34|Wilson|7
+10/18/2013|Meadowbrook|36|Prince George|29
+10/18/2013|Middlesex|28|Charles City|12
+10/18/2013|Midlothian|18|George Wythe(R)|14
+10/18/2013|Mills Godwin|28|John Marshall|12
+10/18/2013|Monticello|31|Western Albemarle|21
+10/18/2013|Mountain View|40|Brooke Point|14
+10/18/2013|Nansemond-Suffolk|50|Greenbrier Christian|0
+10/18/2013|Norcom|21|Churchland|7
+10/18/2013|North Stafford|28|Riverbend|20
+10/18/2013|Ocean Lakes|52|First Colonial|7
+10/18/2013|Oscar Smith|42|Grassfield|0
+10/18/2013|Park View(St)|17|Heritage(Le)|14
+10/18/2013|Parry McCluer|42|Craig County|0
+10/18/2013|Patrick Henry(A)|23|Thomas Jefferson(R)|19
+10/18/2013|Phoebus|35|Woodside|14
+10/18/2013|Potomac|30|Gar-Field|8
+10/18/2013|Powhatan|40|Orange|16
+10/18/2013|Quantico|64|Rappahannock County|35
+10/18/2013|R.E. Lee(St)|62|Waynesboro|6
+10/18/2013|Radford|15|Auburn|11
+10/18/2013|Randolph-Macon|41|Massanutten Military|0
+10/18/2013|Rappahannock|35|Lancaster|8
+10/18/2013|Rustburg|42|Amherst County|21
+10/18/2013|Rye Cove|58|Thomas Walker|40
+10/18/2013|St. Anne's-Belfield|21|Covenant|7
+10/18/2013|Salem|43|Blacksburg|10
+10/18/2013|Salem(VB)|43|Princess Anne|6
+10/18/2013|Skyline|22|James Wood|13
+10/18/2013|South County|49|West Potomac|22
+10/18/2013|Spotswood|35|Harrisonburg|0
+10/18/2013|Stone Bridge|56|George Marshall|7
+10/18/2013|Strasburg|28|Manassas Park|14
+10/18/2013|Stuarts Draft|35|Page County|6
+10/18/2013|Surry|30|Southampton|7
+10/18/2013|T.C. Williams|32|R.E. Lee(Sp)|0
+10/18/2013|Tabb|41|Bruton|0
+10/18/2013|Tallwood|34|Landstown|21
+10/18/2013|Thomas Dale|48|Colonial Heights|14
+10/18/2013|Thomas Jefferson(A)|24|James Madison|21
+10/18/2013|Tunstall|35|Bassett|0
+10/18/2013|Tuscarora|46|Potomac Falls|28
+10/18/2013|Twin Springs|24|Eastside|14
+10/18/2013|Union|49|Central(Wise)|21
+10/18/2013|Varina|54|Henrico|10
+10/18/2013|Virginia|38|Abingdon|14
+10/18/2013|W.T. Woodson|33|Annandale|0
+10/18/2013|Warren County|21|George Mason|14
+10/18/2013|Washington & Lee|37|Northumberland|6
+10/18/2013|Washington-Lee|29|Edison|14
+10/18/2013|Western Branch|48|Indian River|20
+10/18/2013|Westfield|14|Robinson|13
+10/18/2013|William Byrd|21|Rockbridge County|10
+10/18/2013|William Monroe|32|Madison County|15
+10/18/2013|Wilson Memorial|35|Riverheads|24
+10/18/2013|Yorktown|44|Wakefield|13
+10/19/2013|Bethel|31|Warwick|0
+10/19/2013|Broadwater Academy|44|Northampton|6
+10/19/2013|Christchurch|22|Norfolk Christian|14
+10/19/2013|Flint Hill|33|Potomac School|12
+10/19/2013|Galax|54|Graham|7
+10/19/2013|Heritage(NN)|24|Kecoughtan|19
+10/19/2013|Hylton|40|Woodbridge|14
+10/19/2013|Landon, MD|41|St. Stephen's & St. Agnes|21
+10/19/2013|Norfolk Academy|50|Portsmouth Christian|8
+10/19/2013|Pope John Paul the Great|55|Trinity Episcopal|34
+10/19/2013|St. Christopher's|34|Episcopal|30
+10/19/2013|Sidwell Friends, DC|67|Hampton Roads Academy|29
+10/19/2013|Sherando|42|Handley|7
+10/19/2013|Stonewall Jackson(M)|41|Patriot|35
+10/19/2013|West Point|49|King & Queen|0
+10/19/2013|York|10|Jamestown|6
