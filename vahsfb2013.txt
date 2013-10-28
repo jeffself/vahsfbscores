@@ -1415,7 +1415,7 @@
 10/25/2013|R.E. Lee(St)|27|Broadway|6
 10/25/2013|Randolph-Henry|44|Amelia County|20
 10/25/2013|Richlands|21|Abingdon|17
-10/25/2013|Riverheads|Stonewall Jackson(Q)|14
+10/25/2013|Riverheads|49|Stonewall Jackson(Q)|14
 10/25/2013|Robinson|41|Oakton|21
 10/25/2013|Rockbridge County|24|Staunton River|21
 10/25/2013|Rustburg|35|Jefferson Forest|7
