@@ -1159,7 +1159,7 @@
 10/18/2013|Centreville|42|Oakton|21
 10/18/2013|Chantilly|56|Herndon|40
 10/18/2013|Chilhowie|41|George Wythe(W)|14
-10/18/2013|Chincoteague|48|Hampton Generals|8
+10/18/2013|Chincoteague|48|Hampton Roads Generals|8
 10/18/2013|Christiansburg|64|Carroll County|22
 10/18/2013|Clarke County|33|Central(W)|32
 10/18/2013|Clintwood|34|J.I. Burton|13
