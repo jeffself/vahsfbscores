@@ -1033,6 +1033,7 @@
 10/11/2013|Holston|49|Patrick Henry(GS)|14
 10/11/2013|Honaker|28|Clintwood|0
 10/11/2013|Hopewell|58|Colonial Heights|16
+10/11/2013|J.E.B. Stuart|33|George Marshall|13
 10/11/2013|J.I. Burton|42|Castlewood|0
 10/11/2013|J.R. Tucker|47|Patrick Henry(A)|7
 10/11/2013|James River(B)|36|Parry McCluer|35
@@ -1084,7 +1085,6 @@
 10/11/2013|Southampton|17|Greensville|14
 10/11/2013|Staunton River|37|William Fleming|27
 10/11/2013|Stone Bridge|35|McLean|7
-10/11/2013|Stuart|33|George Marshall|13
 10/11/2013|Surry|8|Windsor|6
 10/11/2013|Tallwood|20|First Colonial|0
 10/11/2013|Thomas Dale|30|Meadowbrook|14
@@ -1194,7 +1194,7 @@
 10/18/2013|Grundy|32|East Ridge, KY|22
 10/18/2013|Halifax County|45|Patrick County|6
 10/18/2013|Hanover|47|Armstrong|30
-10/18/2013|Hayfield|47|Stuart|0
+10/18/2013|Hayfield|47|J.E.B. Stuart|0
 10/18/2013|Haysi|49|Twin Valley|13
 10/18/2013|Heritage(Lyn)|42|E.C. Glass|28
 10/18/2013|Hermitage|26|Douglas Freeman|10
