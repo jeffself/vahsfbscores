@@ -1973,3 +1973,15 @@
 11/29/2013|Altavista|57|Franklin|14
 11/30/2013|Haysi|36|J.I. Burton|12
 11/29/2013|Fort Chiswell|58|Covington|32
+12/07/2013|Centreville|35|Westfield|14
+12/07/2013|Oscar Smith|17|Colonial Forge|0
+12/07/2013|Briar Woods|27|North Stafford|25
+12/07/2013|L.C. Bird|7|Salem(VB)|0
+12/07/2013|Sherando|7|Salem|0
+12/07/2013|Dinwiddie|46|Heritage(NN)|14
+12/07/2013|James Monroe|14|Heritage(Lyn)|13
+12/07/2013|Northside|29|Loudoun Valley|14
+12/07/2013|Giles|28|Riverheads|7
+12/07/2013|Brunswick|27|Buckingham County|0
+12/07/2013|Essex|38|Fort Chiswell|13
+12/07/2013|Altavista|34|Haysi|22
