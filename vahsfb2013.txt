@@ -1985,3 +1985,9 @@
 12/07/2013|Brunswick|27|Buckingham County|0
 12/07/2013|Essex|38|Fort Chiswell|13
 12/07/2013|Altavista|34|Haysi|22
+12/14/2013|Centreville|35|Oscar Smith|6
+12/14/2013|L.C. Bird|35|Briar Woods|28
+12/14/2013|Dinwiddie|56|Sherando|14
+12/14/2013|Northside|24|James Monroe|10
+12/14/2013|Giles|20|Brunswick|19
+12/14/2013|Altavista|21|Essex|0
