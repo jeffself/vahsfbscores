@@ -1797,7 +1797,6 @@
 11/09/2012|Thomas Dale|43|Colonial Heights|6
 11/09/2012|Varina|20|Highland Springs|0
 11/10/2012|Huguenot|28|George Wythe(R)|6
-
 11/09/2012|Ocean Lakes|34|Granby|3
 11/10/2012|Western Branch|23|Bethel|21
 11/09/2012|Salem(VB)|18|Grassfield|13

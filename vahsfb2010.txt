@@ -497,7 +497,7 @@
 09/17/2010|Varina|40|Thomas Dale|19
 09/17/2010|Virginia|42|Graham|31
 09/17/2010|Woodrow Wilson|26|Nansemond River|0
-09/17/2010|Wilson Memorial|35|Buffalo|Gap|0
+09/17/2010|Wilson Memorial|35|Buffalo Gap|0
 09/17/2010|Woodside|57|Menchville|9
 09/17/2010|York|27|Tabb|14
 09/18/2010|Bethel|34|Heritage(NN)|3
@@ -712,7 +712,7 @@
 10/01/2010|Jefferson Forest|27|Turner Ashby|26
 10/01/2010|Kecoughtan|43|Heritage(NN)|0
 10/01/2010|Kempsville|33|Kellam|6
-10/01/2010|King George|Courtland|28
+10/01/2010|King George|43|Courtland|28
 10/01/2010|King William|46|Nandua|14
 10/01/2010|L.C. Bird|21|Monacan|13
 10/01/2010|Lake Taylor|22|Booker T. Washington|8
@@ -886,7 +886,7 @@
 10/08/2010|Madison County|19|Stonewall Jackson(Q)|8
 10/08/2010|Magna Vista|21|Martinsville|6
 10/08/2010|Manassas Park|21|Luray|7
-10/08|2010|Manchester|41|James River(C)|28
+10/08/2010|Manchester|41|James River(C)|28
 10/08/2010|McLean|28|Thomas Jefferson(A)|7
 10/08/2010|Millbrook|28|Skyline|7
 10/08/2010|Monacan|46|Midlothian|7
@@ -1056,7 +1056,7 @@
 10/15/2010|Richlands|56|Lebanon|13
 10/15/2010|Riverheads|49|Page|0
 10/15/2010|Roanoke Catholic|34|Rappahannock County|16
-10/15/2010|Robinson|14|Westfield
+10/15/2010|Robinson|14|Westfield|0
 10/15/2010|Rural Retreat|40|Holsten|6
 10/15/2010|Saint Paul|38|Twin Valley|8
 10/15/2010|Salem|13|Blacksburg|7
@@ -1577,7 +1577,6 @@
 11/12/2010|Varina|20|Highland Springs|12
 11/12/2010|Warhill|44|New Kent|33
 11/12/2010|Washington & Lee|41|Colonial Beach|28
-
 11/12/2010|Phoebus|49|Warwick|0
 11/12/2010|Hampton|37|Lake Taylor|7
 11/12/2010|Norcom|24|Churchland|18
