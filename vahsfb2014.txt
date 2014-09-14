@@ -81,9 +81,9 @@
 08/29/2014|Goochland|36|Essex|26
 08/29/2014|Greensville|46|Welden, NC|12
 08/29/2014|Haysi|37|Castlewood|0
-08/29/2014|Heritage(Le)|24|James Wood|12
+08/29/2014|Heritage(Lee)|24|James Wood|12
 08/29/2014|Heritage(Lyn)|64|Patrick County|7
-08/29/2014|Heriage(NN)|26|Wilson|8
+08/29/2014|Heritage(NN)|26|Wilson|8
 08/29/2014|Hermitage|25|Meadowbrook|21
 08/29/2014|Highland Springs|36|Colonial Forge|13
 08/29/2014|Honaker|25|Lebanon|14
@@ -96,7 +96,7 @@
 08/29/2014|Lafayette|41|Brunswick|0
 08/29/2014|Lake Braddock|30|West Potomac|6
 08/29/2014|Lee|40|J.I. Burton|22
-08/29/2014|Liberty Christian|35|Central Virginia Homeschool|8
+08/29/2014|Liberty Christian|35|Central Virginia HomeSchool|8
 08/29/2014|Liberty(Beal)|35|Handley|0
 08/29/2014|Liberty(Bed)|47|Staunton River|22
 08/29/2014|Lord Botetourt|48|James River(B)|8
@@ -140,7 +140,7 @@
 08/29/2014|Twin Valley|28|Grundy|0
 08/29/2014|Union|19|Clintwood|13
 08/29/2014|Western Albemarle|23|Spotswood|15
-08/29/2014|Western Campbell|50|Randolph-Henry|12
+08/29/2014|William Campbell|50|Randolph-Henry|12
 08/29/2014|William Fleming|63|Fluvanna|7
 08/29/2014|Wilson Memorial|47|Waynesboro|7
 08/29/2014|Windsor|34|West Point|28
@@ -151,6 +151,7 @@
 08/30/2014|Fredericksburg Christian|21|St. Stephen's & St. Agnes|14
 08/30/2014|McDonough School, MD|37|Benedictine|14
 08/30/2014|North Cross|54|Virginia Episcopal|0
+08/30/2014|Northern Virginia HomeSchool|27|Hampton Roads Generals|16
 09/05/2014|Alleghany|41|Bath County|0
 09/05/2014|Altavista|50|Randolph-Henry|0
 09/05/2014|Amelia County|27|Bruton|0
@@ -168,6 +169,7 @@
 09/05/2014|Brookville|48|Turner Ashby|0
 09/05/2014|Central(Wise)|35|Castlewood|14
 09/05/2014|Central(W)|38|Stonewall Jackson(Q)|6
+09/05/2014|Central Virginia HomeSchool|54|Dixon, NC|24
 09/05/2014|Chantilly|38|R.E. Lee(Sp)|15
 09/05/2014|Charles City|26|Cumberland|18
 09/05/2014|Charlottesville|35|Culpeper County|14
@@ -201,7 +203,7 @@
 09/05/2014|Giles|35|Christiansburg|22
 09/05/2014|Glenvar|38|James River(B)|0
 09/05/2014|Gonzaga, DC|31|Centreville|14
-09/05/2014|Hampton Roads|52|Portsmouth Christian|8
+09/05/2014|Hampton Roads Academy|52|Portsmouth Christian|8
 09/05/2014|Hanover|16|Patrick Henry(A)|0
 09/05/2014|Henrico|48|Caroline|0
 09/05/2014|Heritage(NN)|20|Denbigh|13
@@ -305,12 +307,176 @@
 09/06/2014|Chincoteague|42|Broadwater|30
 09/06/2014|Covenant|14|Virginia Episcopal|17
 09/06/2014|Flint Hill|34|Paul VI|27
+09/06/2014|Hampton Roads Generals|41|Victory Christian|35
 09/06/2014|Handley|35|Harrisonburg|0
 09/06/2014|Johnson County, TN|33|Grayson|13
 09/06/2014|Kecoughtan|40|Granby|21
 09/06/2014|Norfolk Academy|41|Greenbrier Christian|6
 09/06/2014|North Cross|33|Blessed Sacrament-Huguenot|14
+09/06/2014|Northern Virginia HomeSchool|26|National Christian, DC|18
 09/06/2014|Sidwell Friends, DC|64|Randolph-Macon|6
 09/06/2014|St. Christopher's|38|St. Stephen's & St. Agnes|14
-09/06/2014|St. John Paul the Great|28|Potomac|21
+09/06/2014|St. John Paul the Great|28|Potomac School|21
 09/06/2014|T.C. Williams|28|Dunbar, DC|19
+09/12/2014|Abingdon|28|Chilhowie|12
+09/12/2014|Annandale|28|Stuart|6
+09/12/2014|Armstrong|50|John Marshall|20
+09/12/2014|Atlantic Shores Christian|48|Portsmouth Christian|0
+09/12/2014|Atlee|56|Patrick Henry(A)|0
+09/12/2014|Battlefield|31|Freedom(PW)|6
+09/12/2014|Benedictine|28|Collegiate|7
+09/12/2014|Bethel|25|Gloucester|14
+09/12/2014|Bishop Sullivan|45|St. Anne's-Belfield|28
+09/12/2014|Blacksburg|16|Carroll County|0
+09/12/2014|Blessed Sacrament-Huguenot|46|Blue Ridge|30
+09/12/2014|Booker T. Washington|37|Wilson|0
+09/12/2014|Briar Woods|52|Loudoun County|14
+09/12/2014|Broad Run|55|Heritage(Lee)|6
+09/12/2014|Broadway|21|William Monroe|14
+09/12/2014|Brookville|28|Liberty(Bed)|7
+09/12/2014|Buckingham County|36|Amelia County|17
+09/12/2014|Buffalo Gap|48|Bath County|0
+09/12/2014|Cave Spring|34|Martinsville|7
+09/12/2014|Central(L)|48|Prince Edward|30
+09/12/2014|Central(Wise)|34|J.I. Burton|7
+09/12/2014|Centreville|54|West Potomac|0
+09/12/2014|Chantilly|7|James Madison|3
+09/12/2014|Chincoteague|36|Kenston Forest|26
+09/12/2014|Christiansburg|48|Bassett|32
+09/12/2014|Clarke County|55|Stonewall Jackson(Q)|8
+09/12/2014|Colonial Beach|54|Franklin|24
+09/12/2014|Colonial Heights|21|Park View(SH)|14
+09/12/2014|Cosby|35|Midlothian|7
+09/12/2014|Courtland|35|Louisa County|21
+09/12/2014|Covenant|50|Hargrave Military|26
+09/12/2014|Cox|38|Landstown|0
+09/12/2014|Culpeper County|28|Madison County|20
+09/12/2014|Cumberland|58|Rappahannock County|6
+09/12/2014|Dinwiddie|55|Caroline|0
+09/12/2014|Dominion|62|Freedom(LC)|0
+09/12/2014|East Hardy, WV|52|Craig County|0
+09/12/2014|East Rockingham|20|James River(B)|19
+09/12/2014|Eastern View|48|Orange|0
+09/12/2014|Essex|35|King William|0
+09/12/2014|Fairfax|38|W.T. Woodson|31
+09/12/2014|Falls Church|35|Thomas Jefferson(A)|13
+09/12/2014|Floyd County|44|Patrick County|0
+09/12/2014|Forest Park|33|Stonewall Jackson(M)|20
+09/12/2014|Fort Chiswell|41|Radford|40
+09/12/2014|Galax|38|Eastern Montgomery|35
+09/12/2014|Gar-Field|15|Osbourn|13
+09/12/2014|George Washington|31|E.C. Glass|13
+09/12/2014|Glenvar|15|Lord Botetourt|14
+09/12/2014|Goochland|27|Bluestone|3
+09/12/2014|Grafton|28|Jamestown|7
+09/12/2014|Great Bridge|41|Granby|0
+09/12/2014|Green Run|36|Tallwood|20
+09/12/2014|Greenbrier Christian|30|Broadwater|14
+09/12/2014|H.D. Woodson(DC)|34|Yorktown|21
+09/12/2014|Halifax County|42|Person, NC|29
+09/12/2014|Hampton Roads Generals|19|Quantico|0
+09/12/2014|Handley|48|Fauquier|6
+09/12/2014|Hanover|45|J.R. Tucker|13
+09/12/2014|Haysi|29|Clintwood|16
+09/12/2014|Henrico|41|Deep Run|0
+09/12/2014|Heritage(Lyn)|44|R.E. Lee(St)|13
+09/12/2014|Hermitage|56|Colonial Forge|41
+09/12/2014|Hidden Valley|16|Northside|6
+09/12/2014|Highland Springs|21|Meadowbrook|12
+09/12/2014|Honaker|48|Eastside|6
+09/12/2014|Hopewell|27|Powhatan|20
+09/12/2014|Hurley|66|Grundy|8
+09/12/2014|J.M. Bennett, MD|28|Nandua|20
+09/12/2014|James Monroe|38|Mountain View|13
+09/12/2014|James Wood|36|Warren County|0
+09/12/2014|Jefferson Forest|43|Appomattox|27
+09/12/2014|John Battle|26|Holston|21
+09/12/2014|John Champe|21|Potomac Falls|16
+09/12/2014|Kettle Run|55|Millbrook|24
+09/12/2014|L.C. Bird|82|George Wythe(R)|0
+09/12/2014|Lafayette|62|Bruton|27
+09/12/2014|Lake Taylor|46|Amherst County|7
+09/12/2014|Lancaster|32|Mathews|7
+09/12/2014|Lee-Davis|14|Mills Godwin|9
+09/12/2014|Liberty Christian|21|Bishop McNamara, MD|18
+09/12/2014|Magna Vista|55|Franklin County|21
+09/12/2014|Manchester|42|Huguenot|0
+09/12/2014|Marion|14|George Wythe(W)|6
+09/12/2014|Massaponax|35|Chancellor|3
+09/12/2014|Matoaca|35|Clover Hill|0
+09/12/2014|McLean|21|George Marshall|20
+09/12/2014|Monacan|14|James River(C)|7
+09/12/2014|Monticello|31|Fork Union|19
+09/12/2014|Nansemond River|30|Churchland|7
+09/12/2014|Narrows|43|Montcalm, WV|18
+09/12/2014|Norcom|27|Deep Creek|0
+09/12/2014|Norfolk Academy|31|Trinity Episcopal|29
+09/12/2014|North Stafford|14|Brooke Point|10
+09/12/2014|Northwood|32|Bland County|6
+09/12/2014|Nottoway|54|Randolph-Henry|13
+09/12/2014|Ocean Lakes|42|Kellam|3
+09/12/2014|Parry McCluer|42|Page County|14
+09/12/2014|Patrick Henry(GS)|53|Twin Springs|20
+09/12/2014|Patrick Henry(R)|35|Pulaski County|31
+09/12/2014|Patriot|49|Woodbridge|28
+09/12/2014|Paul VI|41|Potomac School|6
+09/12/2014|Phoebus|35|Warwick|17
+09/12/2014|Poquoson|14|Tabb|13
+09/12/2014|Potomac|20|Osbourn Park|14
+09/12/2014|Prince George|43|Thomas Jefferson(R)|26
+09/12/2014|Princess Anne|17|Kempsville|7
+09/12/2014|R.E. Lee(Sp)|20|Edison|17
+09/12/2014|Rappahannock|35|Middlesex|7
+09/12/2014|Richlands|40|Graham|0
+09/12/2014|Riverbend|46|King George|0
+09/12/2014|Riverheads|70|Nelson County|6
+09/12/2014|Roanoke Catholic|20|Fishburne Military|6
+09/12/2014|Robinson|19|Lake Braddock|17
+09/12/2014|Rural Retreat|9|Grayson|7
+09/12/2014|Rustburg|26|Alleghany|14
+09/12/2014|St. John Paul the Great|39|Randolph-Macon|0
+09/12/2014|St. John's Prep, MD|41|Massanutten Military|8
+09/12/2014|Salem|42|William Byrd|7
+09/12/2014|Salem(VB)|34|Bayside|15
+09/12/2014|Sherando|60|Washington, WV|7
+09/12/2014|Skyline|23|Brentsville District|20
+09/12/2014|Smithfield|35|Warhill|0
+09/12/2014|South County|53|Mount Vernon|6
+09/12/2014|Stafford|35|Albemarle|14
+09/12/2014|Stone Bridge|42|Langley|14
+09/12/2014|Sullivan South, TN|21|Gate City|0
+09/12/2014|Surry|62|King & Queen|0
+09/12/2014|Sussex Central|32|Charles City|0
+09/12/2014|Tazewell|56|Sullivan Central, TN|23
+09/12/2014|Tennessee, TN|51|Virginia|20
+09/12/2014|Thomas Dale|21|Varina|14
+09/12/2014|Tunstall|16|Dan River|12
+09/12/2014|Turner Ashby|35|Rockbridge County|31
+09/12/2014|Tuscarora|42|Loudoun Valley|7
+09/12/2014|Twin Valley|34|East Ridge, KY|18
+09/12/2014|Union|27|Sullivan North, TN|13
+09/12/2014|Wakefield|42|George Mason|0
+09/12/2014|Washington-Lee|34|South Lakes|21
+09/12/2014|Waynesboro|35|Stuarts Draft|10
+09/12/2014|West Point|40|Northampton|0
+09/12/2014|West Springfield|51|Herndon|28
+09/12/2014|Western Albemarle|35|Fort Defiance|0
+09/12/2014|Western Branch|55|Hickory|14
+09/12/2014|Westfield|45|Hayfield|33
+09/12/2014|William Campbell|24|Staunton River|21
+09/12/2014|Wilson Memorial|27|Spotswood|0
+09/12/2014|Woodside|49|Menchville|0
+09/12/2014|York|37|New Kent|6
+09/13/2014|Bishop Ireton|38|St. Albans, DC|6
+09/13/2014|Bishop O'Connell|27|St. Christopher's|10
+09/13/2014|Castlewood|16|Thomas Walker|6
+09/13/2014|Central Virginia HomeSchool|34|Maryland Christian, MD|7
+09/13/2014|Christchurch|30|North Cross|20
+09/13/2014|Episcopal|44|Flint Hill|7
+09/13/2014|Heritage(NN)|26|Hampton|21
+09/13/2014|Kecoughtan|42|Denbigh|7
+09/13/2014|Northern Virginia HomeSchool|14|Eastern Shore HomeSchool, DE|6
+09/13/2014|Oakton|24|T.C. Williams|7
+09/13/2014|Oscar Smith|61|Indian River|0
+09/13/2014|Riverbend|46|King George|0
+09/13/2014|St. Stephen's & St. Agnes|32|Mercersburg Academy, PA|0
