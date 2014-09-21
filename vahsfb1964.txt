@@ -1,0 +1,10 @@
+09/18/2014|Andrew Lewis|13|George Washington|6
+09/18/2014|Bluestone|7|Halifax County|0
+09/18/2014|James Blair|26|Northampton|6
+09/18/2014|Jonesville|32|Haysi|6
+09/18/2014|Mathews|47|Grange Hall|0
+09/18/2014|Midlothian|13|Goochland|6
+09/18/2014|Oscar Smith|14|Warwick|6
+09/18/2014|Pulaski|33|Fort Chiswell|0
+09/18/2014|Smithfield|18|Chuckatuck|7
+09/18/2014|Whaleyville|6|Poquoson|0
