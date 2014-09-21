@@ -480,6 +480,7 @@
 09/13/2014|Oscar Smith|61|Indian River|0
 09/13/2014|Riverbend|46|King George|0
 09/13/2014|St. Stephen's & St. Agnes|32|Mercersburg Academy, PA|0
+09/18/2014|Loudoun County|49|Park View(S)|0
 09/18/2014|Phoebus|50|Denbigh|0
 09/18/2014|Tabb|40|Smithfield|27
 09/18/2014|Warwick|27|Gloucester|21
@@ -531,7 +532,7 @@
 09/19/2014|Fort Chiswell|24|James River(B)|21
 09/19/2014|Franklin|64|Charles City|32
 09/19/2014|Freedom(LC)|30|George Marshall|27
-09/19/2014|Fuqua|63|Hampton Roads|39
+09/19/2014|Fuqua|63|Hampton Roads Academy|39
 09/19/2014|George Wythe(W)|52|Floyd County|26
 09/19/2014|Giles|62|Narrows|7
 09/19/2014|Glenvar|51|Grayson|0
@@ -615,7 +616,7 @@
 09/19/2014|Tazewell|40|Chilhowie|32
 09/19/2014|Tug Valley, WV|22|Haysi|14
 09/19/2014|Tunstall|23|Chatham|0
-09/19/2014|Tuscorara|40|Martinsburg, WV|21
+09/19/2014|Tuscarora|40|Martinsburg, WV|21
 09/19/2014|Twin Springs|12|Castlewood|6
 09/19/2014|Union|49|J.I. Burton|7
 09/19/2014|W.T. Woodson|30|West Potomac|20
