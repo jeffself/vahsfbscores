@@ -300,7 +300,7 @@
 09/05/2014|Woodbridge|34|Osbourn Park|7
 09/05/2014|Woodside|29|Hampton|28
 09/05/2014|Yorktown|45|Langley|13
-09/06/2014|Benedictine|49|Bishop Sullivan|13
+09/06/2014|Benedictine|49|Bishop Sullivan Catholic|13
 09/06/2014|Bishop O'Connell|54|Bishop Ireton|28
 09/06/2014|Blue Ridge|42|Hargrave Military|34
 09/06/2014|Central(L)|28|William Campbell|14
@@ -631,9 +631,13 @@
 09/19/2014|Woodgrove|32|John Champe|14
 09/19/2014|York|20|Warhill|2
 09/19/2014|Yorktown|27|Edison|15
+09/20/2014|Collegiate|27|Flint Hill|13
 09/20/2014|Bishop Ireton|26|Episcopal|24
+09/20/2014|Bishop O'Connell|34|Fork Union|27
 09/20/2014|Broadwater|20|Creswell, NC|2
 09/20/2014|Fredericksburg Christian|41|Randolph-Macon|14
+09/20/2014|St. John Paul the Great|56|Lutheran, MD|6
+09/20/2014|Woodberry Forest|13|Liberty Christian|8
 09/20/2014|Victory Christian|21|Quantico|13
 09/26/2014|Abingdon|36|Happy Valley, TN|7
 09/26/2014|Albemarle|42|Fluvanna|21
@@ -642,6 +646,7 @@
 09/26/2014|Armstrong|36|Glen Allen|21
 09/26/2014|Auburn|61|Montcalm, WV|0
 09/26/2014|Battlefield|25|Potomac|0
+09/26/2014|Benedictine|23|St. Christopher's|17
 09/26/2014|Blacksburg|42|Floyd County|0
 09/26/2014|Briar Woods|35|Woodgrove|14
 09/26/2014|Broad Run|38|Liberty(Beal)|35
@@ -654,6 +659,8 @@
 09/26/2014|Central(W)|29|George Mason|21
 09/26/2014|Centreville|31|West Springfield|0
 09/26/2014|Chantilly|20|Langley|7
+09/26/2014|Charlotte Christian, NC|10|Liberty Christian|0
+09/26/2014|Charlotte Latin, NC|56|Fork Union|42
 09/26/2014|Chatham|31|Gretna|20
 09/26/2014|Clarke County|30|Strasburg|14
 09/26/2014|Colonial Forge|35|Patrick Henry(R)|6
@@ -725,6 +732,7 @@
 09/26/2014|Mountain View|23|North Stafford|6
 09/26/2014|Nandua|32|Arcadia|6
 09/26/2014|Norcom|27|Wilson|6
+09/26/2014|Norfolk Academy|54|Hampton Roads Academy|6
 09/26/2014|Northside|40|Staunton River|17
 09/26/2014|Northumberland|61|Middlesex|0
 09/26/2014|Northwood|28|Chilhowie|12
@@ -734,6 +742,7 @@
 09/26/2014|Oscar Smith|48|Lakeland|7
 09/26/2014|Park View(SH)|36|Franklin|20
 09/26/2014|Parry McCluer|49|Roanoke Catholic|14
+09/26/2014|Paul VI|49|St. Albans, DC|14
 09/26/2014|Petersburg|40|Prince George|37
 09/26/2014|Phoebus|19|Hampton|8
 09/26/2014|Poquoson|12|York|9
@@ -748,6 +757,7 @@
 09/26/2014|Riverheads|28|Buffalo Gap|0
 09/26/2014|Robinson|56|Herndon|21
 09/26/2014|Rural Rretreat|36|Narrows|21
+09/26/2014|St. John Paul the Great|28|Brentsville District|9
 09/26/2014|Salem|49|Cave Spring|5
 09/26/2014|Salem(VB)|20|Cox|17
 09/26/2014|Sherando|38|Jefferson County, WV|14
@@ -779,6 +789,8 @@
 09/26/2014|Woodbridge|53|Osbourn|41
 09/26/2014|Woodside|56|Gloucester|10
 09/27/2014|Bethel|23|Heritage(NN)|20
+09/27/2014|Bishop Ireton|41|St. Stephen's & St. Agnes|17
+09/27/2014|Bishop O'Connell|21|Archbishop Carroll|0
 09/27/2014|Booker T. Washington|27|Granby|21
 09/27/2014|Broadwater|53|Kenston Forest|28
 09/27/2014|Chincoteague|45|Hampton Roads Generals|18
@@ -786,3 +798,5 @@
 09/27/2014|Fredericksburg Christian|50|Massanutten Military|6
 09/27/2014|Hermitage|42|Thomas Jefferson(R)|0
 09/27/2014|Kecoughtan|37|Menchville|0
+09/27/2014|Woodberry Forest|42|Flint Hill|7
+
