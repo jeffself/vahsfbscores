@@ -1,10 +1,20 @@
-09/18/2014|Andrew Lewis|13|George Washington|6
-09/18/2014|Bluestone|7|Halifax County|0
-09/18/2014|James Blair|26|Northampton|6
-09/18/2014|Jonesville|32|Haysi|6
-09/18/2014|Mathews|47|Grange Hall|0
-09/18/2014|Midlothian|13|Goochland|6
-09/18/2014|Oscar Smith|14|Warwick|6
-09/18/2014|Pulaski|33|Fort Chiswell|0
-09/18/2014|Smithfield|18|Chuckatuck|7
-09/18/2014|Whaleyville|6|Poquoson|0
+09/18/1964|Andrew Lewis|13|George Washington|6
+09/18/1964|Bluestone|7|Halifax County|0
+09/18/1964|James Blair|26|Northampton|6
+09/18/1964|Jonesville|32|Haysi|6
+09/18/1964|Mathews|47|Grange Hall|0
+09/18/1964|Midlothian|13|Goochland|6
+09/18/1964|Oscar Smith|14|Warwick|6
+09/18/1964|Pulaski|33|Fort Chiswell|0
+09/18/1964|Smithfield|18|Chuckatuck|7
+09/18/1964|Whaleyville|6|Poquoson|0
+09/25/1964|Emporia|33|Blackstone|0
+09/25/1964|Gate City|34|Pennington|6
+09/25/1964|George Wythe(R)|7|Manchester|2
+09/25/1964|Hillsville|34|Wytheville|7
+09/25/1964|James Blair|39|Gloucester|0
+09/25/1964|Luray|19|Page County|13
+09/25/1964|Marion|20|Richlands|13
+09/25/1964|Mathews|52|Washington & Lee|0
+09/25/1964|Orange|25|Madison|0
+09/25/1964|Virginia Beach|26|Suffolk|0

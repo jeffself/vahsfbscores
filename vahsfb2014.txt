@@ -144,7 +144,7 @@
 08/29/2014|William Fleming|63|Fluvanna|7
 08/29/2014|Wilson Memorial|47|Waynesboro|7
 08/29/2014|Windsor|34|West Point|28
-08/29/2014|Woodgrove|62|Freedom(LC)|0
+08/29/2014|Woodgrove|62|Freedom(SR)|0
 08/29/2014|Woodside|40|Granby|0
 08/30/2014|Christchurch|53|Blue Ridge|28
 08/30/2014|Covenant|41|Randolph-Macon|28
@@ -231,7 +231,7 @@
 09/05/2014|Liberty(Bed)|63|Rockbridge County|38
 09/05/2014|Liberty Christian|30|Brunswick|6
 09/05/2014|Lord Botetourt|48|Rustburg|0
-09/05/2014|Loudoun County|61|Freedom(LC)|0
+09/05/2014|Loudoun County|61|Freedom(SR)|0
 09/05/2014|Loudoun Valley|38|James Wood|0
 09/05/2014|Luray|25|Madison County|20
 09/05/2014|Magna Vista|42|Dan River|0
@@ -353,7 +353,7 @@
 09/12/2014|Culpeper County|28|Madison County|20
 09/12/2014|Cumberland|58|Rappahannock County|6
 09/12/2014|Dinwiddie|55|Caroline|0
-09/12/2014|Dominion|62|Freedom(LC)|0
+09/12/2014|Dominion|62|Freedom(SR)|0
 09/12/2014|East Hardy, WV|52|Craig County|0
 09/12/2014|East Rockingham|20|James River(B)|19
 09/12/2014|Eastern View|48|Orange|0
@@ -531,7 +531,7 @@
 09/19/2014|Fauquier|29|Millbrook|21
 09/19/2014|Fort Chiswell|24|James River(B)|21
 09/19/2014|Franklin|64|Charles City|32
-09/19/2014|Freedom(LC)|30|George Marshall|27
+09/19/2014|Freedom(SR)|30|George Marshall|27
 09/19/2014|Fuqua|63|Hampton Roads Academy|39
 09/19/2014|George Wythe(W)|52|Floyd County|26
 09/19/2014|Giles|62|Narrows|7
@@ -551,7 +551,7 @@
 09/19/2014|Honaker|27|Central(Wise)|20
 09/19/2014|Hylton|47|Osbourn Park|10
 09/19/2014|Indian River|19|Lakeland|16
-09/19/2014|Isle of Wight|40|Brunswick|0
+09/19/2014|Isle of Wight|40|Brunswick Academy|0
 09/19/2014|James Madison|34|Fairfax|14
 09/19/2014|James Monroe|53|Petersburg|42
 09/19/2014|James Wood|40|Strasburg|20
@@ -631,3 +631,158 @@
 09/19/2014|Woodgrove|32|John Champe|14
 09/19/2014|York|20|Warhill|2
 09/19/2014|Yorktown|27|Edison|15
+09/20/2014|Bishop Ireton|26|Episcopal|24
+09/20/2014|Broadwater|20|Creswell, NC|2
+09/20/2014|Fredericksburg Christian|41|Randolph-Macon|14
+09/20/2014|Victory Christian|21|Quantico|13
+09/26/2014|Abingdon|36|Happy Valley, TN|7
+09/26/2014|Albemarle|42|Fluvanna|21
+09/26/2014|Alleghany|40|Rockbridge County|6
+09/26/2014|Altavista|46|Appomattox|7
+09/26/2014|Armstrong|36|Glen Allen|21
+09/26/2014|Auburn|61|Montcalm, WV|0
+09/26/2014|Battlefield|25|Potomac|0
+09/26/2014|Blacksburg|42|Floyd County|0
+09/26/2014|Briar Woods|35|Woodgrove|14
+09/26/2014|Broad Run|38|Liberty(Beal)|35
+09/26/2014|Broadway|26|Turner Ashby|7
+09/26/2014|Brooke Point|20|Riverbend|19
+09/26/2014|Brunswick|48|Windsor|0
+09/26/2014|Brunswick Academy|40|Isle of Wight Academy|15
+09/26/2014|Castlewood|41|Rye Cove|0
+09/26/2014|Central(L)|55|Bluestone|14
+09/26/2014|Central(W)|29|George Mason|21
+09/26/2014|Centreville|31|West Springfield|0
+09/26/2014|Chantilly|20|Langley|7
+09/26/2014|Chatham|31|Gretna|20
+09/26/2014|Clarke County|30|Strasburg|14
+09/26/2014|Colonial Forge|35|Patrick Henry(R)|6
+09/26/2014|Courtland|50|Culpeper County|7
+09/26/2014|Dan River|34|Nelson County|0
+09/26/2014|Dinwiddie|56|Colonial Heights|0
+09/26/2014|Douglas Freeman|28|Deep Run|0
+09/26/2014|East Rockingham|49|Page County|8
+09/26/2014|Eastern Montgomery|36|Bland County|28
+09/26/2014|Eastern View|49|Spotsylvania|7
+09/26/2014|Eastside|56|Thomas Walker|32
+09/26/2014|Essex|55|Mathews|6
+09/26/2014|Falls Church|28|Yorktown|14
+09/26/2014|Fauquier|17|James Wood|15
+09/26/2014|First Colonial|22|Princess Anne|7
+09/26/2014|Forest Park|28|Osbourn Park|7
+09/26/2014|Gate City|38|Union|8
+09/26/2014|George Marshall|28|Thomas Jefferson(A)|14
+09/26/2014|George Washington|41|Halifax County|0
+09/26/2014|George Wythe(W)|28|Tazewell|20
+09/26/2014|Giles|55|Graham|25
+09/26/2014|Glenvar|42|Covington|7
+09/26/2014|Goochland|41|Buckingham County|27
+09/26/2014|Grafton|62|New Kent|12
+09/26/2014|Grassfield|27|Hickory|17
+09/26/2014|Green Run|14|Kellam|10
+09/26/2014|Handley|38|Washington, WV|0
+09/26/2014|Harrisonburg|28|Fort Defiance|27
+09/26/2014|Hayfield|49|Washington-Lee|20
+09/26/2014|Haysi|50|Grundy|0
+09/26/2014|Henrico|22|Atlee|20
+09/26/2014|Heritage(Lyn)|48|Amherst County|31
+09/26/2014|Hidden Valley|28|Christiansburg|9
+09/26/2014|Highland Springs|20|Hanover|0
+09/26/2014|Honaker|53|Twin Valley|7
+09/26/2014|Huguenot|32|George Wythe(R)|14
+09/26/2014|Hurley|31|Craig County|0
+09/26/2014|Hylton|66|Patriot|41
+09/26/2014|Indian River|43|Nansemond River|21
+09/26/2014|J.I. Burton|30|Twin Springs|18
+09/26/2014|James River(C)|44|Midlothian|0
+09/26/2014|Jefferson Forest|34|Brookville|14
+09/26/2014|John Battle|38|Patrick Henry(GS)|30
+09/26/2014|John Champe|48|Caroline|7
+09/26/2014|John Marshall|28|J.R. Tucker|14
+09/26/2014|John Paul the Great Catholic|28|Brentsville District|9
+09/26/2014|Kettle Run|27|Skyline|0
+09/26/2014|King George|35|Colonial Beach|34
+09/26/2014|Kings Fork|55|Great Bridge|19
+09/26/2014|L.C. Bird|42|Monacan|7
+09/26/2014|Lake Braddock|28|Annandale|17
+09/26/2014|Lake Taylor|48|Maury|0
+09/26/2014|Lancaster|58|Northampton|8
+09/26/2014|Lebanon|21|Central(Wise)|13
+09/26/2014|Lee|62|Sullivan North, TN|44
+09/26/2014|Liberty(Bed)|23|Rustburg|13
+09/26/2014|Loudoun Valley|56|Freedom(SR)|6
+09/26/2014|Louisa County|28|Charlottesville|14
+09/26/2014|Madison County|31|Manassas Park|24
+09/26/2014|Magna Vista|58|Tunstall|17
+09/26/2014|Manchester|47|Clover Hill|3
+09/26/2014|Marion|54|Holston|0
+09/26/2014|Martinsville|30|Patrick County|7
+09/26/2014|Massaponax|63|Franklin County|23
+09/26/2014|McLean|36|South Lakes|31
+09/26/2014|Meadowbrook|33|Matoaca|17
+09/26/2014|Millbrook|35|Chancellor|14
+09/26/2014|Mills Godwin|27|Patrick Henry(A)|5
+09/26/2014|Mountain View|23|North Stafford|6
+09/26/2014|Nandua|32|Arcadia|6
+09/26/2014|Norcom|27|Wilson|6
+09/26/2014|Northside|40|Staunton River|17
+09/26/2014|Northumberland|61|Middlesex|0
+09/26/2014|Northwood|28|Chilhowie|12
+09/26/2014|Norview|28|Churchland|21
+09/26/2014|Nottoway|21|Prince Edward|7
+09/26/2014|Ocean Lakes|56|Bayside|12
+09/26/2014|Oscar Smith|48|Lakeland|7
+09/26/2014|Park View(SH)|36|Franklin|20
+09/26/2014|Parry McCluer|49|Roanoke Catholic|14
+09/26/2014|Petersburg|40|Prince George|37
+09/26/2014|Phoebus|19|Hampton|8
+09/26/2014|Poquoson|12|York|9
+09/26/2014|Potomac Falls|35|Park View(S)|7
+09/26/2014|Powhatan|35|Monticello|14
+09/26/2014|Pulaski County|41|Carroll County|7
+09/26/2014|R.E. Lee(St)|54|Bath County|20
+09/26/2014|Radford|39|James River(B)|18
+09/26/2014|Randolph-Henry|44|Cumberland|15
+09/26/2014|Rappahannock|48|King & Queen|7
+09/26/2014|Richlands|45|Virginia|7
+09/26/2014|Riverheads|28|Buffalo Gap|0
+09/26/2014|Robinson|56|Herndon|21
+09/26/2014|Rural Rretreat|36|Narrows|21
+09/26/2014|Salem|49|Cave Spring|5
+09/26/2014|Salem(VB)|20|Cox|17
+09/26/2014|Sherando|38|Jefferson County, WV|14
+09/26/2014|Smithfield|56|Jamestown|6
+09/26/2014|South County|56|R.E. Lee(Sp)|6
+09/26/2014|Stone Bridge|28|James Madison|17
+09/26/2014|Stonewall Jackson(M)|43|Gar-Field|13
+09/26/2014|Stuart|21|Mount Vernon|10
+09/26/2014|Stuarts Draft|35|Stonewall Jackson(Q)|20
+09/26/2014|Surry|45|Greensville|14
+09/26/2014|Sussex Central|26|Southampton|20
+09/26/2014|Tallwood|26|Kempsville|6
+09/26/2014|Thomas Dale|54|Hopewell|14
+09/26/2014|Tuscarora|61|Heritage(Lee)|14
+09/26/2014|Varina|48|Lee-Davis|14
+09/26/2014|Victory Christian|18|Rappahannock County|9
+09/26/2014|W.T. Woodson|56|T.C. Williams|21
+09/26/2014|Wakefield|21|Edison|6
+09/26/2014|Warhill|20|Bruton|13
+09/26/2014|Washington & Lee|32|King William|14
+09/26/2014|Waynesboro|34|Spotswood|21
+09/26/2014|West Potomac|27|Oakton|20
+09/26/2014|Western Albemarle|48|Orange|0
+09/26/2014|Western Branch|42|Deep Creek|7
+09/26/2014|Westfield|36|Fairfax|0
+09/26/2014|William Fleming|20|William Byrd|7
+09/26/2014|William Monroe|28|Warren County|12
+09/26/2014|Wilson Memorial|30|Luray|0
+09/26/2014|Woodbridge|53|Osbourn|41
+09/26/2014|Woodside|56|Gloucester|10
+09/27/2014|Bethel|23|Heritage(NN)|20
+09/27/2014|Booker T. Washington|27|Granby|21
+09/27/2014|Broadwater|53|Kenston Forest|28
+09/27/2014|Chincoteague|45|Hampton Roads Generals|18
+09/27/2014|Episcopal|31|Collegiate|7
+09/27/2014|Fredericksburg Christian|50|Massanutten Military|6
+09/27/2014|Hermitage|42|Thomas Jefferson(R)|0
+09/27/2014|Kecoughtan|37|Menchville|0

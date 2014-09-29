@@ -1,0 +1,10 @@
+09/19/1969|Bristol, TN|0|John Battle|0
+09/19/1969|Broadway|52|Waynesboro|13
+09/19/1969|Brunswick|18|Crewe|0
+09/19/1969|Fries|6|Shawsville|0
+09/19/1969|Henrico|42|Varina|12
+09/19/1969|Lane|32|Highland Springs|20
+09/19/1969|Newport News|40|York|7
+09/19/1969|Osbourn|20|Brentsville|6
+09/19/1969|Radford|8|Dublin|0
+09/19/1969|Smithfield|67|Poquoson|8
