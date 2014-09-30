@@ -1,7 +1,7 @@
 08/22/2014|Norview|40|Huguenot|7
 08/22/2014|Menchville|28|Maury|7
 08/22/2014|Atlantic Shores Christian|54|Isle of Wight|14
-08/22/2014|Bishop Sullivan|49|Blessed Sacrament-Huguenot|3
+08/22/2014|Bishop Sullivan Catholic|49|Blessed Sacrament-Huguenot|3
 08/22/2014|Covenant|20|Portsmouth Christian|7
 08/22/2014|Fuqua|54|Brunswick Academy|7
 08/22/2014|Nansemond-Suffolk|66|North Cross|32
@@ -46,7 +46,7 @@
 08/29/2014|Bethel|46|Menchville|23
 08/29/2014|Bishop Ireton|46|Park View(S)|12
 08/29/2014|Bishop O'Connell|56|Paul VI|14
-08/29/2014|Bishop Sullivan|41|First Flight, NC|14
+08/29/2014|Bishop Sullivan Catholic|41|First Flight, NC|14
 08/29/2014|Bland County|40|Craig County|14
 08/29/2014|Bluefield, WV|76|Graham|48
 08/29/2014|Brentsville District|12|Manassas Park|7
@@ -326,7 +326,7 @@
 09/12/2014|Battlefield|31|Freedom(PW)|6
 09/12/2014|Benedictine|28|Collegiate|7
 09/12/2014|Bethel|25|Gloucester|14
-09/12/2014|Bishop Sullivan|45|St. Anne's-Belfield|28
+09/12/2014|Bishop Sullivan Catholic|45|St. Anne's-Belfield|28
 09/12/2014|Blacksburg|16|Carroll County|0
 09/12/2014|Blessed Sacrament-Huguenot|46|Blue Ridge|30
 09/12/2014|Booker T. Washington|37|Wilson|0
@@ -475,6 +475,7 @@
 09/13/2014|Episcopal|44|Flint Hill|7
 09/13/2014|Heritage(NN)|26|Hampton|21
 09/13/2014|Kecoughtan|42|Denbigh|7
+09/13/2014|Nansemond-Suffolk|43|Virginia Episcopal|14
 09/13/2014|Northern Virginia HomeSchool|14|Eastern Shore HomeSchool, DE|6
 09/13/2014|Oakton|24|T.C. Williams|7
 09/13/2014|Oscar Smith|61|Indian River|0
@@ -495,7 +496,7 @@
 09/19/2014|Battlefield|28|Gar-Field|7
 09/19/2014|Bayside|37|Tallwood|0
 09/19/2014|Benedictine|61|First Flight, NC|14
-09/19/2014|Bishop Sullivan|62|Nansemond-Suffolk|40
+09/19/2014|Bishop Sullivan Catholic|62|Nansemond-Suffolk|40
 09/19/2014|Blacksburg|36|Radford|22
 09/19/2014|Bland County|32|Holston|22
 09/19/2014|Blessed Sacrament-Huguenot|26|Kenston Forest|24
@@ -636,9 +637,11 @@
 09/20/2014|Bishop O'Connell|34|Fork Union|27
 09/20/2014|Broadwater|20|Creswell, NC|2
 09/20/2014|Fredericksburg Christian|41|Randolph-Macon|14
+09/20/2014|North Cross|56|Blue Ridge|16
 09/20/2014|St. John Paul the Great|56|Lutheran, MD|6
 09/20/2014|Woodberry Forest|13|Liberty Christian|8
 09/20/2014|Victory Christian|21|Quantico|13
+09/25/2014|Covenant|49|Blue Ridge|40
 09/26/2014|Abingdon|36|Happy Valley, TN|7
 09/26/2014|Albemarle|42|Fluvanna|21
 09/26/2014|Alleghany|40|Rockbridge County|6
@@ -653,7 +656,7 @@
 09/26/2014|Broadway|26|Turner Ashby|7
 09/26/2014|Brooke Point|20|Riverbend|19
 09/26/2014|Brunswick|48|Windsor|0
-09/26/2014|Brunswick Academy|40|Isle of Wight Academy|15
+09/26/2014|Brunswick Academy|40|Quantico|15
 09/26/2014|Castlewood|41|Rye Cove|0
 09/26/2014|Central(L)|55|Bluestone|14
 09/26/2014|Central(W)|29|George Mason|21
@@ -677,6 +680,7 @@
 09/26/2014|Fauquier|17|James Wood|15
 09/26/2014|First Colonial|22|Princess Anne|7
 09/26/2014|Forest Park|28|Osbourn Park|7
+09/26/2014|Fuqua|28|Isle of Wight|27
 09/26/2014|Gate City|38|Union|8
 09/26/2014|George Marshall|28|Thomas Jefferson(A)|14
 09/26/2014|George Washington|41|Halifax County|0
@@ -687,6 +691,7 @@
 09/26/2014|Grafton|62|New Kent|12
 09/26/2014|Grassfield|27|Hickory|17
 09/26/2014|Green Run|14|Kellam|10
+09/26/2014|Greenbrier Christian|41|Portsmouth Christian|0
 09/26/2014|Handley|38|Washington, WV|0
 09/26/2014|Harrisonburg|28|Fort Defiance|27
 09/26/2014|Hayfield|49|Washington-Lee|20
@@ -752,11 +757,13 @@
 09/26/2014|R.E. Lee(St)|54|Bath County|20
 09/26/2014|Radford|39|James River(B)|18
 09/26/2014|Randolph-Henry|44|Cumberland|15
+09/26/2014|Randolph-Macon|25|Hargrave Military|21
 09/26/2014|Rappahannock|48|King & Queen|7
 09/26/2014|Richlands|45|Virginia|7
 09/26/2014|Riverheads|28|Buffalo Gap|0
 09/26/2014|Robinson|56|Herndon|21
 09/26/2014|Rural Rretreat|36|Narrows|21
+09/26/2014|St. Anne's-Belfield|61|Nansemond-Suffolk|6
 09/26/2014|St. John Paul the Great|28|Brentsville District|9
 09/26/2014|Salem|49|Cave Spring|5
 09/26/2014|Salem(VB)|20|Cox|17
@@ -788,15 +795,18 @@
 09/26/2014|Wilson Memorial|30|Luray|0
 09/26/2014|Woodbridge|53|Osbourn|41
 09/26/2014|Woodside|56|Gloucester|10
+09/27/2014|Atlantic Shores Christian|61|Virginia Episcopal|13
 09/27/2014|Bethel|23|Heritage(NN)|20
 09/27/2014|Bishop Ireton|41|St. Stephen's & St. Agnes|17
 09/27/2014|Bishop O'Connell|21|Archbishop Carroll|0
 09/27/2014|Booker T. Washington|27|Granby|21
 09/27/2014|Broadwater|53|Kenston Forest|28
 09/27/2014|Chincoteague|45|Hampton Roads Generals|18
+09/27/2014|Christchurch|0|Trinity Episcopal|0
 09/27/2014|Episcopal|31|Collegiate|7
 09/27/2014|Fredericksburg Christian|50|Massanutten Military|6
 09/27/2014|Hermitage|42|Thomas Jefferson(R)|0
 09/27/2014|Kecoughtan|37|Menchville|0
+09/27/2014|Sidwell Friends, DC|32|Potomac School|14
 09/27/2014|Woodberry Forest|42|Flint Hill|7
 
