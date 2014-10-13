@@ -8,3 +8,13 @@
 09/19/1969|Osbourn|20|Brentsville|6
 09/19/1969|Radford|8|Dublin|0
 09/19/1969|Smithfield|67|Poquoson|8
+10/03/1969|Appalachia|14|Pound|9
+10/03/1969|Colonial Beach|34|Ladysmith|14
+10/03/1969|Dinwiddie|12|Amelia|8
+10/03/1969|Fieldale-Collinsville|53|Stuart|6
+10/03/1969|Fort Hunt|8|Edison|0
+10/03/1969|Gloucester|22|John Yeates|20
+10/03/1969|Hammond|27|Yorktown|7
+10/03/1969|Montevideo|34|Strasburg|6
+10/03/1969|Pembroke|12|Ferguson|6
+10/03/1969|Quantico|16|Brentsville District|14

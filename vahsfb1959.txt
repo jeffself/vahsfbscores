@@ -1,0 +1,11 @@
+10/09/1959|Cape Charles|44|Lord Baltimore, DE|0
+10/09/1959|Clifton Forge|13|Natural Bridge|6
+10/09/1959|Gloucester|34|Hampton|12
+10/09/1959|Oscar Smith|39|John F. Mosby|12
+10/09/1959|Peabody|25|Booker T. Washington|24
+10/09/1959|Pleasant Hill|19|New Kent|13
+10/09/1959|Rich Valley|7|St. Paul|0
+10/09/1959|Rock Hill|49|Cumberland|6
+10/09/1959|Stafford|39|Spotsylvania|7
+10/09/1959|Thomas Jefferson(R)|27|George Washington(A)|6
+10/09/1959|Varina|25|Powhatan|6
