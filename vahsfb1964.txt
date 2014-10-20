@@ -18,3 +18,14 @@
 09/25/1964|Mathews|52|Washington & Lee|0
 09/25/1964|Orange|25|Madison|0
 09/25/1964|Virginia Beach|26|Suffolk|0
+10/17/1964|Carver(Orange)|41|Walker Grant(Fredericksburg)|13
+10/17/1964|Cradock|20|Suffolk|0
+10/17/1964|Great Bridge|27|Warwick|6
+10/17/1964|Hermitage|10|John Marshall|0
+10/17/1964|James Monroe|33|Culpeper County|0
+10/17/1964|Norview|8|Deep Creek|6
+10/17/1964|Petersburg|7|Highland Springs|0
+10/17/1964|R.E. Lee(Sp)|52|McLean|0
+10/17/1964|Tappahannock|26|Middlesex|6
+10/17/1964|Thomas Edison|18|Groveton|7
+10/17/1964|William Fleming|13|Halifax County|7

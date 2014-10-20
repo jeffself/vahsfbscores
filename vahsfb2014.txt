@@ -1292,7 +1292,15 @@
 10/17/2014|York|40|Jamestown|10
 10/17/2014|Yorktown|44|Wakefield|21
 10/18/2014|Bethel|42|Warwick|7
+10/18/2014|Fredericksburg Christian|27|Sidwell Friends, DC|8
 10/18/2014|Gonzaga, DC|49|Bishop O'Connell|21
 10/18/2014|Lake Taylor|72|Booker T. Washington|18
+10/18/2014|Landon, MD|49|St. Stephen's & St. Agnes|14
+10/18/2014|Northern Valley Regional, NJ|40|St. John Paul the Great|22
+10/18/2014|Patrick Henry(A)|36|Thomas Jefferson(R)|6
+10/18/2014|Potomac School|21|Flint Hill|7
 10/18/2014|Randolph-Macon|33|Massanutten Military|6
+10/18/2014|St. Christopher's|31|Trinity Episcopal|17
 10/18/2014|Tabb|28|Bruton|0
+10/18/2014|Virginia Episcopal|24|Blue Ridge|14
+10/18/2014|Woodberry Forest|10|Benedictne|0
