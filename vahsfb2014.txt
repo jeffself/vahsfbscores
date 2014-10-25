@@ -1304,3 +1304,156 @@
 10/18/2014|Tabb|28|Bruton|0
 10/18/2014|Virginia Episcopal|24|Blue Ridge|14
 10/18/2014|Woodberry Forest|10|Benedictne|0
+10/23/2014|Hampton|49|Menchville|10
+10/23/2014|Lafayette|41|New Kent|7
+10/24/2014|Abingdon|37|Richlands|23
+10/24/2014|Altavista|55|Chatham|21
+10/24/2014|Amelia County|55|Randolph-Henry|20
+10/24/2014|Atlee|70|Armstrong|22
+10/24/2014|Bassett|35|Patrick County|6
+10/24/2014|Battlefield|28|Osbourn Park|10
+10/24/2014|Bethel|24|Denbigh|19
+10/24/2014|Bishop Sullivan Catholic|64|Atlantic Shores Christian|42
+10/24/2014|Blacksburg|28|Gretna|0
+10/24/2014|Briar Woods|63|Park View(S)|0
+10/24/2014|Broad Run|38|Potomac Falls|13
+10/24/2014|Broadway|17|R.E. Lee(St)|7
+10/24/2014|Brunswick|47|Sussex Central|0
+10/24/2014|Buffalo Gap|62|Page County|6
+10/24/2014|Centreville|35|Washington-Lee|7
+10/24/2014|Chancellor|29|Spotsylvania|14
+10/24/2014|Charles City|68|King & Queen|6
+10/24/2014|Christchurch|35|Hargrave Military|7
+10/24/2014|Christiansburg|41|Patrick Henry(R)|20
+10/24/2014|Churchland|21|Maury|7
+10/24/2014|Clarke County|48|Manassas Park|14
+10/24/2014|Clintwood|48|Twin Springs|8
+10/24/2014|Collegiate|35|Norfolk Academy|14
+10/24/2014|Colonial Beach|53|Northumberland|14
+10/24/2014|Colonial Forge|17|Mountain View|7
+10/24/2014|Courtland|48|King George|3
+10/24/2014|Cox|27|Green Run|24
+10/24/2014|Craig County|44|Bath County|37
+10/24/2014|Dan River|27|Appomattox|12
+10/24/2014|Dinwiddie|28|Hopewell|17
+10/24/2014|Douglas Freeman|7|J.R. Tucker|0
+10/24/2014|E.C. Glass|41|Amherst County|32
+10/24/2014|Episcopal|38|St. Stephen's & St. Agnes|12
+10/24/2014|Essex|42|Lancaster|14
+10/24/2014|Fairfax|28|George Marshall|3
+10/24/2014|Falls Church|42|Edison|6
+10/24/2014|Fauquier|14|Culpeper County|6
+10/24/2014|Fishburne Military|60|Victory Christian|0
+10/24/2014|Floyd County|45|Eastern Montgomery|22
+10/24/2014|Forest Park|23|Gar-Field|22
+10/24/2014|Fort Chiswell|29|Grayson County|7
+10/24/2014|Franklin|50|Greensville|12
+10/24/2014|Fredericksburg Christian|30|Greenbrier Christian|0
+10/24/2014|Fuqua|56|Chincoteague|50
+10/24/2014|Galax|49|Narrows|13
+10/24/2014|Gate City|33|John Battle|6
+10/24/2014|George Washington|62|Franklin County|7
+10/24/2014|George Wythe(W)|44|Patrick Henry(GS)|21
+10/24/2014|Giles|63|Radford|15
+10/24/2014|Glenvar|31|Auburn|0
+10/24/2014|Goochland|42|Cumberland|8
+10/24/2014|Grafton|31|Bruton|7
+10/24/2014|Graham|33|Bland County|12
+10/24/2014|Great Bridge|25|Grassfield|24
+10/24/2014|Hampton Roads Academy|34|Isle of Wight|18
+10/24/2014|Hancock, MD|53|Massanutten Military|18
+10/24/2014|Hanover|39|Lee-Davis|14
+10/24/2014|Harrisonburg|52|Turner Ashby|40
+10/24/2014|Hayfield|49|Mount Vernon|21
+10/24/2014|Haysi|49|Hurley|8
+10/24/2014|Hermitage|42|Mills Godwin|24
+10/24/2014|Hidden Valley|31|Pulaski County|7
+10/24/2014|Holston|35|Rural Retreat|34
+10/24/2014|Honaker|62|Castlewood|6
+10/24/2014|Hylton|33|Freedom(PW)|0
+10/24/2014|Indian River|40|Deep Creek|0
+10/24/2014|James Madison|40|McLean|0
+10/24/2014|James Monroe|56|Caroline|7
+10/24/2014|James River(B)|26|Greenbrier West, WV|21
+10/24/2014|James Wood|21|Millbrook|20
+10/24/2014|Jefferson Forest|49|Rustburg|20
+10/24/2014|John Champe|23|Loudoun County|20
+10/24/2014|Kecoughtan|44|Gloucester|14
+10/24/2014|Kellam|14|First Colonial|7
+10/24/2014|Kettle Run|52|Brentsville District|0
+10/24/2014|King William|85|Middlesex|0
+10/24/2014|L.C. Bird|60|Cosby|0
+10/24/2014|Lake Braddock|52|T.C. Williams|7
+10/24/2014|Lake Taylor|42|Wilson|12
+10/24/2014|Langley|48|Thomas Jefferson(A)|7
+10/24/2014|Lebanon|25|Virginia|10
+10/24/2014|Lee|40|Central(Wise)|14
+10/24/2014|Liberty(Bealeton)|41|Eastern View|34
+10/24/2014|Liberty(Bed)|41|Heritage(Lyn)|35
+10/24/2014|Lord Botetourt|37|William Fleming|7
+10/24/2014|Loudoun Valley|35|Heritage(LC)|7
+10/24/2014|Louisa County|57|Orange|17
+10/24/2014|Luray|21|Stuarts Draft|7
+10/24/2014|Magna Vista|78|Halifax County|21
+10/24/2014|Manchester|75|George Wythe(R)|0
+10/24/2014|Marion|42|Union|14
+10/24/2014|Massaponax|40|North Stafford|34
+10/24/2014|Matoaca|37|Prince George|28
+10/24/2014|Meadowbrook|55|Colonial Heights|0
+10/24/2014|Midlothian|36|Huguenot|16
+10/24/2014|Monacan|36|Clover Hill|7
+10/24/2014|Monticello|41|Albemarle|38
+10/24/2014|Nandua|15|Arcadia|13
+10/24/2014|Nansemond River|21|Hickory|7
+10/24/2014|Norcom|14|Booker T. Washington|13
+10/24/2014|Northside|28|William Byrd|7
+10/24/2014|Nottoway|39|Buckingham County|15
+10/24/2014|Oakton|7|Robinson|0
+10/24/2014|Ocean Lakes|58|Landstown|35
+10/24/2014|Osbourn|27|Stonewall Jackson(M)|26
+10/24/2014|Oscar Smith|42|Kings Fork|20
+10/24/2014|Parry McCluer|28|Covington|13
+10/24/2014|Patrick Henry(A)|33|John Marshall|13
+10/24/2014|Poquoson|28|Smithfield|25
+10/24/2014|Potomac|34|Woodbridge|27
+10/24/2014|Powhatan|56|Fluvanna|12
+10/24/2014|Prince Edward|49|Bluestone|7
+10/24/2014|Riverbend|42|Stafford|0
+10/24/2014|Riverheads|56|Stonewall Jackson(Q)|22
+10/24/2014|Roanoke Catholic|36|Blessed Sacrament-Huguenot|28
+10/24/2014|Salem|59|Carroll County|0
+10/24/2014|Skyline|35|Handley|28
+10/24/2014|South County|69|W.T. Woodson|6
+10/24/2014|Southampton|42|Windsor|16
+10/24/2014|St. John Paul the Great|52|Rappahannock County|26
+10/24/2014|St. Mary's Ryken, MD|34|Paul VI|7
+10/24/2014|Staunton River|41|Rockbridge County|6
+10/24/2014|Stone Bridge|50|South Lakes|7
+10/24/2014|Strasburg|36|Madison County|30
+10/24/2014|Tallwood|41|Princess Anne|8
+10/24/2014|Tazewell|38|Grundy|0
+10/24/2014|Thomas Dale|27|Petersburg|6
+10/24/2014|Thomas Jefferson(R)|20|Deep Run|17
+10/24/2014|Trinity Episcopal|48|Nansemond-Suffolk|36
+10/24/2014|Tunstall|35|Martinsville|10
+10/24/2014|Tuscarora|41|Freedom(SR)|3
+10/24/2014|Twin Valley|55|Rye Cove|14
+10/24/2014|Varina|42|Glen Allen|8
+10/24/2014|Wakefield|42|Stuart|0
+10/24/2014|Warhill|49|Jamestown|6
+10/24/2014|Warren County|24|Central(W)|7
+10/24/2014|Washington & Lee|24|Rappahannock|0
+10/24/2014|Waynesboro|55|Fort Defiance|8
+10/24/2014|West Point|47|Mathews|6
+10/24/2014|West Potomac|30|R.E. Lee(Sp)|14
+10/24/2014|West Springfield|35|Annandale|10
+10/24/2014|Western Albemarle|28|Charlottesville|7
+10/24/2014|Western Branch|35|Lakeland|16
+10/24/2014|Westfield|66|Herndon|28
+10/24/2014|William Campbell|34|Nelson County|0
+10/24/2014|William Monroe|35|George Mason|14
+10/24/2014|Wilson Memorial|42|East Rockingham|14
+10/24/2014|Woodgrove|35|Dominion|28
+10/24/2014|Woodside|35|Warwick|0
+10/24/2014|York|30|Tabb|20
+10/24/2014|Yorktown|17|Chantilly|14
