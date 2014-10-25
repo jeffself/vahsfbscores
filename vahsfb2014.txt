@@ -343,6 +343,7 @@
 09/12/2014|Central(Wise)|34|J.I. Burton|7
 09/12/2014|Centreville|54|West Potomac|0
 09/12/2014|Chantilly|7|James Madison|3
+09/12/2014|Chatham|37|Bartlett Yancey, NC|0
 09/12/2014|Chincoteague|36|Kenston Forest|26
 09/12/2014|Christiansburg|48|Bassett|32
 09/12/2014|Clarke County|55|Stonewall Jackson(Q)|8
@@ -640,6 +641,7 @@
 09/20/2014|Bishop Ireton|26|Episcopal|24
 09/20/2014|Bishop O'Connell|34|Fork Union|27
 09/20/2014|Broadwater|20|Creswell, NC|2
+09/20/2014|Eastern View|46|Handley|16
 09/20/2014|Fredericksburg Christian|41|Randolph-Macon|14
 09/20/2014|Grace Christian|20|Rappahannock County|19
 09/20/2014|North Cross|56|Blue Ridge|16
@@ -647,6 +649,7 @@
 09/20/2014|Woodberry Forest|13|Liberty Christian|8
 09/20/2014|Victory Christian|21|Quantico|13
 09/25/2014|Covenant|49|Blue Ridge|40
+09/25/2014|Lafayette|34|Tabb|3
 09/26/2014|Abingdon|36|Happy Valley, TN|7
 09/26/2014|Albemarle|42|Fluvanna|21
 09/26/2014|Alleghany|40|Rockbridge County|6
@@ -1086,6 +1089,7 @@
 10/10/2014|R.E. Lee(St)|24|Spotswood|14
 10/10/2014|Radford|34|Floyd County|6
 10/10/2014|Richlands|40|Tazewell|18
+10/10/2014|Riverheads|48|Page County|6
 10/10/2014|Roanoke Catholic|46|Quantico|14
 10/10/2014|Robinson|40|James Madison|21
 10/10/2014|St. Anne's-Belfield|64|Hargrave Military|6
@@ -1096,6 +1100,8 @@
 10/10/2014|Smithfield|49|New Kent|0
 10/10/2014|South County|64|T.C. Williams|12
 10/10/2014|South Lakes|49|Thomas Jefferson(A)|6
+10/10/2014|Southampton|44|Greensville|28
+10/10/2014|Southampton Academy|64|Northeast Academy, NC|0
 10/10/2014|Stone Bridge|42|McLean|19
 10/10/2014|Strasburg|30|George Mason|25
 10/10/2014|Surry|33|Windsor|0
@@ -1261,6 +1267,7 @@
 10/17/2014|Riverbend|37|North Stafford|14
 10/17/2014|Riverheads|16|Wilson Memorial|14
 10/17/2014|Roanoke Catholic|42|Fuqua|21
+10/17/2014|Rocky Mount Academy, NC|52|Southampton Academy|42
 10/17/2014|St. Anne's-Belfield|49|Covenant|7
 10/17/2014|Salem|58|Blacksburg|17
 10/17/2014|Salem(VB)|28|Princess Anne|0
@@ -1292,6 +1299,7 @@
 10/17/2014|York|40|Jamestown|10
 10/17/2014|Yorktown|44|Wakefield|21
 10/18/2014|Bethel|42|Warwick|7
+10/18/2014|Falls Church|49|Mount Vernon|20
 10/18/2014|Fredericksburg Christian|27|Sidwell Friends, DC|8
 10/18/2014|Gonzaga, DC|49|Bishop O'Connell|21
 10/18/2014|Lake Taylor|72|Booker T. Washington|18
@@ -1301,9 +1309,12 @@
 10/18/2014|Potomac School|21|Flint Hill|7
 10/18/2014|Randolph-Macon|33|Massanutten Military|6
 10/18/2014|St. Christopher's|31|Trinity Episcopal|17
+10/18/2014|Sherando|43|Handley|29
+10/18/2014|T.C. Williams|40|R.E. Lee(Sp)|38
 10/18/2014|Tabb|28|Bruton|0
 10/18/2014|Virginia Episcopal|24|Blue Ridge|14
 10/18/2014|Woodberry Forest|10|Benedictne|0
+10/20/2014|Spotswood|36|Harrisonburg|29
 10/23/2014|Hampton|49|Menchville|10
 10/23/2014|Lafayette|41|New Kent|7
 10/24/2014|Abingdon|37|Richlands|23
@@ -1315,7 +1326,7 @@
 10/24/2014|Bethel|24|Denbigh|19
 10/24/2014|Bishop Sullivan Catholic|64|Atlantic Shores Christian|42
 10/24/2014|Blacksburg|28|Gretna|0
-10/24/2014|Briar Woods|63|Park View(S)|0
+10/24/2014|Briar Woods|63|Park View(St)|0
 10/24/2014|Broad Run|38|Potomac Falls|13
 10/24/2014|Broadway|17|R.E. Lee(St)|7
 10/24/2014|Brunswick|47|Sussex Central|0
@@ -1346,7 +1357,7 @@
 10/24/2014|Fishburne Military|60|Victory Christian|0
 10/24/2014|Floyd County|45|Eastern Montgomery|22
 10/24/2014|Forest Park|23|Gar-Field|22
-10/24/2014|Fort Chiswell|29|Grayson County|7
+10/24/2014|Fort Chiswell|29|Grayson|7
 10/24/2014|Franklin|50|Greensville|12
 10/24/2014|Fredericksburg Christian|30|Greenbrier Christian|0
 10/24/2014|Fuqua|56|Chincoteague|50
@@ -1388,7 +1399,7 @@
 10/24/2014|Langley|48|Thomas Jefferson(A)|7
 10/24/2014|Lebanon|25|Virginia|10
 10/24/2014|Lee|40|Central(Wise)|14
-10/24/2014|Liberty(Bealeton)|41|Eastern View|34
+10/24/2014|Liberty(Beal)|41|Eastern View|34
 10/24/2014|Liberty(Bed)|41|Heritage(Lyn)|35
 10/24/2014|Lord Botetourt|37|William Fleming|7
 10/24/2014|Loudoun Valley|35|Heritage(LC)|7
