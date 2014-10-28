@@ -1391,6 +1391,7 @@
 10/24/2014|John Champe|23|Loudoun County|20
 10/24/2014|Kecoughtan|44|Gloucester|14
 10/24/2014|Kellam|14|First Colonial|7
+10/24/2014|Kenston Forest|42|Portsmouth Christian|6
 10/24/2014|Kettle Run|52|Brentsville District|0
 10/24/2014|King William|85|Middlesex|0
 10/24/2014|L.C. Bird|60|Cosby|0
@@ -1468,3 +1469,11 @@
 10/24/2014|Woodside|35|Warwick|0
 10/24/2014|York|30|Tabb|20
 10/24/2014|Yorktown|17|Chantilly|14
+10/25/2014|Bayside|34|Kempsville|0
+10/25/2014|Benedictine|48|Fork Union|7
+10/25/2014|Bishop Ireton|45|Potomac School|7
+10/25/2014|Blue Ridge|54|Randolph-Macon|18
+10/25/2014|Flint Hill|47|Maret, DC|7
+10/25/2014|North Cross|48|Covenant|28
+10/25/2014|St. Anne's-Belfield|43|Virginia Episcopal|14
+10/25/2014|Woodberry Forest|35|St. Christopher's|13
