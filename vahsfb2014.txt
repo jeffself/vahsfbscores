@@ -647,6 +647,7 @@
 09/20/2014|Grace Christian|20|Rappahannock County|19
 09/20/2014|North Cross|56|Blue Ridge|16
 09/20/2014|St. John Paul the Great|56|Lutheran, MD|6
+09/20/2014|St. Stephen's & St. Agnes|34|Georgetown Prep, MD|30
 09/20/2014|Woodberry Forest|13|Liberty Christian|8
 09/20/2014|Victory Christian|21|Quantico|13
 09/25/2014|Covenant|49|Blue Ridge|40
@@ -841,6 +842,7 @@
 10/02/2014|Patriot|43|Potomac|22
 10/02/2014|Potomac School|21|St. James, MD|18
 10/02/2014|Princess Anne|34|Landstown|26
+10/02/2014|St. Stephen's & St. Agnes|52|Friends, MD|22
 10/02/2014|Salem(VB)|34|First Colonial|7
 10/02/2014|Shelby Valley, KY|44|Grundy|0
 10/02/2014|Stonewall Jackson(M)|14|Freedom(PW)|12
@@ -971,11 +973,15 @@
 10/03/2014|William Byrd|34|Staunton River|14
 10/03/2014|Wilson|33|Granby|15
 10/03/2014|Wilson Memorial|62|Stonewall Jackson(Q)|0
+10/04/2014|Benedictine|42|Paul VI|14
 10/04/2014|Colonel Richardson, MD|12|Arcadia|8
 10/04/2014|Denbigh|27|Gloucester|13
+10/04/2014|Fredericksburg Christian|23|St. John Paul the Great|7
 10/04/2014|Hampton Roads Generals|29|Victory Christian|0
 10/04/2014|Kettle Run|27|Handley|13
 10/04/2014|Phoebus|42|Menchville|0
+10/04/2014|St. John's, DC|20|Bishop O'Connell|14
+10/04/2014|Virginia Episcopal|34|Hargrave Military|19
 10/09/2014|Colonial Beach|36|Rappahannock|0
 10/09/2014|Hampton|38|Denbigh|26
 10/09/2014|Tabb|35|Warhill|7
@@ -1142,6 +1148,7 @@
 10/11/2014|King & Queen|19|Mathews|8
 10/11/2014|Norfolk Academy|56|Nansemond-Suffolk|42
 10/11/2014|Potomac School|29|Maret, DC|13
+10/11/2014|St. John Paul the Great|33|Sidwell Friends, DC|30
 10/11/2014|Trinity Episcopal|66|Blue Ridge|22
 10/13/2014|Amelia County|62|Cumberland|0
 10/13/2014|George Wythe(W)|35|Northwood|6
@@ -1316,7 +1323,7 @@
 10/18/2014|T.C. Williams|40|R.E. Lee(Sp)|38
 10/18/2014|Tabb|28|Bruton|0
 10/18/2014|Virginia Episcopal|24|Blue Ridge|14
-10/18/2014|Woodberry Forest|10|Benedictne|0
+10/18/2014|Woodberry Forest|10|Benedictine|0
 10/20/2014|Spotswood|36|Harrisonburg|29
 10/23/2014|Hampton|49|Menchville|10
 10/23/2014|Lafayette|41|New Kent|7
@@ -1484,6 +1491,7 @@
 10/25/2014|Woodberry Forest|35|St. Christopher's|13
 10/27/2014|Surry|41|Park View(SH)|24
 10/30/2014|Clintwood|54|Eastside|6
+10/30/2014|Fredericksburg Christian|34|National Christian Academy, MD|16
 10/30/2014|Freedom(PW)|20|Gar-Field|16
 10/30/2014|Gloucester|28|Menchville|20
 10/30/2014|Hampton|35|Bethel|28
@@ -1494,6 +1502,7 @@
 10/30/2014|Lee|28|John Battle|6
 10/30/2014|Nandua|42|Northampton|6
 10/30/2014|Rappahannock|42|Northumberland|22
+10/30/2014|Riverdale Baptist, MD|21|Paul VI|7
 10/30/2014|Twin Springs|35|Thomas Walker|6
 10/31/2014|Abingdon|21|Tazewell|0
 10/31/2014|Altavista|34|Rustburg|0
@@ -1503,10 +1512,12 @@
 10/31/2014|Armstrong|22|Lee-Davis|21
 10/31/2014|Auburn|34|Eastern Montgomery|0
 10/31/2014|Bassett|17|Martinsville|7
+10/31/2014|Bishop Sullivan Catholic|48|Norfolk Academy|42
 10/31/2014|Blacksburg|35|Cave Spring|34
 10/31/2014|Broad Run|37|Woodgrove|34
 10/31/2014|Broadway|42|Harrisonburg|13
 10/31/2014|Buckingham County|58|Cumberland|14
+10/31/2014|Bullis, MD|31|Episcopal|17
 10/31/2014|Central(W)|20|Madison County|13
 10/31/2014|Centreville|49|Herndon|27
 10/31/2014|Chantilly|28|Robinson|9
@@ -1526,7 +1537,9 @@
 10/31/2014|Eastern View|42|Culpeper County|21
 10/31/2014|Edison|28|Stuart|0
 10/31/2014|Fauquier|35|Brentsville District|0
+10/31/2014|Fishburne Military|18|Covenant|14
 10/31/2014|Forest Park|40|Woodbridge|14
+10/31/2014|Fuqua|43|Broadwater|32
 10/31/2014|Franklin|56|Windsor|8
 10/31/2014|Galax|48|Bland County|8
 10/31/2014|Gate City|41|Central(Wise)|18
@@ -1554,6 +1567,7 @@
 10/31/2014|John Champe|31|Heritage(LC)|14
 10/31/2014|Kecoughtan|26|Phoebus|16
 10/31/2014|Kellam|16|Landstown|14
+10/31/2014|Kenston Forest|35|Roanoke Catholic|8
 10/31/2014|King George|40|Caroline|15
 10/31/2014|King William|49|West Point|6
 10/31/2014|Kings Fork|37|Hickory|14
@@ -1573,6 +1587,7 @@
 10/31/2014|Manchester|41|James River(C)|13
 10/31/2014|Marion|42|Virginia|7
 10/31/2014|Maryland School for the Deaf|66|Rappahannock County|6
+10/31/2014|Massanutten Military|28|Brunswick Academy|14
 10/31/2014|Mathews|28|Charles City|21
 10/31/2014|Matoaca|73|Hopewell|13
 10/31/2014|McLean|49|Thomas Jefferson(A)|0
@@ -1580,11 +1595,13 @@
 10/31/2014|Mills Godwin|23|J.R. Tucker|12
 10/31/2014|Monacan|29|Midlothian|0
 10/31/2014|Monticello|55|Orange|34
+10/31/2014|Nansemond-Suffolk|76|Hampton Roads Academy|20
 10/31/2014|New Kent|28|Bruton|26
 10/31/2014|North Stafford|2|Brooke Point|0
 10/31/2014|Norview|28|Booker T. Washington|13
 10/31/2014|Nottoway|35|Central(L)|21
 10/31/2014|Oscar Smith|37|Great Bridge|21
+10/31/2014|Our Lady of Good Counsel, MD|16|Bishop O'Connell|14
 10/31/2014|Parry McCluer|42|Bath County|0
 10/31/2014|Patrick Henry(A)|42|Deep Run|27
 10/31/2014|Patrick Henry(GS)|40|Chilhowie|14
@@ -1599,6 +1616,7 @@
 10/31/2014|Riverbend|35|Mountain Valley|21
 10/31/2014|Riverheads|49|Stuarts Draft|7
 10/31/2014|Rural Retreat|33|Northwood|22
+10/31/2014|St. Anne's-Belfield|45|Blue Ridge|6
 10/31/2014|Salem|51|Hidden Valley|24
 10/31/2014|Salem(VB)|47|Tallwood|7
 10/31/2014|Sherando|28|Skyline|19
@@ -1619,14 +1637,24 @@
 10/31/2014|William Monroe|29|Manassas Park|6
 10/31/2014|Wilson|14|Churchland|9
 10/31/2014|Wilson Memorial|56|Page County|8
+10/31/2014|Woodberry Forest|42|Fork Union|13
 10/31/2014|Woodside|50|Denbigh|14
 10/31/2014|York|42|Smithfield|28
 10/31/2014|Yorktown|28|Mount Vernon|21
+11/01/2014|Benedictine|35|Liberty Christian|19
 11/01/2014|Brunswick|21|Surry|20
+11/01/2014|Christchurch|50|Virginia Episcopal|20
 11/01/2014|Douglas Freeman|27|Thomas Jefferson(R)|0
 11/01/2014|Essex|28|Washington & Lee|7
 11/01/2014|Handley|56|Milbrook|38
 11/01/2014|Heritage(NN)|43|Warwick|6
+11/01/2014|North Cross|53|Hargrave Military|0
 11/01/2014|Ocean Lakes|59|Princess Anne|8
 11/01/2014|Poquoson|26|Grafton|19
+11/01/2014|Randolph-Macon|47|Potomac School|23
+11/01/2014|St. Christopher's|17|Collegiate|6
+11/01/2014|St. John Paul the Great|35|Bishop Ireton|28
+11/01/2014|St. Stephen's & St. Agnes|28|St. Albans, DC|9
+11/01/2014|Sidwell Friends, DC|58|Flint Hill|45
+11/01/2014|Trinity Episcopal|56|Blessed Sacrament-Huguenot|7
 11/01/2014|West Springfield|47|T.C. Williams|14
