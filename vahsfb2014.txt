@@ -1646,7 +1646,7 @@
 11/01/2014|Christchurch|50|Virginia Episcopal|20
 11/01/2014|Douglas Freeman|27|Thomas Jefferson(R)|0
 11/01/2014|Essex|28|Washington & Lee|7
-11/01/2014|Handley|56|Milbrook|38
+11/01/2014|Handley|56|Millbrook|38
 11/01/2014|Heritage(NN)|43|Warwick|6
 11/01/2014|North Cross|53|Hargrave Military|0
 11/01/2014|Ocean Lakes|59|Princess Anne|8
