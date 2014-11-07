@@ -1658,3 +1658,7 @@
 11/01/2014|Sidwell Friends, DC|58|Flint Hill|45
 11/01/2014|Trinity Episcopal|56|Blessed Sacrament-Huguenot|7
 11/01/2014|West Springfield|47|T.C. Williams|14
+11/03/2014|J.I. Burton|50|Rye Cove|6
+11/06/2014|Heritage(Lyn)|41|Nottoway|35
+11/06/2014|Mathews|25|Middlesex|13
+11/06/2014|Richlands|39|Grundy|14

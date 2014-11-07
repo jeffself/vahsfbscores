@@ -18,3 +18,13 @@
 10/03/1969|Montevideo|34|Strasburg|6
 10/03/1969|Pembroke|12|Ferguson|6
 10/03/1969|Quantico|16|Brentsville District|14
+10/31/1969|Bowling Green|16|King George|12
+10/31/1969|Dublin|36|Carroll County|34
+10/31/1969|Gar-Field|57|Lackey, MD|28
+10/31/1969|Hammond|9|Wakefield|6
+10/31/1969|Hampton Roads Academy|34|Lancaster|6
+10/31/1969|James Blair|38|Ferguson|0
+10/31/1969|Lane|56|George Wythe(R)|6
+10/31/1969|Smithfield|73|Franklin|0
+10/31/1969|Spotsylvania|40|George Mason|0
+10/31/1969|Western Branch|34|Southampton|0
